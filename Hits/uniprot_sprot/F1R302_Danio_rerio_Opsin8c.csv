@@ -1,0 +1,359 @@
+sp|Q6U736|OPN5_HUMAN	sp|Q6U736|OPN5_HUMAN Opsin-5 OS=Homo sapiens OX=9606 GN=OPN5 PE=1 SV=3	2.18e-50
+sp|Q6VZZ7|OPN5_MOUSE	sp|Q6VZZ7|OPN5_MOUSE Opsin-5 OS=Mus musculus OX=10090 GN=Opn5 PE=1 SV=1	3.17e-48
+sp|P09241|OPSD_ENTDO	sp|P09241|OPSD_ENTDO Rhodopsin OS=Enteroctopus dofleini OX=267067 GN=RHO PE=2 SV=1	5.34e-34
+sp|O15974|OPSD2_MIZYE	sp|O15974|OPSD2_MIZYE Rhodopsin, G0-coupled OS=Mizuhopecten yessoensis OX=6573 GN=SCOP2 PE=1 SV=1	1.12e-33
+sp|O57422|OPN4B_XENLA	sp|O57422|OPN4B_XENLA Melanopsin-B OS=Xenopus laevis OX=8355 GN=opn4b PE=2 SV=1	1.69e-30
+sp|O15973|OPSD1_MIZYE	sp|O15973|OPSD1_MIZYE Rhodopsin, GQ-coupled OS=Mizuhopecten yessoensis OX=6573 GN=SCOP1 PE=1 SV=1	1.12e-29
+sp|P51476|OPSP_COLLI	sp|P51476|OPSP_COLLI Pinopsin OS=Columba livia OX=8932 PE=1 SV=1	2.41e-29
+sp|Q7T3Q7|OPSO_RUTRU	sp|Q7T3Q7|OPSO_RUTRU Opsin-VA OS=Rutilus rutilus OX=48668 PE=2 SV=1	3.62e-29
+sp|Q17292|OPSD_CAMAT	sp|Q17292|OPSD_CAMAT Rhodopsin OS=Camponotus atriceps OX=104420 PE=2 SV=1	4.37e-29
+sp|Q4U4D2|OPN4_PODSI	sp|Q4U4D2|OPN4_PODSI Melanopsin OS=Podarcis siculus OX=65484 GN=OPN4 PE=2 SV=2	6.05e-27
+sp|Q17296|OPSD_CATBO	sp|Q17296|OPSD_CATBO Rhodopsin OS=Cataglyphis bombycinus OX=72790 PE=2 SV=1	7.66e-27
+sp|P28683|OPSG_CHICK	sp|P28683|OPSG_CHICK Green-sensitive opsin OS=Gallus gallus OX=9031 GN=PRA1 PE=1 SV=1	1.26e-26
+sp|P79807|OPSD_MYRVI	sp|P79807|OPSD_MYRVI Rhodopsin (Fragment) OS=Myripristis violacea OX=47701 GN=rho PE=2 SV=1	2.38e-26
+sp|O14718|OPSX_HUMAN	sp|O14718|OPSX_HUMAN Visual pigment-like receptor peropsin OS=Homo sapiens OX=9606 GN=RRH PE=1 SV=1	4.85e-26
+sp|O42266|OPSP_ICTPU	sp|O42266|OPSP_ICTPU Parapinopsin OS=Ictalurus punctatus OX=7998 PE=2 SV=1	6.45e-26
+sp|P51475|OPSP_CHICK	sp|P51475|OPSP_CHICK Pinopsin OS=Gallus gallus OX=9031 PE=1 SV=1	6.97e-26
+sp|P79902|OPSD_SARPU	sp|P79902|OPSD_SARPU Rhodopsin (Fragment) OS=Sargocentron punctatissimum OX=47711 GN=rho PE=2 SV=1	9.33e-26
+sp|Q8HY69|OPSD_SMICR	sp|Q8HY69|OPSD_SMICR Rhodopsin OS=Sminthopsis crassicaudata OX=9301 GN=RHO PE=2 SV=2	1.04e-25
+sp|Q804X9|OPN4A_GADMO	sp|Q804X9|OPN4A_GADMO Melanopsin-A OS=Gadus morhua OX=8049 GN=opn4a PE=2 SV=1	1.32e-25
+sp|P35362|OPSD_SPHSP	sp|P35362|OPSD_SPHSP Rhodopsin OS=Sphodromantis sp. OX=27433 PE=2 SV=1	1.52e-25
+sp|O13018|OPSO_SALSA	sp|O13018|OPSO_SALSA Vertebrate ancient opsin OS=Salmo salar OX=8030 PE=1 SV=1	1.91e-25
+sp|P79808|OPSD_NEOAR	sp|P79808|OPSD_NEOAR Rhodopsin (Fragment) OS=Neoniphon argenteus OX=47704 GN=rho PE=2 SV=1	2.47e-25
+sp|P24603|OPSD_LOLFO	sp|P24603|OPSD_LOLFO Rhodopsin OS=Loligo forbesii OX=6618 GN=RHO PE=2 SV=1	2.63e-25
+sp|Q9UHM6|OPN4_HUMAN	sp|Q9UHM6|OPN4_HUMAN Melanopsin OS=Homo sapiens OX=9606 GN=OPN4 PE=1 SV=1	3.90e-25
+sp|Q17053|OPSD_APIME	sp|Q17053|OPSD_APIME Rhodopsin, long-wavelength OS=Apis mellifera OX=7460 PE=1 SV=1	6.64e-25
+sp|Q804Q2|OPN4B_GADMO	sp|Q804Q2|OPN4B_GADMO Melanopsin-B OS=Gadus morhua OX=8049 GN=opn4b PE=2 SV=1	7.84e-25
+sp|P79809|OPSD_NEOAU	sp|P79809|OPSD_NEOAU Rhodopsin (Fragment) OS=Neoniphon aurolineatus OX=47705 GN=rho PE=2 SV=1	9.37e-25
+sp|Q5XXP2|OPN4_PHOSU	sp|Q5XXP2|OPN4_PHOSU Melanopsin OS=Phodopus sungorus OX=10044 GN=OPN4 PE=2 SV=1	1.21e-24
+sp|Q5YKK9|OPN4_FELCA	sp|Q5YKK9|OPN4_FELCA Melanopsin OS=Felis catus OX=9685 GN=OPN4 PE=2 SV=1	1.34e-24
+sp|Q9YGZ4|OPSD_DICLA	sp|Q9YGZ4|OPSD_DICLA Rhodopsin OS=Dicentrarchus labrax OX=13489 GN=rho PE=1 SV=1	1.42e-24
+sp|Q9YGZ6|OPSD_CHEAU	sp|Q9YGZ6|OPSD_CHEAU Rhodopsin OS=Chelon auratus OX=48191 GN=rho PE=2 SV=1	1.76e-24
+sp|Q9W6A6|OPSG4_DANRE	sp|Q9W6A6|OPSG4_DANRE Green-sensitive opsin-4 OS=Danio rerio OX=7955 GN=opn1mw4 PE=1 SV=2	2.11e-24
+sp|P79911|OPSD_SARTI	sp|P79911|OPSD_SARTI Rhodopsin (Fragment) OS=Sargocentron tiere OX=47713 GN=rho PE=2 SV=1	2.13e-24
+sp|P79903|OPSD_SARSP	sp|P79903|OPSD_SARSP Rhodopsin (Fragment) OS=Sargocentron spiniferum OX=47712 GN=rho PE=2 SV=1	2.52e-24
+sp|P79901|OPSD_SARMI	sp|P79901|OPSD_SARMI Rhodopsin (Fragment) OS=Sargocentron microstoma OX=47710 GN=rho PE=2 SV=1	2.53e-24
+sp|P31355|OPSD_LITPI	sp|P31355|OPSD_LITPI Rhodopsin OS=Lithobates pipiens OX=8404 GN=RHO PE=1 SV=1	2.93e-24
+sp|P35357|OPSB_GEKGE	sp|P35357|OPSB_GEKGE Blue-sensitive opsin P467 OS=Gekko gecko OX=36310 PE=1 SV=1	3.35e-24
+sp|P79812|OPSD_NEOSA	sp|P79812|OPSD_NEOSA Rhodopsin OS=Neoniphon sammara OX=47706 GN=rho PE=2 SV=1	3.63e-24
+sp|P51470|OPSD_LITCT	sp|P51470|OPSD_LITCT Rhodopsin OS=Lithobates catesbeianus OX=8400 GN=RHO PE=2 SV=1	4.10e-24
+sp|P56516|OPSD_RANTE	sp|P56516|OPSD_RANTE Rhodopsin OS=Rana temporaria OX=8407 GN=RHO PE=2 SV=1	5.84e-24
+sp|Q9YGZ1|OPSD_ATHBO	sp|Q9YGZ1|OPSD_ATHBO Rhodopsin OS=Atherina boyeri OX=87785 GN=rho PE=2 SV=1	5.84e-24
+sp|P32311|OPSG1_CARAU	sp|P32311|OPSG1_CARAU Green-sensitive opsin-1 OS=Carassius auratus OX=7957 PE=1 SV=1	6.06e-24
+sp|P28682|OPSB_CHICK	sp|P28682|OPSB_CHICK Blue-sensitive opsin OS=Gallus gallus OX=9031 PE=1 SV=1	7.03e-24
+sp|P87369|OPSD_ORYLA	sp|P87369|OPSD_ORYLA Rhodopsin OS=Oryzias latipes OX=8090 GN=rho PE=1 SV=1	7.04e-24
+sp|Q95YI3|OPSCE_BOMMO	sp|Q95YI3|OPSCE_BOMMO Ceropsin OS=Bombyx mori OX=7091 GN=Bcop PE=1 SV=1	8.44e-24
+sp|P79798|OPSD_MYRBE	sp|P79798|OPSD_MYRBE Rhodopsin (Fragment) OS=Myripristis berndti OX=47700 GN=rho PE=2 SV=1	1.09e-23
+sp|P79898|OPSD_SARDI	sp|P79898|OPSD_SARDI Rhodopsin OS=Sargocentron diadema OX=47709 GN=rho PE=2 SV=1	1.13e-23
+sp|P79914|OPSD_SARXA	sp|P79914|OPSD_SARXA Rhodopsin (Fragment) OS=Sargocentron xantherythrum OX=47708 GN=rho PE=2 SV=1	1.15e-23
+sp|P02699|OPSD_BOVIN	sp|P02699|OPSD_BOVIN Rhodopsin OS=Bos taurus OX=9913 GN=RHO PE=1 SV=1	1.25e-23
+sp|P51471|OPSB_ANOCA	sp|P51471|OPSB_ANOCA Blue-sensitive opsin OS=Anolis carolinensis OX=28377 PE=1 SV=1	1.25e-23
+sp|Q9YGZ9|OPSD_MUGCE	sp|Q9YGZ9|OPSD_MUGCE Rhodopsin OS=Mugil cephalus OX=48193 GN=rho PE=1 SV=1	1.38e-23
+sp|Q9YGZ3|OPSD_SALPV	sp|Q9YGZ3|OPSD_SALPV Rhodopsin OS=Salaria pavo OX=152553 GN=rho PE=2 SV=1	1.52e-23
+sp|P56515|OPSD_RHIMB	sp|P56515|OPSD_RHIMB Rhodopsin OS=Rhinella marina OX=8386 GN=RHO PE=2 SV=1	1.52e-23
+sp|Q8R456|OPN4_RAT	sp|Q8R456|OPN4_RAT Melanopsin OS=Rattus norvegicus OX=10116 GN=Opn4 PE=2 SV=1	1.61e-23
+sp|O16005|OPSD_SEPOF	sp|O16005|OPSD_SEPOF Rhodopsin OS=Sepia officinalis OX=6610 GN=RHO PE=2 SV=1	1.89e-23
+sp|O02464|OPS1_MANSE	sp|O02464|OPS1_MANSE Opsin-1 OS=Manduca sexta OX=7130 GN=OP1 PE=1 SV=2	1.99e-23
+sp|Q9H1Y3|OPN3_HUMAN	sp|Q9H1Y3|OPN3_HUMAN Opsin-3 OS=Homo sapiens OX=9606 GN=OPN3 PE=1 SV=1	3.23e-23
+sp|Q9QXZ9|OPN4_MOUSE	sp|Q9QXZ9|OPN4_MOUSE Melanopsin OS=Mus musculus OX=10090 GN=Opn4 PE=1 SV=1	3.53e-23
+sp|O42490|OPSP_PETMA	sp|O42490|OPSP_PETMA Pineal opsin OS=Petromyzon marinus OX=7757 PE=1 SV=1	4.15e-23
+sp|Q9WUK7|OPN3_MOUSE	sp|Q9WUK7|OPN3_MOUSE Opsin-3 OS=Mus musculus OX=10090 GN=Opn3 PE=1 SV=1	4.35e-23
+sp|Q9YH00|OPSD_LITMO	sp|Q9YH00|OPSD_LITMO Rhodopsin OS=Lithognathus mormyrus OX=50591 GN=rho PE=2 SV=1	4.49e-23
+sp|P79756|OPSD_GAMAF	sp|P79756|OPSD_GAMAF Rhodopsin OS=Gambusia affinis OX=33528 GN=rho PE=1 SV=1	4.59e-23
+sp|O42604|OPSD_ZEUFA	sp|O42604|OPSD_ZEUFA Rhodopsin OS=Zeus faber OX=64108 GN=rho PE=1 SV=1	4.92e-23
+sp|Q9YGZ8|OPSD_CHELB	sp|Q9YGZ8|OPSD_CHELB Rhodopsin OS=Chelon labrosus OX=48171 GN=rho PE=2 SV=1	6.64e-23
+sp|P49912|OPSD_RABIT	sp|P49912|OPSD_RABIT Rhodopsin OS=Oryctolagus cuniculus OX=9986 GN=RHO PE=2 SV=1	7.54e-23
+sp|O01668|OPS6_DROME	sp|O01668|OPS6_DROME Opsin Rh6 OS=Drosophila melanogaster OX=7227 GN=Rh6 PE=2 SV=1	8.17e-23
+sp|O35214|OPSX_MOUSE	sp|O35214|OPSX_MOUSE Visual pigment-like receptor peropsin OS=Mus musculus OX=10090 GN=Rrh PE=1 SV=1	8.66e-23
+sp|Q17094|OPSD_ALLSU	sp|Q17094|OPSD_ALLSU Rhodopsin (Fragment) OS=Alloteuthis subulata OX=54069 GN=RHO PE=3 SV=1	9.16e-23
+sp|Q1JPS6|OPN4L_DANRE	sp|Q1JPS6|OPN4L_DANRE Melanopsin-like OS=Danio rerio OX=7955 GN=opn4l PE=2 SV=1	1.01e-22
+sp|Q9YGZ7|OPSD_LIZSA	sp|Q9YGZ7|OPSD_LIZSA Rhodopsin OS=Liza saliens OX=48192 GN=rho PE=2 SV=1	1.07e-22
+sp|Q2KNE5|OPN4A_DANRE	sp|Q2KNE5|OPN4A_DANRE Melanopsin-A OS=Danio rerio OX=7955 GN=opn4a PE=2 SV=3	1.08e-22
+sp|Q28886|OPSD_MACFA	sp|Q28886|OPSD_MACFA Rhodopsin OS=Macaca fascicularis OX=9541 GN=RHO PE=2 SV=1	1.30e-22
+sp|O18914|OPSR_CANLF	sp|O18914|OPSR_CANLF Long-wave-sensitive opsin 1 OS=Canis lupus familiaris OX=9615 GN=OPN1LW PE=2 SV=2	1.81e-22
+sp|Q95KU1|OPSD_FELCA	sp|Q95KU1|OPSD_FELCA Rhodopsin OS=Felis catus OX=9685 GN=RHO PE=3 SV=1	1.99e-22
+sp|P32312|OPSG2_CARAU	sp|P32312|OPSG2_CARAU Green-sensitive opsin-2 OS=Carassius auratus OX=7957 PE=1 SV=1	2.29e-22
+sp|O42268|OPSD_ICTPU	sp|O42268|OPSD_ICTPU Rhodopsin (Fragment) OS=Ictalurus punctatus OX=7998 GN=rho PE=2 SV=1	2.34e-22
+sp|Q9YH05|OPSD_DIPAN	sp|Q9YH05|OPSD_DIPAN Rhodopsin OS=Diplodus annularis OX=48913 GN=rho PE=2 SV=1	2.66e-22
+sp|P29403|OPSD_XENLA	sp|P29403|OPSD_XENLA Rhodopsin OS=Xenopus laevis OX=8355 GN=rho PE=1 SV=1	2.72e-22
+sp|Q9YH04|OPSD_DIPVU	sp|Q9YH04|OPSD_DIPVU Rhodopsin OS=Diplodus vulgaris OX=87756 GN=rho PE=2 SV=1	3.20e-22
+sp|Q90245|OPSD_AMBTI	sp|Q90245|OPSD_AMBTI Rhodopsin OS=Ambystoma tigrinum OX=8305 GN=RHO PE=2 SV=1	3.21e-22
+sp|O18910|OPSG_RABIT	sp|O18910|OPSG_RABIT Medium-wave-sensitive opsin 1 OS=Oryctolagus cuniculus OX=9986 GN=OPN1MW PE=1 SV=2	3.34e-22
+sp|P08099|OPS2_DROME	sp|P08099|OPS2_DROME Opsin Rh2 OS=Drosophila melanogaster OX=7227 GN=Rh2 PE=1 SV=1	3.53e-22
+sp|P79848|OPSD_POERE	sp|P79848|OPSD_POERE Rhodopsin OS=Poecilia reticulata OX=8081 GN=rho PE=2 SV=1	5.28e-22
+sp|Q6XL69|OPN4_RUTRU	sp|Q6XL69|OPN4_RUTRU Melanopsin OS=Rutilus rutilus OX=48668 GN=opn4 PE=2 SV=1	5.55e-22
+sp|O18912|OPSR_HORSE	sp|O18912|OPSR_HORSE Long-wave-sensitive opsin 1 OS=Equus caballus OX=9796 GN=OPN1LW PE=1 SV=2	5.93e-22
+sp|P28679|OPS2_DROPS	sp|P28679|OPS2_DROPS Opsin Rh2 OS=Drosophila pseudoobscura pseudoobscura OX=46245 GN=Rh2 PE=1 SV=3	5.96e-22
+sp|Q9YH03|OPSD_SARSL	sp|Q9YH03|OPSD_SARSL Rhodopsin OS=Sarpa salpa OX=87759 GN=rho PE=2 SV=1	6.58e-22
+sp|Q9DGG4|OPSD_TETNG	sp|Q9DGG4|OPSD_TETNG Rhodopsin OS=Tetraodon nigroviridis OX=99883 GN=rho PE=3 SV=1	6.91e-22
+sp|Q9YH01|OPSD_MULSU	sp|Q9YH01|OPSD_MULSU Rhodopsin OS=Mullus surmuletus OX=87757 GN=rho PE=2 SV=1	7.35e-22
+sp|Q8AYM7|OPSG3_DANRE	sp|Q8AYM7|OPSG3_DANRE Green-sensitive opsin-3 OS=Danio rerio OX=7955 GN=opn1mw3 PE=1 SV=1	7.90e-22
+sp|P52202|OPSD_ALLMI	sp|P52202|OPSD_ALLMI Rhodopsin OS=Alligator mississippiensis OX=8496 GN=RHO PE=1 SV=1	8.13e-22
+sp|P22328|OPSD_CHICK	sp|P22328|OPSD_CHICK Rhodopsin OS=Gallus gallus OX=9031 GN=RHO PE=3 SV=1	9.38e-22
+sp|P41592|OPSR_ANOCA	sp|P41592|OPSR_ANOCA Red-sensitive opsin OS=Anolis carolinensis OX=28377 PE=1 SV=1	9.55e-22
+sp|Q9W6A5|OPSG1_DANRE	sp|Q9W6A5|OPSG1_DANRE Green-sensitive opsin-1 OS=Danio rerio OX=7955 GN=opn1mw1 PE=1 SV=2	9.97e-22
+sp|Q9YH02|OPSD_SPAAU	sp|Q9YH02|OPSD_SPAAU Rhodopsin OS=Sparus aurata OX=8175 GN=rho PE=2 SV=1	1.26e-21
+sp|Q95170|OPSR_CAPHI	sp|Q95170|OPSR_CAPHI Long-wave-sensitive opsin 1 OS=Capra hircus OX=9925 GN=OPN1LW PE=1 SV=1	1.35e-21
+sp|Q6W3E1|OPSD_CALPD	sp|Q6W3E1|OPSD_CALPD Rhodopsin OS=Caluromys philander OX=70610 GN=RHO PE=2 SV=1	1.54e-21
+sp|Q94741|OPS1_SCHGR	sp|Q94741|OPS1_SCHGR Opsin-1 OS=Schistocerca gregaria OX=7010 GN=Lo1 PE=2 SV=1	1.55e-21
+sp|P51489|OPSD_RAT	sp|P51489|OPSD_RAT Rhodopsin OS=Rattus norvegicus OX=10116 GN=Rho PE=2 SV=1	1.57e-21
+sp|Q9BGI7|OPSR_BOVIN	sp|Q9BGI7|OPSR_BOVIN Long-wave-sensitive opsin 1 OS=Bos taurus OX=9913 GN=OPN1LW PE=1 SV=1	1.63e-21
+sp|Q9R024|OPSG_CAVPO	sp|Q9R024|OPSG_CAVPO Medium-wave-sensitive opsin 1 OS=Cavia porcellus OX=10141 GN=OPN1MW PE=2 SV=1	1.74e-21
+sp|P87366|OPSG_ORYLA	sp|P87366|OPSG_ORYLA Green-sensitive opsin OS=Oryzias latipes OX=8090 PE=2 SV=1	1.83e-21
+sp|P35360|OPSL_LIMPO	sp|P35360|OPSL_LIMPO Lateral eye opsin OS=Limulus polyphemus OX=6850 PE=1 SV=1	1.88e-21
+sp|P04000|OPSR_HUMAN	sp|P04000|OPSR_HUMAN Long-wave-sensitive opsin 1 OS=Homo sapiens OX=9606 GN=OPN1LW PE=1 SV=1	2.07e-21
+sp|P51474|OPSG3_ASTFA	sp|P51474|OPSG3_ASTFA Green-sensitive opsin-3 OS=Astyanax fasciatus OX=223369 GN=RH11 PE=2 SV=1	2.08e-21
+sp|Q8AYN0|OPSR2_DANRE	sp|Q8AYN0|OPSR2_DANRE Red-sensitive opsin-2 OS=Danio rerio OX=7955 GN=opn1lw2 PE=1 SV=1	2.13e-21
+sp|Q9YGZ2|OPSD_GOBNI	sp|Q9YGZ2|OPSD_GOBNI Rhodopsin OS=Gobius niger OX=85417 GN=rho PE=2 SV=1	2.21e-21
+sp|P04001|OPSG_HUMAN	sp|P04001|OPSG_HUMAN Medium-wave-sensitive opsin 1 OS=Homo sapiens OX=9606 GN=OPN1MW PE=1 SV=1	2.37e-21
+sp|P0DN78|OPSG3_HUMAN	sp|P0DN78|OPSG3_HUMAN Medium-wave-sensitive opsin 3 OS=Homo sapiens OX=9606 GN=OPN1MW3 PE=3 SV=1	2.37e-21
+sp|P0DN77|OPSG2_HUMAN	sp|P0DN77|OPSG2_HUMAN Medium-wave-sensitive opsin 2 OS=Homo sapiens OX=9606 GN=OPN1MW2 PE=3 SV=1	2.37e-21
+sp|P15409|OPSD_MOUSE	sp|P15409|OPSD_MOUSE Rhodopsin OS=Mus musculus OX=10090 GN=Rho PE=1 SV=2	2.76e-21
+sp|O35478|OPSG_SCICA	sp|O35478|OPSG_SCICA Medium-wave-sensitive opsin 1 OS=Sciurus carolinensis OX=30640 GN=OPN1MW PE=1 SV=2	2.93e-21
+sp|O57605|OPSUV_MELUD	sp|O57605|OPSUV_MELUD Ultraviolet-sensitive opsin OS=Melopsittacus undulatus OX=13146 PE=1 SV=1	2.97e-21
+sp|P90680|OPSB_APIME	sp|P90680|OPSB_APIME Opsin, blue-sensitive OS=Apis mellifera OX=7460 GN=BLOP PE=1 SV=2	3.60e-21
+sp|P56514|OPSD_BUFBU	sp|P56514|OPSD_BUFBU Rhodopsin OS=Bufo bufo OX=8384 GN=RHO PE=2 SV=1	3.91e-21
+sp|P35361|OPSO_LIMPO	sp|P35361|OPSO_LIMPO Ocellar opsin OS=Limulus polyphemus OX=6850 PE=1 SV=1	3.92e-21
+sp|O62798|OPSD_TURTR	sp|O62798|OPSD_TURTR Rhodopsin OS=Tursiops truncatus OX=9739 GN=RHO PE=1 SV=1	4.49e-21
+sp|O62794|OPSD_PHOVI	sp|O62794|OPSD_PHOVI Rhodopsin OS=Phoca vitulina OX=9720 GN=RHO PE=2 SV=1	5.19e-21
+sp|P22332|OPSR_ASTFA	sp|P22332|OPSR_ASTFA Red-sensitive opsin OS=Astyanax fasciatus OX=223369 GN=R007 PE=1 SV=2	5.80e-21
+sp|O18766|OPSD_PIG	sp|O18766|OPSD_PIG Rhodopsin OS=Sus scrofa OX=9823 GN=RHO PE=1 SV=1	6.55e-21
+sp|Q9YGY9|OPSD_ZOSOP	sp|Q9YGY9|OPSD_ZOSOP Rhodopsin OS=Zosterisessor ophiocephalus OX=85428 GN=rho PE=2 SV=1	7.51e-21
+sp|O62791|OPSD_DELDE	sp|O62791|OPSD_DELDE Rhodopsin OS=Delphinus delphis OX=9728 GN=RHO PE=2 SV=1	8.02e-21
+sp|O35476|OPSG_RAT	sp|O35476|OPSG_RAT Medium-wave-sensitive opsin 1 OS=Rattus norvegicus OX=10116 GN=Opn1mw PE=1 SV=2	8.65e-21
+sp|Q9YGZ5|OPSD_SOLSO	sp|Q9YGZ5|OPSD_SOLSO Rhodopsin OS=Solea solea OX=90069 GN=rho PE=2 SV=1	9.49e-21
+sp|P22269|OPS1_CALVI	sp|P22269|OPS1_CALVI Opsin Rh1 OS=Calliphora vicina OX=7373 GN=NINAE PE=1 SV=1	1.02e-20
+sp|P51472|OPSB_ASTFA	sp|P51472|OPSB_ASTFA Blue-sensitive opsin OS=Astyanax fasciatus OX=223369 GN=B23 PE=2 SV=1	1.32e-20
+sp|Q68J47|OPSD_LOXAF	sp|Q68J47|OPSD_LOXAF Rhodopsin OS=Loxodonta africana OX=9785 GN=RHO PE=1 SV=1	1.33e-20
+sp|P22331|OPSG2_ASTFA	sp|P22331|OPSG2_ASTFA Green-sensitive opsin-2 OS=Astyanax fasciatus OX=223369 GN=G101 PE=1 SV=1	1.36e-20
+sp|O62795|OPSD_PAGGO	sp|O62795|OPSD_PAGGO Rhodopsin OS=Pagophilus groenlandicus OX=39089 GN=RHO PE=2 SV=1	1.71e-20
+sp|O18913|OPSR_FELCA	sp|O18913|OPSR_FELCA Long-wave-sensitive opsin 1 OS=Felis catus OX=9685 GN=OPN1LW PE=1 SV=2	1.71e-20
+sp|O93459|OPSD_SCYCA	sp|O93459|OPSD_SCYCA Rhodopsin OS=Scyliorhinus canicula OX=7830 GN=rho PE=2 SV=1	1.94e-20
+sp|P32310|OPSB_CARAU	sp|P32310|OPSB_CARAU Blue-sensitive opsin OS=Carassius auratus OX=7957 PE=1 SV=1	1.95e-20
+sp|Q769E8|OPSD_OTOCR	sp|Q769E8|OPSD_OTOCR Rhodopsin OS=Otolemur crassicaudatus OX=9463 GN=RHO PE=2 SV=1	1.95e-20
+sp|P28681|OPSD_CRIGR	sp|P28681|OPSD_CRIGR Rhodopsin OS=Cricetulus griseus OX=10029 GN=RHO PE=3 SV=1	2.07e-20
+sp|P02700|OPSD_SHEEP	sp|P02700|OPSD_SHEEP Rhodopsin OS=Ovis aries OX=9940 GN=RHO PE=1 SV=2	2.11e-20
+sp|P79863|OPSD_LEUER	sp|P79863|OPSD_LEUER Rhodopsin OS=Leucoraja erinacea OX=7782 GN=rho PE=2 SV=1	2.36e-20
+sp|P31356|OPSD_TODPA	sp|P31356|OPSD_TODPA Rhodopsin OS=Todarodes pacificus OX=6637 GN=RHO PE=1 SV=2	2.38e-20
+sp|P34989|OPSL_CALJA	sp|P34989|OPSL_CALJA Opsin, longwave 563 nm (Fragment) OS=Callithrix jacchus OX=9483 PE=1 SV=1	3.54e-20
+sp|O35599|OPSG_MOUSE	sp|O35599|OPSG_MOUSE Medium-wave-sensitive opsin 1 OS=Mus musculus OX=10090 GN=Opn1mw PE=1 SV=1	3.71e-20
+sp|P41591|OPSD_ANOCA	sp|P41591|OPSD_ANOCA Rhodopsin OS=Anolis carolinensis OX=28377 GN=RHO PE=3 SV=1	4.35e-20
+sp|O62792|OPSD_GLOME	sp|O62792|OPSD_GLOME Rhodopsin OS=Globicephala melas OX=9731 GN=RHO PE=2 SV=1	5.54e-20
+sp|P32308|OPSD_CANLF	sp|P32308|OPSD_CANLF Rhodopsin OS=Canis lupus familiaris OX=9615 GN=RHO PE=1 SV=1	7.12e-20
+sp|Q8AYM8|OPSG2_DANRE	sp|Q8AYM8|OPSG2_DANRE Green-sensitive opsin-2 OS=Danio rerio OX=7955 GN=opn1mw2 PE=1 SV=1	7.34e-20
+sp|O62793|OPSD_MESBI	sp|O62793|OPSD_MESBI Rhodopsin OS=Mesoplodon bidens OX=48745 GN=RHO PE=2 SV=1	7.40e-20
+sp|P35358|OPSG_GEKGE	sp|P35358|OPSG_GEKGE Green-sensitive opsin P521 OS=Gekko gecko OX=36310 PE=1 SV=1	1.67e-19
+sp|O62796|OPSD_TRIMA	sp|O62796|OPSD_TRIMA Rhodopsin OS=Trichechus manatus OX=9778 GN=RHO PE=2 SV=1	1.69e-19
+sp|P08100|OPSD_HUMAN	sp|P08100|OPSD_HUMAN Rhodopsin OS=Homo sapiens OX=9606 GN=RHO PE=1 SV=1	1.85e-19
+sp|O42451|OPSD_PROJE	sp|O42451|OPSD_PROJE Rhodopsin (Fragment) OS=Procottus jeittelesii OX=61631 GN=rho PE=3 SV=1	2.18e-19
+sp|P22671|OPSD_LETCA	sp|P22671|OPSD_LETCA Rhodopsin OS=Lethenteron camtschaticum OX=980415 GN=RHO PE=2 SV=1	2.55e-19
+sp|O42327|OPSD_COMDY	sp|O42327|OPSD_COMDY Rhodopsin (Fragment) OS=Comephorus dybowskii OX=61641 GN=rho PE=3 SV=1	2.96e-19
+sp|P22329|OPSR_CHICK	sp|P22329|OPSR_CHICK Red-sensitive opsin OS=Gallus gallus OX=9031 PE=1 SV=1	3.25e-19
+sp|Q9YGZ0|OPSD_SARPI	sp|Q9YGZ0|OPSD_SARPI Rhodopsin OS=Sardina pilchardus OX=27697 GN=rho PE=2 SV=1	3.74e-19
+sp|O93441|OPSD_GALML	sp|O93441|OPSD_GALML Rhodopsin OS=Galeus melastomus OX=77914 GN=rho PE=2 SV=1	4.33e-19
+sp|O42330|OPSD_COTIN	sp|O42330|OPSD_COTIN Rhodopsin (Fragment) OS=Cottocomephorus inermis OX=61627 GN=rho PE=3 SV=1	4.67e-19
+sp|Q4R1I4|OPN4_BRABE	sp|Q4R1I4|OPN4_BRABE Melanopsin OS=Branchiostoma belcheri OX=7741 GN=OPN4 PE=1 SV=1	6.18e-19
+sp|P35359|OPSD_DANRE	sp|P35359|OPSD_DANRE Rhodopsin OS=Danio rerio OX=7955 GN=rho PE=1 SV=2	6.35e-19
+sp|P51490|OPSB_BOVIN	sp|P51490|OPSB_BOVIN Short-wave-sensitive opsin 1 OS=Bos taurus OX=9913 GN=OPN1SW PE=1 SV=1	6.68e-19
+sp|P32313|OPSR_CARAU	sp|P32313|OPSR_CARAU Red-sensitive opsin OS=Carassius auratus OX=7957 PE=1 SV=1	6.68e-19
+sp|P51473|OPSV_XENLA	sp|P51473|OPSV_XENLA Violet-sensitive opsin OS=Xenopus laevis OX=8355 PE=1 SV=1	6.72e-19
+sp|P22330|OPSG1_ASTFA	sp|P22330|OPSG1_ASTFA Green-sensitive opsin-1 OS=Astyanax fasciatus OX=223369 GN=G103 PE=1 SV=1	8.80e-19
+sp|P51491|OPSB_MOUSE	sp|P51491|OPSB_MOUSE Short-wave-sensitive opsin 1 OS=Mus musculus OX=10090 GN=Opn1sw PE=1 SV=1	9.84e-19
+sp|P28678|OPS1_DROPS	sp|P28678|OPS1_DROPS Opsin Rh1 OS=Drosophila pseudoobscura pseudoobscura OX=46245 GN=ninaE PE=1 SV=4	1.23e-18
+sp|P35403|OPSD_POMMI	sp|P35403|OPSD_POMMI Rhodopsin OS=Pomatoschistus minutus OX=13225 GN=rho PE=2 SV=1	1.85e-18
+sp|Q9W6A9|OP1S1_DANRE	sp|Q9W6A9|OP1S1_DANRE Opsin-1, short-wave-sensitive 1 OS=Danio rerio OX=7955 GN=opn1sw1 PE=1 SV=2	2.42e-18
+sp|O42300|OPSD_BATMU	sp|O42300|OPSD_BATMU Rhodopsin (Fragment) OS=Batrachocottus multiradiatus OX=61628 GN=rho PE=3 SV=1	3.16e-18
+sp|O13227|OPSB_CONCO	sp|O13227|OPSB_CONCO Blue-sensitive opsin OS=Conger conger OX=82655 PE=1 SV=1	3.33e-18
+sp|Q9W6A7|OPSR1_DANRE	sp|Q9W6A7|OPSR1_DANRE Red-sensitive opsin-1 OS=Danio rerio OX=7955 GN=opn1lw1 PE=1 SV=1	3.34e-18
+sp|P06002|OPS1_DROME	sp|P06002|OPS1_DROME Opsin Rh1 OS=Drosophila melanogaster OX=7227 GN=ninaE PE=1 SV=1	3.54e-18
+sp|P91657|OPS5_DROME	sp|P91657|OPS5_DROME Opsin Rh5 OS=Drosophila melanogaster OX=7227 GN=Rh5 PE=2 SV=1	3.94e-18
+sp|O42301|OPSD_BATNI	sp|O42301|OPSD_BATNI Rhodopsin (Fragment) OS=Batrachocottus nikolskii OX=79686 GN=rho PE=3 SV=1	4.44e-18
+sp|O42294|OPSD_ABYKO	sp|O42294|OPSD_ABYKO Rhodopsin (Fragment) OS=Abyssocottus korotneffi OX=61637 GN=rho PE=3 SV=1	4.80e-18
+sp|P41590|OPSD_ASTFA	sp|P41590|OPSD_ASTFA Rhodopsin OS=Astyanax fasciatus OX=223369 GN=rho PE=1 SV=1	4.97e-18
+sp|P51488|OPSD_CYPCA	sp|P51488|OPSD_CYPCA Rhodopsin OS=Cyprinus carpio OX=7962 GN=rho PE=2 SV=1	5.47e-18
+sp|O13092|OPSB_SAIBB	sp|O13092|OPSB_SAIBB Short-wave-sensitive opsin 1 OS=Saimiri boliviensis boliviensis OX=39432 GN=OPN1SW PE=1 SV=1	5.72e-18
+sp|Q90215|OPSD2_ANGAN	sp|Q90215|OPSD2_ANGAN Rhodopsin, freshwater form OS=Anguilla anguilla OX=7936 PE=1 SV=1	6.61e-18
+sp|P32309|OPSD_CARAU	sp|P32309|OPSD_CARAU Rhodopsin OS=Carassius auratus OX=7957 GN=rho PE=1 SV=1	1.37e-17
+sp|Q90214|OPSD1_ANGAN	sp|Q90214|OPSD1_ANGAN Rhodopsin, deep-sea form OS=Anguilla anguilla OX=7936 PE=1 SV=1	2.04e-17
+sp|O18911|OPSG_ODOVI	sp|O18911|OPSG_ODOVI Medium-wave-sensitive opsin 1 (Fragment) OS=Odocoileus virginianus virginianus OX=9875 GN=OPN1MW PE=1 SV=1	2.09e-17
+sp|Q90373|OPSD_LEOKE	sp|Q90373|OPSD_LEOKE Rhodopsin (Fragment) OS=Leocottus kesslerii OX=8099 GN=rho PE=3 SV=1	2.23e-17
+sp|O42452|OPSD_PARKN	sp|O42452|OPSD_PARKN Rhodopsin (Fragment) OS=Paracottus knerii OX=61626 GN=rho PE=3 SV=1	3.28e-17
+sp|P87367|OPSR_ORYLA	sp|P87367|OPSR_ORYLA Red-sensitive opsin OS=Oryzias latipes OX=8090 PE=1 SV=1	6.35e-17
+sp|P28684|OPSV_CHICK	sp|P28684|OPSV_CHICK Violet-sensitive opsin OS=Gallus gallus OX=9031 PE=1 SV=1	1.08e-16
+sp|O42307|OPSD_COTBO	sp|O42307|OPSD_COTBO Rhodopsin (Fragment) OS=Cottinella boulengeri OX=61639 GN=rho PE=3 SV=1	1.16e-16
+sp|O42466|OPSD_TAUBU	sp|O42466|OPSD_TAUBU Rhodopsin (Fragment) OS=Taurulus bubalis OX=61643 GN=rho PE=3 SV=1	1.83e-16
+sp|O02465|OPS2_MANSE	sp|O02465|OPS2_MANSE Opsin-2 OS=Manduca sexta OX=7130 GN=OP2 PE=2 SV=2	2.71e-16
+sp|P60015|OPSB_PANTR	sp|P60015|OPSB_PANTR Short-wave-sensitive opsin 1 OS=Pan troglodytes OX=9598 GN=OPN1SW PE=3 SV=1	3.15e-16
+sp|P60573|OPSB_PANPA	sp|P60573|OPSB_PANPA Short-wave-sensitive opsin 1 OS=Pan paniscus OX=9597 GN=OPN1SW PE=3 SV=1	3.15e-16
+sp|P03999|OPSB_HUMAN	sp|P03999|OPSB_HUMAN Short-wave-sensitive opsin 1 OS=Homo sapiens OX=9606 GN=OPN1SW PE=1 SV=1	3.15e-16
+sp|O42431|OPSD_LIMPA	sp|O42431|OPSD_LIMPA Rhodopsin (Fragment) OS=Limnocottus pallidus OX=61634 GN=rho PE=3 SV=1	3.41e-16
+sp|Q98980|OPSD_PETMA	sp|Q98980|OPSD_PETMA Rhodopsin OS=Petromyzon marinus OX=7757 GN=RHO PE=3 SV=1	3.66e-16
+sp|O61303|OPSUV_APIME	sp|O61303|OPSUV_APIME Opsin, ultraviolet-sensitive OS=Apis mellifera OX=7460 GN=UVOP PE=1 SV=1	4.75e-16
+sp|Q63652|OPSB_RAT	sp|Q63652|OPSB_RAT Short-wave-sensitive opsin 1 OS=Rattus norvegicus OX=10116 GN=Opn1sw PE=1 SV=2	5.54e-16
+sp|O12948|OPSR_XENLA	sp|O12948|OPSR_XENLA Red-sensitive opsin OS=Xenopus laevis OX=8355 GN=opn1lw1 PE=2 SV=1	6.22e-16
+sp|Q25157|OPSC1_HEMSA	sp|Q25157|OPSC1_HEMSA Compound eye opsin BCRH1 OS=Hemigrapsus sanguineus OX=40176 PE=2 SV=1	1.10e-15
+sp|P87368|OPSV_ORYLA	sp|P87368|OPSV_ORYLA Putative violet-sensitive opsin OS=Oryzias latipes OX=8090 PE=1 SV=1	1.13e-15
+sp|Q9W6A8|OP1S2_DANRE	sp|Q9W6A8|OP1S2_DANRE Opsin-1, short-wave-sensitive 2 OS=Danio rerio OX=7955 GN=opn1sw2 PE=1 SV=1	1.45e-15
+sp|Q90309|OPSUV_CARAU	sp|Q90309|OPSUV_CARAU Ultraviolet-sensitive opsin OS=Carassius auratus OX=7957 PE=2 SV=1	2.66e-15
+sp|O96107|OPS3_MANSE	sp|O96107|OPS3_MANSE Opsin-3 OS=Manduca sexta OX=7130 GN=OP3 PE=2 SV=1	2.80e-15
+sp|O42328|OPSD_COTGR	sp|O42328|OPSD_COTGR Rhodopsin (Fragment) OS=Cottocomephorus grewingkii OX=57734 GN=rho PE=3 SV=1	1.00e-14
+sp|P04950|OPS3_DROME	sp|P04950|OPS3_DROME Opsin Rh3 OS=Drosophila melanogaster OX=7227 GN=Rh3 PE=1 SV=1	1.04e-14
+sp|O42427|OPSD_LIMBE	sp|O42427|OPSD_LIMBE Rhodopsin (Fragment) OS=Limnocottus bergianus OX=61633 GN=rho PE=3 SV=1	1.10e-14
+sp|O16018|OPSD_CAMSC	sp|O16018|OPSD_CAMSC Rhodopsin (Fragment) OS=Cambarellus shufeldtii OX=60963 GN=RHO PE=3 SV=1	1.43e-14
+sp|P28680|OPS3_DROPS	sp|P28680|OPS3_DROPS Opsin Rh3 OS=Drosophila pseudoobscura pseudoobscura OX=46245 GN=Rh3 PE=1 SV=3	4.61e-14
+sp|P35356|OPSD_PROCL	sp|P35356|OPSD_PROCL Rhodopsin OS=Procambarus clarkii OX=6728 GN=RHO PE=1 SV=1	4.92e-14
+sp|Q25158|OPSC2_HEMSA	sp|Q25158|OPSC2_HEMSA Compound eye opsin BCRH2 OS=Hemigrapsus sanguineus OX=40176 PE=2 SV=1	6.52e-14
+sp|P87365|OPSB_ORYLA	sp|P87365|OPSB_ORYLA Blue-sensitive opsin OS=Oryzias latipes OX=8090 PE=2 SV=1	1.43e-13
+sp|O18481|OPSD_ORCAU	sp|O18481|OPSD_ORCAU Rhodopsin (Fragment) OS=Orconectes australis OX=61490 GN=RHO PE=3 SV=1	2.11e-13
+sp|P29404|OPS4_DROPS	sp|P29404|OPS4_DROPS Opsin Rh4 OS=Drosophila pseudoobscura pseudoobscura OX=46245 GN=Rh4 PE=1 SV=2	2.68e-13
+sp|O18485|OPSD_PROOR	sp|O18485|OPSD_PROOR Rhodopsin (Fragment) OS=Procambarus orcinus OX=61504 GN=RHO PE=3 SV=1	3.11e-13
+sp|P79218|NK2R_RABIT	sp|P79218|NK2R_RABIT Substance-K receptor OS=Oryctolagus cuniculus OX=9986 GN=TACR2 PE=2 SV=1	3.47e-13
+sp|O16020|OPSD_PROML	sp|O16020|OPSD_PROML Rhodopsin (Fragment) OS=Procambarus milleri OX=60967 GN=RHO PE=3 SV=1	3.62e-13
+sp|O16019|OPSD_ORCVI	sp|O16019|OPSD_ORCVI Rhodopsin (Fragment) OS=Orconectes virilis OX=60966 GN=RHO PE=3 SV=1	4.09e-13
+sp|O16017|OPSD_LACLU	sp|O16017|OPSD_LACLU Rhodopsin (Fragment) OS=Lacunicambarus ludovicianus OX=2315848 GN=RHO PE=3 SV=1	8.96e-13
+sp|P05363|NK2R_BOVIN	sp|P05363|NK2R_BOVIN Substance-K receptor OS=Bos taurus OX=9913 GN=TACR2 PE=2 SV=1	1.05e-12
+sp|P17646|OPS4_DROVI	sp|P17646|OPS4_DROVI Opsin Rh4 OS=Drosophila virilis OX=7244 GN=Rh4 PE=3 SV=2	1.17e-12
+sp|P49217|MTR1A_PHOSU	sp|P49217|MTR1A_PHOSU Melatonin receptor type 1A OS=Phodopus sungorus OX=10044 GN=MTNR1A PE=2 SV=2	1.29e-12
+sp|P08255|OPS4_DROME	sp|P08255|OPS4_DROME Opsin Rh4 OS=Drosophila melanogaster OX=7227 GN=Rh4 PE=1 SV=2	2.09e-12
+sp|O18315|OPSD_CAMMA	sp|O18315|OPSD_CAMMA Rhodopsin (Fragment) OS=Cambarus maculatus OX=61489 GN=RHO PE=3 SV=1	2.09e-12
+sp|P47803|RGR_BOVIN	sp|P47803|RGR_BOVIN RPE-retinal G protein-coupled receptor OS=Bos taurus OX=9913 GN=RGR PE=2 SV=1	4.04e-12
+sp|P49287|MTR1B_RAT	sp|P49287|MTR1B_RAT Melatonin receptor type 1B OS=Rattus norvegicus OX=10116 GN=Mtnr1b PE=2 SV=2	4.32e-12
+sp|Q9Z2B3|RGR_MOUSE	sp|Q9Z2B3|RGR_MOUSE RPE-retinal G protein-coupled receptor OS=Mus musculus OX=10090 GN=Rgr PE=2 SV=1	6.67e-12
+sp|P49219|MTR1C_XENLA	sp|P49219|MTR1C_XENLA Melatonin receptor type 1C OS=Xenopus laevis OX=8355 GN=mtnr1c PE=2 SV=1	6.68e-12
+sp|P16610|NK2R_RAT	sp|P16610|NK2R_RAT Substance-K receptor OS=Rattus norvegicus OX=10116 GN=Tacr2 PE=2 SV=1	7.20e-12
+sp|Q5DUB2|NK2R_CANLF	sp|Q5DUB2|NK2R_CANLF Substance-K receptor OS=Canis lupus familiaris OX=9615 GN=TACR2 PE=2 SV=1	1.04e-11
+sp|O18486|OPSD_PROSE	sp|O18486|OPSD_PROSE Rhodopsin (Fragment) OS=Procambarus seminolae OX=61505 GN=RHO PE=3 SV=1	1.09e-11
+sp|Q64077|NK2R_CAVPO	sp|Q64077|NK2R_CAVPO Substance-K receptor OS=Cavia porcellus OX=10141 GN=TACR2 PE=2 SV=1	1.19e-11
+sp|P21452|NK2R_HUMAN	sp|P21452|NK2R_HUMAN Substance-K receptor OS=Homo sapiens OX=9606 GN=TACR2 PE=1 SV=3	1.47e-11
+sp|P49286|MTR1B_HUMAN	sp|P49286|MTR1B_HUMAN Melatonin receptor type 1B OS=Homo sapiens OX=9606 GN=MTNR1B PE=1 SV=1	1.63e-11
+sp|P51144|NK2R_MESAU	sp|P51144|NK2R_MESAU Substance-K receptor OS=Mesocricetus auratus OX=10036 GN=TACR2 PE=2 SV=1	1.66e-11
+sp|P30549|NK2R_MOUSE	sp|P30549|NK2R_MOUSE Substance-K receptor OS=Mus musculus OX=10090 GN=Tacr2 PE=2 SV=1	1.90e-11
+sp|O18312|OPSD_CAMHU	sp|O18312|OPSD_CAMHU Rhodopsin (Fragment) OS=Cambarus hubrichti OX=61487 GN=RHO PE=3 SV=1	2.03e-11
+sp|Q26495|OPS2_SCHGR	sp|Q26495|OPS2_SCHGR Opsin-2 OS=Schistocerca gregaria OX=7010 GN=Lo2 PE=2 SV=1	3.65e-11
+sp|P33534|OPRK_MOUSE	sp|P33534|OPRK_MOUSE Kappa-type opioid receptor OS=Mus musculus OX=10090 GN=Oprk1 PE=1 SV=1	1.01e-10
+sp|P48039|MTR1A_HUMAN	sp|P48039|MTR1A_HUMAN Melatonin receptor type 1A OS=Homo sapiens OX=9606 GN=MTNR1A PE=1 SV=1	1.90e-10
+sp|O08726|GALR2_RAT	sp|O08726|GALR2_RAT Galanin receptor type 2 OS=Rattus norvegicus OX=10116 GN=Galr2 PE=2 SV=1	2.31e-10
+sp|F1R332|GAL2A_DANRE	sp|F1R332|GAL2A_DANRE Galanin receptor 2a OS=Danio rerio OX=7955 GN=galr2a PE=2 SV=2	2.81e-10
+sp|P49288|MTR1C_CHICK	sp|P49288|MTR1C_CHICK Melatonin receptor type 1C OS=Gallus gallus OX=9031 PE=2 SV=1	4.03e-10
+sp|P47804|RGR_HUMAN	sp|P47804|RGR_HUMAN RPE-retinal G protein-coupled receptor OS=Homo sapiens OX=9606 GN=RGR PE=1 SV=1	4.20e-10
+sp|P15823|ADA1B_RAT	sp|P15823|ADA1B_RAT Alpha-1B adrenergic receptor OS=Rattus norvegicus OX=10116 GN=Adra1b PE=1 SV=2	4.87e-10
+sp|P18841|ADA1B_MESAU	sp|P18841|ADA1B_MESAU Alpha-1B adrenergic receptor OS=Mesocricetus auratus OX=10036 GN=ADRA1B PE=1 SV=1	4.91e-10
+sp|P34975|OPRK_RAT	sp|P34975|OPRK_RAT Kappa-type opioid receptor OS=Rattus norvegicus OX=10116 GN=Oprk1 PE=2 SV=1	5.38e-10
+sp|P41144|OPRK_CAVPO	sp|P41144|OPRK_CAVPO Kappa-type opioid receptor OS=Cavia porcellus OX=10141 GN=OPRK1 PE=2 SV=1	5.68e-10
+sp|E7F7V7|GAL2B_DANRE	sp|E7F7V7|GAL2B_DANRE Galanin receptor 2b OS=Danio rerio OX=7955 GN=galr2b PE=2 SV=1	6.40e-10
+sp|P48040|MTR1A_SHEEP	sp|P48040|MTR1A_SHEEP Melatonin receptor type 1A OS=Ovis aries OX=9940 GN=MTNR1A PE=2 SV=1	7.23e-10
+sp|G3M4F8|OCTB2_CHISP	sp|G3M4F8|OCTB2_CHISP Octopamine receptor beta-2R OS=Chilo suppressalis OX=168631 GN=OA2B2 PE=2 SV=1	8.22e-10
+sp|Q61184|MTR1A_MOUSE	sp|Q61184|MTR1A_MOUSE Melatonin receptor type 1A OS=Mus musculus OX=10090 GN=Mtnr1a PE=2 SV=1	8.39e-10
+sp|P35368|ADA1B_HUMAN	sp|P35368|ADA1B_HUMAN Alpha-1B adrenergic receptor OS=Homo sapiens OX=9606 GN=ADRA1B PE=1 SV=3	8.51e-10
+sp|Q2NNR5|CLTR1_CAVPO	sp|Q2NNR5|CLTR1_CAVPO Cysteinyl leukotriene receptor 1 OS=Cavia porcellus OX=10141 GN=CYSLTR1 PE=2 SV=1	1.04e-09
+sp|Q8CIQ6|MTR1B_MOUSE	sp|Q8CIQ6|MTR1B_MOUSE Melatonin receptor type 1B OS=Mus musculus OX=10090 GN=Mtnr1b PE=2 SV=1	1.07e-09
+sp|O43603|GALR2_HUMAN	sp|O43603|GALR2_HUMAN Galanin receptor type 2 OS=Homo sapiens OX=9606 GN=GALR2 PE=1 SV=1	1.18e-09
+sp|Q9Y5Y3|GPR45_HUMAN	sp|Q9Y5Y3|GPR45_HUMAN Probable G-protein coupled receptor 45 OS=Homo sapiens OX=9606 GN=GPR45 PE=1 SV=2	1.23e-09
+sp|P51049|MR1BB_DANRE	sp|P51049|MR1BB_DANRE Melatonin receptor type 1B-B OS=Danio rerio OX=7955 GN=mtnr1bb PE=2 SV=2	1.54e-09
+sp|P32240|PE2R4_MOUSE	sp|P32240|PE2R4_MOUSE Prostaglandin E2 receptor EP4 subtype OS=Mus musculus OX=10090 GN=Ptger4 PE=2 SV=1	2.26e-09
+sp|O88854|GALR2_MOUSE	sp|O88854|GALR2_MOUSE Galanin receptor type 2 OS=Mus musculus OX=10090 GN=Galr2 PE=2 SV=2	3.54e-09
+sp|O18935|ADA2B_AMBHO	sp|O18935|ADA2B_AMBHO Alpha-2B adrenergic receptor (Fragment) OS=Amblysomus hottentotus OX=9391 GN=ADRA2B PE=3 SV=2	3.80e-09
+sp|Q91175|ADA1A_ORYLA	sp|Q91175|ADA1A_ORYLA Alpha-1A adrenergic receptor OS=Oryzias latipes OX=8090 GN=adra1a PE=3 SV=1	3.82e-09
+sp|Q8MJ08|PE2R4_BOVIN	sp|Q8MJ08|PE2R4_BOVIN Prostaglandin E2 receptor EP4 subtype OS=Bos taurus OX=9913 GN=PTGER4 PE=2 SV=1	3.96e-09
+sp|Q28691|PE2R4_RABIT	sp|Q28691|PE2R4_RABIT Prostaglandin E2 receptor EP4 subtype OS=Oryctolagus cuniculus OX=9986 GN=PTGER4 PE=2 SV=1	4.58e-09
+sp|P49285|MTR1A_CHICK	sp|P49285|MTR1A_CHICK Melatonin receptor type 1A OS=Gallus gallus OX=9031 PE=2 SV=1	6.12e-09
+sp|O19025|ADA2B_MACPR	sp|O19025|ADA2B_MACPR Alpha-2B adrenergic receptor (Fragment) OS=Macroscelides proboscideus OX=29082 GN=ADRA2B PE=3 SV=2	6.19e-09
+sp|P43114|PE2R4_RAT	sp|P43114|PE2R4_RAT Prostaglandin E2 receptor EP4 subtype OS=Rattus norvegicus OX=10116 GN=Ptger4 PE=2 SV=1	7.07e-09
+sp|P18130|ADA1A_BOVIN	sp|P18130|ADA1A_BOVIN Alpha-1A adrenergic receptor OS=Bos taurus OX=9913 GN=ADRA1A PE=2 SV=1	7.51e-09
+sp|Q9Y271|CLTR1_HUMAN	sp|Q9Y271|CLTR1_HUMAN Cysteinyl leukotriene receptor 1 OS=Homo sapiens OX=9606 GN=CYSLTR1 PE=1 SV=1	9.68e-09
+sp|P41145|OPRK_HUMAN	sp|P41145|OPRK_HUMAN Kappa-type opioid receptor OS=Homo sapiens OX=9606 GN=OPRK1 PE=1 SV=2	1.18e-08
+sp|P35348|ADA1A_HUMAN	sp|P35348|ADA1A_HUMAN Alpha-1A adrenergic receptor OS=Homo sapiens OX=9606 GN=ADRA1A PE=1 SV=2	1.28e-08
+sp|P34979|PE2R3_BOVIN	sp|P34979|PE2R3_BOVIN Prostaglandin E2 receptor EP3 subtype OS=Bos taurus OX=9913 GN=PTGER3 PE=2 SV=1	1.35e-08
+sp|Q2YDN1|GP161_BOVIN	sp|Q2YDN1|GP161_BOVIN G protein-coupled receptor 161 OS=Bos taurus OX=9913 GN=GPR161 PE=2 SV=1	1.54e-08
+sp|Q8N6U8|GP161_HUMAN	sp|Q8N6U8|GP161_HUMAN G-protein coupled receptor 161 OS=Homo sapiens OX=9606 GN=GPR161 PE=1 SV=1	1.64e-08
+sp|Q924H0|NPFF2_MOUSE	sp|Q924H0|NPFF2_MOUSE Neuropeptide FF receptor 2 OS=Mus musculus OX=10090 GN=Npffr2 PE=2 SV=2	1.74e-08
+sp|P32303|AGTRA_XENLA	sp|P32303|AGTRA_XENLA Type-1 angiotensin II receptor A OS=Xenopus laevis OX=8355 GN=agtr1-a PE=2 SV=2	1.84e-08
+sp|P25102|HRH2_RAT	sp|P25102|HRH2_RAT Histamine H2 receptor OS=Rattus norvegicus OX=10116 GN=Hrh2 PE=3 SV=1	2.54e-08
+sp|P34992|NPY1R_XENLA	sp|P34992|NPY1R_XENLA Neuropeptide Y receptor type 1 OS=Xenopus laevis OX=8355 GN=npy1r PE=2 SV=1	2.57e-08
+sp|Q9EQQ4|GPR45_MOUSE	sp|Q9EQQ4|GPR45_MOUSE Probable G-protein coupled receptor 45 OS=Mus musculus OX=10090 GN=Gpr45 PE=2 SV=1	2.69e-08
+sp|Q61041|NPY4R_MOUSE	sp|Q61041|NPY4R_MOUSE Neuropeptide Y receptor type 4 OS=Mus musculus OX=10090 GN=Npy4r PE=2 SV=2	2.70e-08
+sp|Q90305|OPSD_CORAU	sp|Q90305|OPSD_CORAU Rhodopsin (Fragment) OS=Coregonus autumnalis OX=27773 GN=rho PE=3 SV=1	2.94e-08
+sp|P43140|ADA1A_RAT	sp|P43140|ADA1A_RAT Alpha-1A adrenergic receptor OS=Rattus norvegicus OX=10116 GN=Adra1a PE=1 SV=1	3.40e-08
+sp|B2RPY5|GP161_MOUSE	sp|B2RPY5|GP161_MOUSE G-protein coupled receptor 161 OS=Mus musculus OX=10090 GN=Gpr161 PE=1 SV=1	4.11e-08
+sp|P50131|PE2R3_PIG	sp|P50131|PE2R3_PIG Prostaglandin E2 receptor EP3 subtype OS=Sus scrofa OX=9823 GN=PTGER3 PE=2 SV=1	4.60e-08
+sp|O88495|MTR1L_MOUSE	sp|O88495|MTR1L_MOUSE Melatonin-related receptor OS=Mus musculus OX=10090 GN=Gpr50 PE=1 SV=3	4.74e-08
+sp|O01670|OAR2_LYMST	sp|O01670|OAR2_LYMST Octopamine receptor 2 OS=Lymnaea stagnalis OX=6523 PE=1 SV=1	5.64e-08
+sp|Q95N02|CLTR1_PIG	sp|Q95N02|CLTR1_PIG Cysteinyl leukotriene receptor 1 OS=Sus scrofa OX=9823 GN=CYSLTR1 PE=2 SV=1	5.70e-08
+sp|P51046|MR1AA_DANRE	sp|P51046|MR1AA_DANRE Melatonin receptor type 1A-A OS=Danio rerio OX=7955 GN=mtnr1aa PE=2 SV=2	6.22e-08
+sp|B3DM66|GP161_XENTR	sp|B3DM66|GP161_XENTR G-protein coupled receptor 161 OS=Xenopus tropicalis OX=8364 GN=gpr161 PE=2 SV=1	6.24e-08
+sp|Q2KIP6|OPRK_BOVIN	sp|Q2KIP6|OPRK_BOVIN Kappa-type opioid receptor OS=Bos taurus OX=9913 GN=OPRK1 PE=2 SV=1	6.32e-08
+sp|P25100|ADA1D_HUMAN	sp|P25100|ADA1D_HUMAN Alpha-1D adrenergic receptor OS=Homo sapiens OX=9606 GN=ADRA1D PE=1 SV=2	6.46e-08
+sp|P50391|NPY4R_HUMAN	sp|P50391|NPY4R_HUMAN Neuropeptide Y receptor type 4 OS=Homo sapiens OX=9606 GN=NPY4R PE=2 SV=1	7.05e-08
+sp|P0DQD5|NPY42_HUMAN	sp|P0DQD5|NPY42_HUMAN Neuropeptide Y receptor type 4-2 OS=Homo sapiens OX=9606 GN=NPY4R2 PE=3 SV=1	7.05e-08
+sp|Q28558|MTR1L_SHEEP	sp|Q28558|MTR1L_SHEEP Melatonin-related receptor OS=Ovis aries OX=9940 GN=GPR50 PE=2 SV=2	1.10e-07
+sp|P35408|PE2R4_HUMAN	sp|P35408|PE2R4_HUMAN Prostaglandin E2 receptor EP4 subtype OS=Homo sapiens OX=9606 GN=PTGER4 PE=1 SV=1	1.48e-07
+sp|P25931|RYAR_DROME	sp|P25931|RYAR_DROME RYamide receptor OS=Drosophila melanogaster OX=7227 GN=RYa-R PE=2 SV=2	1.58e-07
+sp|Q98982|NK1R_LITCT	sp|Q98982|NK1R_LITCT Substance-P receptor OS=Lithobates catesbeianus OX=8400 GN=TACR1 PE=2 SV=1	1.59e-07
+sp|Q61212|NPY6R_MOUSE	sp|Q61212|NPY6R_MOUSE Neuropeptide Y receptor type 6 OS=Mus musculus OX=10090 GN=Npy6r PE=2 SV=1	1.66e-07
+sp|Q95KZ0|PE2R4_PANTR	sp|Q95KZ0|PE2R4_PANTR Prostaglandin E2 receptor EP4 subtype OS=Pan troglodytes OX=9598 GN=PTGER4 PE=2 SV=1	1.66e-07
+sp|P97717|ADA1B_MOUSE	sp|P97717|ADA1B_MOUSE Alpha-1B adrenergic receptor OS=Mus musculus OX=10090 GN=Adra1b PE=1 SV=2	1.87e-07
+sp|O19014|ADA2B_ELEMA	sp|O19014|ADA2B_ELEMA Alpha-2B adrenergic receptor (Fragment) OS=Elephas maximus OX=9783 GN=ADRA2B PE=3 SV=1	1.97e-07
+sp|Q9WU25|ADA1A_CAVPO	sp|Q9WU25|ADA1A_CAVPO Alpha-1A adrenergic receptor OS=Cavia porcellus OX=10141 GN=ADRA1A PE=2 SV=2	2.16e-07
+sp|P97718|ADA1A_MOUSE	sp|P97718|ADA1A_MOUSE Alpha-1A adrenergic receptor OS=Mus musculus OX=10090 GN=Adra1a PE=1 SV=3	2.22e-07
+sp|O19012|ADA2B_ERIEU	sp|O19012|ADA2B_ERIEU Alpha-2B adrenergic receptor (Fragment) OS=Erinaceus europaeus OX=9365 GN=ADRA2B PE=3 SV=1	2.42e-07
+sp|P30937|SSR4_RAT	sp|P30937|SSR4_RAT Somatostatin receptor type 4 OS=Rattus norvegicus OX=10116 GN=Sstr4 PE=1 SV=1	2.84e-07
+sp|O19032|ADA2B_ORYAF	sp|O19032|ADA2B_ORYAF Alpha-2B adrenergic receptor (Fragment) OS=Orycteropus afer OX=9818 GN=ADRA2B PE=3 SV=1	2.87e-07
+sp|O77621|ADA1A_CANLF	sp|O77621|ADA1A_CANLF Alpha-1A adrenergic receptor (Fragment) OS=Canis lupus familiaris OX=9615 GN=ADRA1A PE=2 SV=1	3.17e-07
+sp|O02824|ADA1A_RABIT	sp|O02824|ADA1A_RABIT Alpha-1A adrenergic receptor OS=Oryctolagus cuniculus OX=9986 GN=ADRA1A PE=2 SV=1	3.22e-07
+sp|O77721|ADA2B_HORSE	sp|O77721|ADA2B_HORSE Alpha-2B adrenergic receptor (Fragment) OS=Equus caballus OX=9796 GN=ADRA2B PE=3 SV=2	3.29e-07
+sp|P51050|MTR1B_CHICK	sp|P51050|MTR1B_CHICK Melatonin receptor type 1B (Fragment) OS=Gallus gallus OX=9031 PE=2 SV=1	3.56e-07
+sp|O60755|GALR3_HUMAN	sp|O60755|GALR3_HUMAN Galanin receptor type 3 OS=Homo sapiens OX=9606 GN=GALR3 PE=1 SV=1	4.01e-07
+sp|Q59E83|NPR22_CAEEL	sp|Q59E83|NPR22_CAEEL Neuropeptide receptor 22 OS=Caenorhabditis elegans OX=6239 GN=npr-22 PE=2 SV=1	4.66e-07
+sp|O77830|ADA2B_RABIT	sp|O77830|ADA2B_RABIT Alpha-2B adrenergic receptor (Fragment) OS=Oryctolagus cuniculus OX=9986 GN=ADRA2B PE=3 SV=2	4.80e-07
+sp|Q13585|MTR1L_HUMAN	sp|Q13585|MTR1L_HUMAN Melatonin-related receptor OS=Homo sapiens OX=9606 GN=GPR50 PE=1 SV=3	5.08e-07
+sp|P30545|ADA2B_MOUSE	sp|P30545|ADA2B_MOUSE Alpha-2B adrenergic receptor OS=Mus musculus OX=10090 GN=Adra2b PE=1 SV=2	5.58e-07
+sp|Q96P66|GP101_HUMAN	sp|Q96P66|GP101_HUMAN Probable G-protein coupled receptor 101 OS=Homo sapiens OX=9606 GN=GPR101 PE=1 SV=1	6.98e-07
+sp|Q60475|ADA2B_CAVPO	sp|Q60475|ADA2B_CAVPO Alpha-2B adrenergic receptor OS=Cavia porcellus OX=10141 GN=ADRA2B PE=3 SV=1	7.44e-07
+sp|P18089|ADA2B_HUMAN	sp|P18089|ADA2B_HUMAN Alpha-2B adrenergic receptor OS=Homo sapiens OX=9606 GN=ADRA2B PE=1 SV=4	7.53e-07
+sp|P47211|GALR1_HUMAN	sp|P47211|GALR1_HUMAN Galanin receptor type 1 OS=Homo sapiens OX=9606 GN=GALR1 PE=1 SV=3	7.91e-07
+sp|P35373|AGTRB_XENLA	sp|P35373|AGTRB_XENLA Type-1 angiotensin II receptor B OS=Xenopus laevis OX=8355 GN=agtr1-b PE=2 SV=1	9.22e-07
+sp|O88853|GALR3_MOUSE	sp|O88853|GALR3_MOUSE Galanin receptor type 3 OS=Mus musculus OX=10090 GN=Galr3 PE=2 SV=2	1.00e-06
+sp|O77713|ADA2B_DUGDU	sp|O77713|ADA2B_DUGDU Alpha-2B adrenergic receptor (Fragment) OS=Dugong dugon OX=29137 GN=ADRA2B PE=3 SV=2	1.41e-06
+sp|O88626|GALR3_RAT	sp|O88626|GALR3_RAT Galanin receptor type 3 OS=Rattus norvegicus OX=10116 GN=Galr3 PE=2 SV=1	1.52e-06
+sp|P30974|TLR1_DROME	sp|P30974|TLR1_DROME Tachykinin-like peptides receptor 86C OS=Drosophila melanogaster OX=7227 GN=TkR86C PE=2 SV=2	1.65e-06
+sp|P19328|ADA2B_RAT	sp|P19328|ADA2B_RAT Alpha-2B adrenergic receptor OS=Rattus norvegicus OX=10116 GN=Adra2b PE=1 SV=2	1.93e-06
+sp|P97292|HRH2_MOUSE	sp|P97292|HRH2_MOUSE Histamine H2 receptor OS=Mus musculus OX=10090 GN=Hrh2 PE=2 SV=2	2.11e-06
+sp|P79189|FPR1_MACMU	sp|P79189|FPR1_MACMU fMet-Leu-Phe receptor (Fragment) OS=Macaca mulatta OX=9544 GN=FPR1 PE=3 SV=1	2.17e-06
+sp|P29275|AA2BR_HUMAN	sp|P29275|AA2BR_HUMAN Adenosine receptor A2b OS=Homo sapiens OX=9606 GN=ADORA2B PE=1 SV=1	2.20e-06
+sp|P30731|GPR83_MOUSE	sp|P30731|GPR83_MOUSE Probable G-protein coupled receptor 83 OS=Mus musculus OX=10090 GN=Gpr83 PE=2 SV=2	2.46e-06
+sp|P43115|PE2R3_HUMAN	sp|P43115|PE2R3_HUMAN Prostaglandin E2 receptor EP3 subtype OS=Homo sapiens OX=9606 GN=PTGER3 PE=1 SV=1	2.64e-06
+sp|O02836|NPY2R_PIG	sp|O02836|NPY2R_PIG Neuropeptide Y receptor type 2 OS=Sus scrofa OX=9823 GN=NPY2R PE=2 SV=2	3.38e-06
+sp|Q8R428|FSHR_CAVPO	sp|Q8R428|FSHR_CAVPO Follicle-stimulating hormone receptor OS=Cavia porcellus OX=10141 GN=FSHR PE=2 SV=1	3.97e-06
+sp|Q96P65|QRFPR_HUMAN	sp|Q96P65|QRFPR_HUMAN Pyroglutamylated RF-amide peptide receptor OS=Homo sapiens OX=9606 GN=QRFPR PE=1 SV=2	4.13e-06
+sp|P11617|AA2AR_CANLF	sp|P11617|AA2AR_CANLF Adenosine receptor A2a OS=Canis lupus familiaris OX=9615 GN=ADORA2A PE=2 SV=1	4.13e-06
+sp|O02835|NPY1R_PIG	sp|O02835|NPY1R_PIG Neuropeptide Y receptor type 1 OS=Sus scrofa OX=9823 GN=NPY1R PE=2 SV=2	4.19e-06
+sp|Q62805|GALR1_RAT	sp|Q62805|GALR1_RAT Galanin receptor type 1 OS=Rattus norvegicus OX=10116 GN=Galr1 PE=2 SV=1	4.40e-06
+sp|Q1RMU8|NPY1R_BOVIN	sp|Q1RMU8|NPY1R_BOVIN Neuropeptide Y receptor type 1 OS=Bos taurus OX=9913 GN=NPY1R PE=2 SV=1	4.88e-06
+sp|P79393|PI2R_BOVIN	sp|P79393|PI2R_BOVIN Prostacyclin receptor OS=Bos taurus OX=9913 GN=PTGIR PE=3 SV=1	5.03e-06
+sp|Q60613|AA2AR_MOUSE	sp|Q60613|AA2AR_MOUSE Adenosine receptor A2a OS=Mus musculus OX=10090 GN=Adora2a PE=1 SV=3	5.65e-06
+sp|O19054|ADA2B_PROHA	sp|O19054|ADA2B_PROHA Alpha-2B adrenergic receptor (Fragment) OS=Procavia capensis habessinica OX=9814 GN=ADRA2B PE=3 SV=1	6.63e-06
+sp|O77700|ADA2B_BOVIN	sp|O77700|ADA2B_BOVIN Alpha-2B adrenergic receptor (Fragment) OS=Bos taurus OX=9913 GN=ADRA2B PE=3 SV=2	6.73e-06
+sp|Q90456|MR1BA_DANRE	sp|Q90456|MR1BA_DANRE Melatonin receptor type 1B-A (Fragment) OS=Danio rerio OX=7955 GN=mtnr1ba PE=2 SV=2	7.57e-06
+sp|P25929|NPY1R_HUMAN	sp|P25929|NPY1R_HUMAN Neuropeptide Y receptor type 1 OS=Homo sapiens OX=9606 GN=NPY1R PE=1 SV=1	7.69e-06
+sp|O02813|NPY1R_CANLF	sp|O02813|NPY1R_CANLF Neuropeptide Y receptor type 1 OS=Canis lupus familiaris OX=9615 GN=NPY1R PE=2 SV=2	9.81e-06
+sp|Q9Z2D5|NPY2R_CAVPO	sp|Q9Z2D5|NPY2R_CAVPO Neuropeptide Y receptor type 2 OS=Cavia porcellus OX=10141 GN=NPY2R PE=3 SV=1	1.06e-05
+sp|P35346|SSR5_HUMAN	sp|P35346|SSR5_HUMAN Somatostatin receptor type 5 OS=Homo sapiens OX=9606 GN=SSTR5 PE=1 SV=3	1.09e-05
+sp|Q9WVD0|NPY1R_CAVPO	sp|Q9WVD0|NPY1R_CAVPO Neuropeptide Y receptor type 1 OS=Cavia porcellus OX=10141 GN=NPY1R PE=3 SV=1	1.29e-05
+sp|Q90WY4|ADA2A_DANRE	sp|Q90WY4|ADA2A_DANRE Alpha-2A adrenergic receptor OS=Danio rerio OX=7955 GN=adra2a PE=3 SV=1	1.47e-05
+sp|B5X337|GP183_SALSA	sp|B5X337|GP183_SALSA G-protein coupled receptor 183 OS=Salmo salar OX=8030 GN=gpr183 PE=2 SV=1	1.50e-05
+sp|O77723|ADA2B_ECHTE	sp|O77723|ADA2B_ECHTE Alpha-2B adrenergic receptor (Fragment) OS=Echinops telfairi OX=9371 GN=ADRA2B PE=3 SV=1	1.56e-05
+sp|O02721|LSHR_CALJA	sp|O02721|LSHR_CALJA Lutropin-choriogonadotropic hormone receptor OS=Callithrix jacchus OX=9483 GN=LHCGR PE=2 SV=1	1.77e-05
+sp|Q8C010|GPR61_MOUSE	sp|Q8C010|GPR61_MOUSE G-protein coupled receptor 61 OS=Mus musculus OX=10090 GN=Gpr61 PE=2 SV=2	1.92e-05
+sp|Q32ZE2|AA2BR_RABIT	sp|Q32ZE2|AA2BR_RABIT Adenosine receptor A2b OS=Oryctolagus cuniculus OX=9986 GN=ADORA2B PE=2 SV=1	2.31e-05
+sp|P35409|GLHR_ANTEL	sp|P35409|GLHR_ANTEL Probable glycoprotein hormone G-protein coupled receptor OS=Anthopleura elegantissima OX=6110 PE=2 SV=1	2.50e-05
+sp|P97295|NPY2R_MOUSE	sp|P97295|NPY2R_MOUSE Neuropeptide Y receptor type 2 OS=Mus musculus OX=10090 GN=Npy2r PE=2 SV=2	2.91e-05
+sp|Q8HZ64|TAAR1_MACMU	sp|Q8HZ64|TAAR1_MACMU Trace amine-associated receptor 1 OS=Macaca mulatta OX=9544 GN=TAAR1 PE=3 SV=1	3.03e-05
+sp|P30543|AA2AR_RAT	sp|P30543|AA2AR_RAT Adenosine receptor A2a OS=Rattus norvegicus OX=10116 GN=Adora2a PE=1 SV=2	3.09e-05
+sp|Q8BZA7|GPR26_MOUSE	sp|Q8BZA7|GPR26_MOUSE G-protein coupled receptor 26 OS=Mus musculus OX=10090 GN=Gpr26 PE=2 SV=1	3.45e-05
+sp|Q93127|GPR18_AMPAM	sp|Q93127|GPR18_AMPAM Probable G-protein coupled receptor No18 OS=Amphibalanus amphitrite OX=1232801 PE=3 SV=1	4.03e-05
+sp|Q923Y3|TAA8B_RAT	sp|Q923Y3|TAA8B_RAT Trace amine-associated receptor 8b OS=Rattus norvegicus OX=10116 GN=Taar8b PE=3 SV=1	4.14e-05
+sp|P61752|HRH2_PONPY	sp|P61752|HRH2_PONPY Histamine H2 receptor OS=Pongo pygmaeus OX=9600 GN=HRH2 PE=3 SV=1	4.59e-05
+sp|P60021|HRH2_PANTR	sp|P60021|HRH2_PANTR Histamine H2 receptor OS=Pan troglodytes OX=9598 GN=HRH2 PE=3 SV=1	4.59e-05
+sp|P25021|HRH2_HUMAN	sp|P25021|HRH2_HUMAN Histamine H2 receptor OS=Homo sapiens OX=9606 GN=HRH2 PE=2 SV=1	4.59e-05
+sp|Q76MS7|HRH2_GORGO	sp|Q76MS7|HRH2_GORGO Histamine H2 receptor OS=Gorilla gorilla gorilla OX=9595 GN=HRH2 PE=3 SV=1	4.59e-05
+sp|P56479|GALR1_MOUSE	sp|P56479|GALR1_MOUSE Galanin receptor type 1 OS=Mus musculus OX=10090 GN=Galr1 PE=2 SV=1	4.78e-05

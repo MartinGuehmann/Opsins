@@ -1,0 +1,1148 @@
+P51475.1	RecName: Full=Pinopsin; AltName: Full=Pineal gland-specific opsin; Short=P-opsin; Short=Pineal opsin [Gallus gallus]	0.0
+P51476.1	RecName: Full=Pinopsin; AltName: Full=Pineal gland-specific opsin; Short=P-opsin; Short=Pineal opsin [Columba livia]	0.0
+O18912.2	N/A	1.56e-112
+O18913.2	N/A	2.21e-112
+O18914.2	N/A	8.16e-112
+P04000.1	RecName: Full=Long-wave-sensitive opsin 1; AltName: Full=Red cone photoreceptor pigment; AltName: Full=Red-sensitive opsin; Short=ROP [Homo sapiens]	1.30e-111
+O35599.1	N/A	1.47e-111
+O35476.2	N/A	3.01e-111
+P51489.1	RecName: Full=Rhodopsin [Rattus norvegicus]	3.54e-111
+P02699.1	N/A	6.44e-111
+P34989.1	RecName: Full=Opsin, longwave 563 nm [Callithrix jacchus]	7.03e-111
+Q8HY69.2	RecName: Full=Rhodopsin [Sminthopsis crassicaudata]	2.71e-110
+Q9BGI7.1	N/A	5.05e-110
+O18910.2	N/A	6.42e-110
+Q6W3E1.1	RecName: Full=Rhodopsin [Caluromys philander]	7.38e-110
+Q95170.1	N/A	1.52e-109
+Q769E8.1	N/A	1.55e-109
+O35478.2	RecName: Full=Medium-wave-sensitive opsin 1; AltName: Full=Green cone photoreceptor pigment; AltName: Full=Green-sensitive opsin; AltName: Full=Medium wavelength-sensitive cone opsin [Sciurus carolinensis]	2.42e-109
+Q95KU1.1	N/A	3.24e-109
+Q9R024.1	N/A	4.31e-109
+P49912.1	N/A	5.53e-109
+O18766.1	N/A	1.73e-108
+P41592.1	N/A	1.81e-108
+P04001.1	N/A	2.35e-108
+O62794.1	N/A	4.77e-108
+P22329.1	N/A	4.77e-108
+P02700.2	RecName: Full=Rhodopsin [Ovis aries]	6.98e-108
+Q28886.1	N/A	1.13e-107
+P15409.2	N/A	1.51e-107
+Q9YGZ0.1	RecName: Full=Rhodopsin [Sardina pilchardus]	2.94e-107
+P35359.2	RecName: Full=Rhodopsin [Danio rerio]	2.97e-107
+O42490.1	RecName: Full=Pineal opsin; AltName: Full=Pineal gland-specific opsin; Short=P-opsin [Petromyzon marinus]	2.99e-107
+P56515.1	RecName: Full=Rhodopsin [Rhinella marina]	3.14e-107
+O62795.1	RecName: Full=Rhodopsin [Phoca groenlandica]	3.17e-107
+P22328.1	N/A	4.12e-107
+O93441.1	RecName: Full=Rhodopsin [Galeus melastomus]	5.01e-107
+P35358.1	RecName: Full=Green-sensitive opsin P521; AltName: Full=Green photoreceptor pigment [Gekko gecko]	7.00e-107
+O62791.1	N/A	1.15e-106
+Q9YH05.1	RecName: Full=Rhodopsin [Diplodus annularis]	1.62e-106
+Q68J47.1	N/A	1.93e-106
+Q8AYN0.1	RecName: Full=Red-sensitive opsin-2; AltName: Full=Opsin-1, long-wave-sensitive 2; Short=Opsin LWS-2; AltName: Full=Red cone photoreceptor pigment 2 [Danio rerio]	2.79e-106
+P52202.1	N/A	2.79e-106
+O12948.1	N/A	2.91e-106
+O62798.1	N/A	3.51e-106
+P51488.1	RecName: Full=Rhodopsin [Cyprinus carpio]	8.29e-106
+P22332.2	N/A	1.48e-105
+P28681.1	N/A	2.11e-105
+P32309.1	RecName: Full=Rhodopsin [Carassius auratus]	2.31e-105
+Q9W6A6.2	RecName: Full=Green-sensitive opsin-4; AltName: Full=Green cone photoreceptor pigment 4; AltName: Full=Opsin RH2-4; AltName: Full=Opsin-1, medium-wave-sensitive 4 [Danio rerio]	2.41e-105
+O62793.1	RecName: Full=Rhodopsin [Mesoplodon bidens]	2.84e-105
+P79898.1	RecName: Full=Rhodopsin [Sargocentron diadema]	3.45e-105
+O62792.1	RecName: Full=Rhodopsin [Globicephala melas]	3.53e-105
+O93459.1	RecName: Full=Rhodopsin [Scyliorhinus canicula]	5.10e-105
+Q9YH02.1	N/A	6.07e-105
+P32310.1	N/A	6.48e-105
+P29403.1	RecName: Full=Rhodopsin [Xenopus laevis]	7.63e-105
+P41590.1	N/A	9.18e-105
+Q9DGG4.1	RecName: Full=Rhodopsin [Tetraodon nigroviridis]	1.27e-104
+Q9YH04.1	RecName: Full=Rhodopsin [Diplodus vulgaris]	1.53e-104
+Q9YH03.1	RecName: Full=Rhodopsin [Sarpa salpa]	1.55e-104
+P31355.1	RecName: Full=Rhodopsin [Rana pipiens]	2.26e-104
+Q9YGZ4.1	RecName: Full=Rhodopsin [Dicentrarchus labrax]	2.88e-104
+P79807.1	RecName: Full=Rhodopsin [Myripristis violacea]	4.45e-104
+P51470.1	RecName: Full=Rhodopsin [Lithobates catesbeianus]	4.49e-104
+Q9YH00.1	RecName: Full=Rhodopsin [Lithognathus mormyrus]	6.02e-104
+P22331.1	N/A	6.09e-104
+P08100.1	N/A	7.18e-104
+O42604.1	RecName: Full=Rhodopsin [Zeus faber]	1.00e-103
+P79901.1	RecName: Full=Rhodopsin [Sargocentron microstoma]	1.05e-103
+P32313.1	RecName: Full=Red-sensitive opsin; AltName: Full=Red cone photoreceptor pigment [Carassius auratus]	1.07e-103
+P56514.1	RecName: Full=Rhodopsin [Bufo bufo]	2.40e-103
+P79848.1	RecName: Full=Rhodopsin [Poecilia reticulata]	2.61e-103
+P03999.1	N/A	2.71e-103
+P22330.1	RecName: Full=Green-sensitive opsin-1; AltName: Full=Green cone photoreceptor pigment 1 [Psalidodon fasciatus]	3.14e-103
+P28683.1	N/A	3.51e-103
+Q9W6A7.1	N/A	3.78e-103
+P79914.1	RecName: Full=Rhodopsin [Sargocentron xantherythrum]	4.56e-103
+P32308.1	N/A	5.14e-103
+P87367.1	N/A	6.23e-103
+Q9YGZ8.1	RecName: Full=Rhodopsin [Chelon labrosus]	6.31e-103
+P51472.1	N/A	8.28e-103
+P87369.1	N/A	9.03e-103
+P51471.1	N/A	1.20e-102
+Q9YGZ6.1	RecName: Full=Rhodopsin [Chelon auratus]	1.27e-102
+P79863.1	RecName: Full=Rhodopsin [Leucoraja erinacea]	1.32e-102
+O62796.1	N/A	1.59e-102
+P79902.1	RecName: Full=Rhodopsin [Sargocentron punctatissimum]	2.65e-102
+Q9YH01.1	RecName: Full=Rhodopsin [Mullus surmuletus]	2.92e-102
+Q90214.1	RecName: Full=Rhodopsin, deep-sea form [Anguilla anguilla]	3.12e-102
+Q9YGZ5.1	RecName: Full=Rhodopsin [Solea solea]	3.33e-102
+P56516.1	RecName: Full=Rhodopsin [Rana temporaria]	3.37e-102
+P79808.1	RecName: Full=Rhodopsin [Neoniphon argenteus]	3.56e-102
+P22671.1	RecName: Full=Rhodopsin [Lethenteron camtschaticum]	3.84e-102
+Q9YGZ2.1	RecName: Full=Rhodopsin [Gobius niger]	3.84e-102
+Q9YGZ7.1	RecName: Full=Rhodopsin [Chelon saliens]	4.47e-102
+P79903.1	RecName: Full=Rhodopsin [Sargocentron spiniferum]	6.27e-102
+Q9YGY9.1	RecName: Full=Rhodopsin [Zosterisessor ophiocephalus]	6.75e-102
+Q9YGZ3.1	RecName: Full=Rhodopsin [Salaria pavo]	7.05e-102
+P41591.1	RecName: Full=Rhodopsin [Anolis carolinensis]	8.96e-102
+O42268.1	RecName: Full=Rhodopsin [Ictalurus punctatus]	9.32e-102
+Q9YGZ9.1	RecName: Full=Rhodopsin [Mugil cephalus]	1.27e-101
+O57605.1	N/A	1.56e-101
+P79911.1	RecName: Full=Rhodopsin [Sargocentron tiere]	2.84e-101
+P79812.1	RecName: Full=Rhodopsin [Neoniphon sammara]	3.00e-101
+Q90215.1	RecName: Full=Rhodopsin, freshwater form [Anguilla anguilla]	3.34e-101
+P28684.1	N/A	3.85e-101
+P79798.1	RecName: Full=Rhodopsin [Myripristis berndti]	6.14e-101
+P28682.1	N/A	7.35e-101
+P35357.1	RecName: Full=Blue-sensitive opsin P467; AltName: Full=Blue photoreceptor pigment [Gekko gecko]	1.13e-100
+Q8AYM7.1	N/A	1.17e-100
+Q90245.1	RecName: Full=Rhodopsin [Ambystoma tigrinum]	1.46e-100
+O13227.1	RecName: Full=Blue-sensitive opsin; AltName: Full=Blue cone photoreceptor pigment [Conger conger]	1.74e-100
+Q9YGZ1.1	RecName: Full=Rhodopsin [Atherina boyeri]	1.76e-100
+P79756.1	RecName: Full=Rhodopsin [Gambusia affinis]	1.80e-100
+P79809.1	RecName: Full=Rhodopsin [Neoniphon aurolineatus]	2.70e-100
+Q9W6A8.1	N/A	2.93e-100
+O13092.1	N/A	5.12e-100
+P51491.1	N/A	2.88e-99
+Q63652.2	RecName: Full=Short-wave-sensitive opsin 1; Short=S opsin; AltName: Full=Blue cone photoreceptor pigment; AltName: Full=Blue-sensitive opsin; Short=BOP; AltName: Full=Short wavelength-sensitive cone opsin [Rattus norvegicus]	5.54e-99
+Q7T3Q7.1	RecName: Full=Opsin-VA; AltName: Full=Vertebrate ancient opsin [Rutilus rutilus]	1.95e-98
+P51473.1	N/A	2.25e-98
+Q9W6A5.2	N/A	8.73e-97
+P32312.1	N/A	1.54e-96
+Q8AYM8.1	N/A	2.04e-96
+P51490.1	N/A	2.82e-96
+P32311.1	N/A	2.85e-96
+O42451.1	RecName: Full=Rhodopsin [Procottus jettelesii]	3.58e-96
+O42330.1	RecName: Full=Rhodopsin [Cottocomephorus inermis]	1.49e-95
+O42266.1	N/A	1.87e-95
+O42294.1	RecName: Full=Rhodopsin [Abyssocottus korotneffi]	3.22e-95
+Q98980.1	N/A	2.90e-94
+O42307.1	RecName: Full=Rhodopsin [Cottinella boulengeri]	4.73e-94
+O18911.1	RecName: Full=Medium-wave-sensitive opsin 1; AltName: Full=Green cone photoreceptor pigment; AltName: Full=Green-sensitive opsin [Odocoileus virginianus virginianus]	6.24e-94
+O42300.1	RecName: Full=Rhodopsin [Batrachocottus multiradiatus]	6.63e-94
+O42327.1	RecName: Full=Rhodopsin [Comephorus dybowskii]	7.81e-94
+O42301.1	RecName: Full=Rhodopsin [Batrachocottus nikolskii]	3.58e-93
+O42427.1	RecName: Full=Rhodopsin [Limnocottus bergianus]	3.70e-93
+Q9W6A9.2	RecName: Full=Opsin-1, short-wave-sensitive 1; Short=Opsin SWS-1; AltName: Full=Ultraviolet cone photoreceptor pigment; AltName: Full=Ultraviolet-sensitive opsin [Danio rerio]	4.12e-93
+P35403.1	RecName: Full=Rhodopsin [Pomatoschistus minutus]	4.72e-93
+O42466.1	RecName: Full=Rhodopsin [Taurulus bubalis]	2.53e-92
+P87365.1	N/A	3.12e-92
+P51474.1	RecName: Full=Green-sensitive opsin-3; AltName: Full=Green cone photoreceptor pigment 3 [Psalidodon fasciatus]	7.74e-92
+O42452.1	RecName: Full=Rhodopsin [Paracottus knerii]	2.09e-91
+O42431.1	RecName: Full=Rhodopsin [Limnocottus pallidus]	3.56e-91
+O42328.1	RecName: Full=Rhodopsin [Cottocomephorus grewingki]	3.73e-89
+P87368.1	N/A	1.44e-88
+Q90373.1	RecName: Full=Rhodopsin [Leocottus kesslerii]	2.84e-88
+O13018.1	N/A	4.94e-86
+P87366.1	N/A	1.02e-85
+Q90309.1	N/A	1.83e-84
+Q5XXP2.1	RecName: Full=Melanopsin; AltName: Full=Opsin-4 [Phodopus sungorus]	1.85e-45
+Q9H1Y3.1	N/A	3.46e-44
+Q804Q2.1	RecName: Full=Melanopsin-B; AltName: Full=Opsin-4B [Gadus morhua]	9.99e-44
+Q6XL69.1	RecName: Full=Melanopsin; AltName: Full=Opsin-4 [Rutilus rutilus]	4.09e-43
+Q5YKK9.1	N/A	8.39e-43
+Q9WUK7.1	N/A	9.72e-43
+P09241.1	RecName: Full=Rhodopsin [Enteroctopus dofleini]	1.70e-42
+Q1JPS6.1	N/A	4.44e-42
+Q804X9.1	RecName: Full=Melanopsin-A; AltName: Full=Opsin-4A [Gadus morhua]	6.05e-42
+O15974.1	RecName: Full=Rhodopsin, G0-coupled; AltName: Full=G0-rhodopsin [Mizuhopecten yessoensis]	1.38e-41
+O35214.1	N/A	4.02e-40
+Q2KNE5.3	RecName: Full=Melanopsin-A; AltName: Full=Mammalian-like melanopsin; AltName: Full=Melanopsin-M; AltName: Full=Opsin-4-A; AltName: Full=Opsin-4M [Danio rerio]	4.19e-40
+O14718.1	N/A	1.91e-39
+O16005.1	RecName: Full=Rhodopsin [Sepia officinalis]	2.25e-39
+O57422.1	N/A	2.31e-39
+O15973.1	RecName: Full=Rhodopsin, GQ-coupled; AltName: Full=GQ-rhodopsin [Mizuhopecten yessoensis]	7.31e-39
+Q8R456.1	N/A	1.73e-38
+P24603.1	RecName: Full=Rhodopsin [Loligo forbesii]	5.90e-38
+Q9UHM6.1	N/A	7.43e-38
+Q9QXZ9.1	N/A	1.08e-37
+Q90305.1	RecName: Full=Rhodopsin [Coregonus autumnalis]	1.20e-37
+Q17292.1	N/A	4.92e-37
+P35362.1	RecName: Full=Rhodopsin; Short=Opsin [Sphodromantis sp.]	1.66e-36
+Q4U4D2.2	RecName: Full=Melanopsin; AltName: Full=Opsin-4 [Podarcis siculus]	2.78e-36
+Q17094.1	RecName: Full=Rhodopsin [Alloteuthis subulata]	3.33e-36
+Q94741.1	RecName: Full=Opsin-1 [Schistocerca gregaria]	5.23e-36
+Q17296.1	RecName: Full=Rhodopsin [Cataglyphis bombycina]	1.56e-35
+P28679.3	N/A	2.08e-35
+Q4R1I4.1	RecName: Full=Melanopsin; AltName: Full=Opsin-4; AltName: Full=amphi-MOP [Branchiostoma belcheri]	3.36e-35
+P22269.1	RecName: Full=Opsin Rh1; AltName: Full=Outer R1-R6 photoreceptor cells opsin [Calliphora vicina]	4.64e-34
+Q25157.1	RecName: Full=Compound eye opsin BCRH1 [Hemigrapsus sanguineus]	5.56e-34
+P31356.2	RecName: Full=Rhodopsin [Todarodes pacificus]	1.70e-33
+Q95YI3.1	N/A	1.86e-33
+Q25158.1	RecName: Full=Compound eye opsin BCRH2 [Hemigrapsus sanguineus]	3.02e-33
+O02464.2	RecName: Full=Opsin-1; Short=MANOP1; AltName: Full=Rhodopsin 1, long-wavelength; AltName: Full=Rhodopsin P520 [Manduca sexta]	3.18e-33
+Q6VZZ7.1	N/A	9.53e-33
+O01668.1	N/A	1.79e-32
+P08099.1	N/A	2.29e-32
+Q6U736.3	N/A	2.65e-32
+P35361.1	N/A	2.98e-32
+P35360.1	RecName: Full=Lateral eye opsin [Limulus polyphemus]	1.21e-31
+P28678.4	N/A	1.48e-31
+P06002.1	N/A	1.87e-31
+Q17053.1	RecName: Full=Rhodopsin, long-wavelength; AltName: Full=Opsin, green-sensitive [Apis mellifera]	2.34e-31
+P90680.2	N/A	2.52e-28
+P91657.1	N/A	4.96e-28
+P34992.1	N/A	7.71e-27
+O61303.1	N/A	8.21e-27
+O08726.1	N/A	9.68e-27
+P30975.2	N/A	4.40e-26
+O88854.2	N/A	4.84e-26
+P30974.2	N/A	5.67e-26
+O02465.2	RecName: Full=Opsin-2; Short=MANOP2; AltName: Full=Rhodopsin 2, short-wavelength; AltName: Full=Rhodopsin P357 [Manduca sexta]	3.27e-25
+P29371.1	N/A	1.98e-24
+O43603.1	N/A	7.76e-24
+P51144.1	N/A	1.17e-23
+P25929.1	N/A	1.45e-23
+Q1RMU8.1	N/A	2.05e-23
+P21452.3	N/A	2.62e-23
+Q5DUB2.1	N/A	4.64e-23
+O02813.2	N/A	5.52e-23
+O16018.1	RecName: Full=Rhodopsin [Cambarellus shufeldtii]	9.56e-23
+Q9WVD0.1	RecName: Full=Neuropeptide Y receptor type 1; Short=NPY1-R [Cavia porcellus]	9.98e-23
+O16020.1	RecName: Full=Rhodopsin [Procambarus milleri]	1.07e-22
+O02835.2	N/A	1.29e-22
+O96107.1	RecName: Full=Opsin-3; Short=MANOP3; AltName: Full=Rhodopsin 3, short-wavelength; AltName: Full=Rhodopsin P450 [Manduca sexta]	1.37e-22
+P35346.3	N/A	3.17e-22
+P41144.1	N/A	4.16e-22
+P16610.1	N/A	4.20e-22
+P35356.1	RecName: Full=Rhodopsin [Procambarus clarkii]	4.48e-22
+O16019.1	RecName: Full=Rhodopsin [Orconectes virilis]	5.24e-22
+P21555.3	RecName: Full=Neuropeptide Y receptor type 1; Short=NPY1-R; AltName: Full=FC5 [Rattus norvegicus]	6.05e-22
+Q04573.1	N/A	6.73e-22
+O16017.1	RecName: Full=Rhodopsin [Lacunicambarus ludovicianus]	7.08e-22
+P25931.2	N/A	8.39e-22
+Q64077.1	N/A	1.26e-21
+Q26495.1	RecName: Full=Opsin-2 [Schistocerca gregaria]	1.59e-21
+P08255.2	N/A	2.77e-21
+O18481.1	RecName: Full=Rhodopsin [Orconectes australis]	3.35e-21
+P47937.2	N/A	3.92e-21
+P30549.1	N/A	4.65e-21
+O18485.1	RecName: Full=Rhodopsin [Procambarus orcinus]	4.91e-21
+P34975.1	N/A	6.16e-21
+P28680.3	N/A	6.40e-21
+P30098.1	N/A	6.70e-21
+P16177.1	N/A	8.26e-21
+P05363.1	N/A	1.02e-20
+P29404.2	N/A	1.33e-20
+P04950.1	N/A	1.55e-20
+F1MV99.2	N/A	1.56e-20
+P79218.1	N/A	2.54e-20
+Q95M54.1	N/A	3.48e-20
+P33534.1	N/A	4.86e-20
+F1R332.2	N/A	5.03e-20
+O18315.1	RecName: Full=Rhodopsin [Cambarus maculatus]	6.04e-20
+P30731.2	N/A	6.90e-20
+E7F7V7.1	N/A	8.77e-20
+P97295.2	N/A	1.03e-19
+Q9MYW9.2	N/A	1.30e-19
+O18486.1	RecName: Full=Rhodopsin [Procambarus seminolae]	1.36e-19
+P17646.2	RecName: Full=Opsin Rh4; AltName: Full=Inner R7 photoreceptor cells opsin [Drosophila virilis]	2.89e-19
+Q8WPA2.1	N/A	4.54e-19
+O18312.1	RecName: Full=Rhodopsin [Cambarus hubrichti]	5.52e-19
+Q61212.1	N/A	7.63e-19
+P30680.1	N/A	8.02e-19
+O97512.2	N/A	1.06e-18
+Q9NYM4.2	N/A	2.04e-18
+P49146.1	N/A	2.18e-18
+Q9GK74.1	N/A	2.22e-18
+P30874.1	N/A	3.08e-18
+P79113.1	N/A	3.17e-18
+P34994.1	N/A	5.80e-18
+Q9Z2D5.1	RecName: Full=Neuropeptide Y receptor type 2; Short=NPY2-R; AltName: Full=NPY-Y2 receptor; Short=Y2 receptor [Cavia porcellus]	5.82e-18
+P34993.1	N/A	5.97e-18
+Q9DDN6.1	N/A	8.63e-18
+P30875.1	N/A	1.05e-17
+P32304.2	N/A	1.09e-17
+O02836.2	N/A	1.11e-17
+Q59E83.1	N/A	1.17e-17
+P34969.2	N/A	1.26e-17
+Q8IN35.2	N/A	1.43e-17
+P32305.2	N/A	1.45e-17
+P23820.1	RecName: Full=Retinochrome; AltName: Full=Retinal photoisomerase [Todarodes pacificus]	2.00e-17
+Q9TTQ9.1	N/A	2.33e-17
+Q98982.1	RecName: Full=Substance-P receptor; Short=SPR; AltName: Full=NK-1 receptor; Short=NK-1R; AltName: Full=Tachykinin receptor 1 [Lithobates catesbeianus]	3.05e-17
+Q9VCZ3.1	N/A	3.96e-17
+Q9WU25.2	RecName: Full=Alpha-1A adrenergic receptor; AltName: Full=Alpha-1A adrenoreceptor; Short=Alpha-1A adrenoceptor; AltName: Full=Alpha-1C adrenergic receptor [Cavia porcellus]	5.96e-17
+P41145.2	N/A	6.66e-17
+P97718.3	N/A	6.79e-17
+P50407.1	N/A	7.52e-17
+Q49LX6.1	N/A	9.85e-17
+P15823.2	RecName: Full=Alpha-1B adrenergic receptor; AltName: Full=Alpha-1B adrenoreceptor; Short=Alpha-1B adrenoceptor [Rattus norvegicus]	1.10e-16
+Q9EQQ4.1	N/A	1.14e-16
+P18841.1	N/A	1.21e-16
+P79945.1	N/A	1.59e-16
+C3ZQF9.1	N/A	2.30e-16
+Q96P65.2	N/A	2.83e-16
+Q2YEG0.1	N/A	3.78e-16
+P35368.3	N/A	3.79e-16
+Q9Y5Y3.2	N/A	4.02e-16
+Q5IS84.1	N/A	4.02e-16
+Q2KIP6.1	N/A	4.75e-16
+P97717.2	RecName: Full=Alpha-1B adrenergic receptor; AltName: Full=Alpha-1B adrenoreceptor; Short=Alpha-1B adrenoceptor [Mus musculus]	5.21e-16
+Q9GZQ4.2	N/A	5.50e-16
+P48040.1	RecName: Full=Melatonin receptor type 1A; Short=Mel-1A-R; Short=Mel1a receptor [Ovis aries]	5.61e-16
+Q923Y9.1	RecName: Full=Trace amine-associated receptor 1; Short=TaR-1; Short=Trace amine receptor 1 [Rattus norvegicus]	6.58e-16
+P79217.1	N/A	6.70e-16
+P47804.1	N/A	7.04e-16
+P14600.1	N/A	7.74e-16
+Q91175.1	RecName: Full=Alpha-1A adrenergic receptor; AltName: Full=Alpha-1A adrenoreceptor; Short=Alpha-1A adrenoceptor; AltName: Full=MAR1 [Oryzias latipes]	8.15e-16
+O02824.1	N/A	9.43e-16
+P30548.2	N/A	9.87e-16
+P43140.1	N/A	1.01e-15
+P21109.2	N/A	1.01e-15
+P25100.2	N/A	1.04e-15
+P35348.2	N/A	1.06e-15
+Q03566.2	N/A	1.16e-15
+P25104.1	N/A	1.59e-15
+P21761.1	N/A	1.83e-15
+P35372.2	N/A	1.99e-15
+P33535.1	N/A	2.10e-15
+P30937.1	N/A	2.34e-15
+P18130.1	N/A	2.35e-15
+A1ZAX0.2	N/A	2.39e-15
+Q5IS39.1	N/A	2.43e-15
+P29089.1	N/A	2.51e-15
+Q9EQD2.1	N/A	2.56e-15
+P42866.1	N/A	2.71e-15
+P49285.1	N/A	3.15e-15
+Q924H0.2	N/A	3.32e-15
+Q95247.1	N/A	3.63e-15
+P29755.1	N/A	3.66e-15
+P49288.1	N/A	4.07e-15
+P35407.2	N/A	4.33e-15
+Q58CW4.1	N/A	4.72e-15
+P49219.1	N/A	4.96e-15
+Q28596.1	N/A	5.65e-15
+O46639.1	N/A	6.03e-15
+P29754.1	N/A	6.61e-15
+P34981.1	N/A	7.27e-15
+Q923Y5.1	N/A	7.68e-15
+G4WMX4.1	N/A	8.04e-15
+Q8ITC7.3	N/A	8.08e-15
+O77590.2	RecName: Full=Type-1 angiotensin II receptor; AltName: Full=Angiotensin II type-1 receptor; Short=AT1 [Ovis aries]	8.37e-15
+P25095.1	N/A	8.93e-15
+P49660.2	RecName: Full=Somatostatin receptor type 4; Short=SS-4-R; Short=SS4-R; Short=SS4R [Mus musculus]	9.40e-15
+Q5DUB1.1	N/A	1.05e-14
+P51684.2	N/A	1.08e-14
+P47803.1	N/A	1.09e-14
+P41597.1	N/A	1.13e-14
+P79785.1	N/A	1.15e-14
+P33396.1	N/A	1.23e-14
+Q18179.2	N/A	1.42e-14
+O35210.1	N/A	1.43e-14
+P58308.2	N/A	1.43e-14
+Q28558.2	N/A	1.75e-14
+P49217.2	RecName: Full=Melatonin receptor type 1A; Short=Mel-1A-R; Short=Mel1a receptor [Phodopus sungorus]	1.80e-14
+Q96RI8.1	N/A	1.88e-14
+P56719.1	N/A	1.99e-14
+P47748.1	N/A	2.15e-14
+P30547.1	N/A	2.53e-14
+Q9JHG3.1	N/A	2.55e-14
+P35373.1	N/A	2.65e-14
+Q8BZ39.1	N/A	2.81e-14
+Q01717.1	N/A	2.86e-14
+Q923Y3.1	N/A	2.90e-14
+P25103.1	N/A	2.96e-14
+Q8MJ89.2	RecName: Full=Melanin-concentrating hormone receptor 1; Short=MCH receptor 1; Short=MCH-R1; Short=MCHR-1; AltName: Full=G-protein coupled receptor 24; AltName: Full=MCH-1R; Short=MCH1R; Short=MCHR [Macaca mulatta]	3.06e-14
+O42329.2	RecName: Full=Gonadotropin-releasing hormone II receptor; Short=GnRH II receptor; Short=GnRH-II-R; AltName: Full=Type II GnRH receptor [Clarias gariepinus]	3.54e-14
+Q5QD21.1	N/A	3.90e-14
+G3M4F8.1	RecName: Full=Octopamine receptor beta-2R; Short=CsOA2B2 [Chilo suppressalis]	3.92e-14
+Q9ESQ4.2	N/A	4.10e-14
+P30555.1	N/A	4.56e-14
+P79350.2	N/A	5.27e-14
+O54689.1	N/A	5.47e-14
+Q9TUP7.1	N/A	5.73e-14
+Q56UD9.1	N/A	5.80e-14
+Q923X9.2	RecName: Full=Trace amine-associated receptor 8a; Short=TaR-8a; Short=Trace amine receptor 8a; AltName: Full=Trace amine receptor 11; Short=TaR-11 [Rattus norvegicus]	5.98e-14
+O62809.2	N/A	6.33e-14
+Q28998.2	N/A	6.57e-14
+Q9GLN9.1	N/A	6.57e-14
+Q91559.1	N/A	6.71e-14
+Q9BZJ6.2	N/A	7.01e-14
+P43240.1	RecName: Full=Type-1 angiotensin II receptor; AltName: Full=Angiotensin II type-1 receptor; Short=AT1 [Canis lupus familiaris]	7.35e-14
+O88495.3	N/A	7.37e-14
+Q923Y1.1	N/A	7.58e-14
+O77621.1	RecName: Full=Alpha-1A adrenergic receptor; AltName: Full=Alpha-1A adrenoreceptor; Short=Alpha-1A adrenoceptor; AltName: Full=Alpha-1C adrenergic receptor [Canis lupus familiaris]	8.49e-14
+P30556.1	N/A	8.61e-14
+P35370.1	N/A	8.88e-14
+Q5DUB3.1	N/A	9.24e-14
+Q9EQQ3.2	N/A	9.52e-14
+Q5QD13.1	N/A	9.81e-14
+P79292.1	N/A	9.91e-14
+P48039.1	N/A	1.04e-13
+Q61184.1	N/A	1.07e-13
+Q923X5.1	RecName: Full=Trace amine-associated receptor 7d; Short=TaR-7d; Short=Trace amine receptor 7d; AltName: Full=Trace amine receptor 15; Short=TaR-15 [Rattus norvegicus]	1.13e-13
+P49681.2	N/A	1.22e-13
+P35377.1	N/A	1.23e-13
+Q5QD08.1	N/A	1.29e-13
+Q5IJ49.1	N/A	1.32e-13
+P30873.1	N/A	1.38e-13
+Q61041.2	N/A	1.41e-13
+O55040.2	N/A	1.47e-13
+Q5QD11.1	N/A	1.58e-13
+P32303.2	N/A	1.61e-13
+Q923Y4.1	N/A	1.67e-13
+P28646.1	N/A	1.69e-13
+P30411.2	N/A	1.75e-13
+O43614.2	N/A	1.83e-13
+Q9Y5X5.2	RecName: Full=Neuropeptide FF receptor 2; AltName: Full=G-protein coupled receptor 74; AltName: Full=G-protein coupled receptor HLWAR77; AltName: Full=Neuropeptide G-protein coupled receptor [Homo sapiens]	1.85e-13
+Q2HJ17.1	N/A	1.87e-13
+P41146.1	N/A	1.88e-13
+P51049.2	N/A	1.93e-13
+Q49LX5.1	N/A	1.98e-13
+Q9WV26.1	N/A	2.07e-13
+P30872.1	N/A	2.07e-13
+P47898.1	N/A	2.14e-13
+Q9WV08.1	N/A	2.25e-13
+Q9Z2B3.1	N/A	2.62e-13
+Q13585.3	N/A	2.78e-13
+Q5QD23.1	N/A	2.99e-13
+Q923X6.1	RecName: Full=Trace amine-associated receptor 7e; Short=TaR-7e; Short=Trace amine receptor 7e; AltName: Full=Trace amine receptor 14; Short=TaR-14 [Rattus norvegicus]	3.07e-13
+Q9TTM9.1	N/A	3.11e-13
+Q28003.1	RecName: Full=C-X-C chemokine receptor type 2; Short=CXC-R2; Short=CXCR-2; AltName: Full=High affinity interleukin-8 receptor B; Short=IL-8R B; AltName: CD_antigen=CD182 [Bos taurus]	3.13e-13
+P70612.1	N/A	3.21e-13
+Q5QD14.1	N/A	3.63e-13
+Q63447.1	RecName: Full=Neuropeptide Y receptor type 4; Short=NPY4-R; AltName: Full=Pancreatic polypeptide receptor 1; Short=PP1 [Rattus norvegicus]	3.95e-13
+P34976.1	N/A	4.27e-13
+Q5QD12.1	N/A	4.37e-13
+Q5W8W0.1	N/A	4.58e-13
+Q5QD10.1	N/A	4.79e-13
+Q28997.2	N/A	4.90e-13
+P28221.1	N/A	5.41e-13
+P49286.1	N/A	5.96e-13
+Q9R0M1.1	RecName: Full=Chemokine XC receptor 1; AltName: Full=Lymphotactin receptor; AltName: Full=SCM1 receptor; AltName: Full=XC chemokine receptor 1; AltName: Full=mXCR1 [Mus musculus]	6.55e-13
+O35786.1	RecName: Full=Chemokine-like receptor 1; AltName: Full=G-protein coupled chemoattractant-like receptor; AltName: Full=G-protein coupled receptor DEZ [Rattus norvegicus]	6.67e-13
+Q8JZL2.3	N/A	7.06e-13
+Q5QD07.1	N/A	7.12e-13
+P32299.4	N/A	7.16e-13
+Q923Y2.1	N/A	8.36e-13
+Q923Y8.1	N/A	8.59e-13
+Q5QD16.1	N/A	9.35e-13
+Q5QD09.1	N/A	9.43e-13
+P48145.2	N/A	9.60e-13
+Q8HZP1.1	RecName: Full=B1 bradykinin receptor; Short=B1R; Short=BK-1 receptor [Tupaia minor]	1.04e-12
+P30966.2	N/A	1.17e-12
+Q99463.1	PUTATIVE PSEUDOGENE: RecName: Full=Putative neuropeptide Y receptor type 6; Short=NPY6-R; AltName: Full=NPY Y1-like receptor; AltName: Full=Putative pancreatic polypeptide receptor 2; Short=PP2 [Homo sapiens]	1.19e-12
+Q8MJW8.1	N/A	1.26e-12
+O42574.1	N/A	1.34e-12
+P79148.1	RecName: Full=Beta-1 adrenergic receptor; AltName: Full=Beta-1 adrenoreceptor; Short=Beta-1 adrenoceptor [Canis lupus familiaris]	1.41e-12
+P49287.2	N/A	1.42e-12
+P23944.2	N/A	1.47e-12
+Q923X8.2	N/A	1.48e-12
+Q5QD05.1	N/A	1.74e-12
+Q0GBZ5.1	N/A	2.00e-12
+P35343.1	N/A	2.03e-12
+O43613.2	N/A	2.11e-12
+O97571.1	RecName: Full=C-X-C chemokine receptor type 2; Short=CXC-R2; Short=CXCR-2; AltName: Full=GRO/MGSA receptor; AltName: Full=High affinity interleukin-8 receptor B; Short=IL-8R B; AltName: CD_antigen=CD182 [Canis lupus familiaris]	2.13e-12
+Q13304.2	N/A	2.38e-12
+P97468.1	N/A	2.74e-12
+P97714.1	RecName: Full=Alpha-1D adrenergic receptor; AltName: Full=Alpha-1A adrenergic receptor; AltName: Full=Alpha-1D adrenoreceptor; Short=Alpha-1D adrenoceptor [Mus musculus]	2.74e-12
+P83858.1	N/A	2.94e-12
+O18793.2	N/A	2.95e-12
+P58307.3	N/A	3.09e-12
+Q867B2.1	N/A	3.10e-12
+Q2WED0.1	N/A	3.12e-12
+O01670.1	RecName: Full=Octopamine receptor 2; Short=OA2 [Lymnaea stagnalis]	3.26e-12
+Q9TT96.2	RecName: Full=Beta-1 adrenergic receptor; AltName: Full=Beta-1 adrenoreceptor; Short=Beta-1 adrenoceptor [Bos taurus]	3.34e-12
+Q61125.1	N/A	3.39e-12
+Q4KWL2.1	RecName: Full=Beta-2 adrenergic receptor; AltName: Full=Beta-2 adrenoreceptor; Short=Beta-2 adrenoceptor [Tscherskia triton]	3.63e-12
+Q6BD04.1	N/A	3.85e-12
+Q5QD24.1	N/A	3.92e-12
+P31391.2	N/A	4.22e-12
+Q9BDS8.1	RecName: Full=C-C chemokine receptor type 3; Short=C-C CKR-3; Short=CC-CKR-3; Short=CCR-3; Short=CCR3; Short=CKR3; AltName: CD_antigen=CD193 [Macaca fascicularis]	4.51e-12
+P35364.1	N/A	4.52e-12
+Q5QD06.1	N/A	4.65e-12
+P97639.4	N/A	5.27e-12
+Q8MJV3.1	RecName: Full=Neuropeptides B/W receptor type 1; AltName: Full=G-protein coupled receptor 7 [Bos taurus]	5.29e-12
+B2RPY5.1	N/A	5.49e-12
+P97288.3	N/A	5.51e-12
+Q4LBB9.2	N/A	6.05e-12
+P10608.1	RecName: Full=Beta-2 adrenergic receptor; AltName: Full=Beta-2 adrenoreceptor; Short=Beta-2 adrenoceptor [Rattus norvegicus]	6.11e-12
+P30938.2	RecName: Full=Somatostatin receptor type 5; Short=SS-5-R; Short=SS5-R; Short=SS5R [Rattus norvegicus]	6.67e-12
+Q8K418.1	N/A	8.20e-12
+O55193.1	N/A	8.41e-12
+P18762.2	N/A	9.13e-12
+Q28927.2	RecName: Full=Beta-1 adrenergic receptor; AltName: Full=Beta-1 adrenoreceptor; Short=BETA1AR; Short=Beta-1 adrenoceptor [Ovis aries]	9.65e-12
+P97583.2	N/A	9.78e-12
+O14804.2	N/A	1.13e-11
+O54798.1	N/A	1.20e-11
+Q9R1C8.1	N/A	1.23e-11
+Q62758.1	N/A	1.25e-11
+P47800.1	RecName: Full=D(1)-like dopamine receptor [Oreochromis mossambicus]	1.30e-11
+O88626.1	RecName: Full=Galanin receptor type 3; Short=GAL3-R; Short=GALR-3 [Rattus norvegicus]	1.34e-11
+Q6XXY0.1	N/A	1.36e-11
+Q6XXY0.1	N/A	2.90e-06
+P35414.1	N/A	1.38e-11
+P51680.2	N/A	1.56e-11
+Q6XXX9.1	N/A	1.64e-11
+Q6XXX9.1	N/A	3.26e-06
+Q9P1P4.1	PUTATIVE PSEUDOGENE: RecName: Full=Putative trace amine-associated receptor 3; Short=TaR-3; Short=Trace amine receptor 3; Short=hTaar3; AltName: Full=G-protein coupled receptor 57 [Homo sapiens]	1.70e-11
+Q60484.1	N/A	1.84e-11
+Q5ECR9.1	N/A	1.85e-11
+P55919.1	RecName: Full=C-X-C chemokine receptor type 1; Short=CXC-R1; Short=CXCR-1; AltName: Full=High affinity interleukin-8 receptor A; Short=IL-8R A; AltName: Full=IL-8 receptor type 1; AltName: CD_antigen=CD181 [Gorilla gorilla gorilla]	1.87e-11
+B9VR26.1	N/A	1.88e-11
+O70528.1	N/A	1.95e-11
+Q5QD28.1	N/A	2.03e-11
+P56492.1	RecName: Full=C-C chemokine receptor type 3; Short=C-C CKR-3; Short=CC-CKR-3; Short=CCR-3; Short=CCR3; Short=CKR3; AltName: CD_antigen=CD193 [Chlorocebus aethiops]	2.06e-11
+P20905.1	N/A	2.06e-11
+P25023.4	RecName: Full=B2 bradykinin receptor; Short=B2R; Short=BK-2 receptor [Rattus norvegicus]	2.20e-11
+P56718.1	N/A	2.26e-11
+P70031.1	N/A	2.34e-11
+P70031.1	N/A	4.55e-05
+O97666.1	N/A	2.35e-11
+O18983.1	RecName: Full=C-X-C chemokine receptor type 6; Short=CXC-R6; Short=CXCR-6; AltName: Full=G-protein coupled receptor bonzo; AltName: CD_antigen=CD186 [Chlorocebus aethiops]	2.40e-11
+Q5MD61.1	N/A	2.41e-11
+Q93127.1	RecName: Full=Probable G-protein coupled receptor No18 [Amphibalanus amphitrite]	2.54e-11
+Q9BDQ5.1	N/A	2.83e-11
+P46663.3	N/A	2.90e-11
+P25115.1	N/A	3.10e-11
+Q13639.2	N/A	3.16e-11
+Q96RI9.1	N/A	3.27e-11
+O02666.1	RecName: Full=Alpha-1D adrenergic receptor; AltName: Full=Alpha-1D adrenoreceptor; Short=Alpha-1D adrenoceptor [Oryctolagus cuniculus]	3.46e-11
+Q18775.2	N/A	3.50e-11
+Q96RJ0.1	N/A	3.67e-11
+B3DM66.1	N/A	3.73e-11
+O08858.3	N/A	3.88e-11
+P51682.3	N/A	4.01e-11
+O93603.1	N/A	4.18e-11
+Q6NS65.1	N/A	4.38e-11
+Q9TST6.1	N/A	4.40e-11
+P56483.1	RecName: Full=C-C chemokine receptor type 3; Short=C-C CKR-3; Short=CC-CKR-3; Short=CCR-3; Short=CCR3; Short=CKR3; AltName: CD_antigen=CD193 [Macaca mulatta]	4.46e-11
+Q8IZ08.2	N/A	4.55e-11
+P51683.2	N/A	4.58e-11
+Q9TST5.1	N/A	4.61e-11
+Q28642.1	RecName: Full=B2 bradykinin receptor; Short=B2R; Short=BK-2 receptor [Oryctolagus cuniculus]	4.67e-11
+P51679.1	N/A	4.83e-11
+P35406.1	RecName: Full=D(1) dopamine receptor; AltName: Full=Dopamine D1 receptor [Carassius auratus]	5.12e-11
+Q64121.1	N/A	5.14e-11
+P21451.2	N/A	5.21e-11
+Q923Y0.1	N/A	5.26e-11
+Q09QM4.1	N/A	5.41e-11
+P54833.1	N/A	5.43e-11
+Q8HZ64.1	N/A	5.63e-11
+P51046.2	RecName: Full=Melatonin receptor type 1A-A; Short=Mel-1A-R-A; Short=Mel1a receptor A; AltName: Full=Melatonin receptor Mel1a Z1.7-4; AltName: Full=zMel1a1 [Danio rerio]	5.79e-11
+Q64264.2	N/A	5.94e-11
+Q64264.2	N/A	3.84e-06
+P79960.2	N/A	6.02e-11
+P25021.1	N/A	6.50e-11
+Q95136.2	N/A	6.72e-11
+P47751.2	RecName: Full=[Phe13]-bombesin receptor; AltName: Full=Bombesin receptor subtype-4; Short=BRS-4 [Bombina orientalis]	6.76e-11
+P50130.1	N/A	6.84e-11
+O60755.1	N/A	7.08e-11
+Q2YDN1.1	N/A	7.44e-11
+P48302.1	N/A	7.56e-11
+O62709.2	RecName: Full=Endothelin receptor type B; Short=ET-B; Short=ET-BR; AltName: Full=Endothelin receptor non-selective type; Flags: Precursor [Equus caballus]	8.52e-11
+Q810W6.1	N/A	8.55e-11
+P28088.1	N/A	8.79e-11
+Q2TAD5.1	RecName: Full=Apelin receptor B; AltName: Full=Angiotensin receptor-like 1b; AltName: Full=Angiotensin receptor-related protein B; AltName: Full=G-protein coupled receptor APJ-B; Short=APJb [Xenopus laevis]	8.95e-11
+Q2YEF9.1	RecName: Full=C-X-C chemokine receptor type 1; Short=CXC-R1; Short=CXCR-1; AltName: Full=High affinity interleukin-8 receptor A; Short=IL-8R A; AltName: Full=IL-8 receptor type 1; AltName: CD_antigen=CD181 [Pongo pygmaeus]	9.28e-11
+P53454.1	N/A	9.63e-11
+P41143.4	N/A	9.64e-11
+Q2YEG2.1	RecName: Full=C-X-C chemokine receptor type 1; Short=CXC-R1; Short=CXCR-1; AltName: Full=High affinity interleukin-8 receptor A; Short=IL-8R A; AltName: Full=IL-8 receptor type 1; AltName: CD_antigen=CD181 [Hoolock hoolock]	1.04e-10
+Q5QD29.1	N/A	1.04e-10
+Q8K4Z4.1	N/A	1.07e-10
+P51678.2	N/A	1.11e-10
+A0T2N3.1	N/A	1.14e-10
+Q9BDS6.1	N/A	1.14e-10
+P30551.1	N/A	1.20e-10
+P30551.1	N/A	3.30e-05
+O97661.2	N/A	1.21e-10
+P31388.2	RecName: Full=5-hydroxytryptamine receptor 6; Short=5-HT-6; Short=5-HT6; AltName: Full=ST-B17; AltName: Full=Serotonin receptor 6 [Rattus norvegicus]	1.23e-10
+P35344.1	N/A	1.27e-10
+Q1ZY22.1	N/A	1.29e-10
+P35463.1	N/A	1.33e-10
+Q4VA82.1	N/A	1.34e-10
+O54814.1	RecName: Full=C-C chemokine receptor type 3; Short=C-C CKR-3; Short=CC-CKR-3; Short=CCR-3; Short=CCR3; Short=CKR3; AltName: CD_antigen=CD193 [Rattus norvegicus]	1.36e-10
+Q9XT45.1	N/A	1.37e-10
+P04274.1	N/A	1.43e-10
+P55920.1	N/A	1.49e-10
+P25024.2	N/A	1.49e-10
+Q62805.1	N/A	1.53e-10
+Q9VNM1.3	N/A	1.53e-10
+O97772.1	N/A	1.56e-10
+Q7TQP2.1	N/A	1.65e-10
+P32238.1	N/A	1.73e-10
+E9QJ73.2	RecName: Full=C-X-C chemokine receptor type 3-2 [Danio rerio]	1.77e-10
+Q9N297.1	N/A	1.92e-10
+Q9N297.1	N/A	3.99e-06
+P32239.1	N/A	1.92e-10
+O19024.1	RecName: Full=C-X-C chemokine receptor type 6; Short=CXC-R6; Short=CXCR-6; AltName: Full=G-protein coupled receptor bonzo; AltName: CD_antigen=CD186 [Macaca nemestrina]	1.95e-10
+O08786.1	N/A	1.96e-10
+O08786.1	N/A	4.75e-06
+Q9N296.1	N/A	1.99e-10
+Q9N296.1	N/A	3.78e-06
+P53452.1	RecName: Full=D(1)-like dopamine receptor [Takifugu rubripes]	2.12e-10
+P19327.1	N/A	2.12e-10
+P19327.1	N/A	5.40e-06
+P08908.3	N/A	2.12e-10
+P08908.3	N/A	4.10e-06
+Q5IS65.1	N/A	2.17e-10
+Q4EW11.1	N/A	2.17e-10
+Q2NNR5.1	N/A	2.22e-10
+Q7TQN7.1	N/A	2.29e-10
+Q0EAB6.1	N/A	2.38e-10
+Q0EAB6.1	N/A	2.90e-06
+Q5QD17.1	N/A	2.40e-10
+P33533.1	N/A	2.40e-10
+Q5D0K2.1	N/A	2.50e-10
+Q9N298.1	N/A	2.51e-10
+Q9N298.1	N/A	4.32e-06
+Q8C131.1	N/A	2.91e-10
+Q969N4.1	N/A	3.03e-10
+Q8UUY8.1	N/A	3.07e-10
+Q8HZP2.1	RecName: Full=B1 bradykinin receptor; Short=B1R; Short=BK-1 receptor [Macaca mulatta]	3.18e-10
+P32300.1	N/A	3.18e-10
+P56481.1	N/A	3.37e-10
+Q2V2K5.1	RecName: Full=Gonadotropin-releasing hormone receptor; Short=GnRH receptor; Short=GnRH-R; Short=oct-GnRHR [Octopus vulgaris]	3.63e-10
+Q90328.1	RecName: Full=Endothelin receptor type B; Short=ET-B; Short=ET-BR; AltName: Full=Endothelin receptor non-selective type [Coturnix japonica]	3.73e-10
+P79748.1	RecName: Full=5-hydroxytryptamine receptor 1D; Short=5-HT-1D; Short=5-HT1D; Short=5HT1D; AltName: Full=F1D; AltName: Full=Serotonin receptor 1D [Takifugu rubripes]	3.81e-10
+P46627.1	RecName: Full=Gastrin/cholecystokinin type B receptor; Short=CCK-B receptor; Short=CCK-BR; AltName: Full=Cholecystokinin-2 receptor; Short=CCK2-R [Oryctolagus cuniculus]	3.89e-10
+Q8N6U8.1	N/A	4.05e-10
+P50406.1	N/A	4.08e-10
+P35365.1	N/A	4.15e-10
+P29275.1	N/A	4.23e-10
+P47775.1	N/A	4.43e-10
+A0A287A2K5.1	N/A	4.49e-10
+Q3BCU0.1	N/A	4.93e-10
+Q6VMN6.2	N/A	4.93e-10
+P97292.2	N/A	4.98e-10
+Q9EP86.1	RecName: Full=Neuropeptide FF receptor 1; AltName: Full=G-protein coupled receptor 147; AltName: Full=RFamide-related peptide receptor OT7T022 [Rattus norvegicus]	5.21e-10
+P79266.1	RecName: Full=Gastrin/cholecystokinin type B receptor; Short=CCK-B receptor; Short=CCK-BR; AltName: Full=Cholecystokinin-2 receptor; Short=CCK2-R [Bos taurus]	5.60e-10
+Q95L01.1	RecName: Full=B1 bradykinin receptor; Short=B1R; Short=BK-1 receptor [Chlorocebus aethiops]	5.86e-10
+P30552.1	RecName: Full=Gastrin/cholecystokinin type B receptor; Short=CCK-B receptor; Short=CCK-BR; AltName: Full=Cholecystokinin-2 receptor; Short=CCK2-R [Canis lupus familiaris]	6.06e-10
+Q923Y6.1	N/A	6.07e-10
+O88853.2	N/A	6.31e-10
+P30796.1	RecName: Full=Gastrin/cholecystokinin type B receptor; Short=CCK-B receptor; Short=CCK-BR; AltName: Full=Cholecystokinin-2 receptor; Short=CCK2-R [Mastomys natalensis]	6.48e-10
+P56497.3	RecName: Full=Endothelin receptor type B; Short=ET-B; Short=ET-BR; AltName: Full=Endothelin receptor non-selective type; Flags: Precursor [Canis lupus familiaris]	6.79e-10
+P49145.1	N/A	7.21e-10
+P32247.1	N/A	7.59e-10
+P32251.1	RecName: Full=Alpha-2 adrenergic receptor; AltName: Full=Alpha-2 adrenoreceptor; Short=Alpha-2 adrenoceptor [Carassius auratus]	7.67e-10
+Q23497.1	RecName: Full=Galanin-like G-protein coupled receptor npr-9; AltName: Full=Probable neuropeptide receptor 9 [Caenorhabditis elegans]	8.16e-10
+P83861.1	N/A	8.19e-10
+P56484.1	N/A	8.72e-10
+Q9N0Z0.1	RecName: Full=C-X-C chemokine receptor type 6; Short=CXC-R6; Short=CXCR-6; AltName: Full=G-protein coupled receptor STRL33; AltName: Full=G-protein coupled receptor bonzo; AltName: CD_antigen=CD186 [Cercocebus atys]	9.05e-10
+Q9TT23.1	N/A	9.46e-10
+Q61121.2	N/A	9.49e-10
+P70585.2	N/A	9.58e-10
+P07700.1	N/A	9.75e-10
+Q9TV16.1	N/A	1.00e-09
+P56479.1	N/A	1.01e-09
+Q9XT76.1	RecName: Full=C-C chemokine receptor type 5; Short=C-C CKR-5; Short=CC-CKR-5; Short=CCR-5; Short=CCR5; AltName: CD_antigen=CD195 [Allochrocebus lhoesti]	1.05e-09
+Q6W3F4.1	N/A	1.07e-09
+P42290.1	N/A	1.11e-09
+Q8MJV2.1	N/A	1.11e-09
+Q6H2Y3.1	N/A	1.12e-09
+Q9BGN6.1	RecName: Full=C-C chemokine receptor type 5; Short=C-C CKR-5; Short=CC-CKR-5; Short=CCR-5; Short=CCR5; AltName: CD_antigen=CD195 [Allochrocebus solatus]	1.14e-09
+Q63931.1	RecName: Full=Cholecystokinin receptor type A; Short=CCK-A receptor; Short=CCK-AR; AltName: Full=Cholecystokinin-1 receptor; Short=CCK1-R [Cavia porcellus]	1.15e-09
+Q63931.1	RecName: Full=Cholecystokinin receptor type A; Short=CCK-A receptor; Short=CCK-AR; AltName: Full=Cholecystokinin-1 receptor; Short=CCK1-R [Cavia porcellus]	2.83e-06
+O77680.1	N/A	1.19e-09
+P30553.1	N/A	1.22e-09
+O97967.1	N/A	1.31e-09
+P0DQD5.1	N/A	1.33e-09
+P24530.1	N/A	1.43e-09
+Q9I8K8.1	N/A	1.52e-09
+Q25188.1	RecName: Full=Octopamine receptor [Heliothis virescens]	1.55e-09
+Q923Y7.1	N/A	1.58e-09
+Q7YS92.1	N/A	1.58e-09
+O70526.1	N/A	1.62e-09
+Q5QD25.1	N/A	1.62e-09
+P22270.2	N/A	1.63e-09
+Q8BZA7.1	N/A	1.68e-09
+Q5QD04.1	N/A	1.69e-09
+O95136.2	N/A	1.69e-09
+P31387.1	RecName: Full=5-hydroxytryptamine receptor 5B; Short=5-HT-5B; Short=5-HT5B; AltName: Full=Serotonin receptor 5B [Mus musculus]	1.73e-09
+P51677.1	N/A	1.89e-09
+P25102.1	N/A	1.91e-09
+O62743.2	RecName: Full=C-C chemokine receptor type 5; Short=C-C CKR-5; Short=CC-CKR-5; Short=CCR-5; Short=CCR5; AltName: CD_antigen=CD195 [Cercocebus atys]	1.92e-09
+P70658.2	RecName: Full=C-X-C chemokine receptor type 4; Short=CXC-R4; Short=CXCR-4; AltName: Full=Fusin; AltName: Full=Leukocyte-derived seven transmembrane domain receptor; Short=LESTR; AltName: Full=Pre-B-cell-derived chemokine receptor; Short=PB-CKR; AltName: Full=Stromal cell-derived factor 1 receptor; Short=SDF-1 receptor; AltName: CD_antigen=CD184 [Mus musculus]	2.01e-09
+O08565.2	N/A	2.13e-09
+P42291.1	RecName: Full=D(1C) dopamine receptor [Xenopus laevis]	2.14e-09
+Q28044.2	N/A	2.15e-09
+P56498.1	N/A	2.17e-09
+P33032.3	N/A	2.18e-09
+Q8HZP3.1	N/A	2.28e-09
+Q9QXI3.1	N/A	2.38e-09
+P21728.1	N/A	2.39e-09
+Q8R415.2	RecName: Full=Prokineticin receptor 2; Short=PK-R2; AltName: Full=G-protein coupled receptor 73-like 1; AltName: Full=G-protein coupled receptor I5E [Rattus norvegicus]	2.43e-09
+Q8HZU1.1	N/A	2.54e-09
+Q95NC2.1	RecName: Full=C-C chemokine receptor type 5; Short=C-C CKR-5; Short=CC-CKR-5; Short=CCR-5; Short=CCR5; AltName: CD_antigen=CD195 [Plecturocebus moloch]	2.56e-09
+O00574.1	N/A	2.62e-09
+Q8HZU0.1	N/A	2.64e-09
+P07550.3	N/A	2.69e-09
+Q0VDU3.2	N/A	2.69e-09
+P30993.2	N/A	2.75e-09
+Q28509.1	N/A	2.99e-09
+Q95ND0.1	RecName: Full=C-C chemokine receptor type 5; Short=C-C CKR-5; Short=CC-CKR-5; Short=CCR-5; Short=CCR5; AltName: CD_antigen=CD195 [Erythrocebus patas]	2.99e-09
+Q17232.1	N/A	3.00e-09
+Q15743.1	N/A	3.06e-09
+P25089.2	N/A	3.54e-09
+Q61616.2	N/A	3.55e-09
+Q64H34.1	N/A	3.69e-09
+Q8HZN9.1	N/A	3.77e-09
+P34971.2	N/A	3.78e-09
+Q25321.1	RecName: Full=Tyramine receptor 1; AltName: Full=Tyr-Loc1 [Locusta migratoria]	3.96e-09
+P56491.1	N/A	4.23e-09
+P49682.2	N/A	4.33e-09
+O02213.4	N/A	4.44e-09
+Q25322.1	RecName: Full=Putative tyramine receptor 2; AltName: Full=Tyr-Loc2 [Locusta migratoria]	4.53e-09
+O46685.1	N/A	4.58e-09
+P55086.1	N/A	4.58e-09
+Q28474.2	N/A	4.63e-09
+Q28031.1	N/A	4.71e-09
+Q25414.1	RecName: Full=5-hydroxytryptamine receptor; Short=5-HT receptor; AltName: Full=Serotonin receptor [Lymnaea stagnalis]	4.91e-09
+P0C7U4.1	RecName: Full=C3a anaphylatoxin chemotactic receptor; Short=C3AR; Short=C3a-R [Danio rerio]	5.20e-09
+Q9N0W7.1	N/A	5.77e-09
+Q8CIQ6.1	RecName: Full=Melatonin receptor type 1B; Short=Mel-1B-R; Short=Mel1b receptor [Mus musculus]	5.97e-09
+P34968.2	N/A	6.70e-09
+P46628.1	N/A	7.68e-09
+P32249.3	N/A	7.81e-09
+P32246.1	N/A	8.07e-09
+P21918.2	N/A	8.33e-09
+P18090.1	N/A	8.33e-09
+P08588.2	RecName: Full=Beta-1 adrenergic receptor; AltName: Full=Beta-1 adrenoreceptor; Short=Beta-1 adrenoceptor [Homo sapiens]	8.48e-09
+P79243.1	RecName: Full=N-formyl peptide receptor 3; AltName: Full=FMLP-related receptor II; Short=FMLP-R-II; AltName: Full=Formyl peptide receptor-like 2 [Pan troglodytes]	8.71e-09
+P35371.1	N/A	8.77e-09
+Q9EQ31.1	N/A	8.88e-09
+Q5QNP2.1	N/A	8.90e-09
+Q89609.1	N/A	9.02e-09
+Q91ZZ5.2	N/A	9.32e-09
+Q8HZT9.1	N/A	9.83e-09
+Q764M9.1	N/A	9.96e-09
+P61072.1	N/A	1.02e-08
+O62747.1	RecName: Full=C-X-C chemokine receptor type 4; Short=CXC-R4; Short=CXCR-4; AltName: Full=Fusin; AltName: Full=Leukocyte-derived seven transmembrane domain receptor; Short=LESTR; AltName: Full=Stromal cell-derived factor 1 receptor; Short=SDF-1 receptor; AltName: CD_antigen=CD184 [Cercocebus atys]	1.04e-08
+Q95NC4.1	RecName: Full=C-C chemokine receptor type 5; Short=C-C CKR-5; Short=CC-CKR-5; Short=CCR-5; Short=CCR5; AltName: CD_antigen=CD195 [Ateles geoffroyi]	1.05e-08
+Q3LSL6.1	N/A	1.08e-08
+P79394.1	RecName: Full=C-X-C chemokine receptor type 4; Short=CXC-R4; Short=CXCR-4; AltName: Full=Fusin; AltName: Full=Leukocyte-derived seven transmembrane domain receptor; Short=LESTR; AltName: Full=Stromal cell-derived factor 1 receptor; Short=SDF-1 receptor; AltName: CD_antigen=CD184 [Macaca mulatta]	1.13e-08
+O97882.1	RecName: Full=C-C chemokine receptor type 5; Short=C-C CKR-5; Short=CC-CKR-5; Short=CCR-5; Short=CCR5; AltName: CD_antigen=CD195 [Pygathrix nemaeus]	1.15e-08
+P46094.1	N/A	1.35e-08
+Q8SPN2.1	N/A	1.42e-08
+P47747.1	RecName: Full=Histamine H2 receptor; Short=H2R; Short=HH2R; AltName: Full=Gastric receptor I [Cavia porcellus]	1.42e-08
+Q99788.2	N/A	1.50e-08
+Q9P1P5.2	N/A	1.53e-08
+P61793.1	N/A	1.56e-08
+P35409.1	RecName: Full=Probable glycoprotein hormone G-protein coupled receptor; Flags: Precursor [Anthopleura elegantissima]	1.68e-08
+Q9TV48.1	RecName: Full=C-C chemokine receptor type 5; Short=C-C CKR-5; Short=CC-CKR-5; Short=CCR-5; Short=CCR5; AltName: CD_antigen=CD195 [Cercopithecus ascanius]	1.72e-08
+O97883.1	N/A	1.74e-08
+B1PHQ8.1	N/A	1.79e-08
+Q9TV49.1	RecName: Full=C-C chemokine receptor type 5; Short=C-C CKR-5; Short=CC-CKR-5; Short=CCR-5; Short=CCR5; AltName: CD_antigen=CD195 [Cercocebus galeritus]	1.80e-08
+Q6WN98.1	RecName: Full=C-C chemokine receptor type 5; Short=C-C CKR-5; Short=CC-CKR-5; Short=CCR-5; Short=CCR5; AltName: CD_antigen=CD195 [Mico humeralifer]	1.84e-08
+Q28519.1	RecName: Full=C-X-C chemokine receptor type 2; Short=CXC-R2; Short=CXCR-2; AltName: Full=High affinity interleukin-8 receptor B; Short=IL-8R B; AltName: CD_antigen=CD182 [Macaca mulatta]	1.88e-08
+Q9TUE1.1	RecName: Full=C5a anaphylatoxin chemotactic receptor 1; AltName: Full=C5a anaphylatoxin chemotactic receptor; Short=C5a-R; Short=C5aR; AltName: CD_antigen=CD88 [Oryctolagus cuniculus]	1.91e-08
+Q8SQ54.1	N/A	1.99e-08
+P47899.1	N/A	2.05e-08
+Q8NDV2.1	N/A	2.06e-08
+Q588Y6.1	N/A	2.16e-08
+P51050.1	RecName: Full=Melatonin receptor type 1B; Short=Mel-1B-R; Short=Mel1b receptor [Gallus gallus]	2.27e-08
+Q95NE8.1	RecName: Full=C-C chemokine receptor type 5; Short=C-C CKR-5; Short=CC-CKR-5; Short=CCR-5; Short=CCR5; AltName: CD_antigen=CD195 [Chlorocebus tantalus]	2.28e-08
+P51681.1	N/A	2.30e-08
+Q63645.1	N/A	2.31e-08
+Q95NC0.1	RecName: Full=C-C chemokine receptor type 5; Short=C-C CKR-5; Short=CC-CKR-5; Short=CCR-5; Short=CCR5; AltName: CD_antigen=CD195 [Hylobates moloch]	2.57e-08
+P56440.1	N/A	2.71e-08
+P18901.2	RecName: Full=D(1A) dopamine receptor; AltName: Full=Dopamine D1 receptor [Rattus norvegicus]	2.72e-08
+P56493.1	RecName: Full=C-C chemokine receptor type 5; Short=C-C CKR-5; Short=CC-CKR-5; Short=CCR-5; Short=CCR5; AltName: CD_antigen=CD195 [Chlorocebus aethiops]	2.74e-08
+Q8K458.1	N/A	2.77e-08
+P97520.1	N/A	2.81e-08
+Q95NC5.1	RecName: Full=C-C chemokine receptor type 5; Short=C-C CKR-5; Short=CC-CKR-5; Short=CCR-5; Short=CCR5; AltName: CD_antigen=CD195 [Symphalangus syndactylus]	2.84e-08
+Q5QD15.1	N/A	2.86e-08
+P56439.1	N/A	2.94e-08
+Q60F97.1	N/A	2.99e-08
+O97881.1	N/A	2.99e-08
+Q95NC1.1	RecName: Full=C-C chemokine receptor type 5; Short=C-C CKR-5; Short=CC-CKR-5; Short=CCR-5; Short=CCR5; AltName: CD_antigen=CD195 [Theropithecus gelada]	3.08e-08
+P61813.1	N/A	3.13e-08
+Q9GLX8.1	RecName: Full=B2 bradykinin receptor; Short=B2R; Short=BK-2 receptor [Sus scrofa]	3.36e-08
+Q9TV42.1	RecName: Full=C-C chemokine receptor type 5; Short=C-C CKR-5; Short=CC-CKR-5; Short=CCR-5; Short=CCR5; AltName: CD_antigen=CD195 [Chlorocebus pygerythrus]	3.37e-08
+O97975.1	RecName: Full=C-C chemokine receptor type 5; Short=C-C CKR-5; Short=CC-CKR-5; Short=CCR-5; Short=CCR5; AltName: CD_antigen=CD195 [Macaca arctoides]	3.49e-08
+Q99JA4.1	N/A	3.72e-08
+Q924U1.2	RecName: Full=KiSS-1 receptor; Short=KiSS-1R; AltName: Full=G-protein coupled receptor 54; AltName: Full=G-protein coupled receptor OT7T175; Short=rOT7T175; AltName: Full=Kisspeptins receptor; AltName: Full=Metastin receptor [Rattus norvegicus]	3.77e-08
+P61755.1	RecName: Full=C-C chemokine receptor type 5; Short=C-C CKR-5; Short=CC-CKR-5; Short=CCR-5; Short=CCR5; AltName: CD_antigen=CD195 [Lophocebus aterrimus]	3.79e-08
+Q9TV47.1	RecName: Full=C-C chemokine receptor type 5; Short=C-C CKR-5; Short=CC-CKR-5; Short=CCR-5; Short=CCR5; AltName: CD_antigen=CD195 [Cercopithecus cephus]	3.82e-08
+Q60474.2	N/A	3.88e-08
+P17200.1	N/A	3.88e-08
+Q9TV43.1	RecName: Full=C-C chemokine receptor type 5; Short=C-C CKR-5; Short=CC-CKR-5; Short=CCR-5; Short=CCR5; AltName: CD_antigen=CD195 [Chlorocebus sabaeus]	3.89e-08
+Q95NC6.1	RecName: Full=C-C chemokine receptor type 5; Short=C-C CKR-5; Short=CC-CKR-5; Short=CCR-5; Short=CCR5; AltName: CD_antigen=CD195 [Trachypithecus johnii]	4.11e-08
+Q32ZE2.1	N/A	4.20e-08
+O19032.1	RecName: Full=Alpha-2B adrenergic receptor; AltName: Full=Alpha-2B adrenoreceptor; Short=Alpha-2B adrenoceptor; Short=Alpha-2BAR [Orycteropus afer]	4.23e-08
+O77721.2	RecName: Full=Alpha-2B adrenergic receptor; AltName: Full=Alpha-2B adrenoreceptor; Short=Alpha-2B adrenoceptor; Short=Alpha-2BAR [Equus caballus]	4.24e-08
+Q8NFJ6.1	N/A	4.30e-08
+Q95ND2.1	RecName: Full=C-C chemokine receptor type 5; Short=C-C CKR-5; Short=CC-CKR-5; Short=CCR-5; Short=CCR5; AltName: CD_antigen=CD195 [Mandrillus leucophaeus]	4.46e-08
+O19014.1	RecName: Full=Alpha-2B adrenergic receptor; AltName: Full=Alpha-2B adrenoreceptor; Short=Alpha-2B adrenoceptor; Short=Alpha-2BAR [Elephas maximus]	4.50e-08
+Q9EQ16.1	N/A	4.61e-08
+Q96P68.1	N/A	4.74e-08
+P32212.2	N/A	4.77e-08
+P43141.1	N/A	4.80e-08
+O77700.2	RecName: Full=Alpha-2B adrenergic receptor; AltName: Full=Alpha-2B adrenoreceptor; Short=Alpha-2B adrenoceptor; Short=Alpha-2BAR [Bos taurus]	5.26e-08
+Q9HB89.1	N/A	5.38e-08
+Q95ND1.1	RecName: Full=C-C chemokine receptor type 5; Short=C-C CKR-5; Short=CC-CKR-5; Short=CCR-5; Short=CCR5; AltName: CD_antigen=CD195 [Mandrillus sphinx]	5.79e-08
+O88410.2	N/A	5.82e-08
+Q9TSQ8.1	RecName: Full=C-X-C chemokine receptor type 4; Short=CXC-R4; Short=CXCR-4; AltName: CD_antigen=CD184 [Chlorocebus aethiops]	6.01e-08
+P14416.2	N/A	6.29e-08
+P14416.2	N/A	5.53e-06
+Q96R72.3	N/A	6.40e-08
+Q8MJ88.1	N/A	6.58e-08
+Q6IYF8.1	N/A	6.62e-08
+Q95NC3.1	RecName: Full=C-C chemokine receptor type 5; Short=C-C CKR-5; Short=CC-CKR-5; Short=CCR-5; Short=CCR5; AltName: CD_antigen=CD195 [Miopithecus talapoin]	6.64e-08
+Q98998.1	N/A	6.84e-08
+Q98998.1	N/A	9.25e-07
+P52702.1	N/A	6.88e-08
+P52702.1	N/A	5.15e-06
+Q8SPN1.1	N/A	7.38e-08
+Q95NC7.1	RecName: Full=C-C chemokine receptor type 5; Short=C-C CKR-5; Short=CC-CKR-5; Short=CCR-5; Short=CCR5; AltName: CD_antigen=CD195 [Nasalis larvatus]	7.40e-08
+Q8TCW9.1	N/A	7.48e-08
+Q60614.2	N/A	7.71e-08
+P23945.3	RecName: Full=Follicle-stimulating hormone receptor; Short=FSH-R; AltName: Full=Follitropin receptor; Flags: Precursor [Homo sapiens]	7.77e-08
+Q28807.2	RecName: Full=C-X-C chemokine receptor type 2; Short=CXC-R2; Short=CXCR-2; AltName: Full=High affinity interleukin-8 receptor B; Short=IL-8R B; AltName: CD_antigen=CD182 [Pan troglodytes]	7.80e-08
+O19012.1	RecName: Full=Alpha-2B adrenergic receptor; AltName: Full=Alpha-2B adrenoreceptor; Short=Alpha-2B adrenoceptor; Short=Alpha-2BAR [Erinaceus europaeus]	7.86e-08
+P25025.2	N/A	7.95e-08
+P61169.1	N/A	7.95e-08
+P61169.1	N/A	8.79e-06
+O19025.2	RecName: Full=Alpha-2B adrenergic receptor; AltName: Full=Alpha-2B adrenoreceptor; Short=Alpha-2B adrenoceptor; Short=Alpha-2BAR [Macroscelides proboscideus]	7.99e-08
+Q8JG70.1	RecName: Full=Alpha-2Da adrenergic receptor; AltName: Full=Alpha-2Da adrenoceptor; Short=Alpha(2Da)AR; AltName: Full=Alpha-2Da adrenoreceptor [Danio rerio]	8.03e-08
+O97878.1	RecName: Full=C-C chemokine receptor type 5; Short=C-C CKR-5; Short=CC-CKR-5; Short=CCR-5; Short=CCR5; AltName: CD_antigen=CD195 [Trachypithecus francoisi]	8.17e-08
+Q28422.1	RecName: Full=C-X-C chemokine receptor type 2; Short=CXC-R2; Short=CXCR-2; AltName: Full=High affinity interleukin-8 receptor B; Short=IL-8R B; AltName: CD_antigen=CD182 [Gorilla gorilla gorilla]	8.27e-08
+Q9PU17.1	N/A	8.39e-08
+Q95NC8.1	N/A	8.62e-08
+P79177.1	RecName: Full=N-formyl peptide receptor 2; AltName: Full=FMLP-related receptor I; Short=FMLP-R-I; AltName: Full=Formyl peptide receptor-like 1 [Gorilla gorilla gorilla]	8.89e-08
+O97879.1	RecName: Full=C-C chemokine receptor type 5; Short=C-C CKR-5; Short=CC-CKR-5; Short=CCR-5; Short=CCR5; AltName: CD_antigen=CD195 [Trachypithecus phayrei]	8.94e-08
+Q7ZTV5.1	RecName: Full=Follicle-stimulating hormone receptor; Short=FSH-R; AltName: Full=Follitropin receptor; Flags: Precursor [Cairina moschata]	9.03e-08
+P0C5J4.1	N/A	9.21e-08
+Q8NGI6.1	N/A	9.36e-08
+O42385.1	RecName: Full=5-hydroxytryptamine receptor 1A-alpha; Short=5-HT-1A-alpha; Short=5-HT1A-alpha; AltName: Full=F1A; AltName: Full=Serotonin receptor 1A-alpha [Takifugu rubripes]	9.40e-08
+O42385.1	RecName: Full=5-hydroxytryptamine receptor 1A-alpha; Short=5-HT-1A-alpha; Short=5-HT1A-alpha; AltName: Full=F1A; AltName: Full=Serotonin receptor 1A-alpha [Takifugu rubripes]	3.06e-05
+O77723.1	RecName: Full=Alpha-2B adrenergic receptor; AltName: Full=Alpha-2B adrenoreceptor; Short=Alpha-2B adrenoceptor; Short=Alpha-2BAR [Echinops telfairi]	9.58e-08
+Q9TV45.1	RecName: Full=C-C chemokine receptor type 5; Short=C-C CKR-5; Short=CC-CKR-5; Short=CCR-5; Short=CCR5; AltName: CD_antigen=CD195 [Cercopithecus nictitans]	9.70e-08
+O08892.1	N/A	9.79e-08
+P56449.1	N/A	1.01e-07
+P29274.2	N/A	1.04e-07
+P47211.3	N/A	1.05e-07
+Q5IS66.1	RecName: Full=5-hydroxytryptamine receptor 2C; Short=5-HT-2C; Short=5-HT2C; Short=5-HTR2C; AltName: Full=Serotonin receptor 2C; Flags: Precursor [Pan troglodytes]	1.06e-07
+O97880.1	RecName: Full=C-C chemokine receptor type 5; Short=C-C CKR-5; Short=CC-CKR-5; Short=CCR-5; Short=CCR5; AltName: CD_antigen=CD195 [Rhinopithecus bieti]	1.07e-07
+P25930.1	N/A	1.10e-07
+Q9UBY5.1	N/A	1.12e-07
+P25090.2	N/A	1.15e-07
+Q8K5E0.1	N/A	1.18e-07
+Q6R6L8.1	N/A	1.28e-07
+Q92633.3	N/A	1.30e-07
+P52500.2	RecName: Full=Gastrin-releasing peptide receptor; Short=GRP-R; AltName: Full=GRP-preferring bombesin receptor [Rattus norvegicus]	1.30e-07
+B5X337.1	N/A	1.31e-07
+P28222.1	N/A	1.31e-07
+P17124.1	N/A	1.32e-07
+P08909.1	N/A	1.35e-07
+Q9Z0L1.1	N/A	1.35e-07
+Q9N2B7.1	RecName: Full=5-hydroxytryptamine receptor 1B; Short=5-HT-1B; Short=5-HT1B; AltName: Full=Serotonin receptor 1B [Gorilla gorilla gorilla]	1.39e-07
+O18935.2	RecName: Full=Alpha-2B adrenergic receptor; AltName: Full=Alpha-2B adrenoreceptor; Short=Alpha-2B adrenoceptor; Short=Alpha-2BAR [Amblysomus hottentotus]	1.40e-07
+Q924T8.1	N/A	1.41e-07
+P61168.2	N/A	1.42e-07
+P61168.2	N/A	8.41e-06
+P18089.4	N/A	1.49e-07
+Q0II78.1	N/A	1.52e-07
+P11614.1	N/A	1.57e-07
+P79175.2	RecName: Full=C5a anaphylatoxin chemotactic receptor 1; AltName: Full=C5a anaphylatoxin chemotactic receptor; Short=C5a-R; Short=C5aR; AltName: CD_antigen=CD88 [Gorilla gorilla gorilla]	1.58e-07
+P20395.1	N/A	1.62e-07
+P20288.1	N/A	1.64e-07
+P20288.1	N/A	4.85e-06
+Q4V622.1	N/A	1.66e-07
+P42289.1	N/A	1.69e-07
+P79190.1	RecName: Full=N-formyl peptide receptor 2; AltName: Full=FMLP-related receptor I; Short=FMLP-R-I; AltName: Full=Formyl peptide receptor-like 1 [Macaca mulatta]	1.70e-07
+P14842.1	N/A	1.71e-07
+Q99677.1	N/A	1.71e-07
+O13076.1	N/A	1.73e-07
+O97962.1	N/A	1.81e-07
+O77713.2	RecName: Full=Alpha-2B adrenergic receptor; AltName: Full=Alpha-2B adrenoreceptor; Short=Alpha-2B adrenoceptor; Short=Alpha-2BAR [Dugong dugon]	1.84e-07
+Q8BLG2.2	N/A	1.84e-07
+Q2Y2P0.1	N/A	1.93e-07
+Q8BFQ3.1	N/A	1.93e-07
+P35363.1	N/A	1.95e-07
+P79242.1	RecName: Full=N-formyl peptide receptor 2; AltName: Full=FMLP-related receptor I; Short=FMLP-R-I; AltName: Full=Formyl peptide receptor-like 1 [Pan troglodytes]	2.00e-07
+Q90WY6.1	N/A	2.04e-07
+P18599.1	N/A	2.18e-07
+P30545.2	RecName: Full=Alpha-2B adrenergic receptor; AltName: Full=Alpha-2B adrenoreceptor; Short=Alpha-2B adrenoceptor; Short=Alpha-2BAR [Mus musculus]	2.26e-07
+E7EM37.1	N/A	2.28e-07
+P28335.1	N/A	2.29e-07
+Q8C010.2	N/A	2.41e-07
+P35376.1	N/A	2.46e-07
+P56482.1	N/A	2.48e-07
+Q86917.1	RecName: Full=G-protein coupled receptor homolog Q2/3L [Sheeppox virus KS-1]	2.51e-07
+Q7JQF1.1	N/A	2.52e-07
+Q91V45.1	N/A	2.58e-07
+P28564.1	N/A	2.61e-07
+P19328.2	N/A	2.70e-07
+O19054.1	RecName: Full=Alpha-2B adrenergic receptor; AltName: Full=Alpha-2B adrenoreceptor; Short=Alpha-2B adrenoceptor; Short=Alpha-2BAR [Procavia capensis habessinica]	2.70e-07
+Q6XXX8.1	N/A	2.75e-07
+Q8IS44.2	N/A	2.77e-07
+P79250.2	N/A	2.87e-07
+Q5E9P3.1	N/A	2.98e-07
+Q6TLI9.1	N/A	3.01e-07
+Q6TLI9.1	N/A	7.16e-06
+P35413.1	N/A	3.23e-07
+P49683.3	N/A	3.30e-07
+Q9GZQ6.1	N/A	3.33e-07
+Q868T3.4	RecName: Full=Cardioacceleratory peptide receptor; AltName: Full=Crustacean cardioactive peptide receptor [Drosophila melanogaster]	3.44e-07
+O46635.2	N/A	3.45e-07
+P21730.2	N/A	3.47e-07
+Q92847.1	N/A	3.54e-07
+P79188.1	RecName: Full=C5a anaphylatoxin chemotactic receptor 1; AltName: Full=C5a anaphylatoxin chemotactic receptor; Short=C5a-R; Short=C5aR; AltName: CD_antigen=CD88 [Macaca mulatta]	3.57e-07
+Q9Z2I3.1	N/A	3.65e-07
+Q28838.3	N/A	4.08e-07
+Q8NGE8.3	N/A	4.10e-07
+Q7ZXJ7.1	N/A	4.10e-07
+P79237.1	RecName: Full=N-formyl peptide receptor 3; AltName: Full=FMLP-related receptor II; Short=FMLP-R-II; AltName: Full=Formyl peptide receptor-like 2 [Pongo pygmaeus]	4.14e-07
+Q16950.1	RecName: Full=5-hydroxytryptamine receptor 1; AltName: Full=5-HTB1; AltName: Full=Serotonin receptor 1 [Aplysia californica]	4.17e-07
+Q9NSD7.1	N/A	4.35e-07
+P35404.1	RecName: Full=5-hydroxytryptamine receptor 1B; Short=5-HT-1B; Short=5-HT1B; AltName: Full=Serotonin receptor 1B [Didelphis virginiana]	4.41e-07
+Q8WXD0.1	N/A	4.51e-07
+P79191.1	RecName: Full=N-formyl peptide receptor 3; AltName: Full=FMLP-related receptor II; Short=FMLP-R-II; AltName: Full=Formyl peptide receptor-like 2 [Macaca mulatta]	4.53e-07
+P79240.2	N/A	4.88e-07
+P47752.1	N/A	4.91e-07
+Q8BYC4.1	N/A	4.91e-07
+Q9BXC0.1	N/A	4.95e-07
+Q9EP66.1	N/A	5.08e-07
+Q6Y1R5.1	N/A	5.16e-07
+P48146.2	N/A	5.17e-07
+O00270.2	N/A	5.26e-07
+P50129.1	N/A	5.30e-07
+P79178.1	RecName: Full=N-formyl peptide receptor 3; AltName: Full=FMLP-related receptor II; Short=FMLP-R-II; AltName: Full=Formyl peptide receptor-like 2 [Gorilla gorilla gorilla]	5.37e-07
+Q9Y2T5.2	N/A	5.38e-07
+Q6YNB6.1	RecName: Full=Follicle-stimulating hormone receptor; Short=FSH-R; AltName: Full=Follitropin receptor; Flags: Precursor [Notamacropus eugenii]	5.46e-07
+Q8BX79.1	N/A	5.62e-07
+Q9XT57.1	RecName: Full=Beta-3 adrenergic receptor; AltName: Full=Beta-3 adrenoreceptor; Short=Beta-3 adrenoceptor [Capra hircus]	5.78e-07
+P06199.1	N/A	5.86e-07
+Q9WTV8.2	RecName: Full=Vasopressin V1a receptor; Short=V1aR; AltName: Full=AVPR V1a; AltName: Full=Antidiuretic hormone receptor 1a; AltName: Full=Vascular/hepatic-type arginine vasopressin receptor [Microtus montanus]	5.90e-07
+P49144.1	N/A	6.17e-07
+Q9WTV9.1	RecName: Full=Vasopressin V1a receptor; Short=V1aR; AltName: Full=AVPR V1a; AltName: Full=Antidiuretic hormone receptor 1a; AltName: Full=Vascular/hepatic-type arginine vasopressin receptor [Microtus ochrogaster]	6.28e-07
+O77830.2	RecName: Full=Alpha-2B adrenergic receptor; AltName: Full=Alpha-2B adrenoreceptor; Short=Alpha-2B adrenoceptor; Short=Alpha-2BAR [Oryctolagus cuniculus]	6.45e-07
+P10980.2	RecName: Full=Muscarinic acetylcholine receptor M2 [Rattus norvegicus]	6.76e-07
+P30550.1	N/A	7.02e-07
+P21453.2	N/A	7.18e-07
+Q9UKP6.1	N/A	7.23e-07
+P30544.1	RecName: Full=Muscarinic acetylcholine receptor M4 [Xenopus laevis]	7.24e-07
+Q5WA50.1	N/A	7.32e-07
+Q9ERZ4.2	N/A	7.39e-07
+P28334.1	N/A	7.51e-07
+Q9GJU1.1	N/A	7.60e-07
+Q9GJU1.1	N/A	6.55e-06
+P51675.2	N/A	8.13e-07
+Q1LZD0.1	N/A	8.17e-07
+P08173.2	N/A	8.29e-07
+Q90X46.2	RecName: Full=G-protein coupled receptor 161 [Danio rerio]	8.30e-07
+P29276.1	N/A	8.39e-07
+Q9TST4.1	N/A	9.06e-07
+Q6TLI7.1	N/A	9.08e-07
+O00155.2	N/A	9.13e-07
+P79236.1	RecName: Full=N-formyl peptide receptor 2; AltName: Full=FMLP-related receptor I; Short=FMLP-R-I; AltName: Full=Formyl peptide receptor-like 1 [Pongo pygmaeus]	9.27e-07
+P32211.1	N/A	9.39e-07
+P08172.1	N/A	9.40e-07
+Q15760.2	N/A	9.55e-07
+P16395.2	N/A	9.66e-07
+Q9JII9.1	N/A	9.71e-07
+P41985.2	N/A	9.81e-07
+P18871.2	RecName: Full=Alpha-2A adrenergic receptor; AltName: Full=Alpha-2A adrenoreceptor; Short=Alpha-2A adrenoceptor; Short=Alpha-2AAR [Sus scrofa]	9.90e-07
+P60019.1	N/A	1.02e-06
+D4A7K7.1	N/A	1.02e-06
+P21729.2	N/A	1.03e-06
+P50132.2	N/A	1.04e-06
+Q95252.2	RecName: Full=Beta-3 adrenergic receptor; AltName: Full=Beta-3 adrenoreceptor; Short=Beta-3 adrenoceptor [Sus scrofa]	1.07e-06
+Q99679.1	N/A	1.07e-06
+A6QLE7.1	N/A	1.10e-06
+P46093.2	N/A	1.11e-06
+B0V1P1.1	RecName: Full=Melanocortin receptor 4; Short=MC4-R [Danio rerio]	1.13e-06
+Q8HYC3.1	N/A	1.16e-06
+P51676.2	N/A	1.17e-06
+P31390.1	N/A	1.17e-06
+P28336.2	N/A	1.18e-06
+Q0EAB5.1	N/A	1.21e-06
+Q4LBB6.4	N/A	1.22e-06
+P79189.1	RecName: Full=fMet-Leu-Phe receptor; Short=fMLP receptor; AltName: Full=N-formyl peptide receptor; Short=FPR; AltName: Full=N-formylpeptide chemoattractant receptor [Macaca mulatta]	1.25e-06
+Q1JQB3.1	N/A	1.25e-06
+Q9R1K6.1	N/A	1.26e-06
+P28223.2	N/A	1.27e-06
+P50128.1	N/A	1.27e-06
+Q9VML9.4	N/A	1.29e-06
+P34311.3	N/A	1.29e-06
+P55085.1	RecName: Full=Proteinase-activated receptor 2; Short=PAR-2; AltName: Full=Coagulation factor II receptor-like 1; AltName: Full=G-protein coupled receptor 11; AltName: Full=Thrombin receptor-like 1; Contains: RecName: Full=Proteinase-activated receptor 2, alternate cleaved 1; Contains: RecName: Full=Proteinase-activated receptor 2, alternate cleaved 2; Flags: Precursor [Homo sapiens]	1.34e-06
+P21463.2	N/A	1.40e-06
+P79234.1	RecName: Full=C5a anaphylatoxin chemotactic receptor 1; AltName: Full=C5a anaphylatoxin chemotactic receptor; Short=C5a-R; Short=C5aR; AltName: CD_antigen=CD88 [Pongo pygmaeus]	1.40e-06
+Q60475.1	RecName: Full=Alpha-2B adrenergic receptor; AltName: Full=Alpha-2B adrenoreceptor; Short=Alpha-2B adrenoceptor; Short=Alpha-2BAR [Cavia porcellus]	1.43e-06
+Q90334.1	RecName: Full=Isotocin receptor; Short=ITR [Catostomus commersonii]	1.43e-06
+Q9PU16.1	N/A	1.44e-06
+P30546.1	RecName: Full=Histamine H1 receptor; Short=H1R; Short=HH1R [Bos taurus]	1.47e-06
+P56496.1	RecName: Full=5-hydroxytryptamine receptor 1B; Short=5-HT-1B; Short=5-HT1B; AltName: Full=Serotonin receptor 1B [Nannospalax ehrenbergi]	1.48e-06
+Q8BZP8.1	N/A	1.65e-06
+P35379.1	N/A	1.67e-06
+Q9Z2J6.1	N/A	1.73e-06
+Q9N2A2.1	RecName: Full=Muscarinic acetylcholine receptor M3 [Pongo pygmaeus]	1.74e-06
+P11617.1	N/A	1.74e-06
+P49578.1	N/A	1.75e-06
+Q8SPP9.2	RecName: Full=Thyrotropin receptor; AltName: Full=Thyroid-stimulating hormone receptor; Short=TSH-R; Flags: Precursor [Sus scrofa]	1.75e-06
+P47799.1	RecName: Full=Follicle-stimulating hormone receptor; Short=FSH-R; AltName: Full=Follitropin receptor; Flags: Precursor [Equus caballus]	1.77e-06
+P79235.1	RecName: Full=fMet-Leu-Phe receptor; Short=fMLP receptor; AltName: Full=N-formyl peptide receptor; Short=FPR; AltName: Full=N-formylpeptide chemoattractant receptor [Pongo pygmaeus]	1.81e-06
+Q8BGE9.1	N/A	1.83e-06
+P56494.1	N/A	1.83e-06
+P46636.1	N/A	1.90e-06
+O08556.1	RecName: Full=C-C chemokine receptor type 5; Short=C-C CKR-5; Short=CC-CKR-5; Short=CCR-5; AltName: Full=MIP-1 alpha receptor; AltName: CD_antigen=CD195 [Rattus norvegicus]	1.99e-06
+P41596.2	N/A	2.02e-06
+P46090.1	N/A	2.04e-06
+P0C0L6.1	RecName: Full=Neuropeptide S receptor; AltName: Full=G-protein coupled receptor 154 [Rattus norvegicus]	2.16e-06
+Q8UUG8.1	RecName: Full=5-hydroxytryptamine receptor 2B; Short=5-HT-2B; Short=5-HT2B; AltName: Full=Serotonin receptor 2B [Tetraodon fluviatilis]	2.22e-06
+Q5R4Q6.1	N/A	2.28e-06
+P21462.3	N/A	2.35e-06
+Q8K1Q3.2	N/A	2.38e-06
+Q9JJI5.2	RecName: Full=Neuromedin-U receptor 1; Short=NMU-R1; AltName: Full=G-protein coupled receptor 66; AltName: Full=G-protein coupled receptor FM-3 [Rattus norvegicus]	2.39e-06
+P24628.1	N/A	2.44e-06
+Q16951.1	RecName: Full=5-hydroxytryptamine receptor 2; AltName: Full=5-HTB2; AltName: Full=Serotonin receptor 2 [Aplysia californica]	2.44e-06
+O77715.1	RecName: Full=Alpha-2B adrenergic receptor; AltName: Full=Alpha-2B adrenoreceptor; Short=Alpha-2B adrenoceptor; Short=Alpha-2BAR [Didelphis virginiana]	2.49e-06
+Q91081.1	RecName: Full=Alpha-2 adrenergic receptor; AltName: Full=Alpha-2 adrenoreceptor; Short=Alpha-2 adrenoceptor [Labrus ossifagus]	2.51e-06
+O97969.1	N/A	2.61e-06
+P48303.1	N/A	2.71e-06
+P41984.1	N/A	2.80e-06
+P30372.1	N/A	2.81e-06
+P30729.2	RecName: Full=D(4) dopamine receptor; AltName: Full=D(2C) dopamine receptor; AltName: Full=Dopamine D4 receptor [Rattus norvegicus]	2.83e-06
+P11483.1	N/A	2.85e-06
+Q5GJ04.1	N/A	2.88e-06
+Q9XT58.2	N/A	3.07e-06
+P08485.1	RecName: Full=Muscarinic acetylcholine receptor M4 [Rattus norvegicus]	3.09e-06
+Q9NDM2.1	N/A	3.15e-06
+P08913.4	N/A	3.32e-06
+P22909.3	N/A	3.41e-06
+Q01338.2	N/A	3.41e-06
+P24053.1	N/A	3.43e-06
+Q90674.2	N/A	3.55e-06
+Q99678.2	N/A	3.61e-06
+Q60476.1	RecName: Full=Alpha-2C adrenergic receptor; AltName: Full=Alpha-2C adrenoreceptor; Short=Alpha-2C adrenoceptor; Short=Alpha-2CAR [Cavia porcellus]	3.61e-06
+O02769.1	RecName: Full=Melatonin receptor type 1A; Short=Mel-1A-R; Short=Mel1a receptor [Bos taurus]	3.62e-06
+Q17239.1	N/A	3.72e-06
+Q95179.1	N/A	3.81e-06
+P70174.2	N/A	3.83e-06
+Q9N2A7.1	RecName: Full=Muscarinic acetylcholine receptor M2 [Pan troglodytes]	3.93e-06
+P16473.2	RecName: Full=Thyrotropin receptor; AltName: Full=Thyroid-stimulating hormone receptor; Short=TSH-R; Flags: Precursor [Homo sapiens]	4.19e-06
+O08530.3	N/A	4.30e-06
+Q969V1.1	N/A	4.40e-06
+Q6TLJ0.1	N/A	4.46e-06
+P30992.1	N/A	4.48e-06
+Q95NC9.1	RecName: Full=C-C chemokine receptor type 5; Short=C-C CKR-5; Short=CC-CKR-5; Short=CCR-5; Short=CCR5; AltName: CD_antigen=CD195 [Alouatta seniculus]	4.48e-06
+Q2KI97.1	N/A	4.50e-06
+P21554.1	N/A	4.82e-06
+P30939.1	N/A	4.90e-06
+Q8TDS4.1	N/A	5.04e-06
+Q8K087.1	N/A	5.14e-06
+P46626.1	N/A	5.19e-06
+O54799.1	N/A	5.23e-06
+Q9NPB9.1	N/A	5.28e-06
+Q9N2D9.1	RecName: Full=5-hydroxytryptamine receptor 1F; Short=5-HT-1F; Short=5-HT1F; AltName: Full=Serotonin receptor 1F [Pan troglodytes]	5.30e-06
+O88416.1	N/A	5.34e-06
+P79241.1	RecName: Full=fMet-Leu-Phe receptor; Short=fMLP receptor; AltName: Full=N-formyl peptide receptor; Short=FPR; AltName: Full=N-formylpeptide chemoattractant receptor [Pan troglodytes]	5.36e-06
+P58406.1	N/A	5.45e-06
+P46023.1	RecName: Full=G-protein coupled receptor GRL101; Flags: Precursor [Lymnaea stagnalis]	5.47e-06
+Q5XM32.1	N/A	5.49e-06
+Q9QYN8.1	N/A	6.01e-06
+Q7SZP9.2	RecName: Full=Apelin receptor A; AltName: Full=Angiotensin II receptor-like 1a; AltName: Full=Angiotensin receptor-like 1a; AltName: Full=G-protein coupled receptor APJ A [Danio rerio]	6.07e-06
+Q8CH60.2	N/A	6.23e-06
+P79763.1	N/A	6.65e-06
+P51436.1	N/A	6.67e-06
+O70129.1	N/A	6.93e-06
+Q0VC81.1	N/A	7.10e-06
+Q9JI35.2	N/A	7.12e-06
+O42384.1	RecName: Full=5-hydroxytryptamine receptor 1A-beta; Short=5-HT-1A-beta; Short=5-HT1A-beta; AltName: Full=F1B; AltName: Full=Serotonin receptor 1A-beta [Takifugu rubripes]	7.24e-06
+O42384.1	RecName: Full=5-hydroxytryptamine receptor 1A-beta; Short=5-HT-1A-beta; Short=5-HT1A-beta; AltName: Full=F1B; AltName: Full=Serotonin receptor 1A-beta [Takifugu rubripes]	1.54e-05
+Q95N02.1	RecName: Full=Cysteinyl leukotriene receptor 1; Short=CysLTR1 [Sus scrofa]	7.54e-06
+P41983.1	RecName: Full=Melanocortin receptor 5; Short=MC5-R [Ovis aries]	8.22e-06
+Q8NGA8.1	N/A	8.26e-06
+Q8NH72.1	N/A	8.40e-06
+Q9XSD7.1	RecName: Full=C-C chemokine receptor-like 2 [Macaca mulatta]	8.96e-06
+P49019.3	N/A	9.11e-06
+Q90456.2	RecName: Full=Melatonin receptor type 1B-A; Short=Mel-1B-R-A; Short=Mel1b receptor A; AltName: Full=Melatonin receptor Mel1b Z6.2; AltName: Full=Melatonin receptor Mel1b-19; AltName: Full=zMel1b-2 [Danio rerio]	9.29e-06
+Q6XKD3.1	N/A	9.32e-06
+P35405.2	RecName: Full=Alpha-2C adrenergic receptor; AltName: Full=Alpha-2C adrenoreceptor; Short=Alpha-2C adrenoceptor; Short=Alpha-2CAR [Didelphis virginiana]	9.76e-06
+Q02284.1	N/A	9.85e-06
+Q9Z1V0.1	N/A	1.04e-05
+Q8HYN8.1	N/A	1.07e-05
+Q80Z39.1	N/A	1.11e-05
+Q99MT6.2	N/A	1.11e-05
+Q28756.1	RecName: Full=Oxytocin receptor; Short=OT-R [Ovis aries]	1.13e-05
+O15218.1	N/A	1.14e-05
+Q9N2A4.1	N/A	1.17e-05
+Q86VZ1.1	N/A	1.21e-05
+P20309.1	N/A	1.25e-05
+Q91ZY1.1	N/A	1.27e-05
+Q93126.1	RecName: Full=Probable G-protein coupled receptor No9 [Amphibalanus amphitrite]	1.28e-05
+O95977.1	N/A	1.29e-05
+Q9MZV8.1	RecName: Full=Melanocortin receptor 5; Short=MC5-R [Sus scrofa]	1.34e-05
+Q75Z89.1	N/A	1.34e-05
+O02662.1	RecName: Full=Beta-3 adrenergic receptor; AltName: Full=Beta-3 adrenoreceptor; Short=Beta-3 adrenoceptor [Canis lupus familiaris]	1.37e-05
+Q9N2A3.1	N/A	1.40e-05
+Q8ITC9.1	N/A	1.44e-05
+P47746.1	N/A	1.49e-05
+P79176.1	RecName: Full=fMet-Leu-Phe receptor; Short=fMLP receptor; AltName: Full=N-formyl peptide receptor; Short=FPR; AltName: Full=N-formylpeptide chemoattractant receptor [Gorilla gorilla gorilla]	1.50e-05
+Q90352.1	RecName: Full=[Arg8]-vasotocin receptor; Short=AVT [Catostomus commersonii]	1.52e-05
+Q9DDK4.2	RecName: Full=Sphingosine 1-phosphate receptor 1; Short=S1P receptor 1; Short=S1P1; AltName: Full=Sphingosine 1-phosphate receptor Edg-1; Short=S1P receptor Edg-1 [Danio rerio]	1.53e-05
+P49684.2	N/A	1.55e-05
+P52592.3	N/A	1.55e-05
+P20272.1	N/A	1.56e-05
+Q9GZK7.1	N/A	1.56e-05
+Q9ERZ3.1	N/A	1.62e-05
+Q91ZY2.1	N/A	1.64e-05
+Q8NGC2.1	RecName: Full=Olfactory receptor 4E2; AltName: Full=Olfactory receptor OR14-42 [Homo sapiens]	1.66e-05
+Q01337.1	N/A	1.68e-05
+Q969F8.2	N/A	1.69e-05
+P56485.2	N/A	1.74e-05
+P18825.2	N/A	1.77e-05
+P22086.2	N/A	1.86e-05
+Q75ZH0.1	N/A	1.90e-05
+P08483.1	N/A	1.90e-05
+A5PLE7.1	N/A	1.92e-05
+P37288.1	N/A	1.95e-05
+Q8BMC0.1	N/A	1.97e-05
+O08890.1	N/A	1.98e-05
+P19020.1	N/A	2.00e-05
+Q25190.1	RecName: Full=5-hydroxytryptamine receptor; Short=5-HT receptor; AltName: Full=Serotonin receptor [Heliothis virescens]	2.01e-05
+P79291.1	RecName: Full=Delta-type opioid receptor; Short=D-OR-1; Short=DOR-1 [Sus scrofa]	2.02e-05
+Q19084.3	N/A	2.09e-05
+P30728.1	N/A	2.10e-05
+Q801M1.1	N/A	2.13e-05
+Q7YW31.1	RecName: Full=Cephalotocin receptor 1; AltName: Full=OC/CE-R 1; AltName: Full=OT/VP superfamily peptide receptor 1 [Octopus vulgaris]	2.39e-05
+P31389.1	RecName: Full=Histamine H1 receptor; Short=H1R; Short=HH1R [Cavia porcellus]	2.40e-05
+Q6W5P4.1	N/A	2.48e-05
+P35412.1	N/A	2.60e-05
+O19091.1	RecName: Full=Alpha-2B adrenergic receptor; AltName: Full=Alpha-2B adrenoreceptor; Short=Alpha-2B adrenoceptor; Short=Alpha-2BAR [Talpa europaea]	2.61e-05
+Q684M3.1	N/A	2.64e-05
+Q15615.3	N/A	2.77e-05
+A4FUQ5.2	N/A	2.77e-05
+P48748.1	N/A	2.81e-05
+P32306.1	N/A	2.87e-05
+Q15761.2	N/A	2.89e-05
+O62729.1	N/A	2.90e-05
+Q9HC97.4	N/A	2.91e-05
+P16582.1	N/A	2.93e-05
+P52703.1	N/A	3.05e-05
+P28566.1	N/A	3.08e-05
+Q5IS72.1	N/A	3.11e-05
+Q9Y271.1	N/A	3.14e-05
+Q9N2B6.1	RecName: Full=5-hydroxytryptamine receptor 1E; Short=5-HT-1E; Short=5-HT1E; AltName: Full=Serotonin receptor 1E [Pan troglodytes]	3.18e-05
+P56971.1	N/A	3.24e-05
+P35462.2	RecName: Full=D(3) dopamine receptor; AltName: Full=Dopamine D3 receptor [Homo sapiens]	3.25e-05
+O00421.2	N/A	3.47e-05
+Q8NH21.1	N/A	3.47e-05
+B3G515.1	N/A	3.52e-05
+Q08520.1	RecName: Full=G-protein coupled receptor homolog K2 [Swinepox virus (STRAIN KASZA)]	3.69e-05
+Q56H79.1	RecName: Full=Neuropeptide S receptor; AltName: Full=G-protein coupled receptor 154 [Macaca mulatta]	3.70e-05
+Q7TQN8.1	N/A	3.88e-05
+Q90WY4.1	RecName: Full=Alpha-2A adrenergic receptor; AltName: Full=Alpha-2A adrenoreceptor; Short=Alpha-2A adrenoceptor; Short=Alpha-2AAR [Danio rerio]	3.90e-05
+P43142.1	RecName: Full=G-protein coupled receptor 182; AltName: Full=G10D; AltName: Full=NOW [Mus musculus]	3.92e-05
+P46089.1	N/A	4.24e-05
+Q90WY5.1	N/A	4.32e-05
+Q9Y5N1.2	N/A	4.35e-05
+Q90252.1	RecName: Full=Mesotocin receptor; Short=MTR [Rhinella marina]	4.35e-05
+Q924T9.1	N/A	4.37e-05
+B2ZHY2.1	N/A	4.41e-05
+Q80WT4.1	N/A	4.78e-05

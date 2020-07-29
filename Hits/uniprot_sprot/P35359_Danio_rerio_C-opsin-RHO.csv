@@ -1,0 +1,1092 @@
+sp|P35359|OPSD_DANRE	sp|P35359|OPSD_DANRE Rhodopsin OS=Danio rerio OX=7955 GN=rho PE=1 SV=2	0.0
+sp|P51488|OPSD_CYPCA	sp|P51488|OPSD_CYPCA Rhodopsin OS=Cyprinus carpio OX=7962 GN=rho PE=2 SV=1	0.0
+sp|P32309|OPSD_CARAU	sp|P32309|OPSD_CARAU Rhodopsin OS=Carassius auratus OX=7957 GN=rho PE=1 SV=1	0.0
+sp|Q9DGG4|OPSD_TETNG	sp|Q9DGG4|OPSD_TETNG Rhodopsin OS=Tetraodon nigroviridis OX=99883 GN=rho PE=3 SV=1	0.0
+sp|P87369|OPSD_ORYLA	sp|P87369|OPSD_ORYLA Rhodopsin OS=Oryzias latipes OX=8090 GN=rho PE=1 SV=1	0.0
+sp|Q9YGZ0|OPSD_SARPI	sp|Q9YGZ0|OPSD_SARPI Rhodopsin OS=Sardina pilchardus OX=27697 GN=rho PE=2 SV=1	0.0
+sp|O42604|OPSD_ZEUFA	sp|O42604|OPSD_ZEUFA Rhodopsin OS=Zeus faber OX=64108 GN=rho PE=1 SV=1	0.0
+sp|P79848|OPSD_POERE	sp|P79848|OPSD_POERE Rhodopsin OS=Poecilia reticulata OX=8081 GN=rho PE=2 SV=1	0.0
+sp|Q9YGZ3|OPSD_SALPV	sp|Q9YGZ3|OPSD_SALPV Rhodopsin OS=Salaria pavo OX=152553 GN=rho PE=2 SV=1	0.0
+sp|Q9YH01|OPSD_MULSU	sp|Q9YH01|OPSD_MULSU Rhodopsin OS=Mullus surmuletus OX=87757 GN=rho PE=2 SV=1	0.0
+sp|Q9YGZ9|OPSD_MUGCE	sp|Q9YGZ9|OPSD_MUGCE Rhodopsin OS=Mugil cephalus OX=48193 GN=rho PE=1 SV=1	0.0
+sp|Q9YGZ7|OPSD_LIZSA	sp|Q9YGZ7|OPSD_LIZSA Rhodopsin OS=Liza saliens OX=48192 GN=rho PE=2 SV=1	0.0
+sp|Q9YGZ4|OPSD_DICLA	sp|Q9YGZ4|OPSD_DICLA Rhodopsin OS=Dicentrarchus labrax OX=13489 GN=rho PE=1 SV=1	0.0
+sp|Q9YGZ6|OPSD_CHEAU	sp|Q9YGZ6|OPSD_CHEAU Rhodopsin OS=Chelon auratus OX=48191 GN=rho PE=2 SV=1	0.0
+sp|P41590|OPSD_ASTFA	sp|P41590|OPSD_ASTFA Rhodopsin OS=Astyanax fasciatus OX=223369 GN=rho PE=1 SV=1	0.0
+sp|Q9YH02|OPSD_SPAAU	sp|Q9YH02|OPSD_SPAAU Rhodopsin OS=Sparus aurata OX=8175 GN=rho PE=2 SV=1	0.0
+sp|Q9YGZ1|OPSD_ATHBO	sp|Q9YGZ1|OPSD_ATHBO Rhodopsin OS=Atherina boyeri OX=87785 GN=rho PE=2 SV=1	0.0
+sp|Q9YH00|OPSD_LITMO	sp|Q9YH00|OPSD_LITMO Rhodopsin OS=Lithognathus mormyrus OX=50591 GN=rho PE=2 SV=1	0.0
+sp|Q9YH04|OPSD_DIPVU	sp|Q9YH04|OPSD_DIPVU Rhodopsin OS=Diplodus vulgaris OX=87756 GN=rho PE=2 SV=1	0.0
+sp|P79756|OPSD_GAMAF	sp|P79756|OPSD_GAMAF Rhodopsin OS=Gambusia affinis OX=33528 GN=rho PE=1 SV=1	0.0
+sp|Q9YH05|OPSD_DIPAN	sp|Q9YH05|OPSD_DIPAN Rhodopsin OS=Diplodus annularis OX=48913 GN=rho PE=2 SV=1	0.0
+sp|Q9YGZ8|OPSD_CHELB	sp|Q9YGZ8|OPSD_CHELB Rhodopsin OS=Chelon labrosus OX=48171 GN=rho PE=2 SV=1	0.0
+sp|Q9YH03|OPSD_SARSL	sp|Q9YH03|OPSD_SARSL Rhodopsin OS=Sarpa salpa OX=87759 GN=rho PE=2 SV=1	0.0
+sp|Q9YGY9|OPSD_ZOSOP	sp|Q9YGY9|OPSD_ZOSOP Rhodopsin OS=Zosterisessor ophiocephalus OX=85428 GN=rho PE=2 SV=1	0.0
+sp|Q90214|OPSD1_ANGAN	sp|Q90214|OPSD1_ANGAN Rhodopsin, deep-sea form OS=Anguilla anguilla OX=7936 PE=1 SV=1	0.0
+sp|Q9YGZ2|OPSD_GOBNI	sp|Q9YGZ2|OPSD_GOBNI Rhodopsin OS=Gobius niger OX=85417 GN=rho PE=2 SV=1	0.0
+sp|O13227|OPSB_CONCO	sp|O13227|OPSB_CONCO Blue-sensitive opsin OS=Conger conger OX=82655 PE=1 SV=1	0.0
+sp|Q90215|OPSD2_ANGAN	sp|Q90215|OPSD2_ANGAN Rhodopsin, freshwater form OS=Anguilla anguilla OX=7936 PE=1 SV=1	0.0
+sp|Q9YGZ5|OPSD_SOLSO	sp|Q9YGZ5|OPSD_SOLSO Rhodopsin OS=Solea solea OX=90069 GN=rho PE=2 SV=1	0.0
+sp|Q769E8|OPSD_OTOCR	sp|Q769E8|OPSD_OTOCR Rhodopsin OS=Otolemur crassicaudatus OX=9463 GN=RHO PE=2 SV=1	0.0
+sp|Q95KU1|OPSD_FELCA	sp|Q95KU1|OPSD_FELCA Rhodopsin OS=Felis catus OX=9685 GN=RHO PE=3 SV=1	0.0
+sp|P02699|OPSD_BOVIN	sp|P02699|OPSD_BOVIN Rhodopsin OS=Bos taurus OX=9913 GN=RHO PE=1 SV=1	0.0
+sp|P51470|OPSD_LITCT	sp|P51470|OPSD_LITCT Rhodopsin OS=Lithobates catesbeianus OX=8400 GN=RHO PE=2 SV=1	0.0
+sp|P49912|OPSD_RABIT	sp|P49912|OPSD_RABIT Rhodopsin OS=Oryctolagus cuniculus OX=9986 GN=RHO PE=2 SV=1	0.0
+sp|P35403|OPSD_POMMI	sp|P35403|OPSD_POMMI Rhodopsin OS=Pomatoschistus minutus OX=13225 GN=rho PE=2 SV=1	0.0
+sp|P79807|OPSD_MYRVI	sp|P79807|OPSD_MYRVI Rhodopsin (Fragment) OS=Myripristis violacea OX=47701 GN=rho PE=2 SV=1	0.0
+sp|Q68J47|OPSD_LOXAF	sp|Q68J47|OPSD_LOXAF Rhodopsin OS=Loxodonta africana OX=9785 GN=RHO PE=1 SV=1	0.0
+sp|P51489|OPSD_RAT	sp|P51489|OPSD_RAT Rhodopsin OS=Rattus norvegicus OX=10116 GN=Rho PE=2 SV=1	0.0
+sp|P79898|OPSD_SARDI	sp|P79898|OPSD_SARDI Rhodopsin OS=Sargocentron diadema OX=47709 GN=rho PE=2 SV=1	0.0
+sp|P31355|OPSD_LITPI	sp|P31355|OPSD_LITPI Rhodopsin OS=Lithobates pipiens OX=8404 GN=RHO PE=1 SV=1	0.0
+sp|P02700|OPSD_SHEEP	sp|P02700|OPSD_SHEEP Rhodopsin OS=Ovis aries OX=9940 GN=RHO PE=1 SV=2	0.0
+sp|P28681|OPSD_CRIGR	sp|P28681|OPSD_CRIGR Rhodopsin OS=Cricetulus griseus OX=10029 GN=RHO PE=3 SV=1	0.0
+sp|Q6W3E1|OPSD_CALPD	sp|Q6W3E1|OPSD_CALPD Rhodopsin OS=Caluromys philander OX=70610 GN=RHO PE=2 SV=1	0.0
+sp|O62794|OPSD_PHOVI	sp|O62794|OPSD_PHOVI Rhodopsin OS=Phoca vitulina OX=9720 GN=RHO PE=2 SV=1	0.0
+sp|O93459|OPSD_SCYCA	sp|O93459|OPSD_SCYCA Rhodopsin OS=Scyliorhinus canicula OX=7830 GN=rho PE=2 SV=1	0.0
+sp|P15409|OPSD_MOUSE	sp|P15409|OPSD_MOUSE Rhodopsin OS=Mus musculus OX=10090 GN=Rho PE=1 SV=2	0.0
+sp|P56516|OPSD_RANTE	sp|P56516|OPSD_RANTE Rhodopsin OS=Rana temporaria OX=8407 GN=RHO PE=2 SV=1	0.0
+sp|O62795|OPSD_PAGGO	sp|O62795|OPSD_PAGGO Rhodopsin OS=Pagophilus groenlandicus OX=39089 GN=RHO PE=2 SV=1	0.0
+sp|P79798|OPSD_MYRBE	sp|P79798|OPSD_MYRBE Rhodopsin (Fragment) OS=Myripristis berndti OX=47700 GN=rho PE=2 SV=1	0.0
+sp|Q28886|OPSD_MACFA	sp|Q28886|OPSD_MACFA Rhodopsin OS=Macaca fascicularis OX=9541 GN=RHO PE=2 SV=1	0.0
+sp|P79901|OPSD_SARMI	sp|P79901|OPSD_SARMI Rhodopsin (Fragment) OS=Sargocentron microstoma OX=47710 GN=rho PE=2 SV=1	0.0
+sp|O62791|OPSD_DELDE	sp|O62791|OPSD_DELDE Rhodopsin OS=Delphinus delphis OX=9728 GN=RHO PE=2 SV=1	0.0
+sp|P79812|OPSD_NEOSA	sp|P79812|OPSD_NEOSA Rhodopsin OS=Neoniphon sammara OX=47706 GN=rho PE=2 SV=1	0.0
+sp|P79914|OPSD_SARXA	sp|P79914|OPSD_SARXA Rhodopsin (Fragment) OS=Sargocentron xantherythrum OX=47708 GN=rho PE=2 SV=1	0.0
+sp|P79808|OPSD_NEOAR	sp|P79808|OPSD_NEOAR Rhodopsin (Fragment) OS=Neoniphon argenteus OX=47704 GN=rho PE=2 SV=1	0.0
+sp|O62796|OPSD_TRIMA	sp|O62796|OPSD_TRIMA Rhodopsin OS=Trichechus manatus OX=9778 GN=RHO PE=2 SV=1	0.0
+sp|P79863|OPSD_LEUER	sp|P79863|OPSD_LEUER Rhodopsin OS=Leucoraja erinacea OX=7782 GN=rho PE=2 SV=1	0.0
+sp|O62798|OPSD_TURTR	sp|O62798|OPSD_TURTR Rhodopsin OS=Tursiops truncatus OX=9739 GN=RHO PE=1 SV=1	0.0
+sp|P79902|OPSD_SARPU	sp|P79902|OPSD_SARPU Rhodopsin (Fragment) OS=Sargocentron punctatissimum OX=47711 GN=rho PE=2 SV=1	0.0
+sp|O93441|OPSD_GALML	sp|O93441|OPSD_GALML Rhodopsin OS=Galeus melastomus OX=77914 GN=rho PE=2 SV=1	0.0
+sp|P22328|OPSD_CHICK	sp|P22328|OPSD_CHICK Rhodopsin OS=Gallus gallus OX=9031 GN=RHO PE=3 SV=1	0.0
+sp|P56515|OPSD_RHIMB	sp|P56515|OPSD_RHIMB Rhodopsin OS=Rhinella marina OX=8386 GN=RHO PE=2 SV=1	0.0
+sp|P32308|OPSD_CANLF	sp|P32308|OPSD_CANLF Rhodopsin OS=Canis lupus familiaris OX=9615 GN=RHO PE=1 SV=1	0.0
+sp|O18766|OPSD_PIG	sp|O18766|OPSD_PIG Rhodopsin OS=Sus scrofa OX=9823 GN=RHO PE=1 SV=1	0.0
+sp|O62792|OPSD_GLOME	sp|O62792|OPSD_GLOME Rhodopsin OS=Globicephala melas OX=9731 GN=RHO PE=2 SV=1	0.0
+sp|O62793|OPSD_MESBI	sp|O62793|OPSD_MESBI Rhodopsin OS=Mesoplodon bidens OX=48745 GN=RHO PE=2 SV=1	0.0
+sp|P52202|OPSD_ALLMI	sp|P52202|OPSD_ALLMI Rhodopsin OS=Alligator mississippiensis OX=8496 GN=RHO PE=1 SV=1	0.0
+sp|Q90245|OPSD_AMBTI	sp|Q90245|OPSD_AMBTI Rhodopsin OS=Ambystoma tigrinum OX=8305 GN=RHO PE=2 SV=1	0.0
+sp|P29403|OPSD_XENLA	sp|P29403|OPSD_XENLA Rhodopsin OS=Xenopus laevis OX=8355 GN=rho PE=1 SV=1	0.0
+sp|P79903|OPSD_SARSP	sp|P79903|OPSD_SARSP Rhodopsin (Fragment) OS=Sargocentron spiniferum OX=47712 GN=rho PE=2 SV=1	0.0
+sp|P56514|OPSD_BUFBU	sp|P56514|OPSD_BUFBU Rhodopsin OS=Bufo bufo OX=8384 GN=RHO PE=2 SV=1	0.0
+sp|P79809|OPSD_NEOAU	sp|P79809|OPSD_NEOAU Rhodopsin (Fragment) OS=Neoniphon aurolineatus OX=47705 GN=rho PE=2 SV=1	0.0
+sp|P08100|OPSD_HUMAN	sp|P08100|OPSD_HUMAN Rhodopsin OS=Homo sapiens OX=9606 GN=RHO PE=1 SV=1	0.0
+sp|Q8HY69|OPSD_SMICR	sp|Q8HY69|OPSD_SMICR Rhodopsin OS=Sminthopsis crassicaudata OX=9301 GN=RHO PE=2 SV=2	0.0
+sp|P79911|OPSD_SARTI	sp|P79911|OPSD_SARTI Rhodopsin (Fragment) OS=Sargocentron tiere OX=47713 GN=rho PE=2 SV=1	0.0
+sp|P41591|OPSD_ANOCA	sp|P41591|OPSD_ANOCA Rhodopsin OS=Anolis carolinensis OX=28377 GN=RHO PE=3 SV=1	0.0
+sp|O42268|OPSD_ICTPU	sp|O42268|OPSD_ICTPU Rhodopsin (Fragment) OS=Ictalurus punctatus OX=7998 GN=rho PE=2 SV=1	0.0
+sp|P22671|OPSD_LETCA	sp|P22671|OPSD_LETCA Rhodopsin OS=Lethenteron camtschaticum OX=980415 GN=RHO PE=2 SV=1	0.0
+sp|Q98980|OPSD_PETMA	sp|Q98980|OPSD_PETMA Rhodopsin OS=Petromyzon marinus OX=7757 GN=RHO PE=3 SV=1	0.0
+sp|O42330|OPSD_COTIN	sp|O42330|OPSD_COTIN Rhodopsin (Fragment) OS=Cottocomephorus inermis OX=61627 GN=rho PE=3 SV=1	0.0
+sp|O42451|OPSD_PROJE	sp|O42451|OPSD_PROJE Rhodopsin (Fragment) OS=Procottus jeittelesii OX=61631 GN=rho PE=3 SV=1	0.0
+sp|O42294|OPSD_ABYKO	sp|O42294|OPSD_ABYKO Rhodopsin (Fragment) OS=Abyssocottus korotneffi OX=61637 GN=rho PE=3 SV=1	0.0
+sp|P28683|OPSG_CHICK	sp|P28683|OPSG_CHICK Green-sensitive opsin OS=Gallus gallus OX=9031 GN=PRA1 PE=1 SV=1	0.0
+sp|O42327|OPSD_COMDY	sp|O42327|OPSD_COMDY Rhodopsin (Fragment) OS=Comephorus dybowskii OX=61641 GN=rho PE=3 SV=1	0.0
+sp|O42300|OPSD_BATMU	sp|O42300|OPSD_BATMU Rhodopsin (Fragment) OS=Batrachocottus multiradiatus OX=61628 GN=rho PE=3 SV=1	0.0
+sp|O42452|OPSD_PARKN	sp|O42452|OPSD_PARKN Rhodopsin (Fragment) OS=Paracottus knerii OX=61626 GN=rho PE=3 SV=1	0.0
+sp|O42301|OPSD_BATNI	sp|O42301|OPSD_BATNI Rhodopsin (Fragment) OS=Batrachocottus nikolskii OX=79686 GN=rho PE=3 SV=1	0.0
+sp|O42307|OPSD_COTBO	sp|O42307|OPSD_COTBO Rhodopsin (Fragment) OS=Cottinella boulengeri OX=61639 GN=rho PE=3 SV=1	0.0
+sp|P51471|OPSB_ANOCA	sp|P51471|OPSB_ANOCA Blue-sensitive opsin OS=Anolis carolinensis OX=28377 PE=1 SV=1	5.47e-180
+sp|O42427|OPSD_LIMBE	sp|O42427|OPSD_LIMBE Rhodopsin (Fragment) OS=Limnocottus bergianus OX=61633 GN=rho PE=3 SV=1	2.07e-179
+sp|Q90373|OPSD_LEOKE	sp|Q90373|OPSD_LEOKE Rhodopsin (Fragment) OS=Leocottus kesslerii OX=8099 GN=rho PE=3 SV=1	5.55e-179
+sp|P35357|OPSB_GEKGE	sp|P35357|OPSB_GEKGE Blue-sensitive opsin P467 OS=Gekko gecko OX=36310 PE=1 SV=1	5.09e-178
+sp|Q9W6A6|OPSG4_DANRE	sp|Q9W6A6|OPSG4_DANRE Green-sensitive opsin-4 OS=Danio rerio OX=7955 GN=opn1mw4 PE=1 SV=2	7.57e-178
+sp|O42431|OPSD_LIMPA	sp|O42431|OPSD_LIMPA Rhodopsin (Fragment) OS=Limnocottus pallidus OX=61634 GN=rho PE=3 SV=1	1.12e-177
+sp|O42466|OPSD_TAUBU	sp|O42466|OPSD_TAUBU Rhodopsin (Fragment) OS=Taurulus bubalis OX=61643 GN=rho PE=3 SV=1	1.97e-176
+sp|Q8AYM7|OPSG3_DANRE	sp|Q8AYM7|OPSG3_DANRE Green-sensitive opsin-3 OS=Danio rerio OX=7955 GN=opn1mw3 PE=1 SV=1	2.30e-176
+sp|O42328|OPSD_COTGR	sp|O42328|OPSD_COTGR Rhodopsin (Fragment) OS=Cottocomephorus grewingkii OX=57734 GN=rho PE=3 SV=1	4.45e-174
+sp|Q9W6A5|OPSG1_DANRE	sp|Q9W6A5|OPSG1_DANRE Green-sensitive opsin-1 OS=Danio rerio OX=7955 GN=opn1mw1 PE=1 SV=2	1.48e-170
+sp|Q8AYM8|OPSG2_DANRE	sp|Q8AYM8|OPSG2_DANRE Green-sensitive opsin-2 OS=Danio rerio OX=7955 GN=opn1mw2 PE=1 SV=1	9.32e-170
+sp|P32311|OPSG1_CARAU	sp|P32311|OPSG1_CARAU Green-sensitive opsin-1 OS=Carassius auratus OX=7957 PE=1 SV=1	1.06e-169
+sp|P32312|OPSG2_CARAU	sp|P32312|OPSG2_CARAU Green-sensitive opsin-2 OS=Carassius auratus OX=7957 PE=1 SV=1	1.44e-168
+sp|P51474|OPSG3_ASTFA	sp|P51474|OPSG3_ASTFA Green-sensitive opsin-3 OS=Astyanax fasciatus OX=223369 GN=RH11 PE=2 SV=1	1.96e-160
+sp|P87366|OPSG_ORYLA	sp|P87366|OPSG_ORYLA Green-sensitive opsin OS=Oryzias latipes OX=8090 PE=2 SV=1	2.67e-150
+sp|P32310|OPSB_CARAU	sp|P32310|OPSB_CARAU Blue-sensitive opsin OS=Carassius auratus OX=7957 PE=1 SV=1	6.42e-115
+sp|P28682|OPSB_CHICK	sp|P28682|OPSB_CHICK Blue-sensitive opsin OS=Gallus gallus OX=9031 PE=1 SV=1	6.02e-112
+sp|P51472|OPSB_ASTFA	sp|P51472|OPSB_ASTFA Blue-sensitive opsin OS=Astyanax fasciatus OX=223369 GN=B23 PE=2 SV=1	8.83e-109
+sp|P51476|OPSP_COLLI	sp|P51476|OPSP_COLLI Pinopsin OS=Columba livia OX=8932 PE=1 SV=1	2.49e-107
+sp|Q9W6A8|OP1S2_DANRE	sp|Q9W6A8|OP1S2_DANRE Opsin-1, short-wave-sensitive 2 OS=Danio rerio OX=7955 GN=opn1sw2 PE=1 SV=1	7.21e-105
+sp|P87365|OPSB_ORYLA	sp|P87365|OPSB_ORYLA Blue-sensitive opsin OS=Oryzias latipes OX=8090 PE=2 SV=1	1.23e-104
+sp|P51475|OPSP_CHICK	sp|P51475|OPSP_CHICK Pinopsin OS=Gallus gallus OX=9031 PE=1 SV=1	1.29e-102
+sp|P51491|OPSB_MOUSE	sp|P51491|OPSB_MOUSE Short-wave-sensitive opsin 1 OS=Mus musculus OX=10090 GN=Opn1sw PE=1 SV=1	1.63e-102
+sp|O13092|OPSB_SAIBB	sp|O13092|OPSB_SAIBB Short-wave-sensitive opsin 1 OS=Saimiri boliviensis boliviensis OX=39432 GN=OPN1SW PE=1 SV=1	2.13e-102
+sp|P28684|OPSV_CHICK	sp|P28684|OPSV_CHICK Violet-sensitive opsin OS=Gallus gallus OX=9031 PE=1 SV=1	5.09e-102
+sp|O57605|OPSUV_MELUD	sp|O57605|OPSUV_MELUD Ultraviolet-sensitive opsin OS=Melopsittacus undulatus OX=13146 PE=1 SV=1	4.24e-101
+sp|Q63652|OPSB_RAT	sp|Q63652|OPSB_RAT Short-wave-sensitive opsin 1 OS=Rattus norvegicus OX=10116 GN=Opn1sw PE=1 SV=2	1.34e-100
+sp|P60015|OPSB_PANTR	sp|P60015|OPSB_PANTR Short-wave-sensitive opsin 1 OS=Pan troglodytes OX=9598 GN=OPN1SW PE=3 SV=1	3.17e-100
+sp|P60573|OPSB_PANPA	sp|P60573|OPSB_PANPA Short-wave-sensitive opsin 1 OS=Pan paniscus OX=9597 GN=OPN1SW PE=3 SV=1	3.17e-100
+sp|P03999|OPSB_HUMAN	sp|P03999|OPSB_HUMAN Short-wave-sensitive opsin 1 OS=Homo sapiens OX=9606 GN=OPN1SW PE=1 SV=1	3.17e-100
+sp|P51473|OPSV_XENLA	sp|P51473|OPSV_XENLA Violet-sensitive opsin OS=Xenopus laevis OX=8355 PE=1 SV=1	1.63e-99
+sp|P51490|OPSB_BOVIN	sp|P51490|OPSB_BOVIN Short-wave-sensitive opsin 1 OS=Bos taurus OX=9913 GN=OPN1SW PE=1 SV=1	6.29e-97
+sp|Q9BGI7|OPSR_BOVIN	sp|Q9BGI7|OPSR_BOVIN Long-wave-sensitive opsin 1 OS=Bos taurus OX=9913 GN=OPN1LW PE=1 SV=1	3.27e-96
+sp|P34989|OPSL_CALJA	sp|P34989|OPSL_CALJA Opsin, longwave 563 nm (Fragment) OS=Callithrix jacchus OX=9483 PE=1 SV=1	4.20e-96
+sp|Q9W6A9|OP1S1_DANRE	sp|Q9W6A9|OP1S1_DANRE Opsin-1, short-wave-sensitive 1 OS=Danio rerio OX=7955 GN=opn1sw1 PE=1 SV=2	4.88e-96
+sp|Q95170|OPSR_CAPHI	sp|Q95170|OPSR_CAPHI Long-wave-sensitive opsin 1 OS=Capra hircus OX=9925 GN=OPN1LW PE=1 SV=1	1.76e-95
+sp|O18914|OPSR_CANLF	sp|O18914|OPSR_CANLF Long-wave-sensitive opsin 1 OS=Canis lupus familiaris OX=9615 GN=OPN1LW PE=2 SV=2	4.05e-95
+sp|O18912|OPSR_HORSE	sp|O18912|OPSR_HORSE Long-wave-sensitive opsin 1 OS=Equus caballus OX=9796 GN=OPN1LW PE=1 SV=2	1.16e-94
+sp|O18913|OPSR_FELCA	sp|O18913|OPSR_FELCA Long-wave-sensitive opsin 1 OS=Felis catus OX=9685 GN=OPN1LW PE=1 SV=2	2.92e-94
+sp|P04001|OPSG_HUMAN	sp|P04001|OPSG_HUMAN Medium-wave-sensitive opsin 1 OS=Homo sapiens OX=9606 GN=OPN1MW PE=1 SV=1	4.30e-93
+sp|P0DN78|OPSG3_HUMAN	sp|P0DN78|OPSG3_HUMAN Medium-wave-sensitive opsin 3 OS=Homo sapiens OX=9606 GN=OPN1MW3 PE=3 SV=1	4.30e-93
+sp|P0DN77|OPSG2_HUMAN	sp|P0DN77|OPSG2_HUMAN Medium-wave-sensitive opsin 2 OS=Homo sapiens OX=9606 GN=OPN1MW2 PE=3 SV=1	4.30e-93
+sp|P35358|OPSG_GEKGE	sp|P35358|OPSG_GEKGE Green-sensitive opsin P521 OS=Gekko gecko OX=36310 PE=1 SV=1	1.54e-92
+sp|P04000|OPSR_HUMAN	sp|P04000|OPSR_HUMAN Long-wave-sensitive opsin 1 OS=Homo sapiens OX=9606 GN=OPN1LW PE=1 SV=1	5.50e-92
+sp|O35478|OPSG_SCICA	sp|O35478|OPSG_SCICA Medium-wave-sensitive opsin 1 OS=Sciurus carolinensis OX=30640 GN=OPN1MW PE=1 SV=2	7.29e-92
+sp|O18910|OPSG_RABIT	sp|O18910|OPSG_RABIT Medium-wave-sensitive opsin 1 OS=Oryctolagus cuniculus OX=9986 GN=OPN1MW PE=1 SV=2	1.57e-91
+sp|P87368|OPSV_ORYLA	sp|P87368|OPSV_ORYLA Putative violet-sensitive opsin OS=Oryzias latipes OX=8090 PE=1 SV=1	4.05e-91
+sp|O35476|OPSG_RAT	sp|O35476|OPSG_RAT Medium-wave-sensitive opsin 1 OS=Rattus norvegicus OX=10116 GN=Opn1mw PE=1 SV=2	5.40e-91
+sp|Q9R024|OPSG_CAVPO	sp|Q9R024|OPSG_CAVPO Medium-wave-sensitive opsin 1 OS=Cavia porcellus OX=10141 GN=OPN1MW PE=2 SV=1	7.58e-91
+sp|P87367|OPSR_ORYLA	sp|P87367|OPSR_ORYLA Red-sensitive opsin OS=Oryzias latipes OX=8090 PE=1 SV=1	1.40e-90
+sp|O35599|OPSG_MOUSE	sp|O35599|OPSG_MOUSE Medium-wave-sensitive opsin 1 OS=Mus musculus OX=10090 GN=Opn1mw PE=1 SV=1	1.05e-89
+sp|P41592|OPSR_ANOCA	sp|P41592|OPSR_ANOCA Red-sensitive opsin OS=Anolis carolinensis OX=28377 PE=1 SV=1	1.43e-89
+sp|Q90309|OPSUV_CARAU	sp|Q90309|OPSUV_CARAU Ultraviolet-sensitive opsin OS=Carassius auratus OX=7957 PE=2 SV=1	1.97e-89
+sp|P22332|OPSR_ASTFA	sp|P22332|OPSR_ASTFA Red-sensitive opsin OS=Astyanax fasciatus OX=223369 GN=R007 PE=1 SV=2	2.48e-89
+sp|O12948|OPSR_XENLA	sp|O12948|OPSR_XENLA Red-sensitive opsin OS=Xenopus laevis OX=8355 GN=opn1lw1 PE=2 SV=1	6.86e-89
+sp|Q8AYN0|OPSR2_DANRE	sp|Q8AYN0|OPSR2_DANRE Red-sensitive opsin-2 OS=Danio rerio OX=7955 GN=opn1lw2 PE=1 SV=1	8.02e-89
+sp|P22329|OPSR_CHICK	sp|P22329|OPSR_CHICK Red-sensitive opsin OS=Gallus gallus OX=9031 PE=1 SV=1	2.53e-88
+sp|P32313|OPSR_CARAU	sp|P32313|OPSR_CARAU Red-sensitive opsin OS=Carassius auratus OX=7957 PE=1 SV=1	1.91e-87
+sp|Q9W6A7|OPSR1_DANRE	sp|Q9W6A7|OPSR1_DANRE Red-sensitive opsin-1 OS=Danio rerio OX=7955 GN=opn1lw1 PE=1 SV=1	3.03e-86
+sp|O42490|OPSP_PETMA	sp|O42490|OPSP_PETMA Pineal opsin OS=Petromyzon marinus OX=7757 PE=1 SV=1	5.53e-86
+sp|P22331|OPSG2_ASTFA	sp|P22331|OPSG2_ASTFA Green-sensitive opsin-2 OS=Astyanax fasciatus OX=223369 GN=G101 PE=1 SV=1	8.66e-85
+sp|P22330|OPSG1_ASTFA	sp|P22330|OPSG1_ASTFA Green-sensitive opsin-1 OS=Astyanax fasciatus OX=223369 GN=G103 PE=1 SV=1	3.68e-84
+sp|O18911|OPSG_ODOVI	sp|O18911|OPSG_ODOVI Medium-wave-sensitive opsin 1 (Fragment) OS=Odocoileus virginianus virginianus OX=9875 GN=OPN1MW PE=1 SV=1	6.92e-81
+sp|Q7T3Q7|OPSO_RUTRU	sp|Q7T3Q7|OPSO_RUTRU Opsin-VA OS=Rutilus rutilus OX=48668 PE=2 SV=1	3.07e-79
+sp|O42266|OPSP_ICTPU	sp|O42266|OPSP_ICTPU Parapinopsin OS=Ictalurus punctatus OX=7998 PE=2 SV=1	3.38e-77
+sp|Q90305|OPSD_CORAU	sp|Q90305|OPSD_CORAU Rhodopsin (Fragment) OS=Coregonus autumnalis OX=27773 GN=rho PE=3 SV=1	7.21e-72
+sp|O13018|OPSO_SALSA	sp|O13018|OPSO_SALSA Vertebrate ancient opsin OS=Salmo salar OX=8030 PE=1 SV=1	4.06e-64
+sp|Q2KNE5|OPN4A_DANRE	sp|Q2KNE5|OPN4A_DANRE Melanopsin-A OS=Danio rerio OX=7955 GN=opn4a PE=2 SV=3	6.26e-47
+sp|Q4U4D2|OPN4_PODSI	sp|Q4U4D2|OPN4_PODSI Melanopsin OS=Podarcis siculus OX=65484 GN=OPN4 PE=2 SV=2	6.29e-45
+sp|Q5XXP2|OPN4_PHOSU	sp|Q5XXP2|OPN4_PHOSU Melanopsin OS=Phodopus sungorus OX=10044 GN=OPN4 PE=2 SV=1	2.27e-44
+sp|O57422|OPN4B_XENLA	sp|O57422|OPN4B_XENLA Melanopsin-B OS=Xenopus laevis OX=8355 GN=opn4b PE=2 SV=1	4.06e-44
+sp|Q5YKK9|OPN4_FELCA	sp|Q5YKK9|OPN4_FELCA Melanopsin OS=Felis catus OX=9685 GN=OPN4 PE=2 SV=1	5.13e-43
+sp|Q804Q2|OPN4B_GADMO	sp|Q804Q2|OPN4B_GADMO Melanopsin-B OS=Gadus morhua OX=8049 GN=opn4b PE=2 SV=1	1.14e-42
+sp|O35214|OPSX_MOUSE	sp|O35214|OPSX_MOUSE Visual pigment-like receptor peropsin OS=Mus musculus OX=10090 GN=Rrh PE=1 SV=1	6.89e-42
+sp|O14718|OPSX_HUMAN	sp|O14718|OPSX_HUMAN Visual pigment-like receptor peropsin OS=Homo sapiens OX=9606 GN=RRH PE=1 SV=1	7.82e-42
+sp|O15973|OPSD1_MIZYE	sp|O15973|OPSD1_MIZYE Rhodopsin, GQ-coupled OS=Mizuhopecten yessoensis OX=6573 GN=SCOP1 PE=1 SV=1	2.89e-41
+sp|P09241|OPSD_ENTDO	sp|P09241|OPSD_ENTDO Rhodopsin OS=Enteroctopus dofleini OX=267067 GN=RHO PE=2 SV=1	3.46e-40
+sp|P24603|OPSD_LOLFO	sp|P24603|OPSD_LOLFO Rhodopsin OS=Loligo forbesii OX=6618 GN=RHO PE=2 SV=1	4.30e-40
+sp|O16005|OPSD_SEPOF	sp|O16005|OPSD_SEPOF Rhodopsin OS=Sepia officinalis OX=6610 GN=RHO PE=2 SV=1	1.73e-39
+sp|Q17094|OPSD_ALLSU	sp|Q17094|OPSD_ALLSU Rhodopsin (Fragment) OS=Alloteuthis subulata OX=54069 GN=RHO PE=3 SV=1	2.37e-39
+sp|Q804X9|OPN4A_GADMO	sp|Q804X9|OPN4A_GADMO Melanopsin-A OS=Gadus morhua OX=8049 GN=opn4a PE=2 SV=1	9.30e-39
+sp|Q6XL69|OPN4_RUTRU	sp|Q6XL69|OPN4_RUTRU Melanopsin OS=Rutilus rutilus OX=48668 GN=opn4 PE=2 SV=1	1.35e-38
+sp|Q1JPS6|OPN4L_DANRE	sp|Q1JPS6|OPN4L_DANRE Melanopsin-like OS=Danio rerio OX=7955 GN=opn4l PE=2 SV=1	2.87e-38
+sp|Q9WUK7|OPN3_MOUSE	sp|Q9WUK7|OPN3_MOUSE Opsin-3 OS=Mus musculus OX=10090 GN=Opn3 PE=1 SV=1	3.01e-38
+sp|Q25158|OPSC2_HEMSA	sp|Q25158|OPSC2_HEMSA Compound eye opsin BCRH2 OS=Hemigrapsus sanguineus OX=40176 PE=2 SV=1	4.16e-38
+sp|Q9H1Y3|OPN3_HUMAN	sp|Q9H1Y3|OPN3_HUMAN Opsin-3 OS=Homo sapiens OX=9606 GN=OPN3 PE=1 SV=1	5.29e-38
+sp|O01668|OPS6_DROME	sp|O01668|OPS6_DROME Opsin Rh6 OS=Drosophila melanogaster OX=7227 GN=Rh6 PE=2 SV=1	7.97e-38
+sp|Q9UHM6|OPN4_HUMAN	sp|Q9UHM6|OPN4_HUMAN Melanopsin OS=Homo sapiens OX=9606 GN=OPN4 PE=1 SV=1	2.05e-36
+sp|Q8R456|OPN4_RAT	sp|Q8R456|OPN4_RAT Melanopsin OS=Rattus norvegicus OX=10116 GN=Opn4 PE=2 SV=1	2.26e-36
+sp|P31356|OPSD_TODPA	sp|P31356|OPSD_TODPA Rhodopsin OS=Todarodes pacificus OX=6637 GN=RHO PE=1 SV=2	2.43e-36
+sp|P35361|OPSO_LIMPO	sp|P35361|OPSO_LIMPO Ocellar opsin OS=Limulus polyphemus OX=6850 PE=1 SV=1	4.22e-36
+sp|P35360|OPSL_LIMPO	sp|P35360|OPSL_LIMPO Lateral eye opsin OS=Limulus polyphemus OX=6850 PE=1 SV=1	6.13e-36
+sp|Q25157|OPSC1_HEMSA	sp|Q25157|OPSC1_HEMSA Compound eye opsin BCRH1 OS=Hemigrapsus sanguineus OX=40176 PE=2 SV=1	6.64e-36
+sp|Q4R1I4|OPN4_BRABE	sp|Q4R1I4|OPN4_BRABE Melanopsin OS=Branchiostoma belcheri OX=7741 GN=OPN4 PE=1 SV=1	3.08e-35
+sp|Q9QXZ9|OPN4_MOUSE	sp|Q9QXZ9|OPN4_MOUSE Melanopsin OS=Mus musculus OX=10090 GN=Opn4 PE=1 SV=1	6.89e-35
+sp|P06002|OPS1_DROME	sp|P06002|OPS1_DROME Opsin Rh1 OS=Drosophila melanogaster OX=7227 GN=ninaE PE=1 SV=1	2.47e-34
+sp|P35356|OPSD_PROCL	sp|P35356|OPSD_PROCL Rhodopsin OS=Procambarus clarkii OX=6728 GN=RHO PE=1 SV=1	9.44e-34
+sp|P28679|OPS2_DROPS	sp|P28679|OPS2_DROPS Opsin Rh2 OS=Drosophila pseudoobscura pseudoobscura OX=46245 GN=Rh2 PE=1 SV=3	2.07e-33
+sp|O16020|OPSD_PROML	sp|O16020|OPSD_PROML Rhodopsin (Fragment) OS=Procambarus milleri OX=60967 GN=RHO PE=3 SV=1	2.30e-33
+sp|P28678|OPS1_DROPS	sp|P28678|OPS1_DROPS Opsin Rh1 OS=Drosophila pseudoobscura pseudoobscura OX=46245 GN=ninaE PE=1 SV=4	2.91e-33
+sp|O16018|OPSD_CAMSC	sp|O16018|OPSD_CAMSC Rhodopsin (Fragment) OS=Cambarellus shufeldtii OX=60963 GN=RHO PE=3 SV=1	7.75e-33
+sp|O18481|OPSD_ORCAU	sp|O18481|OPSD_ORCAU Rhodopsin (Fragment) OS=Orconectes australis OX=61490 GN=RHO PE=3 SV=1	2.61e-32
+sp|P08099|OPS2_DROME	sp|P08099|OPS2_DROME Opsin Rh2 OS=Drosophila melanogaster OX=7227 GN=Rh2 PE=1 SV=1	3.79e-32
+sp|P22269|OPS1_CALVI	sp|P22269|OPS1_CALVI Opsin Rh1 OS=Calliphora vicina OX=7373 GN=NINAE PE=1 SV=1	3.83e-32
+sp|O16019|OPSD_ORCVI	sp|O16019|OPSD_ORCVI Rhodopsin (Fragment) OS=Orconectes virilis OX=60966 GN=RHO PE=3 SV=1	3.86e-32
+sp|O16017|OPSD_LACLU	sp|O16017|OPSD_LACLU Rhodopsin (Fragment) OS=Lacunicambarus ludovicianus OX=2315848 GN=RHO PE=3 SV=1	9.31e-32
+sp|Q94741|OPS1_SCHGR	sp|Q94741|OPS1_SCHGR Opsin-1 OS=Schistocerca gregaria OX=7010 GN=Lo1 PE=2 SV=1	1.06e-31
+sp|O18485|OPSD_PROOR	sp|O18485|OPSD_PROOR Rhodopsin (Fragment) OS=Procambarus orcinus OX=61504 GN=RHO PE=3 SV=1	1.06e-31
+sp|Q17053|OPSD_APIME	sp|Q17053|OPSD_APIME Rhodopsin, long-wavelength OS=Apis mellifera OX=7460 PE=1 SV=1	2.16e-31
+sp|O15974|OPSD2_MIZYE	sp|O15974|OPSD2_MIZYE Rhodopsin, G0-coupled OS=Mizuhopecten yessoensis OX=6573 GN=SCOP2 PE=1 SV=1	2.22e-31
+sp|Q17292|OPSD_CAMAT	sp|Q17292|OPSD_CAMAT Rhodopsin OS=Camponotus atriceps OX=104420 PE=2 SV=1	5.05e-31
+sp|Q17296|OPSD_CATBO	sp|Q17296|OPSD_CATBO Rhodopsin OS=Cataglyphis bombycinus OX=72790 PE=2 SV=1	5.37e-31
+sp|P35362|OPSD_SPHSP	sp|P35362|OPSD_SPHSP Rhodopsin OS=Sphodromantis sp. OX=27433 PE=2 SV=1	1.89e-30
+sp|O18486|OPSD_PROSE	sp|O18486|OPSD_PROSE Rhodopsin (Fragment) OS=Procambarus seminolae OX=61505 GN=RHO PE=3 SV=1	3.02e-30
+sp|O18315|OPSD_CAMMA	sp|O18315|OPSD_CAMMA Rhodopsin (Fragment) OS=Cambarus maculatus OX=61489 GN=RHO PE=3 SV=1	5.06e-30
+sp|O02464|OPS1_MANSE	sp|O02464|OPS1_MANSE Opsin-1 OS=Manduca sexta OX=7130 GN=OP1 PE=1 SV=2	6.12e-30
+sp|O18312|OPSD_CAMHU	sp|O18312|OPSD_CAMHU Rhodopsin (Fragment) OS=Cambarus hubrichti OX=61487 GN=RHO PE=3 SV=1	7.11e-30
+sp|Q6U736|OPN5_HUMAN	sp|Q6U736|OPN5_HUMAN Opsin-5 OS=Homo sapiens OX=9606 GN=OPN5 PE=1 SV=3	7.44e-29
+sp|Q95YI3|OPSCE_BOMMO	sp|Q95YI3|OPSCE_BOMMO Ceropsin OS=Bombyx mori OX=7091 GN=Bcop PE=1 SV=1	1.18e-28
+sp|Q6VZZ7|OPN5_MOUSE	sp|Q6VZZ7|OPN5_MOUSE Opsin-5 OS=Mus musculus OX=10090 GN=Opn5 PE=1 SV=1	1.01e-27
+sp|P90680|OPSB_APIME	sp|P90680|OPSB_APIME Opsin, blue-sensitive OS=Apis mellifera OX=7460 GN=BLOP PE=1 SV=2	1.85e-26
+sp|P91657|OPS5_DROME	sp|P91657|OPS5_DROME Opsin Rh5 OS=Drosophila melanogaster OX=7227 GN=Rh5 PE=2 SV=1	2.65e-26
+sp|P30974|TLR1_DROME	sp|P30974|TLR1_DROME Tachykinin-like peptides receptor 86C OS=Drosophila melanogaster OX=7227 GN=TkR86C PE=2 SV=2	6.33e-26
+sp|P16610|NK2R_RAT	sp|P16610|NK2R_RAT Substance-K receptor OS=Rattus norvegicus OX=10116 GN=Tacr2 PE=2 SV=1	1.14e-25
+sp|P30549|NK2R_MOUSE	sp|P30549|NK2R_MOUSE Substance-K receptor OS=Mus musculus OX=10090 GN=Tacr2 PE=2 SV=1	2.92e-25
+sp|P35346|SSR5_HUMAN	sp|P35346|SSR5_HUMAN Somatostatin receptor type 5 OS=Homo sapiens OX=9606 GN=SSTR5 PE=1 SV=3	1.76e-24
+sp|O61303|OPSUV_APIME	sp|O61303|OPSUV_APIME Opsin, ultraviolet-sensitive OS=Apis mellifera OX=7460 GN=UVOP PE=1 SV=1	2.40e-24
+sp|P51144|NK2R_MESAU	sp|P51144|NK2R_MESAU Substance-K receptor OS=Mesocricetus auratus OX=10036 GN=TACR2 PE=2 SV=1	2.41e-24
+sp|F1MV99|SSR5_BOVIN	sp|F1MV99|SSR5_BOVIN Somatostatin receptor type 5 OS=Bos taurus OX=9913 GN=SSTR5 PE=3 SV=2	1.49e-23
+sp|P21452|NK2R_HUMAN	sp|P21452|NK2R_HUMAN Substance-K receptor OS=Homo sapiens OX=9606 GN=TACR2 PE=1 SV=3	4.68e-23
+sp|O02465|OPS2_MANSE	sp|O02465|OPS2_MANSE Opsin-2 OS=Manduca sexta OX=7130 GN=OP2 PE=2 SV=2	5.33e-23
+sp|Q64077|NK2R_CAVPO	sp|Q64077|NK2R_CAVPO Substance-K receptor OS=Cavia porcellus OX=10141 GN=TACR2 PE=2 SV=1	9.68e-23
+sp|Q1RMU8|NPY1R_BOVIN	sp|Q1RMU8|NPY1R_BOVIN Neuropeptide Y receptor type 1 OS=Bos taurus OX=9913 GN=NPY1R PE=2 SV=1	1.56e-22
+sp|Q26495|OPS2_SCHGR	sp|Q26495|OPS2_SCHGR Opsin-2 OS=Schistocerca gregaria OX=7010 GN=Lo2 PE=2 SV=1	1.68e-22
+sp|P25929|NPY1R_HUMAN	sp|P25929|NPY1R_HUMAN Neuropeptide Y receptor type 1 OS=Homo sapiens OX=9606 GN=NPY1R PE=1 SV=1	2.70e-22
+sp|P79218|NK2R_RABIT	sp|P79218|NK2R_RABIT Substance-K receptor OS=Oryctolagus cuniculus OX=9986 GN=TACR2 PE=2 SV=1	2.80e-22
+sp|P05363|NK2R_BOVIN	sp|P05363|NK2R_BOVIN Substance-K receptor OS=Bos taurus OX=9913 GN=TACR2 PE=2 SV=1	3.62e-22
+sp|Q9WVD0|NPY1R_CAVPO	sp|Q9WVD0|NPY1R_CAVPO Neuropeptide Y receptor type 1 OS=Cavia porcellus OX=10141 GN=NPY1R PE=3 SV=1	4.06e-22
+sp|P30975|TLR2_DROME	sp|P30975|TLR2_DROME Tachykinin-like peptides receptor 99D OS=Drosophila melanogaster OX=7227 GN=TkR99D PE=2 SV=2	4.37e-22
+sp|P70031|CCKAR_XENLA	sp|P70031|CCKAR_XENLA Cholecystokinin receptor OS=Xenopus laevis OX=8355 GN=cckar PE=2 SV=1	5.22e-22
+sp|O02835|NPY1R_PIG	sp|O02835|NPY1R_PIG Neuropeptide Y receptor type 1 OS=Sus scrofa OX=9823 GN=NPY1R PE=2 SV=2	6.89e-22
+sp|Q8ITC7|CAPAR_DROME	sp|Q8ITC7|CAPAR_DROME Neuropeptides capa receptor OS=Drosophila melanogaster OX=7227 GN=CapaR PE=2 SV=3	9.46e-22
+sp|Q9MYW9|OPRM_MACMU	sp|Q9MYW9|OPRM_MACMU Mu-type opioid receptor OS=Macaca mulatta OX=9544 GN=OPRM1 PE=2 SV=2	2.38e-21
+sp|O02813|NPY1R_CANLF	sp|O02813|NPY1R_CANLF Neuropeptide Y receptor type 1 OS=Canis lupus familiaris OX=9615 GN=NPY1R PE=2 SV=2	2.42e-21
+sp|P29371|NK3R_HUMAN	sp|P29371|NK3R_HUMAN Neuromedin-K receptor OS=Homo sapiens OX=9606 GN=TACR3 PE=1 SV=1	2.72e-21
+sp|P21555|NPY1R_RAT	sp|P21555|NPY1R_RAT Neuropeptide Y receptor type 1 OS=Rattus norvegicus OX=10116 GN=Npy1r PE=1 SV=3	2.75e-21
+sp|Q04573|NPY1R_MOUSE	sp|Q04573|NPY1R_MOUSE Neuropeptide Y receptor type 1 OS=Mus musculus OX=10090 GN=Npy1r PE=1 SV=1	3.47e-21
+sp|Q5DUB2|NK2R_CANLF	sp|Q5DUB2|NK2R_CANLF Substance-K receptor OS=Canis lupus familiaris OX=9615 GN=TACR2 PE=2 SV=1	1.31e-20
+sp|O96107|OPS3_MANSE	sp|O96107|OPS3_MANSE Opsin-3 OS=Manduca sexta OX=7130 GN=OP3 PE=2 SV=1	2.37e-20
+sp|P25931|RYAR_DROME	sp|P25931|RYAR_DROME RYamide receptor OS=Drosophila melanogaster OX=7227 GN=RYa-R PE=2 SV=2	2.39e-20
+sp|P49285|MTR1A_CHICK	sp|P49285|MTR1A_CHICK Melatonin receptor type 1A OS=Gallus gallus OX=9031 PE=2 SV=1	2.76e-20
+sp|P34992|NPY1R_XENLA	sp|P34992|NPY1R_XENLA Neuropeptide Y receptor type 1 OS=Xenopus laevis OX=8355 GN=npy1r PE=2 SV=1	3.83e-20
+sp|Q95M54|OPRM_MACFA	sp|Q95M54|OPRM_MACFA Mu-type opioid receptor OS=Macaca fascicularis OX=9541 GN=OPRM1 PE=2 SV=1	4.84e-20
+sp|P28680|OPS3_DROPS	sp|P28680|OPS3_DROPS Opsin Rh3 OS=Drosophila pseudoobscura pseudoobscura OX=46245 GN=Rh3 PE=1 SV=3	1.93e-19
+sp|P97717|ADA1B_MOUSE	sp|P97717|ADA1B_MOUSE Alpha-1B adrenergic receptor OS=Mus musculus OX=10090 GN=Adra1b PE=1 SV=2	2.49e-19
+sp|P51049|MR1BB_DANRE	sp|P51049|MR1BB_DANRE Melatonin receptor type 1B-B OS=Danio rerio OX=7955 GN=mtnr1bb PE=2 SV=2	3.41e-19
+sp|P49219|MTR1C_XENLA	sp|P49219|MTR1C_XENLA Melatonin receptor type 1C OS=Xenopus laevis OX=8355 GN=mtnr1c PE=2 SV=1	7.68e-19
+sp|P04950|OPS3_DROME	sp|P04950|OPS3_DROME Opsin Rh3 OS=Drosophila melanogaster OX=7227 GN=Rh3 PE=1 SV=1	1.46e-18
+sp|P35368|ADA1B_HUMAN	sp|P35368|ADA1B_HUMAN Alpha-1B adrenergic receptor OS=Homo sapiens OX=9606 GN=ADRA1B PE=1 SV=3	1.87e-18
+sp|P48040|MTR1A_SHEEP	sp|P48040|MTR1A_SHEEP Melatonin receptor type 1A OS=Ovis aries OX=9940 GN=MTNR1A PE=2 SV=1	1.90e-18
+sp|P29404|OPS4_DROPS	sp|P29404|OPS4_DROPS Opsin Rh4 OS=Drosophila pseudoobscura pseudoobscura OX=46245 GN=Rh4 PE=1 SV=2	2.53e-18
+sp|P48039|MTR1A_HUMAN	sp|P48039|MTR1A_HUMAN Melatonin receptor type 1A OS=Homo sapiens OX=9606 GN=MTNR1A PE=1 SV=1	2.82e-18
+sp|P51046|MR1AA_DANRE	sp|P51046|MR1AA_DANRE Melatonin receptor type 1A-A OS=Danio rerio OX=7955 GN=mtnr1aa PE=2 SV=2	3.52e-18
+sp|P30875|SSR2_MOUSE	sp|P30875|SSR2_MOUSE Somatostatin receptor type 2 OS=Mus musculus OX=10090 GN=Sstr2 PE=2 SV=1	3.58e-18
+sp|P08255|OPS4_DROME	sp|P08255|OPS4_DROME Opsin Rh4 OS=Drosophila melanogaster OX=7227 GN=Rh4 PE=1 SV=2	3.58e-18
+sp|Q28558|MTR1L_SHEEP	sp|Q28558|MTR1L_SHEEP Melatonin-related receptor OS=Ovis aries OX=9940 GN=GPR50 PE=2 SV=2	3.70e-18
+sp|Q03566|TKR1_CAEEL	sp|Q03566|TKR1_CAEEL Probable G-protein coupled receptor tkr-1 OS=Caenorhabditis elegans OX=6239 GN=tkr-1 PE=3 SV=2	4.02e-18
+sp|P34993|SSR2_BOVIN	sp|P34993|SSR2_BOVIN Somatostatin receptor type 2 OS=Bos taurus OX=9913 GN=SSTR2 PE=2 SV=1	4.02e-18
+sp|P17646|OPS4_DROVI	sp|P17646|OPS4_DROVI Opsin Rh4 OS=Drosophila virilis OX=7244 GN=Rh4 PE=3 SV=2	5.62e-18
+sp|P30680|SSR2_RAT	sp|P30680|SSR2_RAT Somatostatin receptor type 2 OS=Rattus norvegicus OX=10116 GN=Sstr2 PE=1 SV=1	5.67e-18
+sp|O97512|NK3R_RABIT	sp|O97512|NK3R_RABIT Neuromedin-K receptor OS=Oryctolagus cuniculus OX=9986 GN=TACR3 PE=2 SV=2	6.11e-18
+sp|P18841|ADA1B_MESAU	sp|P18841|ADA1B_MESAU Alpha-1B adrenergic receptor OS=Mesocricetus auratus OX=10036 GN=ADRA1B PE=1 SV=1	7.09e-18
+sp|P15823|ADA1B_RAT	sp|P15823|ADA1B_RAT Alpha-1B adrenergic receptor OS=Rattus norvegicus OX=10116 GN=Adra1b PE=1 SV=2	9.63e-18
+sp|P34994|SSR2_PIG	sp|P34994|SSR2_PIG Somatostatin receptor type 2 OS=Sus scrofa OX=9823 GN=SSTR2 PE=3 SV=1	1.04e-17
+sp|P30874|SSR2_HUMAN	sp|P30874|SSR2_HUMAN Somatostatin receptor type 2 OS=Homo sapiens OX=9606 GN=SSTR2 PE=1 SV=1	1.39e-17
+sp|Q9JHG3|APJ_RAT	sp|Q9JHG3|APJ_RAT Apelin receptor OS=Rattus norvegicus OX=10116 GN=Aplnr PE=2 SV=1	1.72e-17
+sp|P33534|OPRK_MOUSE	sp|P33534|OPRK_MOUSE Kappa-type opioid receptor OS=Mus musculus OX=10090 GN=Oprk1 PE=1 SV=1	1.95e-17
+sp|Q91175|ADA1A_ORYLA	sp|Q91175|ADA1A_ORYLA Alpha-1A adrenergic receptor OS=Oryzias latipes OX=8090 GN=adra1a PE=3 SV=1	2.46e-17
+sp|P49287|MTR1B_RAT	sp|P49287|MTR1B_RAT Melatonin receptor type 1B OS=Rattus norvegicus OX=10116 GN=Mtnr1b PE=2 SV=2	2.53e-17
+sp|Q98982|NK1R_LITCT	sp|Q98982|NK1R_LITCT Substance-P receptor OS=Lithobates catesbeianus OX=8400 GN=TACR1 PE=2 SV=1	2.72e-17
+sp|P34975|OPRK_RAT	sp|P34975|OPRK_RAT Kappa-type opioid receptor OS=Rattus norvegicus OX=10116 GN=Oprk1 PE=2 SV=1	4.05e-17
+sp|P32238|CCKAR_HUMAN	sp|P32238|CCKAR_HUMAN Cholecystokinin receptor type A OS=Homo sapiens OX=9606 GN=CCKAR PE=1 SV=1	4.73e-17
+sp|Q49LX6|SSR2_CANLF	sp|Q49LX6|SSR2_CANLF Somatostatin receptor type 2 OS=Canis lupus familiaris OX=9615 GN=SSTR2 PE=3 SV=1	6.64e-17
+sp|Q8WPA2|AR_BOMMO	sp|Q8WPA2|AR_BOMMO Allatostatin-A receptor OS=Bombyx mori OX=7091 GN=AR PE=2 SV=1	6.97e-17
+sp|P30872|SSR1_HUMAN	sp|P30872|SSR1_HUMAN Somatostatin receptor type 1 OS=Homo sapiens OX=9606 GN=SSTR1 PE=1 SV=1	7.30e-17
+sp|Q61184|MTR1A_MOUSE	sp|Q61184|MTR1A_MOUSE Melatonin receptor type 1A OS=Mus musculus OX=10090 GN=Mtnr1a PE=2 SV=1	7.50e-17
+sp|Q49LX5|SSR1_CANLF	sp|Q49LX5|SSR1_CANLF Somatostatin receptor type 1 OS=Canis lupus familiaris OX=9615 GN=SSTR1 PE=3 SV=1	7.51e-17
+sp|P30098|NK3R_CAVPO	sp|P30098|NK3R_CAVPO Neuromedin-K receptor OS=Cavia porcellus OX=10141 GN=TACR3 PE=2 SV=1	9.70e-17
+sp|P41144|OPRK_CAVPO	sp|P41144|OPRK_CAVPO Kappa-type opioid receptor OS=Cavia porcellus OX=10141 GN=OPRK1 PE=2 SV=1	9.87e-17
+sp|P30873|SSR1_MOUSE	sp|P30873|SSR1_MOUSE Somatostatin receptor type 1 OS=Mus musculus OX=10090 GN=Sstr1 PE=1 SV=1	1.12e-16
+sp|P49288|MTR1C_CHICK	sp|P49288|MTR1C_CHICK Melatonin receptor type 1C OS=Gallus gallus OX=9031 PE=2 SV=1	1.25e-16
+sp|P28646|SSR1_RAT	sp|P28646|SSR1_RAT Somatostatin receptor type 1 OS=Rattus norvegicus OX=10116 GN=Sstr1 PE=2 SV=1	1.44e-16
+sp|Q13585|MTR1L_HUMAN	sp|Q13585|MTR1L_HUMAN Melatonin-related receptor OS=Homo sapiens OX=9606 GN=GPR50 PE=1 SV=3	1.55e-16
+sp|P42866|OPRM_MOUSE	sp|P42866|OPRM_MOUSE Mu-type opioid receptor OS=Mus musculus OX=10090 GN=Oprm1 PE=1 SV=1	1.65e-16
+sp|G4WMX4|RYAR_TRICA	sp|G4WMX4|RYAR_TRICA RYamide receptor OS=Tribolium castaneum OX=7070 GN=RYa-R PE=2 SV=1	1.72e-16
+sp|P16177|NK3R_RAT	sp|P16177|NK3R_RAT Neuromedin-K receptor OS=Rattus norvegicus OX=10116 GN=Tacr3 PE=2 SV=1	2.03e-16
+sp|P30938|SSR5_RAT	sp|P30938|SSR5_RAT Somatostatin receptor type 5 OS=Rattus norvegicus OX=10116 GN=Sstr5 PE=1 SV=2	2.04e-16
+sp|Q13304|GPR17_HUMAN	sp|Q13304|GPR17_HUMAN Uracil nucleotide/cysteinyl leukotriene receptor OS=Homo sapiens OX=9606 GN=GPR17 PE=2 SV=2	2.54e-16
+sp|P33535|OPRM_RAT	sp|P33535|OPRM_RAT Mu-type opioid receptor OS=Rattus norvegicus OX=10116 GN=Oprm1 PE=1 SV=1	2.60e-16
+sp|Q95247|OPRM_PIG	sp|Q95247|OPRM_PIG Mu-type opioid receptor OS=Sus scrofa OX=9823 GN=OPRM1 PE=2 SV=1	2.62e-16
+sp|P35372|OPRM_HUMAN	sp|P35372|OPRM_HUMAN Mu-type opioid receptor OS=Homo sapiens OX=9606 GN=OPRM1 PE=1 SV=2	2.75e-16
+sp|Q5IS39|OPRM_PANTR	sp|Q5IS39|OPRM_PANTR Mu-type opioid receptor OS=Pan troglodytes OX=9598 GN=OPRM1 PE=2 SV=1	3.22e-16
+sp|P47937|NK3R_MOUSE	sp|P47937|NK3R_MOUSE Neuromedin-K receptor OS=Mus musculus OX=10090 GN=Tacr3 PE=2 SV=2	5.17e-16
+sp|P30937|SSR4_RAT	sp|P30937|SSR4_RAT Somatostatin receptor type 4 OS=Rattus norvegicus OX=10116 GN=Sstr4 PE=1 SV=1	6.03e-16
+sp|Q59E83|NPR22_CAEEL	sp|Q59E83|NPR22_CAEEL Neuropeptide receptor 22 OS=Caenorhabditis elegans OX=6239 GN=npr-22 PE=2 SV=1	7.75e-16
+sp|Q5IS84|OPRM_SAIBB	sp|Q5IS84|OPRM_SAIBB Mu-type opioid receptor OS=Saimiri boliviensis boliviensis OX=39432 GN=OPRM1 PE=2 SV=1	8.47e-16
+sp|Q9WV08|APJ_MOUSE	sp|Q9WV08|APJ_MOUSE Apelin receptor OS=Mus musculus OX=10090 GN=Aplnr PE=1 SV=1	1.09e-15
+sp|P49217|MTR1A_PHOSU	sp|P49217|MTR1A_PHOSU Melatonin receptor type 1A OS=Phodopus sungorus OX=10044 GN=MTNR1A PE=2 SV=2	1.18e-15
+sp|P79350|OPRM_BOVIN	sp|P79350|OPRM_BOVIN Mu-type opioid receptor OS=Bos taurus OX=9913 GN=OPRM1 PE=2 SV=2	1.32e-15
+sp|Q61212|NPY6R_MOUSE	sp|Q61212|NPY6R_MOUSE Neuropeptide Y receptor type 6 OS=Mus musculus OX=10090 GN=Npy6r PE=2 SV=1	1.38e-15
+sp|P30547|NK1R_CAVPO	sp|P30547|NK1R_CAVPO Substance-P receptor OS=Cavia porcellus OX=10141 GN=TACR1 PE=2 SV=1	1.98e-15
+sp|Q6BD04|GPR54_ORENI	sp|Q6BD04|GPR54_ORENI G-protein coupled receptor 54 OS=Oreochromis niloticus OX=8128 GN=gpr54 PE=2 SV=1	2.79e-15
+sp|A0T2N3|APJB_DANRE	sp|A0T2N3|APJB_DANRE Apelin receptor B OS=Danio rerio OX=7955 GN=aplnrb PE=1 SV=1	2.84e-15
+sp|P25103|NK1R_HUMAN	sp|P25103|NK1R_HUMAN Substance-P receptor OS=Homo sapiens OX=9606 GN=TACR1 PE=1 SV=1	3.18e-15
+sp|Q5DUB3|NK1R_CANLF	sp|Q5DUB3|NK1R_CANLF Substance-P receptor OS=Canis lupus familiaris OX=9615 GN=TACR1 PE=2 SV=1	4.45e-15
+sp|O88495|MTR1L_MOUSE	sp|O88495|MTR1L_MOUSE Melatonin-related receptor OS=Mus musculus OX=10090 GN=Gpr50 PE=1 SV=3	4.62e-15
+sp|Q18179|NPR11_CAEEL	sp|Q18179|NPR11_CAEEL Putative neuropeptide Y receptor 11 OS=Caenorhabditis elegans OX=6239 GN=npr-11 PE=3 SV=2	5.33e-15
+sp|P30551|CCKAR_RAT	sp|P30551|CCKAR_RAT Cholecystokinin receptor type A OS=Rattus norvegicus OX=10116 GN=Cckar PE=1 SV=1	5.57e-15
+sp|P23820|REIS_TODPA	sp|P23820|REIS_TODPA Retinochrome OS=Todarodes pacificus OX=6637 PE=1 SV=1	6.37e-15
+sp|P50407|5HT7R_CAVPO	sp|P50407|5HT7R_CAVPO 5-hydroxytryptamine receptor 7 OS=Cavia porcellus OX=10141 GN=HTR7 PE=2 SV=1	6.37e-15
+sp|P49660|SSR4_MOUSE	sp|P49660|SSR4_MOUSE Somatostatin receptor type 4 OS=Mus musculus OX=10090 GN=Sstr4 PE=1 SV=2	6.93e-15
+sp|Q9WU25|ADA1A_CAVPO	sp|Q9WU25|ADA1A_CAVPO Alpha-1A adrenergic receptor OS=Cavia porcellus OX=10141 GN=ADRA1A PE=2 SV=2	7.22e-15
+sp|O97772|CCKAR_RABIT	sp|O97772|CCKAR_RABIT Cholecystokinin receptor type A OS=Oryctolagus cuniculus OX=9986 GN=CCKAR PE=2 SV=1	8.86e-15
+sp|E7F7V7|GAL2B_DANRE	sp|E7F7V7|GAL2B_DANRE Galanin receptor 2b OS=Danio rerio OX=7955 GN=galr2b PE=2 SV=1	8.89e-15
+sp|P14600|NK1R_RAT	sp|P14600|NK1R_RAT Substance-P receptor OS=Rattus norvegicus OX=10116 GN=Tacr1 PE=2 SV=1	9.89e-15
+sp|C3ZQF9|QRFPR_BRAFL	sp|C3ZQF9|QRFPR_BRAFL QRFP-like peptide receptor OS=Branchiostoma floridae OX=7739 GN=QRFPR PE=3 SV=1	1.17e-14
+sp|P30548|NK1R_MOUSE	sp|P30548|NK1R_MOUSE Substance-P receptor OS=Mus musculus OX=10090 GN=Tacr1 PE=2 SV=2	1.21e-14
+sp|Q5DUB1|NK1R_MERUN	sp|Q5DUB1|NK1R_MERUN Substance-P receptor OS=Meriones unguiculatus OX=10047 GN=TACR1 PE=2 SV=1	1.46e-14
+sp|Q6NS65|GPR17_MOUSE	sp|Q6NS65|GPR17_MOUSE Uracil nucleotide/cysteinyl leukotriene receptor OS=Mus musculus OX=10090 GN=Gpr17 PE=1 SV=1	1.51e-14
+sp|P34969|5HT7R_HUMAN	sp|P34969|5HT7R_HUMAN 5-hydroxytryptamine receptor 7 OS=Homo sapiens OX=9606 GN=HTR7 PE=1 SV=2	1.63e-14
+sp|Q09QM4|GPR17_RAT	sp|Q09QM4|GPR17_RAT Uracil nucleotide/cysteinyl leukotriene receptor OS=Rattus norvegicus OX=10116 GN=Gpr17 PE=2 SV=1	1.85e-14
+sp|P32305|5HT7R_RAT	sp|P32305|5HT7R_RAT 5-hydroxytryptamine receptor 7 OS=Rattus norvegicus OX=10116 GN=Htr7 PE=2 SV=2	1.87e-14
+sp|P32304|5HT7R_MOUSE	sp|P32304|5HT7R_MOUSE 5-hydroxytryptamine receptor 7 OS=Mus musculus OX=10090 GN=Htr7 PE=2 SV=2	2.08e-14
+sp|F1R332|GAL2A_DANRE	sp|F1R332|GAL2A_DANRE Galanin receptor 2a OS=Danio rerio OX=7955 GN=galr2a PE=2 SV=2	2.14e-14
+sp|O97666|APJ_MACMU	sp|O97666|APJ_MACMU Apelin receptor OS=Macaca mulatta OX=9544 GN=APLNR PE=3 SV=1	2.35e-14
+sp|Q9ESQ4|NMUR2_RAT	sp|Q9ESQ4|NMUR2_RAT Neuromedin-U receptor 2 OS=Rattus norvegicus OX=10116 GN=Nmur2 PE=1 SV=2	2.50e-14
+sp|Q9TUP7|OX2R_CANLF	sp|Q9TUP7|OX2R_CANLF Orexin receptor type 2 OS=Canis lupus familiaris OX=9615 GN=HCRTR2 PE=1 SV=1	2.52e-14
+sp|O62809|OX2R_PIG	sp|O62809|OX2R_PIG Orexin receptor type 2 OS=Sus scrofa OX=9823 GN=HCRTR2 PE=2 SV=2	2.66e-14
+sp|P51050|MTR1B_CHICK	sp|P51050|MTR1B_CHICK Melatonin receptor type 1B (Fragment) OS=Gallus gallus OX=9031 PE=2 SV=1	2.91e-14
+sp|Q8BZ39|NMUR2_MOUSE	sp|Q8BZ39|NMUR2_MOUSE Neuromedin-U receptor 2 OS=Mus musculus OX=10090 GN=Nmur2 PE=2 SV=1	3.97e-14
+sp|P49286|MTR1B_HUMAN	sp|P49286|MTR1B_HUMAN Melatonin receptor type 1B OS=Homo sapiens OX=9606 GN=MTNR1B PE=1 SV=1	4.13e-14
+sp|P35414|APJ_HUMAN	sp|P35414|APJ_HUMAN Apelin receptor OS=Homo sapiens OX=9606 GN=APLNR PE=1 SV=1	6.18e-14
+sp|P30731|GPR83_MOUSE	sp|P30731|GPR83_MOUSE Probable G-protein coupled receptor 83 OS=Mus musculus OX=10090 GN=Gpr83 PE=2 SV=2	8.83e-14
+sp|Q2KIP6|OPRK_BOVIN	sp|Q2KIP6|OPRK_BOVIN Kappa-type opioid receptor OS=Bos taurus OX=9913 GN=OPRK1 PE=2 SV=1	1.00e-13
+sp|O55040|NMUR1_MOUSE	sp|O55040|NMUR1_MOUSE Neuromedin-U receptor 1 OS=Mus musculus OX=10090 GN=Nmur1 PE=2 SV=2	1.05e-13
+sp|Q63931|CCKAR_CAVPO	sp|Q63931|CCKAR_CAVPO Cholecystokinin receptor type A OS=Cavia porcellus OX=10141 GN=CCKAR PE=2 SV=1	1.06e-13
+sp|P58308|OX2R_MOUSE	sp|P58308|OX2R_MOUSE Orexin receptor type 2 OS=Mus musculus OX=10090 GN=Hcrtr2 PE=2 SV=2	1.12e-13
+sp|P43140|ADA1A_RAT	sp|P43140|ADA1A_RAT Alpha-1A adrenergic receptor OS=Rattus norvegicus OX=10116 GN=Adra1a PE=1 SV=1	1.24e-13
+sp|Q28596|TRFR_SHEEP	sp|Q28596|TRFR_SHEEP Thyrotropin-releasing hormone receptor OS=Ovis aries OX=9940 GN=TRHR PE=2 SV=1	1.29e-13
+sp|O46639|TRFR_BOVIN	sp|O46639|TRFR_BOVIN Thyrotropin-releasing hormone receptor OS=Bos taurus OX=9913 GN=TRHR PE=3 SV=1	1.39e-13
+sp|Q9EQQ3|GPR63_MOUSE	sp|Q9EQQ3|GPR63_MOUSE Probable G-protein coupled receptor 63 OS=Mus musculus OX=10090 GN=Gpr63 PE=2 SV=2	1.46e-13
+sp|O77621|ADA1A_CANLF	sp|O77621|ADA1A_CANLF Alpha-1A adrenergic receptor (Fragment) OS=Canis lupus familiaris OX=9615 GN=ADRA1A PE=2 SV=1	1.48e-13
+sp|P41145|OPRK_HUMAN	sp|P41145|OPRK_HUMAN Kappa-type opioid receptor OS=Homo sapiens OX=9606 GN=OPRK1 PE=1 SV=2	1.65e-13
+sp|Q9VCZ3|OCTB1_DROME	sp|Q9VCZ3|OCTB1_DROME Octopamine receptor beta-1R OS=Drosophila melanogaster OX=7227 GN=Octbeta1R PE=2 SV=1	1.68e-13
+sp|P47804|RGR_HUMAN	sp|P47804|RGR_HUMAN RPE-retinal G protein-coupled receptor OS=Homo sapiens OX=9606 GN=RGR PE=1 SV=1	1.80e-13
+sp|P47803|RGR_BOVIN	sp|P47803|RGR_BOVIN RPE-retinal G protein-coupled receptor OS=Bos taurus OX=9913 GN=RGR PE=2 SV=1	1.85e-13
+sp|P35370|OPRX_RAT	sp|P35370|OPRX_RAT Nociceptin receptor OS=Rattus norvegicus OX=10116 GN=Oprl1 PE=2 SV=1	1.94e-13
+sp|Q4VA82|APJ_XENTR	sp|Q4VA82|APJ_XENTR Apelin receptor OS=Xenopus tropicalis OX=8364 GN=aplnr PE=2 SV=1	2.25e-13
+sp|Q2TAD5|APJB_XENLA	sp|Q2TAD5|APJB_XENLA Apelin receptor B OS=Xenopus laevis OX=8355 GN=aplnr-b PE=2 SV=1	2.44e-13
+sp|O08858|SSR5_MOUSE	sp|O08858|SSR5_MOUSE Somatostatin receptor type 5 OS=Mus musculus OX=10090 GN=Sstr5 PE=1 SV=3	2.47e-13
+sp|Q61041|NPY4R_MOUSE	sp|Q61041|NPY4R_MOUSE Neuropeptide Y receptor type 4 OS=Mus musculus OX=10090 GN=Npy4r PE=2 SV=2	2.65e-13
+sp|P35348|ADA1A_HUMAN	sp|P35348|ADA1A_HUMAN Alpha-1A adrenergic receptor OS=Homo sapiens OX=9606 GN=ADRA1A PE=1 SV=2	2.81e-13
+sp|P18130|ADA1A_BOVIN	sp|P18130|ADA1A_BOVIN Alpha-1A adrenergic receptor OS=Bos taurus OX=9913 GN=ADRA1A PE=2 SV=1	2.89e-13
+sp|Q9Y5Y3|GPR45_HUMAN	sp|Q9Y5Y3|GPR45_HUMAN Probable G-protein coupled receptor 45 OS=Homo sapiens OX=9606 GN=GPR45 PE=1 SV=2	3.00e-13
+sp|P79960|APJA_XENLA	sp|P79960|APJA_XENLA Apelin receptor A OS=Xenopus laevis OX=8355 GN=aplnr-a PE=1 SV=2	3.51e-13
+sp|Q91559|5HT7R_XENLA	sp|Q91559|5HT7R_XENLA 5-hydroxytryptamine receptor 7 OS=Xenopus laevis OX=8355 GN=htr7 PE=2 SV=1	3.52e-13
+sp|P20288|DRD2_BOVIN	sp|P20288|DRD2_BOVIN D(2) dopamine receptor OS=Bos taurus OX=9913 GN=DRD2 PE=2 SV=1	3.76e-13
+sp|P29275|AA2BR_HUMAN	sp|P29275|AA2BR_HUMAN Adenosine receptor A2b OS=Homo sapiens OX=9606 GN=ADORA2B PE=1 SV=1	3.77e-13
+sp|P97718|ADA1A_MOUSE	sp|P97718|ADA1A_MOUSE Alpha-1A adrenergic receptor OS=Mus musculus OX=10090 GN=Adra1a PE=1 SV=3	4.09e-13
+sp|P35377|OPRX_MOUSE	sp|P35377|OPRX_MOUSE Nociceptin receptor OS=Mus musculus OX=10090 GN=Oprl1 PE=2 SV=1	4.47e-13
+sp|Q8CIQ6|MTR1B_MOUSE	sp|Q8CIQ6|MTR1B_MOUSE Melatonin receptor type 1B OS=Mus musculus OX=10090 GN=Mtnr1b PE=2 SV=1	6.73e-13
+sp|P79292|OPRX_PIG	sp|P79292|OPRX_PIG Nociceptin receptor OS=Sus scrofa OX=9823 GN=OPRL1 PE=2 SV=1	7.28e-13
+sp|Q18775|DOPR4_CAEEL	sp|Q18775|DOPR4_CAEEL Dopamine receptor 4 OS=Caenorhabditis elegans OX=6239 GN=dop-4 PE=2 SV=2	1.02e-12
+sp|O43614|OX2R_HUMAN	sp|O43614|OX2R_HUMAN Orexin receptor type 2 OS=Homo sapiens OX=9606 GN=HCRTR2 PE=1 SV=2	1.08e-12
+sp|P47748|OPRX_CAVPO	sp|P47748|OPRX_CAVPO Nociceptin receptor OS=Cavia porcellus OX=10141 GN=OPRL1 PE=2 SV=1	1.10e-12
+sp|Q7SZP9|APJA_DANRE	sp|Q7SZP9|APJA_DANRE Apelin receptor A OS=Danio rerio OX=7955 GN=aplnra PE=1 SV=2	1.18e-12
+sp|P21451|EDNRB_RAT	sp|P21451|EDNRB_RAT Endothelin receptor type B OS=Rattus norvegicus OX=10116 GN=Ednrb PE=2 SV=2	1.18e-12
+sp|Q95KH4|LPAR2_MACFA	sp|Q95KH4|LPAR2_MACFA Lysophosphatidic acid receptor 2 OS=Macaca fascicularis OX=9541 GN=LPAR2 PE=2 SV=1	1.39e-12
+sp|O02824|ADA1A_RABIT	sp|O02824|ADA1A_RABIT Alpha-1A adrenergic receptor OS=Oryctolagus cuniculus OX=9986 GN=ADRA1A PE=2 SV=1	1.39e-12
+sp|Q9Y5X5|NPFF2_HUMAN	sp|Q9Y5X5|NPFF2_HUMAN Neuropeptide FF receptor 2 OS=Homo sapiens OX=9606 GN=NPFFR2 PE=1 SV=2	1.45e-12
+sp|Q9GZQ4|NMUR2_HUMAN	sp|Q9GZQ4|NMUR2_HUMAN Neuromedin-U receptor 2 OS=Homo sapiens OX=9606 GN=NMUR2 PE=1 SV=2	1.50e-12
+sp|O43603|GALR2_HUMAN	sp|O43603|GALR2_HUMAN Galanin receptor type 2 OS=Homo sapiens OX=9606 GN=GALR2 PE=1 SV=1	1.51e-12
+sp|P97295|NPY2R_MOUSE	sp|P97295|NPY2R_MOUSE Neuropeptide Y receptor type 2 OS=Mus musculus OX=10090 GN=Npy2r PE=2 SV=2	1.51e-12
+sp|P41146|OPRX_HUMAN	sp|P41146|OPRX_HUMAN Nociceptin receptor OS=Homo sapiens OX=9606 GN=OPRL1 PE=1 SV=1	1.57e-12
+sp|A5A4K9|GHSR_RABIT	sp|A5A4K9|GHSR_RABIT Growth hormone secretagogue receptor type 1 OS=Oryctolagus cuniculus OX=9986 GN=GHSR PE=2 SV=1	1.62e-12
+sp|P34981|TRFR_HUMAN	sp|P34981|TRFR_HUMAN Thyrotropin-releasing hormone receptor OS=Homo sapiens OX=9606 GN=TRHR PE=1 SV=1	1.93e-12
+sp|Q9HBW0|LPAR2_HUMAN	sp|Q9HBW0|LPAR2_HUMAN Lysophosphatidic acid receptor 2 OS=Homo sapiens OX=9606 GN=LPAR2 PE=1 SV=2	2.16e-12
+sp|Q8MJ89|MCHR1_MACMU	sp|Q8MJ89|MCHR1_MACMU Melanin-concentrating hormone receptor 1 (Fragment) OS=Macaca mulatta OX=9544 GN=MCHR1 PE=2 SV=2	2.16e-12
+sp|P79113|NPY2R_BOVIN	sp|P79113|NPY2R_BOVIN Neuropeptide Y receptor type 2 OS=Bos taurus OX=9913 GN=NPY2R PE=2 SV=1	2.19e-12
+sp|Q9BZJ6|GPR63_HUMAN	sp|Q9BZJ6|GPR63_HUMAN Probable G-protein coupled receptor 63 OS=Homo sapiens OX=9606 GN=GPR63 PE=2 SV=2	2.61e-12
+sp|Q2HJ17|CCR5_BOVIN	sp|Q2HJ17|CCR5_BOVIN C-C chemokine receptor type 5 OS=Bos taurus OX=9913 GN=CCR5 PE=2 SV=1	3.12e-12
+sp|P35373|AGTRB_XENLA	sp|P35373|AGTRB_XENLA Type-1 angiotensin II receptor B OS=Xenopus laevis OX=8355 GN=agtr1-b PE=2 SV=1	3.13e-12
+sp|Q5D0K2|CCKAR_CANLF	sp|Q5D0K2|CCKAR_CANLF Cholecystokinin receptor type A OS=Canis lupus familiaris OX=9615 GN=CCKAR PE=2 SV=1	3.62e-12
+sp|O88854|GALR2_MOUSE	sp|O88854|GALR2_MOUSE Galanin receptor type 2 OS=Mus musculus OX=10090 GN=Galr2 PE=2 SV=2	4.89e-12
+sp|P31391|SSR4_HUMAN	sp|P31391|SSR4_HUMAN Somatostatin receptor type 4 OS=Homo sapiens OX=9606 GN=SSTR4 PE=2 SV=2	5.03e-12
+sp|P24628|DRD2A_XENLA	sp|P24628|DRD2A_XENLA D(2) dopamine receptor A OS=Xenopus laevis OX=8355 GN=drd2-a PE=2 SV=1	5.41e-12
+sp|Q8JZL2|MCHR1_MOUSE	sp|Q8JZL2|MCHR1_MOUSE Melanin-concentrating hormone receptor 1 OS=Mus musculus OX=10090 GN=Mchr1 PE=2 SV=3	5.56e-12
+sp|P61168|DRD2_MOUSE	sp|P61168|DRD2_MOUSE D(2) dopamine receptor OS=Mus musculus OX=10090 GN=Drd2 PE=1 SV=2	5.59e-12
+sp|Q9GJU1|DRD2_CANLF	sp|Q9GJU1|DRD2_CANLF D(2) dopamine receptor OS=Canis lupus familiaris OX=9615 GN=DRD2 PE=2 SV=1	6.05e-12
+sp|P61169|DRD2_RAT	sp|P61169|DRD2_RAT D(2) dopamine receptor OS=Rattus norvegicus OX=10116 GN=Drd2 PE=1 SV=1	6.17e-12
+sp|Q9GK74|NPY2R_MACMU	sp|Q9GK74|NPY2R_MACMU Neuropeptide Y receptor type 2 OS=Macaca mulatta OX=9544 GN=NPY2R PE=2 SV=1	6.32e-12
+sp|A1ZAX0|CCH1R_DROME	sp|A1ZAX0|CCH1R_DROME Neuropeptide CCHamide-1 receptor OS=Drosophila melanogaster OX=7227 GN=CCHa1-R PE=2 SV=2	6.59e-12
+sp|O08726|GALR2_RAT	sp|O08726|GALR2_RAT Galanin receptor type 2 OS=Rattus norvegicus OX=10116 GN=Galr2 PE=2 SV=1	6.96e-12
+sp|P56719|OX2R_RAT	sp|P56719|OX2R_RAT Orexin receptor type 2 OS=Rattus norvegicus OX=10116 GN=Hcrtr2 PE=2 SV=1	7.08e-12
+sp|O46685|OGR1_BOVIN	sp|O46685|OGR1_BOVIN Ovarian cancer G-protein coupled receptor 1 OS=Bos taurus OX=9913 GN=GPR68 PE=2 SV=1	7.24e-12
+sp|Q8IN35|SIFAR_DROME	sp|Q8IN35|SIFAR_DROME Neuropeptide SIFamide receptor OS=Drosophila melanogaster OX=7227 GN=SIFaR PE=2 SV=2	7.36e-12
+sp|P56497|EDNRB_CANLF	sp|P56497|EDNRB_CANLF Endothelin receptor type B OS=Canis lupus familiaris OX=9615 GN=EDNRB PE=2 SV=3	8.07e-12
+sp|Q58CW4|NMUR2_BOVIN	sp|Q58CW4|NMUR2_BOVIN Neuromedin-U receptor 2 OS=Bos taurus OX=9913 GN=NMUR2 PE=2 SV=1	8.76e-12
+sp|Q5IJ49|MCHR1_PANTR	sp|Q5IJ49|MCHR1_PANTR Melanin-concentrating hormone receptor 1 OS=Pan troglodytes OX=9598 GN=MCHR1 PE=2 SV=1	9.17e-12
+sp|Q99705|MCHR1_HUMAN	sp|Q99705|MCHR1_HUMAN Melanin-concentrating hormone receptor 1 OS=Homo sapiens OX=9606 GN=MCHR1 PE=1 SV=2	9.17e-12
+sp|Q63447|NPY4R_RAT	sp|Q63447|NPY4R_RAT Neuropeptide Y receptor type 4 OS=Rattus norvegicus OX=10116 GN=Npy4r PE=2 SV=1	9.38e-12
+sp|P21761|TRFR_MOUSE	sp|P21761|TRFR_MOUSE Thyrotropin-releasing hormone receptor OS=Mus musculus OX=10090 GN=Trhr PE=2 SV=1	9.47e-12
+sp|A5A4L1|GHSR_MUSPF	sp|A5A4L1|GHSR_MUSPF Growth hormone secretagogue receptor type 1 OS=Mustela putorius furo OX=9669 GN=GHSR PE=2 SV=1	9.51e-12
+sp|Q6TLI9|DRD2_MUSPF	sp|Q6TLI9|DRD2_MUSPF D(2) dopamine receptor OS=Mustela putorius furo OX=9669 GN=DRD2 PE=2 SV=1	1.06e-11
+sp|Q0GBZ5|OX1R_BOVIN	sp|Q0GBZ5|OX1R_BOVIN Orexin receptor type 1 OS=Bos taurus OX=9913 GN=HCRTR1 PE=2 SV=1	1.07e-11
+sp|Q93126|GPR9_AMPAM	sp|Q93126|GPR9_AMPAM Probable G-protein coupled receptor No9 OS=Amphibalanus amphitrite OX=1232801 PE=3 SV=1	1.34e-11
+sp|P48302|EDNRB_MOUSE	sp|P48302|EDNRB_MOUSE Endothelin receptor type B OS=Mus musculus OX=10090 GN=Ednrb PE=2 SV=1	1.52e-11
+sp|Q9BDS8|CCR3_MACFA	sp|Q9BDS8|CCR3_MACFA C-C chemokine receptor type 3 OS=Macaca fascicularis OX=9541 GN=CCR3 PE=2 SV=1	1.68e-11
+sp|O02836|NPY2R_PIG	sp|O02836|NPY2R_PIG Neuropeptide Y receptor type 2 OS=Sus scrofa OX=9823 GN=NPY2R PE=2 SV=2	1.97e-11
+sp|P24053|NMBR_RAT	sp|P24053|NMBR_RAT Neuromedin-B receptor OS=Rattus norvegicus OX=10116 GN=Nmbr PE=2 SV=1	1.98e-11
+sp|P97639|MCHR1_RAT	sp|P97639|MCHR1_RAT Melanin-concentrating hormone receptor 1 OS=Rattus norvegicus OX=10116 GN=Mchr1 PE=2 SV=4	2.06e-11
+sp|Q5IS62|NPY2R_PANTR	sp|Q5IS62|NPY2R_PANTR Neuropeptide Y receptor type 2 OS=Pan troglodytes OX=9598 GN=NPY2R PE=2 SV=1	2.23e-11
+sp|P49146|NPY2R_HUMAN	sp|P49146|NPY2R_HUMAN Neuropeptide Y receptor type 2 OS=Homo sapiens OX=9606 GN=NPY2R PE=1 SV=1	2.23e-11
+sp|P97520|C5AR1_RAT	sp|P97520|C5AR1_RAT C5a anaphylatoxin chemotactic receptor 1 OS=Rattus norvegicus OX=10116 GN=C5ar1 PE=1 SV=1	2.28e-11
+sp|Q0VDU3|GPR15_MOUSE	sp|Q0VDU3|GPR15_MOUSE G-protein coupled receptor 15 OS=Mus musculus OX=10090 GN=Gpr15 PE=2 SV=2	2.36e-11
+sp|Q96P65|QRFPR_HUMAN	sp|Q96P65|QRFPR_HUMAN Pyroglutamylated RF-amide peptide receptor OS=Homo sapiens OX=9606 GN=QRFPR PE=1 SV=2	2.38e-11
+sp|Q9TTQ9|GPR83_CANLF	sp|Q9TTQ9|GPR83_CANLF Probable G-protein coupled receptor 83 OS=Canis lupus familiaris OX=9615 GN=GPR83 PE=2 SV=1	2.47e-11
+sp|Q9DDN6|NPY2R_CHICK	sp|Q9DDN6|NPY2R_CHICK Neuropeptide Y receptor type 2 OS=Gallus gallus OX=9031 GN=NPY2R PE=3 SV=1	2.51e-11
+sp|Q92847|GHSR_HUMAN	sp|Q92847|GHSR_HUMAN Growth hormone secretagogue receptor type 1 OS=Homo sapiens OX=9606 GN=GHSR PE=1 SV=1	2.61e-11
+sp|P50391|NPY4R_HUMAN	sp|P50391|NPY4R_HUMAN Neuropeptide Y receptor type 4 OS=Homo sapiens OX=9606 GN=NPY4R PE=2 SV=1	2.64e-11
+sp|P0DQD5|NPY42_HUMAN	sp|P0DQD5|NPY42_HUMAN Neuropeptide Y receptor type 4-2 OS=Homo sapiens OX=9606 GN=NPY4R2 PE=3 SV=1	2.64e-11
+sp|O93603|TRFR_CHICK	sp|O93603|TRFR_CHICK Thyrotropin-releasing hormone receptor OS=Gallus gallus OX=9031 GN=TRHR PE=2 SV=1	2.68e-11
+sp|Q95254|GHSR_PIG	sp|Q95254|GHSR_PIG Growth hormone secretagogue receptor type 1 OS=Sus scrofa OX=9823 GN=GHSR PE=2 SV=1	2.78e-11
+sp|Q5U431|GPR39_MOUSE	sp|Q5U431|GPR39_MOUSE G-protein coupled receptor 39 OS=Mus musculus OX=10090 GN=Gpr39 PE=2 SV=1	2.78e-11
+sp|P28088|EDNRB_BOVIN	sp|P28088|EDNRB_BOVIN Endothelin receptor type B OS=Bos taurus OX=9913 GN=EDNRB PE=1 SV=1	2.82e-11
+sp|P56479|GALR1_MOUSE	sp|P56479|GALR1_MOUSE Galanin receptor type 1 OS=Mus musculus OX=10090 GN=Galr1 PE=2 SV=1	3.14e-11
+sp|O01670|OAR2_LYMST	sp|O01670|OAR2_LYMST Octopamine receptor 2 OS=Lymnaea stagnalis OX=6523 PE=1 SV=1	3.25e-11
+sp|Q64H34|CCR3_CANLF	sp|Q64H34|CCR3_CANLF C-C chemokine receptor type 3 OS=Canis lupus familiaris OX=9615 GN=CCR3 PE=2 SV=1	3.61e-11
+sp|Q01717|TRFR_RAT	sp|Q01717|TRFR_RAT Thyrotropin-releasing hormone receptor OS=Rattus norvegicus OX=10116 GN=Trhr PE=2 SV=1	3.89e-11
+sp|P79217|NPY6R_RABIT	sp|P79217|NPY6R_RABIT Neuropeptide Y receptor type 6 OS=Oryctolagus cuniculus OX=9986 GN=NPY6R PE=2 SV=1	3.99e-11
+sp|P28336|NMBR_HUMAN	sp|P28336|NMBR_HUMAN Neuromedin-B receptor OS=Homo sapiens OX=9606 GN=NMBR PE=1 SV=2	4.00e-11
+sp|P58307|OX1R_MOUSE	sp|P58307|OX1R_MOUSE Orexin receptor type 1 OS=Mus musculus OX=10090 GN=Hcrtr1 PE=2 SV=3	4.23e-11
+sp|Q5QD09|TAA7E_MOUSE	sp|Q5QD09|TAA7E_MOUSE Trace amine-associated receptor 7e OS=Mus musculus OX=10090 GN=Taar7e PE=2 SV=1	4.60e-11
+sp|P61794|LPAR1_RAT	sp|P61794|LPAR1_RAT Lysophosphatidic acid receptor 1 OS=Rattus norvegicus OX=10116 GN=Lpar1 PE=1 SV=1	5.05e-11
+sp|P61793|LPAR1_MOUSE	sp|P61793|LPAR1_MOUSE Lysophosphatidic acid receptor 1 OS=Mus musculus OX=10090 GN=Lpar1 PE=1 SV=1	5.05e-11
+sp|Q99463|NPY6R_HUMAN	sp|Q99463|NPY6R_HUMAN Putative neuropeptide Y receptor type 6 OS=Homo sapiens OX=9606 GN=NPY6R PE=5 SV=1	5.07e-11
+sp|P24530|EDNRB_HUMAN	sp|P24530|EDNRB_HUMAN Endothelin receptor type B OS=Homo sapiens OX=9606 GN=EDNRB PE=1 SV=1	5.08e-11
+sp|B2ZHY2|GPR39_PIG	sp|B2ZHY2|GPR39_PIG G-protein coupled receptor 39 OS=Sus scrofa OX=9823 GN=GPR39 PE=2 SV=1	5.24e-11
+sp|P35463|EDNRB_PIG	sp|P35463|EDNRB_PIG Endothelin receptor type B OS=Sus scrofa OX=9823 GN=EDNRB PE=2 SV=1	5.48e-11
+sp|P56492|CCR3_CHLAE	sp|P56492|CCR3_CHLAE C-C chemokine receptor type 3 OS=Chlorocebus aethiops OX=9534 GN=CCR3 PE=3 SV=1	5.76e-11
+sp|G3M4F8|OCTB2_CHISP	sp|G3M4F8|OCTB2_CHISP Octopamine receptor beta-2R OS=Chilo suppressalis OX=168631 GN=OA2B2 PE=2 SV=1	6.71e-11
+sp|P30553|GASR_RAT	sp|P30553|GASR_RAT Gastrin/cholecystokinin type B receptor OS=Rattus norvegicus OX=10116 GN=Cckbr PE=2 SV=1	6.76e-11
+sp|A0A287A2K5|GASR_PIG	sp|A0A287A2K5|GASR_PIG Gastrin/cholecystokinin type B receptor OS=Sus scrofa OX=9823 GN=CCKBR PE=3 SV=1	6.88e-11
+sp|Q9EQQ4|GPR45_MOUSE	sp|Q9EQQ4|GPR45_MOUSE Probable G-protein coupled receptor 45 OS=Mus musculus OX=10090 GN=Gpr45 PE=2 SV=1	7.09e-11
+sp|Q9Z2B3|RGR_MOUSE	sp|Q9Z2B3|RGR_MOUSE RPE-retinal G protein-coupled receptor OS=Mus musculus OX=10090 GN=Rgr PE=2 SV=1	7.36e-11
+sp|Q9Z2D5|NPY2R_CAVPO	sp|Q9Z2D5|NPY2R_CAVPO Neuropeptide Y receptor type 2 OS=Cavia porcellus OX=10141 GN=NPY2R PE=3 SV=1	7.59e-11
+sp|Q588Y6|5HT1B_FELCA	sp|Q588Y6|5HT1B_FELCA 5-hydroxytryptamine receptor 1B OS=Felis catus OX=9685 GN=HTR1B PE=2 SV=1	7.89e-11
+sp|Q923Y5|TAAR6_RAT	sp|Q923Y5|TAAR6_RAT Trace amine-associated receptor 6 OS=Rattus norvegicus OX=10116 GN=Taar6 PE=3 SV=1	8.05e-11
+sp|Q90252|MTR_RHIMB	sp|Q90252|MTR_RHIMB Mesotocin receptor OS=Rhinella marina OX=8386 PE=2 SV=1	8.48e-11
+sp|P30796|GASR_MASNA	sp|P30796|GASR_MASNA Gastrin/cholecystokinin type B receptor OS=Mastomys natalensis OX=10112 GN=CCKBR PE=2 SV=1	8.83e-11
+sp|P42291|DRD1C_XENLA	sp|P42291|DRD1C_XENLA D(1C) dopamine receptor OS=Xenopus laevis OX=8355 GN=drd1c PE=2 SV=1	8.85e-11
+sp|P79266|GASR_BOVIN	sp|P79266|GASR_BOVIN Gastrin/cholecystokinin type B receptor OS=Bos taurus OX=9913 GN=CCKBR PE=2 SV=1	9.40e-11
+sp|Q99788|CML1_HUMAN	sp|Q99788|CML1_HUMAN Chemokine-like receptor 1 OS=Homo sapiens OX=9606 GN=CMKLR1 PE=1 SV=2	1.01e-10
+sp|O54799|NMBR_MOUSE	sp|O54799|NMBR_MOUSE Neuromedin-B receptor OS=Mus musculus OX=10090 GN=Nmbr PE=1 SV=1	1.08e-10
+sp|O42329|GNRR2_CLAGA	sp|O42329|GNRR2_CLAGA Gonadotropin-releasing hormone II receptor OS=Clarias gariepinus OX=13013 PE=2 SV=2	1.19e-10
+sp|O62709|EDNRB_HORSE	sp|O62709|EDNRB_HORSE Endothelin receptor type B OS=Equus caballus OX=9796 GN=EDNRB PE=1 SV=2	1.19e-10
+sp|P47749|PAR1_XENLA	sp|P47749|PAR1_XENLA Proteinase-activated receptor 1 OS=Xenopus laevis OX=8355 GN=f2r PE=1 SV=1	1.22e-10
+sp|Q7ZTV5|FSHR_CAIMO	sp|Q7ZTV5|FSHR_CAIMO Follicle-stimulating hormone receptor OS=Cairina moschata OX=8855 GN=FSHR PE=2 SV=1	1.23e-10
+sp|P41596|DOPR1_DROME	sp|P41596|DOPR1_DROME Dopamine receptor 1 OS=Drosophila melanogaster OX=7227 GN=Dop1R1 PE=2 SV=2	1.29e-10
+sp|Q5QD07|TAA8A_MOUSE	sp|Q5QD07|TAA8A_MOUSE Trace amine-associated receptor 8a OS=Mus musculus OX=10090 GN=Taar8a PE=2 SV=1	1.36e-10
+sp|P35371|BRS3_CAVPO	sp|P35371|BRS3_CAVPO Bombesin receptor subtype-3 OS=Cavia porcellus OX=10141 GN=BRS3 PE=2 SV=1	1.39e-10
+sp|P33533|OPRD_RAT	sp|P33533|OPRD_RAT Delta-type opioid receptor OS=Rattus norvegicus OX=10116 GN=Oprd1 PE=2 SV=1	1.43e-10
+sp|Q99P50|GHSR_MOUSE	sp|Q99P50|GHSR_MOUSE Growth hormone secretagogue receptor type 1 OS=Mus musculus OX=10090 GN=Ghsr PE=2 SV=3	1.43e-10
+sp|Q5QD08|TAA7F_MOUSE	sp|Q5QD08|TAA7F_MOUSE Trace amine-associated receptor 7f OS=Mus musculus OX=10090 GN=Taar7f PE=2 SV=1	1.51e-10
+sp|P56483|CCR3_MACMU	sp|P56483|CCR3_MACMU C-C chemokine receptor type 3 OS=Macaca mulatta OX=9544 GN=CCR3 PE=3 SV=1	1.52e-10
+sp|Q28524|ADRB3_MACMU	sp|Q28524|ADRB3_MACMU Beta-3 adrenergic receptor OS=Macaca mulatta OX=9544 GN=ADRB3 PE=2 SV=1	1.53e-10
+sp|P97926|OXYR_MOUSE	sp|P97926|OXYR_MOUSE Oxytocin receptor OS=Mus musculus OX=10090 GN=Oxtr PE=2 SV=2	1.58e-10
+sp|Q9TST4|ADRB3_FELCA	sp|Q9TST4|ADRB3_FELCA Beta-3 adrenergic receptor OS=Felis catus OX=9685 GN=ADRB3 PE=3 SV=1	1.59e-10
+sp|Q923X5|TAA7D_RAT	sp|Q923X5|TAA7D_RAT Trace amine-associated receptor 7d OS=Rattus norvegicus OX=10116 GN=Taar7d PE=3 SV=1	1.66e-10
+sp|Q1ZY22|CCR5_RABIT	sp|Q1ZY22|CCR5_RABIT C-C chemokine receptor type 5 OS=Oryctolagus cuniculus OX=9986 GN=CCR5 PE=3 SV=1	1.83e-10
+sp|Q923Y4|TAA7H_RAT	sp|Q923Y4|TAA7H_RAT Trace amine-associated receptor 7h OS=Rattus norvegicus OX=10116 GN=Taar7h PE=3 SV=1	1.85e-10
+sp|P32306|OXYR_PIG	sp|P32306|OXYR_PIG Oxytocin receptor OS=Sus scrofa OX=9823 GN=OXTR PE=2 SV=1	1.87e-10
+sp|Q8BFQ3|OGR1_MOUSE	sp|Q8BFQ3|OGR1_MOUSE Ovarian cancer G-protein coupled receptor 1 OS=Mus musculus OX=10090 GN=Gpr68 PE=2 SV=1	2.27e-10
+sp|Q9N0W7|EDNRB_RABIT	sp|Q9N0W7|EDNRB_RABIT Endothelin receptor type B OS=Oryctolagus cuniculus OX=9986 GN=EDNRB PE=2 SV=1	2.40e-10
+sp|P35404|5HT1B_DIDVI	sp|P35404|5HT1B_DIDVI 5-hydroxytryptamine receptor 1B OS=Didelphis virginiana OX=9267 GN=HTR1B PE=2 SV=1	2.45e-10
+sp|P32239|GASR_HUMAN	sp|P32239|GASR_HUMAN Gastrin/cholecystokinin type B receptor OS=Homo sapiens OX=9606 GN=CCKBR PE=1 SV=1	2.62e-10
+sp|Q9BGN6|CCR5_ALLSO	sp|Q9BGN6|CCR5_ALLSO C-C chemokine receptor type 5 OS=Allochrocebus solatus OX=147650 GN=CCR5 PE=3 SV=1	2.67e-10
+sp|Q32ZE2|AA2BR_RABIT	sp|Q32ZE2|AA2BR_RABIT Adenosine receptor A2b OS=Oryctolagus cuniculus OX=9986 GN=ADORA2B PE=2 SV=1	2.81e-10
+sp|Q8N6U8|GP161_HUMAN	sp|Q8N6U8|GP161_HUMAN G-protein coupled receptor 161 OS=Homo sapiens OX=9606 GN=GPR161 PE=1 SV=1	3.02e-10
+sp|O08725|GHSR_RAT	sp|O08725|GHSR_RAT Growth hormone secretagogue receptor type 1 OS=Rattus norvegicus OX=10116 GN=Ghsr PE=2 SV=1	3.02e-10
+sp|Q9EQD2|NPFF2_RAT	sp|Q9EQD2|NPFF2_RAT Neuropeptide FF receptor 2 OS=Rattus norvegicus OX=10116 GN=Npffr2 PE=2 SV=1	3.03e-10
+sp|P60026|DRD2_PANTR	sp|P60026|DRD2_PANTR D(2) dopamine receptor OS=Pan troglodytes OX=9598 GN=DRD2 PE=2 SV=1	3.05e-10
+sp|P14416|DRD2_HUMAN	sp|P14416|DRD2_HUMAN D(2) dopamine receptor OS=Homo sapiens OX=9606 GN=DRD2 PE=1 SV=2	3.05e-10
+sp|Q9NYM4|GPR83_HUMAN	sp|Q9NYM4|GPR83_HUMAN Probable G-protein coupled receptor 83 OS=Homo sapiens OX=9606 GN=GPR83 PE=2 SV=2	3.08e-10
+sp|P32300|OPRD_MOUSE	sp|P32300|OPRD_MOUSE Delta-type opioid receptor OS=Mus musculus OX=10090 GN=Oprd1 PE=1 SV=1	3.12e-10
+sp|P79945|PSP24_XENLA	sp|P79945|PSP24_XENLA High-affinity lysophosphatidic acid receptor OS=Xenopus laevis OX=8355 PE=2 SV=1	3.21e-10
+sp|P51682|CCR5_MOUSE	sp|P51682|CCR5_MOUSE C-C chemokine receptor type 5 OS=Mus musculus OX=10090 GN=Ccr5 PE=2 SV=3	3.23e-10
+sp|P30411|BKRB2_HUMAN	sp|P30411|BKRB2_HUMAN B2 bradykinin receptor OS=Homo sapiens OX=9606 GN=BDKRB2 PE=1 SV=2	3.25e-10
+sp|O73810|DRD2_MELGA	sp|O73810|DRD2_MELGA D(2) dopamine receptor OS=Meleagris gallopavo OX=9103 GN=DRD2 PE=2 SV=1	3.26e-10
+sp|P48145|NPBW1_HUMAN	sp|P48145|NPBW1_HUMAN Neuropeptides B/W receptor type 1 OS=Homo sapiens OX=9606 GN=NPBWR1 PE=1 SV=2	3.27e-10
+sp|O00270|GPR31_HUMAN	sp|O00270|GPR31_HUMAN 12-(S)-hydroxy-5,8,10,14-eicosatetraenoic acid receptor OS=Homo sapiens OX=9606 GN=GPR31 PE=1 SV=2	3.43e-10
+sp|P30552|GASR_CANLF	sp|P30552|GASR_CANLF Gastrin/cholecystokinin type B receptor OS=Canis lupus familiaris OX=9615 GN=CCKBR PE=2 SV=1	3.47e-10
+sp|Q90352|AVT_CATCO	sp|Q90352|AVT_CATCO [Arg8]-vasotocin receptor OS=Catostomus commersonii OX=7971 PE=2 SV=1	3.52e-10
+sp|Q60614|AA2BR_MOUSE	sp|Q60614|AA2BR_MOUSE Adenosine receptor A2b OS=Mus musculus OX=10090 GN=Adora2b PE=2 SV=2	3.54e-10
+sp|P52702|DRD2_CHLAE	sp|P52702|DRD2_CHLAE D(2) dopamine receptor OS=Chlorocebus aethiops OX=9534 GN=DRD2 PE=2 SV=1	3.59e-10
+sp|B3DM66|GP161_XENTR	sp|B3DM66|GP161_XENTR G-protein coupled receptor 161 OS=Xenopus tropicalis OX=8364 GN=gpr161 PE=2 SV=1	3.59e-10
+sp|P51678|CCR3_MOUSE	sp|P51678|CCR3_MOUSE Probable C-C chemokine receptor type 3 OS=Mus musculus OX=10090 GN=Ccr3 PE=2 SV=2	3.96e-10
+sp|P25100|ADA1D_HUMAN	sp|P25100|ADA1D_HUMAN Alpha-1D adrenergic receptor OS=Homo sapiens OX=9606 GN=ADRA1D PE=1 SV=2	4.04e-10
+sp|O08786|CCKAR_MOUSE	sp|O08786|CCKAR_MOUSE Cholecystokinin receptor type A OS=Mus musculus OX=10090 GN=Cckar PE=1 SV=1	4.12e-10
+sp|O08786|CCKAR_MOUSE	sp|O08786|CCKAR_MOUSE Cholecystokinin receptor type A OS=Mus musculus OX=10090 GN=Cckar PE=1 SV=1	5.42e-08
+sp|P56718|OX1R_RAT	sp|P56718|OX1R_RAT Orexin receptor type 1 OS=Rattus norvegicus OX=10116 GN=Hcrtr1 PE=2 SV=1	4.15e-10
+sp|Q62805|GALR1_RAT	sp|Q62805|GALR1_RAT Galanin receptor type 1 OS=Rattus norvegicus OX=10116 GN=Galr1 PE=2 SV=1	4.21e-10
+sp|O18793|CCR2_MACMU	sp|O18793|CCR2_MACMU C-C chemokine receptor type 2 OS=Macaca mulatta OX=9544 GN=CCR2 PE=2 SV=2	4.44e-10
+sp|P46627|GASR_RABIT	sp|P46627|GASR_RABIT Gastrin/cholecystokinin type B receptor OS=Oryctolagus cuniculus OX=9986 GN=CCKBR PE=3 SV=1	4.46e-10
+sp|Q25322|OAR2_LOCMI	sp|Q25322|OAR2_LOCMI Putative tyramine receptor 2 OS=Locusta migratoria OX=7004 GN=GCR2 PE=2 SV=1	4.64e-10
+sp|Q923Y1|TAA7G_RAT	sp|Q923Y1|TAA7G_RAT Trace amine-associated receptor 7g OS=Rattus norvegicus OX=10116 GN=Taar7g PE=3 SV=1	4.78e-10
+sp|Q5XM32|RXFP2_CANLF	sp|Q5XM32|RXFP2_CANLF Relaxin receptor 2 OS=Canis lupus familiaris OX=9615 GN=RXFP2 PE=2 SV=1	4.78e-10
+sp|Q25321|OAR1_LOCMI	sp|Q25321|OAR1_LOCMI Tyramine receptor 1 OS=Locusta migratoria OX=7004 GN=GCR1 PE=1 SV=1	4.89e-10
+sp|Q56UD9|NPBW1_RAT	sp|Q56UD9|NPBW1_RAT Neuropeptides B/W receptor type 1 OS=Rattus norvegicus OX=10116 GN=Npbwr1 PE=2 SV=1	5.07e-10
+sp|P49681|NPBW1_MOUSE	sp|P49681|NPBW1_MOUSE Neuropeptides B/W receptor type 1 OS=Mus musculus OX=10090 GN=Npbwr1 PE=3 SV=2	5.26e-10
+sp|P30993|C5AR1_MOUSE	sp|P30993|C5AR1_MOUSE C5a anaphylatoxin chemotactic receptor 1 OS=Mus musculus OX=10090 GN=C5ar1 PE=1 SV=2	5.61e-10
+sp|O55193|CCR2_RAT	sp|O55193|CCR2_RAT C-C chemokine receptor type 2 OS=Rattus norvegicus OX=10116 GN=Ccr2 PE=2 SV=1	5.71e-10
+sp|Q5WA50|CTR2_OCTVU	sp|Q5WA50|CTR2_OCTVU Cephalotocin receptor 2 OS=Octopus vulgaris OX=6645 GN=CTR2 PE=2 SV=1	5.73e-10
+sp|Q8K4Z4|ADRB2_CAVPO	sp|Q8K4Z4|ADRB2_CAVPO Beta-2 adrenergic receptor OS=Cavia porcellus OX=10141 GN=Adrb2 PE=3 SV=1	5.77e-10
+sp|P47747|HRH2_CAVPO	sp|P47747|HRH2_CAVPO Histamine H2 receptor OS=Cavia porcellus OX=10141 GN=HRH2 PE=3 SV=1	6.36e-10
+sp|Q924H0|NPFF2_MOUSE	sp|Q924H0|NPFF2_MOUSE Neuropeptide FF receptor 2 OS=Mus musculus OX=10090 GN=Npffr2 PE=2 SV=2	6.71e-10
+sp|Q9H228|S1PR5_HUMAN	sp|Q9H228|S1PR5_HUMAN Sphingosine 1-phosphate receptor 5 OS=Homo sapiens OX=9606 GN=S1PR5 PE=1 SV=1	6.91e-10
+sp|Q8K1Z6|GPR18_MOUSE	sp|Q8K1Z6|GPR18_MOUSE N-arachidonyl glycine receptor OS=Mus musculus OX=10090 GN=Gpr18 PE=1 SV=1	6.93e-10
+sp|O70526|BKRB2_CAVPO	sp|O70526|BKRB2_CAVPO B2 bradykinin receptor OS=Cavia porcellus OX=10141 GN=BDKRB2 PE=2 SV=1	7.07e-10
+sp|Q92633|LPAR1_HUMAN	sp|Q92633|LPAR1_HUMAN Lysophosphatidic acid receptor 1 OS=Homo sapiens OX=9606 GN=LPAR1 PE=1 SV=3	7.31e-10
+sp|Q15743|OGR1_HUMAN	sp|Q15743|OGR1_HUMAN Ovarian cancer G-protein coupled receptor 1 OS=Homo sapiens OX=9606 GN=GPR68 PE=1 SV=1	7.40e-10
+sp|B2RPY5|GP161_MOUSE	sp|B2RPY5|GP161_MOUSE G-protein coupled receptor 161 OS=Mus musculus OX=10090 GN=Gpr161 PE=1 SV=1	7.48e-10
+sp|Q6TLI7|AA2AR_HORSE	sp|Q6TLI7|AA2AR_HORSE Adenosine receptor A2a OS=Equus caballus OX=9796 GN=ADORA2A PE=2 SV=1	7.52e-10
+sp|P53453|DRD2L_TAKRU	sp|P53453|DRD2L_TAKRU D(2)-like dopamine receptor OS=Takifugu rubripes OX=31033 GN=d215 PE=3 SV=1	7.74e-10
+sp|P18762|ADRB2_MOUSE	sp|P18762|ADRB2_MOUSE Beta-2 adrenergic receptor OS=Mus musculus OX=10090 GN=Adrb2 PE=1 SV=2	7.77e-10
+sp|Q6W3F4|AA2BR_CANLF	sp|Q6W3F4|AA2BR_CANLF Adenosine receptor A2b OS=Canis lupus familiaris OX=9615 GN=ADORA2B PE=2 SV=1	8.22e-10
+sp|Q9XT76|CCR5_ALLLH	sp|Q9XT76|CCR5_ALLLH C-C chemokine receptor type 5 OS=Allochrocebus lhoesti OX=100224 GN=CCR5 PE=3 SV=1	8.34e-10
+sp|Q8K418|BRS3_RAT	sp|Q8K418|BRS3_RAT Bombesin receptor subtype-3 OS=Rattus norvegicus OX=10116 GN=Brs3 PE=2 SV=1	8.53e-10
+sp|P32247|BRS3_HUMAN	sp|P32247|BRS3_HUMAN Bombesin receptor subtype-3 OS=Homo sapiens OX=9606 GN=BRS3 PE=1 SV=1	8.69e-10
+sp|P41143|OPRD_HUMAN	sp|P41143|OPRD_HUMAN Delta-type opioid receptor OS=Homo sapiens OX=9606 GN=OPRD1 PE=1 SV=4	8.71e-10
+sp|P07700|ADRB1_MELGA	sp|P07700|ADRB1_MELGA Beta-1 adrenergic receptor OS=Meleagris gallopavo OX=9103 GN=ADRB1 PE=1 SV=1	9.09e-10
+sp|Q923X6|TAA7E_RAT	sp|Q923X6|TAA7E_RAT Trace amine-associated receptor 7e OS=Rattus norvegicus OX=10116 GN=Taar7e PE=3 SV=1	9.54e-10
+sp|Q28044|ADRB2_BOVIN	sp|Q28044|ADRB2_BOVIN Beta-2 adrenergic receptor OS=Bos taurus OX=9913 GN=ADRB2 PE=2 SV=2	9.65e-10
+sp|Q5QD05|TAA8C_MOUSE	sp|Q5QD05|TAA8C_MOUSE Trace amine-associated receptor 8c OS=Mus musculus OX=10090 GN=Taar8c PE=2 SV=1	9.83e-10
+sp|Q5QD21|TAA7C_RAT	sp|Q5QD21|TAA7C_RAT Trace amine-associated receptor 7c OS=Rattus norvegicus OX=10116 GN=Taar7c PE=3 SV=1	9.90e-10
+sp|O43194|GPR39_HUMAN	sp|O43194|GPR39_HUMAN G-protein coupled receptor 39 OS=Homo sapiens OX=9606 GN=GPR39 PE=1 SV=1	1.07e-09
+sp|Q91ZZ5|RXFP2_MOUSE	sp|Q91ZZ5|RXFP2_MOUSE Relaxin receptor 2 OS=Mus musculus OX=10090 GN=Rxfp2 PE=2 SV=2	1.14e-09
+sp|P79928|P2RY4_XENLA	sp|P79928|P2RY4_XENLA P2Y purinoceptor 4 OS=Xenopus laevis OX=8355 GN=p2ry4 PE=2 SV=1	1.14e-09
+sp|Q5QD13|TAAR6_MOUSE	sp|Q5QD13|TAAR6_MOUSE Trace amine-associated receptor 6 OS=Mus musculus OX=10090 GN=Taar6 PE=2 SV=1	1.17e-09
+sp|P25962|ADRB3_MOUSE	sp|P25962|ADRB3_MOUSE Beta-3 adrenergic receptor OS=Mus musculus OX=10090 GN=Adrb3 PE=2 SV=2	1.23e-09
+sp|Q9XT58|ADRB3_SHEEP	sp|Q9XT58|ADRB3_SHEEP Beta-3 adrenergic receptor OS=Ovis aries OX=9940 GN=ADRB3 PE=3 SV=2	1.23e-09
+sp|Q2V2K5|GNRHR_OCTVU	sp|Q2V2K5|GNRHR_OCTVU Gonadotropin-releasing hormone receptor OS=Octopus vulgaris OX=6645 GN=GNRHR PE=2 SV=1	1.24e-09
+sp|P20905|5HT1R_DROME	sp|P20905|5HT1R_DROME 5-hydroxytryptamine receptor 1 OS=Drosophila melanogaster OX=7227 GN=5-HT7 PE=2 SV=1	1.27e-09
+sp|P30992|C5AR1_CANLF	sp|P30992|C5AR1_CANLF C5a anaphylatoxin chemotactic receptor 1 OS=Canis lupus familiaris OX=9615 GN=C5AR1 PE=2 SV=1	1.34e-09
+sp|P29276|AA2BR_RAT	sp|P29276|AA2BR_RAT Adenosine receptor A2b OS=Rattus norvegicus OX=10116 GN=Adora2b PE=1 SV=1	1.45e-09
+sp|Q9N2B7|5HT1B_GORGO	sp|Q9N2B7|5HT1B_GORGO 5-hydroxytryptamine receptor 1B OS=Gorilla gorilla gorilla OX=9595 GN=HTR1B PE=3 SV=1	1.47e-09
+sp|Q9HB89|NMUR1_HUMAN	sp|Q9HB89|NMUR1_HUMAN Neuromedin-U receptor 1 OS=Homo sapiens OX=9606 GN=NMUR1 PE=2 SV=1	1.52e-09
+sp|Q93127|GPR18_AMPAM	sp|Q93127|GPR18_AMPAM Probable G-protein coupled receptor No18 OS=Amphibalanus amphitrite OX=1232801 PE=3 SV=1	1.54e-09
+sp|O97967|BRS3_SHEEP	sp|O97967|BRS3_SHEEP Bombesin receptor subtype-3 OS=Ovis aries OX=9940 GN=BRS3 PE=2 SV=1	1.56e-09
+sp|Q5QD06|TAA8B_MOUSE	sp|Q5QD06|TAA8B_MOUSE Trace amine-associated receptor 8b OS=Mus musculus OX=10090 GN=Taar8b PE=2 SV=1	1.59e-09
+sp|P46628|LPAR1_SHEEP	sp|P46628|LPAR1_SHEEP Lysophosphatidic acid receptor 1 OS=Ovis aries OX=9940 GN=LPAR1 PE=2 SV=1	1.61e-09
+sp|O02769|MTR1A_BOVIN	sp|O02769|MTR1A_BOVIN Melatonin receptor type 1A (Fragment) OS=Bos taurus OX=9913 GN=MTNR1A PE=3 SV=1	1.67e-09
+sp|P70536|OXYR_RAT	sp|P70536|OXYR_RAT Oxytocin receptor OS=Rattus norvegicus OX=10116 GN=Oxtr PE=1 SV=2	1.69e-09
+sp|P47751|BRS4_BOMOR	sp|P47751|BRS4_BOMOR [Phe13]-bombesin receptor OS=Bombina orientalis OX=8346 GN=BB4 PE=2 SV=2	1.75e-09
+sp|Q5QD10|TAA7D_MOUSE	sp|Q5QD10|TAA7D_MOUSE Trace amine-associated receptor 7d OS=Mus musculus OX=10090 GN=Taar7d PE=2 SV=1	1.76e-09
+sp|P04274|ADRB2_MESAU	sp|P04274|ADRB2_MESAU Beta-2 adrenergic receptor OS=Mesocricetus auratus OX=10036 GN=ADRB2 PE=1 SV=1	1.80e-09
+sp|P79250|5HT1B_CANLF	sp|P79250|5HT1B_CANLF 5-hydroxytryptamine receptor 1B OS=Canis lupus familiaris OX=9615 GN=HTR1B PE=2 SV=2	1.89e-09
+sp|Q4KWL2|ADRB2_TSCTR	sp|Q4KWL2|ADRB2_TSCTR Beta-2 adrenergic receptor OS=Tscherskia triton OX=329627 GN=ADRB2 PE=2 SV=1	1.99e-09
+sp|Q28031|LPAR1_BOVIN	sp|Q28031|LPAR1_BOVIN Lysophosphatidic acid receptor 1 OS=Bos taurus OX=9913 GN=LPAR1 PE=2 SV=1	2.00e-09
+sp|P41597|CCR2_HUMAN	sp|P41597|CCR2_HUMAN C-C chemokine receptor type 2 OS=Homo sapiens OX=9606 GN=CCR2 PE=1 SV=1	2.17e-09
+sp|Q5IS65|5HT6R_PANTR	sp|Q5IS65|5HT6R_PANTR 5-hydroxytryptamine receptor 6 OS=Pan troglodytes OX=9598 GN=HTR6 PE=2 SV=1	2.20e-09
+sp|P32212|FSHR_MACFA	sp|P32212|FSHR_MACFA Follicle-stimulating hormone receptor OS=Macaca fascicularis OX=9541 GN=FSHR PE=2 SV=2	2.23e-09
+sp|P60020|5HT1B_PANTR	sp|P60020|5HT1B_PANTR 5-hydroxytryptamine receptor 1B OS=Pan troglodytes OX=9598 GN=HTR1B PE=3 SV=1	2.31e-09
+sp|P28222|5HT1B_HUMAN	sp|P28222|5HT1B_HUMAN 5-hydroxytryptamine receptor 1B OS=Homo sapiens OX=9606 GN=HTR1B PE=1 SV=1	2.31e-09
+sp|Q5GJ04|FSHR_FELCA	sp|Q5GJ04|FSHR_FELCA Follicle-stimulating hormone receptor OS=Felis catus OX=9685 GN=FSHR PE=2 SV=1	2.40e-09
+sp|P51683|CCR2_MOUSE	sp|P51683|CCR2_MOUSE C-C chemokine receptor type 2 OS=Mus musculus OX=10090 GN=Ccr2 PE=1 SV=2	2.57e-09
+sp|P23945|FSHR_HUMAN	sp|P23945|FSHR_HUMAN Follicle-stimulating hormone receptor OS=Homo sapiens OX=9606 GN=FSHR PE=1 SV=3	2.57e-09
+sp|O02662|ADRB3_CANLF	sp|O02662|ADRB3_CANLF Beta-3 adrenergic receptor OS=Canis lupus familiaris OX=9615 GN=ADRB3 PE=2 SV=1	3.02e-09
+sp|P79763|FSHR_CHICK	sp|P79763|FSHR_CHICK Follicle-stimulating hormone receptor OS=Gallus gallus OX=9031 GN=FSHR PE=2 SV=1	3.07e-09
+sp|P46023|GR101_LYMST	sp|P46023|GR101_LYMST G-protein coupled receptor GRL101 OS=Lymnaea stagnalis OX=6523 PE=2 SV=1	3.12e-09
+sp|Q9TST5|ADRB2_FELCA	sp|Q9TST5|ADRB2_FELCA Beta-2 adrenergic receptor OS=Felis catus OX=9685 GN=ADRB2 PE=3 SV=1	3.17e-09
+sp|P29274|AA2AR_HUMAN	sp|P29274|AA2AR_HUMAN Adenosine receptor A2a OS=Homo sapiens OX=9606 GN=ADORA2A PE=1 SV=2	3.33e-09
+sp|Q6R6L8|FSHR_MESAU	sp|Q6R6L8|FSHR_MESAU Follicle-stimulating hormone receptor OS=Mesocricetus auratus OX=10036 GN=FSHR PE=2 SV=1	3.55e-09
+sp|P0C7U4|C3AR_DANRE	sp|P0C7U4|C3AR_DANRE C3a anaphylatoxin chemotactic receptor OS=Danio rerio OX=7955 GN=c3ar1 PE=3 SV=1	3.57e-09
+sp|P50406|5HT6R_HUMAN	sp|P50406|5HT6R_HUMAN 5-hydroxytryptamine receptor 6 OS=Homo sapiens OX=9606 GN=HTR6 PE=1 SV=1	3.98e-09
+sp|Q6XXX8|5HT1B_VULVU	sp|Q6XXX8|5HT1B_VULVU 5-hydroxytryptamine receptor 1B OS=Vulpes vulpes OX=9627 GN=HTR1B PE=3 SV=1	3.99e-09
+sp|P51676|CC1L1_MOUSE	sp|P51676|CC1L1_MOUSE C-C chemokine receptor 1-like protein 1 OS=Mus musculus OX=10090 GN=Ccr1l1 PE=2 SV=2	4.02e-09
+sp|P28334|5HT1B_MOUSE	sp|P28334|5HT1B_MOUSE 5-hydroxytryptamine receptor 1B OS=Mus musculus OX=10090 GN=Htr1b PE=2 SV=1	4.03e-09
+sp|Q5QD11|TAA7B_MOUSE	sp|Q5QD11|TAA7B_MOUSE Trace amine-associated receptor 7b OS=Mus musculus OX=10090 GN=Taar7b PE=2 SV=1	4.05e-09
+sp|P32249|GP183_HUMAN	sp|P32249|GP183_HUMAN G-protein coupled receptor 183 OS=Homo sapiens OX=9606 GN=GPR183 PE=1 SV=3	4.06e-09
+sp|Q9EP66|HCAR2_MOUSE	sp|Q9EP66|HCAR2_MOUSE Hydroxycarboxylic acid receptor 2 OS=Mus musculus OX=10090 GN=Hcar2 PE=1 SV=1	4.55e-09
+sp|P07550|ADRB2_HUMAN	sp|P07550|ADRB2_HUMAN Beta-2 adrenergic receptor OS=Homo sapiens OX=9606 GN=ADRB2 PE=1 SV=3	4.70e-09
+sp|P18599|5HT2A_CRIGR	sp|P18599|5HT2A_CRIGR 5-hydroxytryptamine receptor 2A OS=Cricetulus griseus OX=10029 GN=HTR2A PE=2 SV=1	4.82e-09
+sp|Q8WXD0|RXFP2_HUMAN	sp|Q8WXD0|RXFP2_HUMAN Relaxin receptor 2 OS=Homo sapiens OX=9606 GN=RXFP2 PE=1 SV=1	4.96e-09
+sp|P97468|CML1_MOUSE	sp|P97468|CML1_MOUSE Chemokine-like receptor 1 OS=Mus musculus OX=10090 GN=Cmklr1 PE=1 SV=1	5.22e-09
+sp|Q61121|GPR19_MOUSE	sp|Q61121|GPR19_MOUSE Probable G-protein coupled receptor 19 OS=Mus musculus OX=10090 GN=Gpr19 PE=2 SV=2	5.31e-09
+sp|Q5QD12|TAA7A_MOUSE	sp|Q5QD12|TAA7A_MOUSE Trace amine-associated receptor 7a OS=Mus musculus OX=10090 GN=Taar7a PE=2 SV=1	5.41e-09
+sp|Q9JJI5|NMUR1_RAT	sp|Q9JJI5|NMUR1_RAT Neuromedin-U receptor 1 OS=Rattus norvegicus OX=10116 GN=Nmur1 PE=1 SV=2	5.53e-09
+sp|Q90456|MR1BA_DANRE	sp|Q90456|MR1BA_DANRE Melatonin receptor type 1B-A (Fragment) OS=Danio rerio OX=7955 GN=mtnr1ba PE=2 SV=2	5.58e-09
+sp|O35786|CML1_RAT	sp|O35786|CML1_RAT Chemokine-like receptor 1 OS=Rattus norvegicus OX=10116 GN=Cmklr1 PE=1 SV=1	6.04e-09
+sp|Q9XT57|ADRB3_CAPHI	sp|Q9XT57|ADRB3_CAPHI Beta-3 adrenergic receptor OS=Capra hircus OX=9925 GN=ADRB3 PE=3 SV=1	6.09e-09
+sp|P35409|GLHR_ANTEL	sp|P35409|GLHR_ANTEL Probable glycoprotein hormone G-protein coupled receptor OS=Anthopleura elegantissima OX=6110 PE=2 SV=1	6.17e-09
+sp|Q923Y3|TAA8B_RAT	sp|Q923Y3|TAA8B_RAT Trace amine-associated receptor 8b OS=Rattus norvegicus OX=10116 GN=Taar8b PE=3 SV=1	6.24e-09
+sp|Q6H2Y3|BRS3_MACMU	sp|Q6H2Y3|BRS3_MACMU Bombesin receptor subtype-3 OS=Macaca mulatta OX=9544 GN=BRS3 PE=2 SV=1	6.26e-09
+sp|P28564|5HT1B_RAT	sp|P28564|5HT1B_RAT 5-hydroxytryptamine receptor 1B OS=Rattus norvegicus OX=10116 GN=Htr1b PE=2 SV=1	6.39e-09
+sp|Q8SPN2|PKR1_BOVIN	sp|Q8SPN2|PKR1_BOVIN Prokineticin receptor 1 OS=Bos taurus OX=9913 GN=PROKR1 PE=2 SV=1	6.46e-09
+sp|O54798|BRS3_MOUSE	sp|O54798|BRS3_MOUSE Bombesin receptor subtype-3 OS=Mus musculus OX=10090 GN=Brs3 PE=2 SV=1	6.62e-09
+sp|P35379|FSHR_SHEEP	sp|P35379|FSHR_SHEEP Follicle-stimulating hormone receptor OS=Ovis aries OX=9940 GN=FSHR PE=1 SV=1	6.63e-09
+sp|Q95ND0|CCR5_ERYPA	sp|Q95ND0|CCR5_ERYPA C-C chemokine receptor type 5 OS=Erythrocebus patas OX=9538 GN=CCR5 PE=3 SV=1	7.07e-09
+sp|O46635|5HT2A_CANLF	sp|O46635|5HT2A_CANLF 5-hydroxytryptamine receptor 2A OS=Canis lupus familiaris OX=9615 GN=HTR2A PE=2 SV=2	7.07e-09
+sp|Q923X9|TAA8A_RAT	sp|Q923X9|TAA8A_RAT Trace amine-associated receptor 8a OS=Rattus norvegicus OX=10116 GN=Taar8a PE=3 SV=2	7.15e-09
+sp|Q9DDK4|S1PR1_DANRE	sp|Q9DDK4|S1PR1_DANRE Sphingosine 1-phosphate receptor 1 OS=Danio rerio OX=7955 GN=s1pr1 PE=2 SV=2	7.27e-09
+sp|P56494|OXYR_MACMU	sp|P56494|OXYR_MACMU Oxytocin receptor OS=Macaca mulatta OX=9544 GN=OXTR PE=2 SV=1	7.38e-09
+sp|Q8C010|GPR61_MOUSE	sp|Q8C010|GPR61_MOUSE G-protein coupled receptor 61 OS=Mus musculus OX=10090 GN=Gpr61 PE=2 SV=2	7.40e-09
+sp|P32303|AGTRA_XENLA	sp|P32303|AGTRA_XENLA Type-1 angiotensin II receptor A OS=Xenopus laevis OX=8355 GN=agtr1-a PE=2 SV=2	7.40e-09
+sp|Q8K458|PKR2_MOUSE	sp|Q8K458|PKR2_MOUSE Prokineticin receptor 2 OS=Mus musculus OX=10090 GN=Prokr2 PE=2 SV=1	7.61e-09
+sp|Q28997|ADRB2_PIG	sp|Q28997|ADRB2_PIG Beta-2 adrenergic receptor OS=Sus scrofa OX=9823 GN=ADRB2 PE=2 SV=2	7.80e-09
+sp|Q9NPB9|ACKR4_HUMAN	sp|Q9NPB9|ACKR4_HUMAN Atypical chemokine receptor 4 OS=Homo sapiens OX=9606 GN=ACKR4 PE=1 SV=1	8.33e-09
+sp|P61752|HRH2_PONPY	sp|P61752|HRH2_PONPY Histamine H2 receptor OS=Pongo pygmaeus OX=9600 GN=HRH2 PE=3 SV=1	8.39e-09
+sp|P60021|HRH2_PANTR	sp|P60021|HRH2_PANTR Histamine H2 receptor OS=Pan troglodytes OX=9598 GN=HRH2 PE=3 SV=1	8.39e-09
+sp|P25021|HRH2_HUMAN	sp|P25021|HRH2_HUMAN Histamine H2 receptor OS=Homo sapiens OX=9606 GN=HRH2 PE=2 SV=1	8.39e-09
+sp|Q76MS7|HRH2_GORGO	sp|Q76MS7|HRH2_GORGO Histamine H2 receptor OS=Gorilla gorilla gorilla OX=9595 GN=HRH2 PE=3 SV=1	8.39e-09
+sp|P32299|BKRB2_MOUSE	sp|P32299|BKRB2_MOUSE B2 bradykinin receptor OS=Mus musculus OX=10090 GN=Bdkrb2 PE=2 SV=4	8.44e-09
+sp|P50129|5HT2A_PIG	sp|P50129|5HT2A_PIG 5-hydroxytryptamine receptor 2A OS=Sus scrofa OX=9823 GN=HTR2A PE=2 SV=1	8.54e-09
+sp|Q4LBB9|OCTB2_DROME	sp|Q4LBB9|OCTB2_DROME Octopamine receptor beta-2R OS=Drosophila melanogaster OX=7227 GN=Octbeta2R PE=2 SV=2	8.77e-09
+sp|E9QJ73|CXR32_DANRE	sp|E9QJ73|CXR32_DANRE C-X-C chemokine receptor type 3-2 OS=Danio rerio OX=7955 GN=cxcr3.2 PE=2 SV=2	8.95e-09
+sp|Q9EQ31|LPAR3_MOUSE	sp|Q9EQ31|LPAR3_MOUSE Lysophosphatidic acid receptor 3 OS=Mus musculus OX=10090 GN=Lpar3 PE=1 SV=1	9.01e-09
+sp|Q6XXX9|5HT1A_CANLF	sp|Q6XXX9|5HT1A_CANLF 5-hydroxytryptamine receptor 1A OS=Canis lupus familiaris OX=9615 GN=HTR1A PE=3 SV=1	9.36e-09
+sp|Q684M3|S1PR5_PIG	sp|Q684M3|S1PR5_PIG Sphingosine 1-phosphate receptor 5 OS=Sus scrofa OX=9823 GN=S1PR5 PE=3 SV=1	9.56e-09
+sp|Q90328|EDNRB_COTJA	sp|Q90328|EDNRB_COTJA Endothelin receptor type B (Fragment) OS=Coturnix japonica OX=93934 GN=EDNRB PE=2 SV=1	9.69e-09
+sp|P47898|5HT5A_HUMAN	sp|P47898|5HT5A_HUMAN 5-hydroxytryptamine receptor 5A OS=Homo sapiens OX=9606 GN=HTR5A PE=2 SV=1	9.80e-09
+sp|P47936|CNR2_MOUSE	sp|P47936|CNR2_MOUSE Cannabinoid receptor 2 OS=Mus musculus OX=10090 GN=Cnr2 PE=1 SV=1	1.00e-08
+sp|Q28509|ADRB2_MACMU	sp|Q28509|ADRB2_MACMU Beta-2 adrenergic receptor OS=Macaca mulatta OX=9544 GN=ADRB2 PE=2 SV=1	1.01e-08
+sp|Q05394|FPR1_RABIT	sp|Q05394|FPR1_RABIT fMet-Leu-Phe receptor OS=Oryctolagus cuniculus OX=9986 GN=FPR1 PE=2 SV=1	1.01e-08
+sp|P47799|FSHR_HORSE	sp|P47799|FSHR_HORSE Follicle-stimulating hormone receptor OS=Equus caballus OX=9796 GN=FSHR PE=2 SV=1	1.02e-08
+sp|Q8TCW9|PKR1_HUMAN	sp|Q8TCW9|PKR1_HUMAN Prokineticin receptor 1 OS=Homo sapiens OX=9606 GN=PROKR1 PE=1 SV=1	1.02e-08
+sp|P56449|OXYR_BOVIN	sp|P56449|OXYR_BOVIN Oxytocin receptor OS=Bos taurus OX=9913 GN=OXTR PE=2 SV=1	1.04e-08
+sp|Q28003|CXCR2_BOVIN	sp|Q28003|CXCR2_BOVIN C-X-C chemokine receptor type 2 OS=Bos taurus OX=9913 GN=CXCR2 PE=2 SV=1	1.04e-08
+sp|Q2YDN1|GP161_BOVIN	sp|Q2YDN1|GP161_BOVIN G protein-coupled receptor 161 OS=Bos taurus OX=9913 GN=GPR161 PE=2 SV=1	1.04e-08
+sp|Q5R4Q6|5HT2A_PONPY	sp|Q5R4Q6|5HT2A_PONPY 5-hydroxytryptamine receptor 2A OS=Pongo pygmaeus OX=9600 GN=HTR2A PE=2 SV=1	1.13e-08
+sp|P50128|5HT2A_MACMU	sp|P50128|5HT2A_MACMU 5-hydroxytryptamine receptor 2A OS=Macaca mulatta OX=9544 GN=HTR2A PE=2 SV=1	1.13e-08
+sp|P28223|5HT2A_HUMAN	sp|P28223|5HT2A_HUMAN 5-hydroxytryptamine receptor 2A OS=Homo sapiens OX=9606 GN=HTR2A PE=1 SV=2	1.13e-08
+sp|Q90WY6|ADA2C_DANRE	sp|Q90WY6|ADA2C_DANRE Alpha-2C adrenergic receptor OS=Danio rerio OX=7955 GN=adra2c PE=3 SV=1	1.13e-08
+sp|Q96RI8|TAAR6_HUMAN	sp|Q96RI8|TAAR6_HUMAN Trace amine-associated receptor 6 OS=Homo sapiens OX=9606 GN=TAAR6 PE=2 SV=1	1.14e-08
+sp|P10608|ADRB2_RAT	sp|P10608|ADRB2_RAT Beta-2 adrenergic receptor OS=Rattus norvegicus OX=10116 GN=Adrb2 PE=1 SV=1	1.16e-08
+sp|P35376|FSHR_BOVIN	sp|P35376|FSHR_BOVIN Follicle-stimulating hormone receptor OS=Bos taurus OX=9913 GN=FSHR PE=2 SV=1	1.18e-08
+sp|P70585|GPR19_RAT	sp|P70585|GPR19_RAT Probable G-protein coupled receptor 19 OS=Rattus norvegicus OX=10116 GN=Gpr19 PE=2 SV=2	1.19e-08
+sp|P51681|CCR5_HUMAN	sp|P51681|CCR5_HUMAN C-C chemokine receptor type 5 OS=Homo sapiens OX=9606 GN=CCR5 PE=1 SV=1	1.21e-08
+sp|P35365|5HT5B_RAT	sp|P35365|5HT5B_RAT 5-hydroxytryptamine receptor 5B OS=Rattus norvegicus OX=10116 GN=Htr5b PE=2 SV=1	1.21e-08
+sp|Q60484|5HT1D_CAVPO	sp|Q60484|5HT1D_CAVPO 5-hydroxytryptamine receptor 1D OS=Cavia porcellus OX=10141 GN=HTR1D PE=3 SV=1	1.28e-08
+sp|O97883|CCR5_NOMLE	sp|O97883|CCR5_NOMLE C-C chemokine receptor type 5 OS=Nomascus leucogenys OX=61853 GN=CCR5 PE=3 SV=1	1.30e-08
+sp|O97661|OX1R_PIG	sp|O97661|OX1R_PIG Orexin receptor type 1 OS=Sus scrofa OX=9823 GN=HCRTR1 PE=2 SV=2	1.30e-08
+sp|O97571|CXCR2_CANLF	sp|O97571|CXCR2_CANLF C-X-C chemokine receptor type 2 OS=Canis lupus familiaris OX=9615 GN=CXCR2 PE=2 SV=1	1.30e-08
+sp|Q923Y2|TAA7A_RAT	sp|Q923Y2|TAA7A_RAT Trace amine-associated receptor 7a OS=Rattus norvegicus OX=10116 GN=Taar7a PE=3 SV=1	1.31e-08
+sp|Q5QD23|TAAR5_RAT	sp|Q5QD23|TAAR5_RAT Trace amine-associated receptor 5 OS=Rattus norvegicus OX=10116 GN=Taar5 PE=3 SV=1	1.34e-08
+sp|P32246|CCR1_HUMAN	sp|P32246|CCR1_HUMAN C-C chemokine receptor type 1 OS=Homo sapiens OX=9606 GN=CCR1 PE=1 SV=1	1.37e-08
+sp|Q923Y6|TAAR9_RAT	sp|Q923Y6|TAAR9_RAT Trace amine-associated receptor 9 OS=Rattus norvegicus OX=10116 GN=Taar9 PE=3 SV=1	1.38e-08
+sp|O14804|TAAR5_HUMAN	sp|O14804|TAAR5_HUMAN Trace amine-associated receptor 5 OS=Homo sapiens OX=9606 GN=TAAR5 PE=2 SV=2	1.40e-08
+sp|Q9BXC0|HCAR1_HUMAN	sp|Q9BXC0|HCAR1_HUMAN Hydroxycarboxylic acid receptor 1 OS=Homo sapiens OX=9606 GN=HCAR1 PE=1 SV=1	1.40e-08
+sp|P54833|ADRB2_CANLF	sp|P54833|ADRB2_CANLF Beta-2 adrenergic receptor OS=Canis lupus familiaris OX=9615 GN=ADRB2 PE=2 SV=1	1.41e-08
+sp|P49144|5HT1B_RABIT	sp|P49144|5HT1B_RABIT 5-hydroxytryptamine receptor 1B OS=Oryctolagus cuniculus OX=9986 GN=HTR1B PE=2 SV=1	1.42e-08
+sp|O97878|CCR5_TRAFR	sp|O97878|CCR5_TRAFR C-C chemokine receptor type 5 OS=Trachypithecus francoisi OX=54180 GN=CCR5 PE=3 SV=1	1.42e-08
+sp|O97975|CCR5_MACAR	sp|O97975|CCR5_MACAR C-C chemokine receptor type 5 OS=Macaca arctoides OX=9540 GN=CCR5 PE=3 SV=1	1.42e-08
+sp|Q8MJV2|NPBW2_BOVIN	sp|Q8MJV2|NPBW2_BOVIN Neuropeptides B/W receptor type 2 OS=Bos taurus OX=9913 GN=NPBWR2 PE=2 SV=1	1.48e-08
+sp|A1A5S3|GPR18_RAT	sp|A1A5S3|GPR18_RAT N-arachidonyl glycine receptor OS=Rattus norvegicus OX=10116 GN=Gpr18 PE=1 SV=1	1.59e-08
+sp|Q9EP86|NPFF1_RAT	sp|Q9EP86|NPFF1_RAT Neuropeptide FF receptor 1 OS=Rattus norvegicus OX=10116 GN=Npffr1 PE=1 SV=1	1.59e-08
+sp|Q95NC6|CCR5_TRAJO	sp|Q95NC6|CCR5_TRAJO C-C chemokine receptor type 5 OS=Trachypithecus johnii OX=66063 GN=CCR5 PE=3 SV=1	1.63e-08
+sp|O97881|CCR5_PONPY	sp|O97881|CCR5_PONPY C-C chemokine receptor type 5 OS=Pongo pygmaeus OX=9600 GN=CCR5 PE=3 SV=1	1.72e-08
+sp|P61756|CCR5_PONAB	sp|P61756|CCR5_PONAB C-C chemokine receptor type 5 OS=Pongo abelii OX=9601 GN=CCR5 PE=3 SV=1	1.72e-08
+sp|Q95NC0|CCR5_HYLML	sp|Q95NC0|CCR5_HYLML C-C chemokine receptor type 5 OS=Hylobates moloch OX=81572 GN=CCR5 PE=3 SV=1	1.73e-08
+sp|P51677|CCR3_HUMAN	sp|P51677|CCR3_HUMAN C-C chemokine receptor type 3 OS=Homo sapiens OX=9606 GN=CCR3 PE=1 SV=1	1.74e-08
+sp|Q28927|ADRB1_SHEEP	sp|Q28927|ADRB1_SHEEP Beta-1 adrenergic receptor OS=Ovis aries OX=9940 GN=ADRB1 PE=2 SV=2	1.74e-08
+sp|P56439|CCR5_GORGO	sp|P56439|CCR5_GORGO C-C chemokine receptor type 5 OS=Gorilla gorilla gorilla OX=9595 GN=CCR5 PE=3 SV=1	1.76e-08
+sp|Q95NC5|CCR5_SYMSY	sp|Q95NC5|CCR5_SYMSY C-C chemokine receptor type 5 OS=Symphalangus syndactylus OX=9590 GN=CCR5 PE=3 SV=1	1.78e-08
+sp|Q90674|LSHR_CHICK	sp|Q90674|LSHR_CHICK Lutropin-choriogonadotropic hormone receptor OS=Gallus gallus OX=9031 GN=LHCGR PE=2 SV=2	1.85e-08
+sp|Q8MJV3|NPBW1_BOVIN	sp|Q8MJV3|NPBW1_BOVIN Neuropeptides B/W receptor type 1 OS=Bos taurus OX=9913 GN=NPBWR1 PE=2 SV=1	1.87e-08
+sp|Q8K5E0|LPAR3_RAT	sp|Q8K5E0|LPAR3_RAT Lysophosphatidic acid receptor 3 OS=Rattus norvegicus OX=10116 GN=Lpar3 PE=2 SV=1	1.89e-08
+sp|F7EQ49|GPER1_MACMU	sp|F7EQ49|GPER1_MACMU G-protein coupled estrogen receptor 1 OS=Macaca mulatta OX=9544 GN=GPER1 PE=1 SV=1	1.91e-08
+sp|P56440|CCR5_PANTR	sp|P56440|CCR5_PANTR C-C chemokine receptor type 5 OS=Pan troglodytes OX=9598 GN=CCR5 PE=2 SV=1	1.91e-08
+sp|P60574|CCR5_PANPA	sp|P60574|CCR5_PANPA C-C chemokine receptor type 5 OS=Pan paniscus OX=9597 GN=CCR5 PE=3 SV=1	1.91e-08
+sp|P46636|5HT1B_CRIGR	sp|P46636|5HT1B_CRIGR 5-hydroxytryptamine receptor 1B OS=Cricetulus griseus OX=10029 GN=HTR1B PE=2 SV=1	1.94e-08
+sp|Q95NC2|CCR5_PLEMO	sp|Q95NC2|CCR5_PLEMO C-C chemokine receptor type 5 OS=Plecturocebus moloch OX=9523 GN=CCR5 PE=3 SV=1	1.95e-08
+sp|Q923X8|TAA7B_RAT	sp|Q923X8|TAA7B_RAT Trace amine-associated receptor 7b OS=Rattus norvegicus OX=10116 GN=Taar7b PE=3 SV=2	2.07e-08
+sp|Q99527|GPER1_HUMAN	sp|Q99527|GPER1_HUMAN G-protein coupled estrogen receptor 1 OS=Homo sapiens OX=9606 GN=GPER1 PE=1 SV=1	2.09e-08
+sp|Q8R415|PKR2_RAT	sp|Q8R415|PKR2_RAT Prokineticin receptor 2 OS=Rattus norvegicus OX=10116 GN=Prokr2 PE=2 SV=2	2.10e-08
+sp|P51684|CCR6_HUMAN	sp|P51684|CCR6_HUMAN C-C chemokine receptor type 6 OS=Homo sapiens OX=9606 GN=CCR6 PE=1 SV=2	2.18e-08
+sp|Q95LH1|GPR1_MACFA	sp|Q95LH1|GPR1_MACFA G-protein coupled receptor 1 OS=Macaca fascicularis OX=9541 GN=GPR1 PE=2 SV=1	2.20e-08
+sp|Q923Y0|TAA8C_RAT	sp|Q923Y0|TAA8C_RAT Trace amine-associated receptor 8c OS=Rattus norvegicus OX=10116 GN=Taar8c PE=3 SV=1	2.20e-08
+sp|Q868T3|CCAPR_DROME	sp|Q868T3|CCAPR_DROME Cardioacceleratory peptide receptor OS=Drosophila melanogaster OX=7227 GN=CCAP-R PE=2 SV=4	2.27e-08
+sp|Q6XXY0|5HT1A_VULVU	sp|Q6XXY0|5HT1A_VULVU 5-hydroxytryptamine receptor 1A OS=Vulpes vulpes OX=9627 GN=HTR1A PE=3 SV=1	2.34e-08
+sp|O97962|CCR5_RHIAV	sp|O97962|CCR5_RHIAV C-C chemokine receptor type 5 OS=Rhinopithecus avunculus OX=66062 GN=CCR5 PE=3 SV=1	2.36e-08
+sp|P14842|5HT2A_RAT	sp|P14842|5HT2A_RAT 5-hydroxytryptamine receptor 2A OS=Rattus norvegicus OX=10116 GN=Htr2a PE=1 SV=1	2.42e-08
+sp|P11617|AA2AR_CANLF	sp|P11617|AA2AR_CANLF Adenosine receptor A2a OS=Canis lupus familiaris OX=9615 GN=ADORA2A PE=2 SV=1	2.50e-08
+sp|Q8NFJ6|PKR2_HUMAN	sp|Q8NFJ6|PKR2_HUMAN Prokineticin receptor 2 OS=Homo sapiens OX=9606 GN=PROKR2 PE=1 SV=1	2.59e-08
+sp|Q80Z39|HCAR2_RAT	sp|Q80Z39|HCAR2_RAT Hydroxycarboxylic acid receptor 2 OS=Rattus norvegicus OX=10116 GN=Hcar2 PE=1 SV=1	2.63e-08
+sp|O97664|GPR1_MACMU	sp|O97664|GPR1_MACMU G-protein coupled receptor 1 OS=Macaca mulatta OX=9544 GN=GPR1 PE=3 SV=1	2.66e-08
+sp|P35363|5HT2A_MOUSE	sp|P35363|5HT2A_MOUSE 5-hydroxytryptamine receptor 2A OS=Mus musculus OX=10090 GN=Htr2a PE=1 SV=1	2.76e-08
+sp|Q75Z89|5HT2A_BOVIN	sp|Q75Z89|5HT2A_BOVIN 5-hydroxytryptamine receptor 2A OS=Bos taurus OX=9913 GN=HTR2A PE=2 SV=1	2.78e-08
+sp|Q9Z0L1|S1PR4_MOUSE	sp|Q9Z0L1|S1PR4_MOUSE Sphingosine 1-phosphate receptor 4 OS=Mus musculus OX=10090 GN=S1pr4 PE=2 SV=1	2.85e-08
+sp|O43613|OX1R_HUMAN	sp|O43613|OX1R_HUMAN Orexin receptor type 1 OS=Homo sapiens OX=9606 GN=HCRTR1 PE=1 SV=2	2.96e-08
+sp|Q25188|OAR_HELVI	sp|Q25188|OAR_HELVI Octopamine receptor OS=Heliothis virescens OX=7102 PE=2 SV=1	3.02e-08
+sp|Q6YNB6|FSHR_MACEU	sp|Q6YNB6|FSHR_MACEU Follicle-stimulating hormone receptor OS=Macropus eugenii OX=9315 GN=FSHR PE=2 SV=1	3.12e-08
+sp|Q9TUE1|C5AR1_RABIT	sp|Q9TUE1|C5AR1_RABIT C5a anaphylatoxin chemotactic receptor 1 (Fragment) OS=Oryctolagus cuniculus OX=9986 GN=C5AR1 PE=3 SV=1	3.15e-08
+sp|Q95179|FSHR_EQUAS	sp|Q95179|FSHR_EQUAS Follicle-stimulating hormone receptor OS=Equus asinus OX=9793 GN=FSHR PE=2 SV=1	3.19e-08
+sp|P46090|GPR1_RAT	sp|P46090|GPR1_RAT G-protein coupled receptor 1 OS=Rattus norvegicus OX=10116 GN=Gpr1 PE=3 SV=1	3.25e-08
+sp|P25115|DRD5_RAT	sp|P25115|DRD5_RAT D(1B) dopamine receptor OS=Rattus norvegicus OX=10116 GN=Drd5 PE=2 SV=1	3.32e-08
+sp|Q95ND2|CCR5_MANLE	sp|Q95ND2|CCR5_MANLE C-C chemokine receptor type 5 OS=Mandrillus leucophaeus OX=9568 GN=CCR5 PE=3 SV=1	3.32e-08
+sp|Q95252|ADRB3_PIG	sp|Q95252|ADRB3_PIG Beta-3 adrenergic receptor OS=Sus scrofa OX=9823 GN=ADRB3 PE=2 SV=2	3.38e-08
+sp|O97879|CCR5_TRAPH	sp|O97879|CCR5_TRAPH C-C chemokine receptor type 5 OS=Trachypithecus phayrei OX=61618 GN=CCR5 PE=3 SV=1	3.45e-08
+sp|P61757|CCR5_SEMEN	sp|P61757|CCR5_SEMEN C-C chemokine receptor type 5 OS=Semnopithecus entellus OX=88029 GN=CCR5 PE=3 SV=1	3.45e-08
+sp|Q95NC7|CCR5_NASLA	sp|Q95NC7|CCR5_NASLA C-C chemokine receptor type 5 OS=Nasalis larvatus OX=43780 GN=CCR5 PE=3 SV=1	3.48e-08
+sp|Q9P1P4|TAAR3_HUMAN	sp|Q9P1P4|TAAR3_HUMAN Putative trace amine-associated receptor 3 OS=Homo sapiens OX=9606 GN=TAAR3P PE=5 SV=1	3.55e-08
+sp|P56496|5HT1B_SPAEH	sp|P56496|5HT1B_SPAEH 5-hydroxytryptamine receptor 1B OS=Spalax ehrenbergi OX=30637 GN=HTR1B PE=3 SV=1	3.67e-08
+sp|P25095|AGTRA_RAT	sp|P25095|AGTRA_RAT Type-1A angiotensin II receptor OS=Rattus norvegicus OX=10116 GN=Agtr1 PE=1 SV=1	3.73e-08
+sp|Q9TT96|ADRB1_BOVIN	sp|Q9TT96|ADRB1_BOVIN Beta-1 adrenergic receptor OS=Bos taurus OX=9913 GN=ADRB1 PE=3 SV=2	3.75e-08
+sp|P47211|GALR1_HUMAN	sp|P47211|GALR1_HUMAN Galanin receptor type 1 OS=Homo sapiens OX=9606 GN=GALR1 PE=1 SV=3	3.80e-08
+sp|P51680|CCR4_MOUSE	sp|P51680|CCR4_MOUSE C-C chemokine receptor type 4 OS=Mus musculus OX=10090 GN=Ccr4 PE=2 SV=2	3.95e-08
+sp|O42385|5H1AA_TAKRU	sp|O42385|5H1AA_TAKRU 5-hydroxytryptamine receptor 1A-alpha OS=Takifugu rubripes OX=31033 GN=htr1aa PE=3 SV=1	4.11e-08
+sp|Q17232|OAR_BOMMO	sp|Q17232|OAR_BOMMO Octopamine receptor OS=Bombyx mori OX=7091 PE=2 SV=1	4.14e-08
+sp|Q8BLD9|DRD5_MOUSE	sp|Q8BLD9|DRD5_MOUSE D(1B) dopamine receptor OS=Mus musculus OX=10090 GN=Drd5 PE=2 SV=1	4.17e-08
+sp|Q8C131|HCAR1_MOUSE	sp|Q8C131|HCAR1_MOUSE Hydroxycarboxylic acid receptor 1 OS=Mus musculus OX=10090 GN=Hcar1 PE=1 SV=1	4.29e-08
+sp|O97882|CCR5_PYGNE	sp|O97882|CCR5_PYGNE C-C chemokine receptor type 5 OS=Pygathrix nemaeus OX=54133 GN=CCR5 PE=3 SV=1	4.32e-08
+sp|B1PHQ8|CML1_PIG	sp|B1PHQ8|CML1_PIG Chemokine-like receptor 1 OS=Sus scrofa OX=9823 GN=CMLKR1 PE=2 SV=1	4.33e-08
+sp|Q8K087|GPR1_MOUSE	sp|Q8K087|GPR1_MOUSE G-protein coupled receptor 1 OS=Mus musculus OX=10090 GN=Gpr1 PE=2 SV=1	4.50e-08
+sp|P61815|CCR5_MACNE	sp|P61815|CCR5_MACNE C-C chemokine receptor type 5 OS=Macaca nemestrina OX=9545 GN=CCR5 PE=3 SV=1	4.52e-08
+sp|P61813|CCR5_MACMU	sp|P61813|CCR5_MACMU C-C chemokine receptor type 5 OS=Macaca mulatta OX=9544 GN=CCR5 PE=2 SV=1	4.52e-08
+sp|P61814|CCR5_MACFA	sp|P61814|CCR5_MACFA C-C chemokine receptor type 5 OS=Macaca fascicularis OX=9541 GN=CCR5 PE=2 SV=1	4.52e-08
+sp|P19020|DRD3_RAT	sp|P19020|DRD3_RAT D(3) dopamine receptor OS=Rattus norvegicus OX=10116 GN=Drd3 PE=1 SV=1	4.58e-08
+sp|P26255|ADRB3_RAT	sp|P26255|ADRB3_RAT Beta-3 adrenergic receptor OS=Rattus norvegicus OX=10116 GN=Adrb3 PE=2 SV=2	4.68e-08
+sp|P21453|S1PR1_HUMAN	sp|P21453|S1PR1_HUMAN Sphingosine 1-phosphate receptor 1 OS=Homo sapiens OX=9606 GN=S1PR1 PE=1 SV=2	4.88e-08
+sp|Q5QD14|TAAR5_MOUSE	sp|Q5QD14|TAAR5_MOUSE Trace amine-associated receptor 5 OS=Mus musculus OX=10090 GN=Taar5 PE=2 SV=1	5.02e-08
+sp|Q5W8W0|TAAR6_PANTR	sp|Q5W8W0|TAAR6_PANTR Trace amine-associated receptor 6 OS=Pan troglodytes OX=9598 GN=TAAR6 PE=3 SV=1	5.33e-08
+sp|Q91X56|S1PR5_MOUSE	sp|Q91X56|S1PR5_MOUSE Sphingosine 1-phosphate receptor 5 OS=Mus musculus OX=10090 GN=S1pr5 PE=1 SV=1	5.35e-08
+sp|Q8HZT9|CCR5_SAISC	sp|Q8HZT9|CCR5_SAISC C-C chemokine receptor type 5 OS=Saimiri sciureus OX=9521 GN=CCR5 PE=2 SV=1	5.37e-08
+sp|Q95NC8|CCR5_COLPO	sp|Q95NC8|CCR5_COLPO C-C chemokine receptor type 5 OS=Colobus polykomos OX=9572 GN=CCR5 PE=3 SV=1	5.51e-08
+sp|Q9VNM1|NPFR_DROME	sp|Q9VNM1|NPFR_DROME Neuropeptide F receptor OS=Drosophila melanogaster OX=7227 GN=NPFR PE=1 SV=3	5.87e-08
+sp|Q9BXC1|GP174_HUMAN	sp|Q9BXC1|GP174_HUMAN Probable G-protein coupled receptor 174 OS=Homo sapiens OX=9606 GN=GPR174 PE=2 SV=1	5.92e-08
+sp|Q8IS44|DRD2L_DROME	sp|Q8IS44|DRD2L_DROME Dopamine D2-like receptor OS=Drosophila melanogaster OX=7227 GN=Dop2R PE=2 SV=2	5.95e-08
+sp|Q95NE8|CCR5_CHLTN	sp|Q95NE8|CCR5_CHLTN C-C chemokine receptor type 5 OS=Chlorocebus tantalus OX=60712 GN=CCR5 PE=3 SV=1	6.15e-08
+sp|P56493|CCR5_CHLAE	sp|P56493|CCR5_CHLAE C-C chemokine receptor type 5 OS=Chlorocebus aethiops OX=9534 GN=CCR5 PE=2 SV=1	6.20e-08
+sp|Q9I8K8|S1PR2_DANRE	sp|Q9I8K8|S1PR2_DANRE Sphingosine 1-phosphate receptor 2 OS=Danio rerio OX=7955 GN=s1pr2 PE=1 SV=1	6.29e-08
+sp|Q5ECR9|CCR5_CANLF	sp|Q5ECR9|CCR5_CANLF C-C chemokine receptor type 5 OS=Canis lupus familiaris OX=9615 GN=CCR5 PE=2 SV=1	6.49e-08
+sp|Q95ND1|CCR5_MANSP	sp|Q95ND1|CCR5_MANSP C-C chemokine receptor type 5 OS=Mandrillus sphinx OX=9561 GN=CCR5 PE=3 SV=1	7.04e-08
+sp|Q5QNP2|TA13C_DANRE	sp|Q5QNP2|TA13C_DANRE Trace amine-associated receptor 13c OS=Danio rerio OX=7955 GN=taar13c PE=1 SV=1	7.33e-08
+sp|P34968|5HT2C_MOUSE	sp|P34968|5HT2C_MOUSE 5-hydroxytryptamine receptor 2C OS=Mus musculus OX=10090 GN=Htr2c PE=2 SV=2	7.38e-08
+sp|P49019|HCAR3_HUMAN	sp|P49019|HCAR3_HUMAN Hydroxycarboxylic acid receptor 3 OS=Homo sapiens OX=9606 GN=HCAR3 PE=1 SV=3	7.48e-08
+sp|Q5IS66|5HT2C_PANTR	sp|Q5IS66|5HT2C_PANTR 5-hydroxytryptamine receptor 2C OS=Pan troglodytes OX=9598 GN=HTR2C PE=2 SV=1	7.57e-08
+sp|P08909|5HT2C_RAT	sp|P08909|5HT2C_RAT 5-hydroxytryptamine receptor 2C OS=Rattus norvegicus OX=10116 GN=Htr2c PE=1 SV=1	7.80e-08
+sp|P21729|GRPR_MOUSE	sp|P21729|GRPR_MOUSE Gastrin-releasing peptide receptor OS=Mus musculus OX=10090 GN=Grpr PE=1 SV=2	8.12e-08
+sp|P30989|NTR1_HUMAN	sp|P30989|NTR1_HUMAN Neurotensin receptor type 1 OS=Homo sapiens OX=9606 GN=NTSR1 PE=1 SV=2	8.34e-08
+sp|Q28756|OXYR_SHEEP	sp|Q28756|OXYR_SHEEP Oxytocin receptor OS=Ovis aries OX=9940 GN=OXTR PE=1 SV=1	8.81e-08
+sp|P13945|ADRB3_HUMAN	sp|P13945|ADRB3_HUMAN Beta-3 adrenergic receptor OS=Homo sapiens OX=9606 GN=ADRB3 PE=1 SV=3	8.93e-08
+sp|O97880|CCR5_RHIBE	sp|O97880|CCR5_RHIBE C-C chemokine receptor type 5 OS=Rhinopithecus bieti OX=61621 GN=CCR5 PE=3 SV=1	8.98e-08
+sp|P0C0L6|NPSR1_RAT	sp|P0C0L6|NPSR1_RAT Neuropeptide S receptor OS=Rattus norvegicus OX=10116 GN=Npsr1 PE=2 SV=1	9.32e-08
+sp|P56481|GASR_MOUSE	sp|P56481|GASR_MOUSE Gastrin/cholecystokinin type B receptor OS=Mus musculus OX=10090 GN=Cckbr PE=2 SV=1	9.38e-08
+sp|P56481|GASR_MOUSE	sp|P56481|GASR_MOUSE Gastrin/cholecystokinin type B receptor OS=Mus musculus OX=10090 GN=Cckbr PE=2 SV=1	3.04e-05
+sp|Q9TV49|CCR5_CERGA	sp|Q9TV49|CCR5_CERGA C-C chemokine receptor type 5 OS=Cercocebus galeritus OX=9532 GN=CCR5 PE=3 SV=1	9.48e-08
+sp|Q9UBY5|LPAR3_HUMAN	sp|Q9UBY5|LPAR3_HUMAN Lysophosphatidic acid receptor 3 OS=Homo sapiens OX=9606 GN=LPAR3 PE=1 SV=1	9.60e-08
+sp|P20395|FSHR_RAT	sp|P20395|FSHR_RAT Follicle-stimulating hormone receptor OS=Rattus norvegicus OX=10116 GN=Fshr PE=1 SV=1	9.79e-08
+sp|P35407|CXCR2_RAT	sp|P35407|CXCR2_RAT C-X-C chemokine receptor type 2 OS=Rattus norvegicus OX=10116 GN=Cxcr2 PE=2 SV=2	9.79e-08
+sp|P11615|ADA1B_CANLF	sp|P11615|ADA1B_CANLF Alpha-1B adrenergic receptor (Fragment) OS=Canis lupus familiaris OX=9615 GN=ADRA1B PE=2 SV=1	9.95e-08
+sp|Q5QD28|TAAR5_PANTR	sp|Q5QD28|TAAR5_PANTR Trace amine-associated receptor 5 OS=Pan troglodytes OX=9598 GN=TAAR5 PE=3 SV=1	9.99e-08
+sp|Q9TV42|CCR5_CHLPG	sp|Q9TV42|CCR5_CHLPG C-C chemokine receptor type 5 OS=Chlorocebus pygerythrus OX=60710 GN=CCR5 PE=3 SV=1	1.07e-07
+sp|Q9TV47|CCR5_CERCP	sp|Q9TV47|CCR5_CERCP C-C chemokine receptor type 5 OS=Cercopithecus cephus OX=9535 GN=CCR5 PE=3 SV=1	1.08e-07
+sp|P21730|C5AR1_HUMAN	sp|P21730|C5AR1_HUMAN C5a anaphylatoxin chemotactic receptor 1 OS=Homo sapiens OX=9606 GN=C5AR1 PE=1 SV=2	1.08e-07
+sp|Q9TV43|CCR5_CHLSB	sp|Q9TV43|CCR5_CHLSB C-C chemokine receptor type 5 OS=Chlorocebus sabaeus OX=60711 GN=CCR5 PE=3 SV=1	1.09e-07
+sp|Q6WN98|CCR5_MICHU	sp|Q6WN98|CCR5_MICHU C-C chemokine receptor type 5 OS=Mico humeralifer OX=52232 GN=CCR5 PE=3 SV=1	1.12e-07
+sp|P21109|CXCR1_RABIT	sp|P21109|CXCR1_RABIT C-X-C chemokine receptor type 1 OS=Oryctolagus cuniculus OX=9986 GN=CXCR1 PE=2 SV=2	1.12e-07
+sp|Q9EQ16|CXCR6_MOUSE	sp|Q9EQ16|CXCR6_MOUSE C-X-C chemokine receptor type 6 OS=Mus musculus OX=10090 GN=Cxcr6 PE=1 SV=1	1.15e-07
+sp|Q98998|5HT1A_XENLA	sp|Q98998|5HT1A_XENLA 5-hydroxytryptamine receptor 1A OS=Xenopus laevis OX=8355 GN=htr1a PE=2 SV=1	1.16e-07
+sp|O54814|CCR3_RAT	sp|O54814|CCR3_RAT C-C chemokine receptor type 3 OS=Rattus norvegicus OX=10116 GN=Ccr3 PE=2 SV=1	1.18e-07
+sp|Q0EAB5|5HT1B_HORSE	sp|Q0EAB5|5HT1B_HORSE 5-hydroxytryptamine receptor 1B OS=Equus caballus OX=9796 GN=HTR1B PE=2 SV=1	1.22e-07
+sp|Q0II78|CCRL2_BOVIN	sp|Q0II78|CCRL2_BOVIN Chemokine C-C motif receptor-like 2 OS=Bos taurus OX=9913 GN=CCRL2 PE=2 SV=1	1.26e-07
+sp|P52500|GRPR_RAT	sp|P52500|GRPR_RAT Gastrin-releasing peptide receptor OS=Rattus norvegicus OX=10116 GN=Grpr PE=2 SV=2	1.26e-07
+sp|Q2KI97|GPR84_BOVIN	sp|Q2KI97|GPR84_BOVIN G-protein coupled receptor 84 OS=Bos taurus OX=9913 GN=GPR84 PE=2 SV=1	1.28e-07
+sp|P30728|DRD3_MOUSE	sp|P30728|DRD3_MOUSE D(3) dopamine receptor OS=Mus musculus OX=10090 GN=Drd3 PE=2 SV=1	1.34e-07
+sp|P35343|CXCR2_MOUSE	sp|P35343|CXCR2_MOUSE C-X-C chemokine receptor type 2 OS=Mus musculus OX=10090 GN=Cxcr2 PE=2 SV=1	1.34e-07
+sp|Q86917|VQ3L_SHEVK	sp|Q86917|VQ3L_SHEVK G-protein coupled receptor homolog Q2/3L OS=Sheeppox virus (strain KS-1) OX=10269 GN=Q2/3L PE=3 SV=1	1.36e-07
+sp|P37288|V1AR_HUMAN	sp|P37288|V1AR_HUMAN Vasopressin V1a receptor OS=Homo sapiens OX=9606 GN=AVPR1A PE=1 SV=1	1.36e-07
+sp|P83858|QRFPR_RAT	sp|P83858|QRFPR_RAT Pyroglutamylated RF-amide peptide receptor OS=Rattus norvegicus OX=10116 GN=Qrfpr PE=2 SV=1	1.37e-07
+sp|Q9Z0U9|S1PR3_MOUSE	sp|Q9Z0U9|S1PR3_MOUSE Sphingosine 1-phosphate receptor 3 OS=Mus musculus OX=10090 GN=S1pr3 PE=2 SV=1	1.37e-07
+sp|Q5QD04|TAAR9_MOUSE	sp|Q5QD04|TAAR9_MOUSE Trace amine-associated receptor 9 OS=Mus musculus OX=10090 GN=Taar9 PE=2 SV=1	1.40e-07
+sp|P17124|HRH2_CANLF	sp|P17124|HRH2_CANLF Histamine H2 receptor OS=Canis lupus familiaris OX=9615 GN=HRH2 PE=1 SV=1	1.42e-07
+sp|P35351|AGTR2_RAT	sp|P35351|AGTR2_RAT Type-2 angiotensin II receptor OS=Rattus norvegicus OX=10116 GN=Agtr2 PE=1 SV=1	1.45e-07
+sp|O62743|CCR5_CERAT	sp|O62743|CCR5_CERAT C-C chemokine receptor type 5 OS=Cercocebus atys OX=9531 GN=CCR5 PE=3 SV=2	1.49e-07
+sp|Q8SPN1|PKR2_BOVIN	sp|Q8SPN1|PKR2_BOVIN Prokineticin receptor 2 OS=Bos taurus OX=9913 GN=PROKR2 PE=2 SV=1	1.50e-07
+sp|Q95NC1|CCR5_THEGE	sp|Q95NC1|CCR5_THEGE C-C chemokine receptor type 5 OS=Theropithecus gelada OX=9565 GN=CCR5 PE=3 SV=1	1.53e-07
+sp|Q9N297|5HT1A_GORGO	sp|Q9N297|5HT1A_GORGO 5-hydroxytryptamine receptor 1A OS=Gorilla gorilla gorilla OX=9595 GN=HTR1A PE=3 SV=1	1.57e-07
+sp|Q9N296|5HT1A_PONPY	sp|Q9N296|5HT1A_PONPY 5-hydroxytryptamine receptor 1A OS=Pongo pygmaeus OX=9600 GN=HTR1A PE=3 SV=1	1.59e-07
+sp|Q0EAB6|5HT1A_HORSE	sp|Q0EAB6|5HT1A_HORSE 5-hydroxytryptamine receptor 1A OS=Equus caballus OX=9796 GN=HTR1A PE=2 SV=1	1.59e-07
+sp|P68270|CCR5_PAPHA	sp|P68270|CCR5_PAPHA C-C chemokine receptor type 5 OS=Papio hamadryas OX=9557 GN=CCR5 PE=3 SV=1	1.61e-07
+sp|P68269|CCR5_PAPAN	sp|P68269|CCR5_PAPAN C-C chemokine receptor type 5 OS=Papio anubis OX=9555 GN=CCR5 PE=2 SV=1	1.61e-07
+sp|P61755|CCR5_LOPAT	sp|P61755|CCR5_LOPAT C-C chemokine receptor type 5 OS=Lophocebus aterrimus OX=75566 GN=CCR5 PE=3 SV=1	1.61e-07
+sp|Q9BDS7|GPR15_MACFA	sp|Q9BDS7|GPR15_MACFA G-protein coupled receptor 15 OS=Macaca fascicularis OX=9541 GN=GPR15 PE=2 SV=1	1.62e-07
+sp|Q95NC3|CCR5_MIOTA	sp|Q95NC3|CCR5_MIOTA C-C chemokine receptor type 5 OS=Miopithecus talapoin OX=36231 GN=CCR5 PE=3 SV=1	1.69e-07
+sp|O97969|NPY5R_PIG	sp|O97969|NPY5R_PIG Neuropeptide Y receptor type 5 OS=Sus scrofa OX=9823 GN=NPY5R PE=3 SV=1	1.70e-07
+sp|Q3SXG2|FPRS6_MOUSE	sp|Q3SXG2|FPRS6_MOUSE Formyl peptide receptor-related sequence 6 OS=Mus musculus OX=10090 GN=Fpr-rs6 PE=2 SV=1	1.73e-07
+sp|Q2WED0|C3AR_ONCMY	sp|Q2WED0|C3AR_ONCMY C3a anaphylatoxin chemotactic receptor OS=Oncorhynchus mykiss OX=8022 GN=c3ar1 PE=2 SV=1	1.89e-07
+sp|Q8ITC9|PK1R_DROME	sp|Q8ITC9|PK1R_DROME Pyrokinin-1 receptor OS=Drosophila melanogaster OX=7227 GN=PK1-R PE=2 SV=1	1.89e-07
+sp|Q9TV45|CCR5_CERNS	sp|Q9TV45|CCR5_CERNS C-C chemokine receptor type 5 OS=Cercopithecus nictitans OX=36228 GN=CCR5 PE=3 SV=1	1.90e-07
+sp|P51679|CCR4_HUMAN	sp|P51679|CCR4_HUMAN C-C chemokine receptor type 4 OS=Homo sapiens OX=9606 GN=CCR4 PE=1 SV=1	1.91e-07
+sp|P35374|AGTR2_MOUSE	sp|P35374|AGTR2_MOUSE Type-2 angiotensin II receptor OS=Mus musculus OX=10090 GN=Agtr2 PE=1 SV=1	1.97e-07
+sp|P55086|PAR2_MOUSE	sp|P55086|PAR2_MOUSE Proteinase-activated receptor 2 OS=Mus musculus OX=10090 GN=F2rl1 PE=1 SV=1	1.99e-07
+sp|P30546|HRH1_BOVIN	sp|P30546|HRH1_BOVIN Histamine H1 receptor OS=Bos taurus OX=9913 GN=HRH1 PE=2 SV=1	2.01e-07
+sp|P22270|OAR_DROME	sp|P22270|OAR_DROME Tyramine/octopamine receptor OS=Drosophila melanogaster OX=7227 GN=Oct-TyrR PE=2 SV=2	2.03e-07
+sp|Q4KLH9|GPR4_RAT	sp|Q4KLH9|GPR4_RAT G-protein coupled receptor 4 OS=Rattus norvegicus OX=10116 GN=Gpr4 PE=2 SV=1	2.05e-07
+sp|P25023|BKRB2_RAT	sp|P25023|BKRB2_RAT B2 bradykinin receptor OS=Rattus norvegicus OX=10116 GN=Bdkrb2 PE=1 SV=4	2.07e-07
+sp|Q8TDS4|HCAR2_HUMAN	sp|Q8TDS4|HCAR2_HUMAN Hydroxycarboxylic acid receptor 2 OS=Homo sapiens OX=9606 GN=HCAR2 PE=1 SV=1	2.08e-07
+sp|P79785|AGTR1_CHICK	sp|P79785|AGTR1_CHICK Type-1 angiotensin II receptor OS=Gallus gallus OX=9031 GN=AGTR1 PE=2 SV=1	2.09e-07
+sp|P33396|AGTR1_MELGA	sp|P33396|AGTR1_MELGA Type-1 angiotensin II receptor OS=Meleagris gallopavo OX=9103 GN=AGTR1 PE=2 SV=1	2.11e-07
+sp|Q6W5P4|NPSR1_HUMAN	sp|Q6W5P4|NPSR1_HUMAN Neuropeptide S receptor OS=Homo sapiens OX=9606 GN=NPSR1 PE=1 SV=1	2.20e-07
+sp|P49652|P2RY1_MELGA	sp|P49652|P2RY1_MELGA P2Y purinoceptor 1 OS=Meleagris gallopavo OX=9103 GN=P2RY1 PE=2 SV=1	2.20e-07
+sp|Q9PUQ8|S1PR3_TAKRU	sp|Q9PUQ8|S1PR3_TAKRU Sphingosine 1-phosphate receptor 3 OS=Takifugu rubripes OX=31033 GN=s1pr3 PE=3 SV=1	2.24e-07
+sp|P34996|P2RY1_CHICK	sp|P34996|P2RY1_CHICK P2Y purinoceptor 1 OS=Gallus gallus OX=9031 GN=P2RY1 PE=2 SV=1	2.28e-07
+sp|O08565|CXCR4_RAT	sp|O08565|CXCR4_RAT C-X-C chemokine receptor type 4 OS=Rattus norvegicus OX=10116 GN=Cxcr4 PE=1 SV=2	2.44e-07
+sp|P56412|GPR15_MACNE	sp|P56412|GPR15_MACNE G-protein coupled receptor 15 OS=Macaca nemestrina OX=9545 GN=GPR15 PE=3 SV=1	2.48e-07
+sp|P29754|AGTRA_MOUSE	sp|P29754|AGTRA_MOUSE Type-1A angiotensin II receptor OS=Mus musculus OX=10090 GN=Agtr1a PE=1 SV=1	2.50e-07
+sp|Q8UUG8|5HT2B_TETFL	sp|Q8UUG8|5HT2B_TETFL 5-hydroxytryptamine receptor 2B OS=Tetraodon fluviatilis OX=47145 GN=htr2b PE=2 SV=1	2.51e-07
+sp|Q99JA4|CLTR1_MOUSE	sp|Q99JA4|CLTR1_MOUSE Cysteinyl leukotriene receptor 1 OS=Mus musculus OX=10090 GN=Cysltr1 PE=1 SV=1	2.51e-07
+sp|Q1LZD0|AA2BR_BOVIN	sp|Q1LZD0|AA2BR_BOVIN Adenosine receptor A2b OS=Bos taurus OX=9913 GN=ADORA2B PE=2 SV=1	2.56e-07
+sp|Q99677|LPAR4_HUMAN	sp|Q99677|LPAR4_HUMAN Lysophosphatidic acid receptor 4 OS=Homo sapiens OX=9606 GN=LPAR4 PE=1 SV=1	2.61e-07
+sp|P79240|C5AR1_PANTR	sp|P79240|C5AR1_PANTR C5a anaphylatoxin chemotactic receptor 1 OS=Pan troglodytes OX=9598 GN=C5AR1 PE=3 SV=2	2.66e-07
+sp|Q8BZP8|NPSR1_MOUSE	sp|Q8BZP8|NPSR1_MOUSE Neuropeptide S receptor OS=Mus musculus OX=10090 GN=Npsr1 PE=2 SV=1	2.68e-07
+sp|P49059|FSHR_PIG	sp|P49059|FSHR_PIG Follicle-stimulating hormone receptor OS=Sus scrofa OX=9823 GN=FSHR PE=2 SV=2	2.77e-07
+sp|P79291|OPRD_PIG	sp|P79291|OPRD_PIG Delta-type opioid receptor (Fragment) OS=Sus scrofa OX=9823 GN=OPRD1 PE=1 SV=1	2.82e-07
+sp|Q5QD25|TAAR2_RAT	sp|Q5QD25|TAAR2_RAT Trace amine-associated receptor 2 OS=Rattus norvegicus OX=10116 GN=Taar2 PE=2 SV=1	2.87e-07
+sp|O97663|GPR15_MACMU	sp|O97663|GPR15_MACMU G-protein coupled receptor 15 OS=Macaca mulatta OX=9544 GN=GPR15 PE=2 SV=1	2.89e-07
+sp|Q63645|PAR2_RAT	sp|Q63645|PAR2_RAT Proteinase-activated receptor 2 OS=Rattus norvegicus OX=10116 GN=F2rl1 PE=1 SV=1	2.97e-07
+sp|Q8MJ88|MCHR2_MACMU	sp|Q8MJ88|MCHR2_MACMU Melanin-concentrating hormone receptor 2 OS=Macaca mulatta OX=9544 GN=MCHR2 PE=2 SV=1	3.10e-07
+sp|P33766|FPR1_MOUSE	sp|P33766|FPR1_MOUSE fMet-Leu-Phe receptor OS=Mus musculus OX=10090 GN=Fpr1 PE=2 SV=1	3.18e-07
+sp|Q8SQ54|MCHR2_MACFA	sp|Q8SQ54|MCHR2_MACFA Melanin-concentrating hormone receptor 2 OS=Macaca fascicularis OX=9541 GN=MCHR2 PE=2 SV=1	3.18e-07
+sp|Q8BMP4|GPER1_MOUSE	sp|Q8BMP4|GPER1_MOUSE G-protein coupled estrogen receptor 1 OS=Mus musculus OX=10090 GN=Gper1 PE=1 SV=2	3.19e-07
+sp|O18982|GPR15_CHLAE	sp|O18982|GPR15_CHLAE G-protein coupled receptor 15 OS=Chlorocebus aethiops OX=9534 GN=GPR15 PE=3 SV=1	3.22e-07
+sp|Q8MJW8|CCR4_CANLF	sp|Q8MJW8|CCR4_CANLF C-C chemokine receptor type 4 OS=Canis lupus familiaris OX=9615 GN=CCR4 PE=2 SV=1	3.22e-07
+sp|Q60F97|5HT2C_CANLF	sp|Q60F97|5HT2C_CANLF 5-hydroxytryptamine receptor 2C OS=Canis lupus familiaris OX=9615 GN=HTR2C PE=2 SV=1	3.24e-07
+sp|O08878|GPER1_RAT	sp|O08878|GPER1_RAT G-protein coupled estrogen receptor 1 OS=Rattus norvegicus OX=10116 GN=Gper1 PE=1 SV=1	3.25e-07
+sp|Q9Z0Z6|AGTR2_MERUN	sp|Q9Z0Z6|AGTR2_MERUN Type-2 angiotensin II receptor OS=Meriones unguiculatus OX=10047 GN=AGTR2 PE=2 SV=1	3.40e-07
+sp|Q5QD16|TAAR3_MOUSE	sp|Q5QD16|TAAR3_MOUSE Trace amine-associated receptor 3 OS=Mus musculus OX=10090 GN=Taar3 PE=2 SV=1	3.46e-07
+sp|P30550|GRPR_HUMAN	sp|P30550|GRPR_HUMAN Gastrin-releasing peptide receptor OS=Homo sapiens OX=9606 GN=GRPR PE=2 SV=1	3.70e-07
+sp|P08908|5HT1A_HUMAN	sp|P08908|5HT1A_HUMAN 5-hydroxytryptamine receptor 1A OS=Homo sapiens OX=9606 GN=HTR1A PE=1 SV=3	3.81e-07
+sp|P30559|OXYR_HUMAN	sp|P30559|OXYR_HUMAN Oxytocin receptor OS=Homo sapiens OX=9606 GN=OXTR PE=2 SV=2	3.82e-07
+sp|Q9N298|5HT1A_PANTR	sp|Q9N298|5HT1A_PANTR 5-hydroxytryptamine receptor 1A OS=Pan troglodytes OX=9598 GN=HTR1A PE=3 SV=1	3.88e-07
+sp|P32745|SSR3_HUMAN	sp|P32745|SSR3_HUMAN Somatostatin receptor type 3 OS=Homo sapiens OX=9606 GN=SSTR3 PE=1 SV=1	3.88e-07
+sp|E7EM37|DOPR2_CAEEL	sp|E7EM37|DOPR2_CAEEL Dopamine receptor 2 OS=Caenorhabditis elegans OX=6239 GN=dop-2 PE=1 SV=1	3.95e-07
+sp|P79191|FPR3_MACMU	sp|P79191|FPR3_MACMU N-formyl peptide receptor 3 (Fragment) OS=Macaca mulatta OX=9544 GN=FPR3 PE=3 SV=1	3.97e-07
+sp|O70528|5HT4R_CAVPO	sp|O70528|5HT4R_CAVPO 5-hydroxytryptamine receptor 4 OS=Cavia porcellus OX=10141 GN=HTR4 PE=2 SV=1	3.98e-07
+sp|Q2YEG0|CXCR1_MACMU	sp|Q2YEG0|CXCR1_MACMU C-X-C chemokine receptor type 1 OS=Macaca mulatta OX=9544 GN=CXCR1 PE=3 SV=1	4.00e-07
+sp|P28647|AA3R_RAT	sp|P28647|AA3R_RAT Adenosine receptor A3 OS=Rattus norvegicus OX=10116 GN=Adora3 PE=1 SV=3	4.04e-07
+sp|P29755|AGTRB_MOUSE	sp|P29755|AGTRB_MOUSE Type-1B angiotensin II receptor OS=Mus musculus OX=10090 GN=Agtr1b PE=3 SV=1	4.14e-07
+sp|Q7YW31|CTR1_OCTVU	sp|Q7YW31|CTR1_OCTVU Cephalotocin receptor 1 OS=Octopus vulgaris OX=6645 GN=CTR1 PE=2 SV=1	4.21e-07
+sp|Q9TST6|ADRB1_FELCA	sp|Q9TST6|ADRB1_FELCA Beta-1 adrenergic receptor OS=Felis catus OX=9685 GN=ADRB1 PE=3 SV=1	4.37e-07
+sp|P31387|5HT5B_MOUSE	sp|P31387|5HT5B_MOUSE 5-hydroxytryptamine receptor 5B OS=Mus musculus OX=10090 GN=Htr5b PE=2 SV=1	4.39e-07
+sp|Q28642|BKRB2_RABIT	sp|Q28642|BKRB2_RABIT B2 bradykinin receptor OS=Oryctolagus cuniculus OX=9986 GN=BDKRB2 PE=3 SV=1	4.39e-07
+sp|P28335|5HT2C_HUMAN	sp|P28335|5HT2C_HUMAN 5-hydroxytryptamine receptor 2C OS=Homo sapiens OX=9606 GN=HTR2C PE=1 SV=1	4.75e-07
+sp|Q5QD17|TAAR2_MOUSE	sp|Q5QD17|TAAR2_MOUSE Trace amine-associated receptor 2 OS=Mus musculus OX=10090 GN=Taar2 PE=2 SV=1	4.85e-07
+sp|Q00991|PAR1_CRILO	sp|Q00991|PAR1_CRILO Proteinase-activated receptor 1 OS=Cricetulus longicaudatus OX=10030 GN=F2R PE=2 SV=2	4.86e-07
+sp|P35462|DRD3_HUMAN	sp|P35462|DRD3_HUMAN D(3) dopamine receptor OS=Homo sapiens OX=9606 GN=DRD3 PE=1 SV=2	5.07e-07
+sp|Q8BLG2|LPAR4_MOUSE	sp|Q8BLG2|LPAR4_MOUSE Lysophosphatidic acid receptor 4 OS=Mus musculus OX=10090 GN=Lpar4 PE=2 SV=2	5.11e-07
+sp|P31388|5HT6R_RAT	sp|P31388|5HT6R_RAT 5-hydroxytryptamine receptor 6 OS=Rattus norvegicus OX=10116 GN=Htr6 PE=1 SV=2	5.25e-07
+sp|P32251|ADRA2_CARAU	sp|P32251|ADRA2_CARAU Alpha-2 adrenergic receptor OS=Carassius auratus OX=7957 PE=3 SV=1	5.34e-07
+sp|Q4R613|GPR18_MACFA	sp|Q4R613|GPR18_MACFA N-arachidonyl glycine receptor OS=Macaca fascicularis OX=9541 GN=GPR18 PE=2 SV=1	5.44e-07
+sp|P52703|DRD3_CHLAE	sp|P52703|DRD3_CHLAE D(3) dopamine receptor OS=Chlorocebus aethiops OX=9534 GN=DRD3 PE=2 SV=1	5.96e-07
+sp|Q9TTM9|ADA1D_PIG	sp|Q9TTM9|ADA1D_PIG Alpha-1D adrenergic receptor OS=Sus scrofa OX=9823 GN=ADRA1D PE=3 SV=1	6.23e-07
+sp|P11613|ACKR3_CANLF	sp|P11613|ACKR3_CANLF Atypical chemokine receptor 3 OS=Canis lupus familiaris OX=9615 GN=ACKR3 PE=2 SV=1	6.37e-07
+sp|O15529|GPR42_HUMAN	sp|O15529|GPR42_HUMAN G-protein coupled receptor 42 OS=Homo sapiens OX=9606 GN=GPR42 PE=1 SV=1	6.39e-07
+sp|P70658|CXCR4_MOUSE	sp|P70658|CXCR4_MOUSE C-X-C chemokine receptor type 4 OS=Mus musculus OX=10090 GN=Cxcr4 PE=1 SV=2	6.60e-07
+sp|O19025|ADA2B_MACPR	sp|O19025|ADA2B_MACPR Alpha-2B adrenergic receptor (Fragment) OS=Macroscelides proboscideus OX=29082 GN=ADRA2B PE=3 SV=2	6.68e-07
+sp|Q61H86|DOPR3_CAEBR	sp|Q61H86|DOPR3_CAEBR Dopamine receptor 3 OS=Caenorhabditis briggsae OX=6238 GN=dop-3 PE=3 SV=2	6.74e-07
+sp|Q56H79|NPSR1_MACMU	sp|Q56H79|NPSR1_MACMU Neuropeptide S receptor OS=Macaca mulatta OX=9544 GN=NPSR1 PE=2 SV=1	6.83e-07
+sp|Q5IS72|DRD3_PANTR	sp|Q5IS72|DRD3_PANTR D(3) dopamine receptor OS=Pan troglodytes OX=9598 GN=DRD3 PE=2 SV=1	6.94e-07
+sp|Q8HZ64|TAAR1_MACMU	sp|Q8HZ64|TAAR1_MACMU Trace amine-associated receptor 1 OS=Macaca mulatta OX=9544 GN=TAAR1 PE=3 SV=1	6.99e-07
+sp|P19327|5HT1A_RAT	sp|P19327|5HT1A_RAT 5-hydroxytryptamine receptor 1A OS=Rattus norvegicus OX=10116 GN=Htr1a PE=1 SV=1	7.12e-07
+sp|Q9JKM5|S1PR5_RAT	sp|Q9JKM5|S1PR5_RAT Sphingosine 1-phosphate receptor 5 OS=Rattus norvegicus OX=10116 GN=S1pr5 PE=1 SV=1	7.13e-07
+sp|P55085|PAR2_HUMAN	sp|P55085|PAR2_HUMAN Proteinase-activated receptor 2 OS=Homo sapiens OX=9606 GN=F2RL1 PE=1 SV=1	7.47e-07
+sp|Q95NC4|CCR5_ATEGE	sp|Q95NC4|CCR5_ATEGE C-C chemokine receptor type 5 OS=Ateles geoffroyi OX=9509 GN=CCR5 PE=3 SV=1	7.66e-07
+sp|P30556|AGTR1_HUMAN	sp|P30556|AGTR1_HUMAN Type-1 angiotensin II receptor OS=Homo sapiens OX=9606 GN=AGTR1 PE=1 SV=1	7.69e-07
+sp|P30544|ACM4_XENLA	sp|P30544|ACM4_XENLA Muscarinic acetylcholine receptor M4 OS=Xenopus laevis OX=8355 GN=chrm4 PE=3 SV=1	7.69e-07
+sp|P35350|ACKR4_BOVIN	sp|P35350|ACKR4_BOVIN Atypical chemokine receptor 4 OS=Bos taurus OX=9913 GN=ACKR4 PE=2 SV=1	8.04e-07
+sp|Q5QD24|TAAR3_RAT	sp|Q5QD24|TAAR3_RAT Trace amine-associated receptor 3 OS=Rattus norvegicus OX=10116 GN=Taar3 PE=3 SV=1	8.12e-07
+sp|Q60476|ADA2C_CAVPO	sp|Q60476|ADA2C_CAVPO Alpha-2C adrenergic receptor OS=Cavia porcellus OX=10141 GN=ADRA2C PE=3 SV=1	8.15e-07
+sp|P31389|HRH1_CAVPO	sp|P31389|HRH1_CAVPO Histamine H1 receptor OS=Cavia porcellus OX=10141 GN=HRH1 PE=3 SV=1	8.23e-07
+sp|P50052|AGTR2_HUMAN	sp|P50052|AGTR2_HUMAN Type-2 angiotensin II receptor OS=Homo sapiens OX=9606 GN=AGTR2 PE=1 SV=1	8.28e-07
+sp|Q9GLN9|AGTR1_PANTR	sp|Q9GLN9|AGTR1_PANTR Type-1 angiotensin II receptor OS=Pan troglodytes OX=9598 GN=AGTR1 PE=3 SV=1	8.56e-07
+sp|P23944|ADA1D_RAT	sp|P23944|ADA1D_RAT Alpha-1D adrenergic receptor OS=Rattus norvegicus OX=10116 GN=Adra1d PE=2 SV=2	8.72e-07
+sp|P46094|XCR1_HUMAN	sp|P46094|XCR1_HUMAN Chemokine XC receptor 1 OS=Homo sapiens OX=9606 GN=XCR1 PE=1 SV=1	8.84e-07
+sp|P16473|TSHR_HUMAN	sp|P16473|TSHR_HUMAN Thyrotropin receptor OS=Homo sapiens OX=9606 GN=TSHR PE=1 SV=2	9.02e-07
+sp|P30372|ACM2_CHICK	sp|P30372|ACM2_CHICK Muscarinic acetylcholine receptor M2 OS=Gallus gallus OX=9031 GN=CHRM2 PE=3 SV=1	9.46e-07
+sp|P21463|TSHR_RAT	sp|P21463|TSHR_RAT Thyrotropin receptor OS=Rattus norvegicus OX=10116 GN=Tshr PE=1 SV=2	9.52e-07
+sp|P25104|AGTR1_BOVIN	sp|P25104|AGTR1_BOVIN Type-1 angiotensin II receptor OS=Bos taurus OX=9913 GN=AGTR1 PE=2 SV=1	9.71e-07
+sp|Q64264|5HT1A_MOUSE	sp|Q64264|5HT1A_MOUSE 5-hydroxytryptamine receptor 1A OS=Mus musculus OX=10090 GN=Htr1a PE=2 SV=2	9.80e-07
+sp|D4A7K7|GP183_RAT	sp|D4A7K7|GP183_RAT G-protein coupled receptor 183 OS=Rattus norvegicus OX=10116 GN=Gpr183 PE=3 SV=1	9.83e-07
+sp|Q924U1|KISSR_RAT	sp|Q924U1|KISSR_RAT KiSS-1 receptor OS=Rattus norvegicus OX=10116 GN=Kiss1r PE=2 SV=2	9.83e-07
+sp|P49651|P2RY1_RAT	sp|P49651|P2RY1_RAT P2Y purinoceptor 1 OS=Rattus norvegicus OX=10116 GN=P2ry1 PE=2 SV=1	9.91e-07
+sp|Q5R949|ACM1_PONAB	sp|Q5R949|ACM1_PONAB Muscarinic acetylcholine receptor M1 OS=Pongo abelii OX=9601 GN=CHRM1 PE=2 SV=1	1.02e-06
+sp|Q2NNR5|CLTR1_CAVPO	sp|Q2NNR5|CLTR1_CAVPO Cysteinyl leukotriene receptor 1 OS=Cavia porcellus OX=10141 GN=CYSLTR1 PE=2 SV=1	1.05e-06
+sp|P79748|5HT1D_TAKRU	sp|P79748|5HT1D_TAKRU 5-hydroxytryptamine receptor 1D OS=Takifugu rubripes OX=31033 GN=htr1d PE=3 SV=1	1.10e-06
+sp|Q9BDQ5|BKRB1_CANLF	sp|Q9BDQ5|BKRB1_CANLF B1 bradykinin receptor OS=Canis lupus familiaris OX=9615 GN=BDKRB1 PE=2 SV=1	1.11e-06
+sp|Q96RJ0|TAAR1_HUMAN	sp|Q96RJ0|TAAR1_HUMAN Trace amine-associated receptor 1 OS=Homo sapiens OX=9606 GN=TAAR1 PE=2 SV=1	1.13e-06
+sp|Q9BG77|GPR15_PANTR	sp|Q9BG77|GPR15_PANTR G-protein coupled receptor 15 OS=Pan troglodytes OX=9598 GN=GPR15 PE=2 SV=2	1.14e-06
+sp|P49685|GPR15_HUMAN	sp|P49685|GPR15_HUMAN G-protein coupled receptor 15 OS=Homo sapiens OX=9606 GN=GPR15 PE=2 SV=1	1.14e-06
+sp|Q8BUD0|GPR4_MOUSE	sp|Q8BUD0|GPR4_MOUSE G-protein coupled receptor 4 OS=Mus musculus OX=10090 GN=Gpr4 PE=2 SV=1	1.17e-06
+sp|P21918|DRD5_HUMAN	sp|P21918|DRD5_HUMAN D(1B) dopamine receptor OS=Homo sapiens OX=9606 GN=DRD5 PE=1 SV=2	1.20e-06
+sp|P34976|AGTR1_RABIT	sp|P34976|AGTR1_RABIT Type-1 angiotensin II receptor OS=Oryctolagus cuniculus OX=9986 GN=AGTR1 PE=2 SV=1	1.20e-06
+sp|Q01337|ADA2C_MOUSE	sp|Q01337|ADA2C_MOUSE Alpha-2C adrenergic receptor OS=Mus musculus OX=10090 GN=Adra2c PE=3 SV=1	1.21e-06
+sp|O35210|AGTR1_MERUN	sp|O35210|AGTR1_MERUN Type-1 angiotensin II receptor OS=Meriones unguiculatus OX=10047 GN=AGTR1 PE=2 SV=1	1.24e-06
+sp|O77590|AGTR1_SHEEP	sp|O77590|AGTR1_SHEEP Type-1 angiotensin II receptor OS=Ovis aries OX=9940 GN=AGTR1 PE=2 SV=2	1.26e-06
+sp|Q90X46|GP161_DANRE	sp|Q90X46|GP161_DANRE G-protein coupled receptor 161 OS=Danio rerio OX=7955 GN=gpr161 PE=2 SV=2	1.30e-06
+sp|O95977|S1PR4_HUMAN	sp|O95977|S1PR4_HUMAN Sphingosine 1-phosphate receptor 4 OS=Homo sapiens OX=9606 GN=S1PR4 PE=1 SV=1	1.33e-06
+sp|Q15760|GPR19_HUMAN	sp|Q15760|GPR19_HUMAN Probable G-protein coupled receptor 19 OS=Homo sapiens OX=9606 GN=GPR19 PE=2 SV=2	1.35e-06
+sp|Q14330|GPR18_HUMAN	sp|Q14330|GPR18_HUMAN N-arachidonyl glycine receptor OS=Homo sapiens OX=9606 GN=GPR18 PE=1 SV=2	1.36e-06
+sp|P08482|ACM1_RAT	sp|P08482|ACM1_RAT Muscarinic acetylcholine receptor M1 OS=Rattus norvegicus OX=10116 GN=Chrm1 PE=1 SV=1	1.39e-06
+sp|P22086|ADA2C_RAT	sp|P22086|ADA2C_RAT Alpha-2C adrenergic receptor OS=Rattus norvegicus OX=10116 GN=Adra2c PE=2 SV=2	1.40e-06
+sp|P11229|ACM1_HUMAN	sp|P11229|ACM1_HUMAN Muscarinic acetylcholine receptor M1 OS=Homo sapiens OX=9606 GN=CHRM1 PE=1 SV=2	1.40e-06
+sp|P12657|ACM1_MOUSE	sp|P12657|ACM1_MOUSE Muscarinic acetylcholine receptor M1 OS=Mus musculus OX=10090 GN=Chrm1 PE=1 SV=2	1.43e-06
+sp|P04761|ACM1_PIG	sp|P04761|ACM1_PIG Muscarinic acetylcholine receptor M1 OS=Sus scrofa OX=9823 GN=CHRM1 PE=2 SV=1	1.45e-06
+sp|Q9WTV8|V1AR_MICMA	sp|Q9WTV8|V1AR_MICMA Vasopressin V1a receptor OS=Microtus montanus OX=88450 GN=Avpr1a PE=3 SV=2	1.47e-06
+sp|Q969F8|KISSR_HUMAN	sp|Q969F8|KISSR_HUMAN KiSS-1 receptor OS=Homo sapiens OX=9606 GN=KISS1R PE=1 SV=2	1.52e-06
+sp|P56489|ACM1_MACMU	sp|P56489|ACM1_MACMU Muscarinic acetylcholine receptor M1 OS=Macaca mulatta OX=9544 GN=CHRM1 PE=2 SV=1	1.54e-06
+sp|Q9P1P5|TAAR2_HUMAN	sp|Q9P1P5|TAAR2_HUMAN Trace amine-associated receptor 2 OS=Homo sapiens OX=9606 GN=TAAR2 PE=2 SV=2	1.55e-06
+sp|O62729|NPY5R_CANLF	sp|O62729|NPY5R_CANLF Neuropeptide Y receptor type 5 OS=Canis lupus familiaris OX=9615 GN=NPY5R PE=2 SV=1	1.62e-06
+sp|O19032|ADA2B_ORYAF	sp|O19032|ADA2B_ORYAF Alpha-2B adrenergic receptor (Fragment) OS=Orycteropus afer OX=9818 GN=ADRA2B PE=3 SV=1	1.64e-06
+sp|O08892|5HT1B_CAVPO	sp|O08892|5HT1B_CAVPO 5-hydroxytryptamine receptor 1B OS=Cavia porcellus OX=10141 GN=HTR1B PE=3 SV=1	1.72e-06
+sp|P56482|CCR1_MACMU	sp|P56482|CCR1_MACMU C-C chemokine receptor type 1 OS=Macaca mulatta OX=9544 GN=CCR1 PE=2 SV=1	1.72e-06
+sp|O70342|NPY5R_MOUSE	sp|O70342|NPY5R_MOUSE Neuropeptide Y receptor type 5 OS=Mus musculus OX=10090 GN=Npy5r PE=2 SV=2	1.75e-06
+sp|P29089|AGTRB_RAT	sp|P29089|AGTRB_RAT Type-1B angiotensin II receptor OS=Rattus norvegicus OX=10116 GN=Agtr1b PE=2 SV=1	1.79e-06
+sp|Q15761|NPY5R_HUMAN	sp|Q15761|NPY5R_HUMAN Neuropeptide Y receptor type 5 OS=Homo sapiens OX=9606 GN=NPY5R PE=2 SV=2	1.79e-06
+sp|B3G515|GPER1_DANRE	sp|B3G515|GPER1_DANRE G-protein coupled estrogen receptor 1 OS=Danio rerio OX=7955 GN=gper1 PE=1 SV=1	1.80e-06
+sp|Q95136|DRD1_BOVIN	sp|Q95136|DRD1_BOVIN D(1A) dopamine receptor OS=Bos taurus OX=9913 GN=DRD1 PE=2 SV=2	1.81e-06
+sp|O88416|GPR33_MOUSE	sp|O88416|GPR33_MOUSE Probable G-protein coupled receptor 33 OS=Mus musculus OX=10090 GN=Gpr33 PE=2 SV=1	1.86e-06
+sp|Q9PU17|LPA11_XENLA	sp|Q9PU17|LPA11_XENLA Lysophosphatidic acid receptor 1-A OS=Xenopus laevis OX=8355 GN=lpar1-a PE=2 SV=1	1.87e-06
+sp|Q9WV26|AGTR1_CAVPO	sp|Q9WV26|AGTR1_CAVPO Type-1 angiotensin II receptor OS=Cavia porcellus OX=10141 GN=AGTR1 PE=2 SV=1	1.92e-06
+sp|Q19084|OAR2_CAEEL	sp|Q19084|OAR2_CAEEL Tyramine receptor tyra-2 OS=Caenorhabditis elegans OX=6239 GN=tyra-2 PE=2 SV=3	1.95e-06
+sp|Q8IZ08|GP135_HUMAN	sp|Q8IZ08|GP135_HUMAN G-protein coupled receptor 135 OS=Homo sapiens OX=9606 GN=GPR135 PE=1 SV=2	1.96e-06
+sp|Q63634|NPY5R_RAT	sp|Q63634|NPY5R_RAT Neuropeptide Y receptor type 5 OS=Rattus norvegicus OX=10116 GN=Npy5r PE=2 SV=2	1.97e-06
+sp|Q9GLX8|BKRB2_PIG	sp|Q9GLX8|BKRB2_PIG B2 bradykinin receptor OS=Sus scrofa OX=9823 GN=BDKRB2 PE=2 SV=1	2.02e-06
+sp|P30935|SSR3_MOUSE	sp|P30935|SSR3_MOUSE Somatostatin receptor type 3 OS=Mus musculus OX=10090 GN=Sstr3 PE=2 SV=2	2.04e-06
+sp|Q91V45|KISSR_MOUSE	sp|Q91V45|KISSR_MOUSE KiSS-1 receptor OS=Mus musculus OX=10090 GN=Kiss1r PE=1 SV=1	2.05e-06
+sp|P50130|DRD1_PIG	sp|P50130|DRD1_PIG D(1A) dopamine receptor OS=Sus scrofa OX=9823 GN=DRD1 PE=3 SV=1	2.05e-06
+sp|P18825|ADA2C_HUMAN	sp|P18825|ADA2C_HUMAN Alpha-2C adrenergic receptor OS=Homo sapiens OX=9606 GN=ADRA2C PE=1 SV=2	2.06e-06
+sp|P28221|5HT1D_HUMAN	sp|P28221|5HT1D_HUMAN 5-hydroxytryptamine receptor 1D OS=Homo sapiens OX=9606 GN=HTR1D PE=1 SV=1	2.22e-06
+sp|Q60613|AA2AR_MOUSE	sp|Q60613|AA2AR_MOUSE Adenosine receptor A2a OS=Mus musculus OX=10090 GN=Adora2a PE=1 SV=3	2.24e-06
+sp|Q99500|S1PR3_HUMAN	sp|Q99500|S1PR3_HUMAN Sphingosine 1-phosphate receptor 3 OS=Homo sapiens OX=9606 GN=S1PR3 PE=1 SV=2	2.27e-06
+sp|Q9PU16|LPA12_XENLA	sp|Q9PU16|LPA12_XENLA Lysophosphatidic acid receptor 1-B OS=Xenopus laevis OX=8355 GN=lpar1-b PE=2 SV=1	2.30e-06
+sp|O19014|ADA2B_ELEMA	sp|O19014|ADA2B_ELEMA Alpha-2B adrenergic receptor (Fragment) OS=Elephas maximus OX=9783 GN=ADRA2B PE=3 SV=1	2.38e-06
+sp|P11614|5HT1D_CANLF	sp|P11614|5HT1D_CANLF 5-hydroxytryptamine receptor 1D OS=Canis lupus familiaris OX=9615 GN=HTR1D PE=2 SV=1	2.41e-06
+sp|O02667|AA3R_RABIT	sp|O02667|AA3R_RABIT Adenosine receptor A3 OS=Oryctolagus cuniculus OX=9986 GN=ADORA3 PE=2 SV=1	2.50e-06
+sp|Q9WTV9|V1AR_MICOH	sp|Q9WTV9|V1AR_MICOH Vasopressin V1a receptor OS=Microtus ochrogaster OX=79684 GN=Avpr1a PE=3 SV=1	2.52e-06
+sp|P32250|LPAR6_CHICK	sp|P32250|LPAR6_CHICK Lysophosphatidic acid receptor 6 OS=Gallus gallus OX=9031 GN=LPAR6 PE=1 SV=1	2.52e-06
+sp|O02721|LSHR_CALJA	sp|O02721|LSHR_CALJA Lutropin-choriogonadotropic hormone receptor OS=Callithrix jacchus OX=9483 GN=LHCGR PE=2 SV=1	2.54e-06
+sp|Q9BGN4|TSHR_FELCA	sp|Q9BGN4|TSHR_FELCA Thyrotropin receptor OS=Felis catus OX=9685 GN=TSHR PE=2 SV=1	2.62e-06
+sp|Q75ZH0|CCRL2_PIG	sp|Q75ZH0|CCRL2_PIG Chemokine C-C motif receptor-like 2 OS=Sus scrofa OX=9823 GN=CCRL2 PE=2 SV=1	2.75e-06
+sp|Q9QYN8|HRH3_RAT	sp|Q9QYN8|HRH3_RAT Histamine H3 receptor OS=Rattus norvegicus OX=10116 GN=Hrh3 PE=2 SV=1	2.81e-06
+sp|Q13639|5HT4R_HUMAN	sp|Q13639|5HT4R_HUMAN 5-hydroxytryptamine receptor 4 OS=Homo sapiens OX=9606 GN=HTR4 PE=1 SV=2	2.85e-06
+sp|P30936|SSR3_RAT	sp|P30936|SSR3_RAT Somatostatin receptor type 3 OS=Rattus norvegicus OX=10116 GN=Sstr3 PE=1 SV=1	2.89e-06
+sp|P34311|YKR5_CAEEL	sp|P34311|YKR5_CAEEL Probable G-protein coupled receptor C06G4.5 OS=Caenorhabditis elegans OX=6239 GN=C06G4.5 PE=3 SV=3	2.90e-06
+sp|P14763|TSHR_CANLF	sp|P14763|TSHR_CANLF Thyrotropin receptor OS=Canis lupus familiaris OX=9615 GN=TSHR PE=2 SV=1	2.92e-06
+sp|P58406|HRH3_MOUSE	sp|P58406|HRH3_MOUSE Histamine H3 receptor OS=Mus musculus OX=10090 GN=Hrh3 PE=1 SV=1	3.05e-06
+sp|P46616|AA2AR_CAVPO	sp|P46616|AA2AR_CAVPO Adenosine receptor A2a OS=Cavia porcellus OX=10141 GN=ADORA2A PE=2 SV=1	3.05e-06
+sp|Q9Z1V0|OLF49_MOUSE	sp|Q9Z1V0|OLF49_MOUSE Olfactory receptor 49 OS=Mus musculus OX=10090 GN=Olfr49 PE=2 SV=1	3.08e-06
+sp|P16582|LSHR_PIG	sp|P16582|LSHR_PIG Lutropin-choriogonadotropic hormone receptor OS=Sus scrofa OX=9823 GN=LHCGR PE=2 SV=1	3.09e-06
+sp|P30558|PAR1_MOUSE	sp|P30558|PAR1_MOUSE Proteinase-activated receptor 1 OS=Mus musculus OX=10090 GN=F2r PE=1 SV=2	3.11e-06
+sp|P97714|ADA1D_MOUSE	sp|P97714|ADA1D_MOUSE Alpha-1D adrenergic receptor OS=Mus musculus OX=10090 GN=Adra1d PE=2 SV=1	3.12e-06
+sp|Q2Y2P0|CCR1_MACFA	sp|Q2Y2P0|CCR1_MACFA C-C chemokine receptor type 1 OS=Macaca fascicularis OX=9541 GN=CCR1 PE=2 SV=1	3.17e-06
+sp|Q90334|ITR_CATCO	sp|Q90334|ITR_CATCO Isotocin receptor OS=Catostomus commersonii OX=7971 PE=2 SV=1	3.18e-06
+sp|Q49SQ2|GPR33_PANPA	sp|Q49SQ2|GPR33_PANPA Probable G-protein coupled receptor 33 OS=Pan paniscus OX=9597 GN=GPR33 PE=3 SV=1	3.54e-06
+sp|O88319|NTR1_MOUSE	sp|O88319|NTR1_MOUSE Neurotensin receptor type 1 OS=Mus musculus OX=10090 GN=Ntsr1 PE=1 SV=1	3.62e-06
+sp|Q49SQ3|GPR33_PANTR	sp|Q49SQ3|GPR33_PANTR Probable G-protein coupled receptor 33 OS=Pan troglodytes OX=9598 GN=GPR33 PE=3 SV=1	3.87e-06
+sp|P51675|CCR1_MOUSE	sp|P51675|CCR1_MOUSE C-C chemokine receptor type 1 OS=Mus musculus OX=10090 GN=Ccr1 PE=2 SV=2	4.03e-06
+sp|P47800|DRD1L_OREMO	sp|P47800|DRD1L_OREMO D(1)-like dopamine receptor OS=Oreochromis mossambicus OX=8127 PE=2 SV=1	4.05e-06
+sp|Q8BFU7|P2Y10_MOUSE	sp|Q8BFU7|P2Y10_MOUSE Putative P2Y purinoceptor 10 OS=Mus musculus OX=10090 GN=P2ry10 PE=2 SV=1	4.13e-06
+sp|P08173|ACM4_HUMAN	sp|P08173|ACM4_HUMAN Muscarinic acetylcholine receptor M4 OS=Homo sapiens OX=9606 GN=CHRM4 PE=1 SV=2	4.24e-06
+sp|P30966|5HT5A_MOUSE	sp|P30966|5HT5A_MOUSE 5-hydroxytryptamine receptor 5A OS=Mus musculus OX=10090 GN=Htr5a PE=1 SV=2	4.36e-06
+sp|Q29J90|MOODY_DROPS	sp|Q29J90|MOODY_DROPS G-protein coupled receptor moody OS=Drosophila pseudoobscura pseudoobscura OX=46245 GN=moody PE=3 SV=2	4.59e-06
+sp|Q29J90|MOODY_DROPS	sp|Q29J90|MOODY_DROPS G-protein coupled receptor moody OS=Drosophila pseudoobscura pseudoobscura OX=46245 GN=moody PE=3 SV=2	1.21e-05
+sp|Q9R1C8|5HT6R_MOUSE	sp|Q9R1C8|5HT6R_MOUSE 5-hydroxytryptamine receptor 6 OS=Mus musculus OX=10090 GN=Htr6 PE=1 SV=1	4.80e-06
+sp|P26824|PAR1_RAT	sp|P26824|PAR1_RAT Proteinase-activated receptor 1 OS=Rattus norvegicus OX=10116 GN=F2r PE=2 SV=1	4.83e-06
+sp|P56484|CCR8_MOUSE	sp|P56484|CCR8_MOUSE C-C chemokine receptor type 8 OS=Mus musculus OX=10090 GN=Ccr8 PE=2 SV=1	4.84e-06
+sp|P46663|BKRB1_HUMAN	sp|P46663|BKRB1_HUMAN B1 bradykinin receptor OS=Homo sapiens OX=9606 GN=BDKRB1 PE=1 SV=3	4.88e-06
+sp|O08556|CCR5_RAT	sp|O08556|CCR5_RAT C-C chemokine receptor type 5 OS=Rattus norvegicus OX=10116 GN=Ccr5 PE=2 SV=1	5.08e-06
+sp|Q91081|ADRA2_LABOS	sp|Q91081|ADRA2_LABOS Alpha-2 adrenergic receptor OS=Labrus ossifagus OX=30800 PE=3 SV=1	5.23e-06
+sp|Q969V1|MCHR2_HUMAN	sp|Q969V1|MCHR2_HUMAN Melanin-concentrating hormone receptor 2 OS=Homo sapiens OX=9606 GN=MCHR2 PE=1 SV=1	5.38e-06
+sp|Q764M9|CXCR4_PIG	sp|Q764M9|CXCR4_PIG C-X-C chemokine receptor type 4 OS=Sus scrofa OX=9823 GN=CXCR4 PE=2 SV=1	5.39e-06
+sp|P32211|ACM4_MOUSE	sp|P32211|ACM4_MOUSE Muscarinic acetylcholine receptor M4 OS=Mus musculus OX=10090 GN=Chrm4 PE=2 SV=1	5.54e-06
+sp|Q24563|DOPR2_DROME	sp|Q24563|DOPR2_DROME Dopamine receptor 2 OS=Drosophila melanogaster OX=7227 GN=Dop1R2 PE=2 SV=1	5.54e-06
+sp|Q9TV48|CCR5_CERAS	sp|Q9TV48|CCR5_CERAS C-C chemokine receptor type 5 OS=Cercopithecus ascanius OX=36223 GN=CCR5 PE=3 SV=1	5.62e-06
+sp|Q6XKD3|PD2R2_RAT	sp|Q6XKD3|PD2R2_RAT Prostaglandin D2 receptor 2 OS=Rattus norvegicus OX=10116 GN=Ptgdr2 PE=1 SV=1	5.74e-06
+sp|Q8SPP9|TSHR_PIG	sp|Q8SPP9|TSHR_PIG Thyrotropin receptor OS=Sus scrofa OX=9823 GN=TSHR PE=1 SV=2	6.01e-06
+sp|Q9W534|MOODY_DROME	sp|Q9W534|MOODY_DROME G-protein coupled receptor moody OS=Drosophila melanogaster OX=7227 GN=moody PE=2 SV=2	6.01e-06
+sp|Q9W534|MOODY_DROME	sp|Q9W534|MOODY_DROME G-protein coupled receptor moody OS=Drosophila melanogaster OX=7227 GN=moody PE=2 SV=2	7.50e-06
+sp|Q14439|GP176_HUMAN	sp|Q14439|GP176_HUMAN G-protein coupled receptor 176 OS=Homo sapiens OX=9606 GN=GPR176 PE=2 SV=1	6.08e-06
+sp|P35405|ADA2C_DIDVI	sp|P35405|ADA2C_DIDVI Alpha-2C adrenergic receptor OS=Didelphis virginiana OX=9267 GN=ADRA2C PE=2 SV=2	6.08e-06
+sp|Q86VZ1|P2RY8_HUMAN	sp|Q86VZ1|P2RY8_HUMAN P2Y purinoceptor 8 OS=Homo sapiens OX=9606 GN=P2RY8 PE=1 SV=1	6.16e-06
+sp|P06199|ACM2_PIG	sp|P06199|ACM2_PIG Muscarinic acetylcholine receptor M2 OS=Sus scrofa OX=9823 GN=CHRM2 PE=1 SV=1	6.22e-06
+sp|Q924T8|CLTR1_RAT	sp|Q924T8|CLTR1_RAT Cysteinyl leukotriene receptor 1 OS=Rattus norvegicus OX=10116 GN=Cysltr1 PE=2 SV=1	6.30e-06
+sp|Q4G072|LPAR6_RAT	sp|Q4G072|LPAR6_RAT Lysophosphatidic acid receptor 6 OS=Rattus norvegicus OX=10116 GN=Lpar6 PE=2 SV=1	6.40e-06
+sp|B5X337|GP183_SALSA	sp|B5X337|GP183_SALSA G-protein coupled receptor 183 OS=Salmo salar OX=8030 GN=gpr183 PE=2 SV=1	6.50e-06
+sp|P42289|DRD1_XENLA	sp|P42289|DRD1_XENLA D(1A) dopamine receptor OS=Xenopus laevis OX=8355 GN=drd1 PE=2 SV=1	6.55e-06
+sp|P08172|ACM2_HUMAN	sp|P08172|ACM2_HUMAN Muscarinic acetylcholine receptor M2 OS=Homo sapiens OX=9606 GN=CHRM2 PE=1 SV=1	6.62e-06
+sp|Q9N2A7|ACM2_PANTR	sp|Q9N2A7|ACM2_PANTR Muscarinic acetylcholine receptor M2 (Fragment) OS=Pan troglodytes OX=9598 GN=CHRM2 PE=3 SV=1	6.73e-06
+sp|Q08520|VK02_SWPVK	sp|Q08520|VK02_SWPVK G-protein coupled receptor homolog K2 OS=Swinepox virus (strain Kasza) OX=10277 GN=K2R PE=3 SV=1	6.74e-06
+sp|P30543|AA2AR_RAT	sp|P30543|AA2AR_RAT Adenosine receptor A2a OS=Rattus norvegicus OX=10116 GN=Adora2a PE=1 SV=2	6.94e-06
+sp|P46091|GPR1_HUMAN	sp|P46091|GPR1_HUMAN G-protein coupled receptor 1 OS=Homo sapiens OX=9606 GN=GPR1 PE=1 SV=2	7.09e-06
+sp|Q9JL06|LPAR2_MOUSE	sp|Q9JL06|LPAR2_MOUSE Lysophosphatidic acid receptor 2 OS=Mus musculus OX=10090 GN=Lpar2 PE=2 SV=1	7.14e-06
+sp|P30555|AGTR1_PIG	sp|P30555|AGTR1_PIG Type-1 angiotensin II receptor OS=Sus scrofa OX=9823 GN=AGTR1 PE=2 SV=1	7.23e-06
+sp|Q9GZQ6|NPFF1_HUMAN	sp|Q9GZQ6|NPFF1_HUMAN Neuropeptide FF receptor 1 OS=Homo sapiens OX=9606 GN=NPFFR1 PE=1 SV=1	7.25e-06
+sp|P0C7U5|C5AR1_DANRE	sp|P0C7U5|C5AR1_DANRE C5a anaphylatoxin chemotactic receptor 1 OS=Danio rerio OX=7955 GN=c5ar1 PE=3 SV=1	7.49e-06
+sp|Q8BMC0|LPAR6_MOUSE	sp|Q8BMC0|LPAR6_MOUSE Lysophosphatidic acid receptor 6 OS=Mus musculus OX=10090 GN=Lpar6 PE=1 SV=1	7.52e-06
+sp|Q90WY4|ADA2A_DANRE	sp|Q90WY4|ADA2A_DANRE Alpha-2A adrenergic receptor OS=Danio rerio OX=7955 GN=adra2a PE=3 SV=1	7.54e-06
+sp|P41985|ACM2_BOVIN	sp|P41985|ACM2_BOVIN Muscarinic acetylcholine receptor M2 OS=Bos taurus OX=9913 GN=CHRM2 PE=2 SV=2	7.83e-06
+sp|P59902|P2RY1_CAVPO	sp|P59902|P2RY1_CAVPO P2Y purinoceptor 1 OS=Cavia porcellus OX=10141 GN=P2RY1 PE=2 SV=1	7.83e-06
+sp|P47899|ADRB1_MACMU	sp|P47899|ADRB1_MACMU Beta-1 adrenergic receptor OS=Macaca mulatta OX=9544 GN=ADRB1 PE=3 SV=1	7.90e-06
+sp|O02666|ADA1D_RABIT	sp|O02666|ADA1D_RABIT Alpha-1D adrenergic receptor OS=Oryctolagus cuniculus OX=9986 GN=ADRA1D PE=2 SV=1	7.92e-06
+sp|P49145|5HT1D_RABIT	sp|P49145|5HT1D_RABIT 5-hydroxytryptamine receptor 1D OS=Oryctolagus cuniculus OX=9986 GN=HTR1D PE=3 SV=1	7.97e-06
+sp|P35364|5HT5A_RAT	sp|P35364|5HT5A_RAT 5-hydroxytryptamine receptor 5A OS=Rattus norvegicus OX=10116 GN=Htr5a PE=2 SV=1	8.30e-06
+sp|Q9R1K6|GPR34_MOUSE	sp|Q9R1K6|GPR34_MOUSE Probable G-protein coupled receptor 34 OS=Mus musculus OX=10090 GN=Gpr34 PE=2 SV=1	8.45e-06
+sp|P16235|LSHR_RAT	sp|P16235|LSHR_RAT Lutropin-choriogonadotropic hormone receptor OS=Rattus norvegicus OX=10116 GN=Lhcgr PE=1 SV=1	8.92e-06
+sp|Q5QD29|TAAR1_PANTR	sp|Q5QD29|TAAR1_PANTR Trace amine-associated receptor 1 OS=Pan troglodytes OX=9598 GN=TAAR1 PE=3 SV=1	8.94e-06
+sp|Q9N2B2|HRH1_PANTR	sp|Q9N2B2|HRH1_PANTR Histamine H1 receptor OS=Pan troglodytes OX=9598 GN=HRH1 PE=3 SV=1	9.18e-06
+sp|P35367|HRH1_HUMAN	sp|P35367|HRH1_HUMAN Histamine H1 receptor OS=Homo sapiens OX=9606 GN=HRH1 PE=1 SV=1	9.18e-06
+sp|P21728|DRD1_HUMAN	sp|P21728|DRD1_HUMAN D(1A) dopamine receptor OS=Homo sapiens OX=9606 GN=DRD1 PE=1 SV=1	9.19e-06
+sp|P30545|ADA2B_MOUSE	sp|P30545|ADA2B_MOUSE Alpha-2B adrenergic receptor OS=Mus musculus OX=10090 GN=Adra2b PE=1 SV=2	9.66e-06
+sp|P19328|ADA2B_RAT	sp|P19328|ADA2B_RAT Alpha-2B adrenergic receptor OS=Rattus norvegicus OX=10116 GN=Adra2b PE=1 SV=2	9.70e-06
+sp|P60019|GPR34_PANTR	sp|P60019|GPR34_PANTR Probable G-protein coupled receptor 34 OS=Pan troglodytes OX=9598 GN=GPR34 PE=3 SV=1	9.70e-06
+sp|Q3SAG9|GPR34_PANPA	sp|Q3SAG9|GPR34_PANPA Probable G-protein coupled receptor 34 OS=Pan paniscus OX=9597 GN=GPR34 PE=2 SV=1	9.70e-06
+sp|Q9UPC5|GPR34_HUMAN	sp|Q9UPC5|GPR34_HUMAN Probable G-protein coupled receptor 34 OS=Homo sapiens OX=9606 GN=GPR34 PE=2 SV=2	9.70e-06
+sp|Q6XCF2|GPR34_GORGO	sp|Q6XCF2|GPR34_GORGO Probable G-protein coupled receptor 34 OS=Gorilla gorilla gorilla OX=9595 GN=GPR34 PE=3 SV=1	9.70e-06
+sp|Q9N2B1|HRH1_GORGO	sp|Q9N2B1|HRH1_GORGO Histamine H1 receptor OS=Gorilla gorilla gorilla OX=9595 GN=HRH1 PE=3 SV=1	9.86e-06
+sp|O18935|ADA2B_AMBHO	sp|O18935|ADA2B_AMBHO Alpha-2B adrenergic receptor (Fragment) OS=Amblysomus hottentotus OX=9391 GN=ADRA2B PE=3 SV=2	1.01e-05
+sp|Q9Z2I3|CCR3_CAVPO	sp|Q9Z2I3|CCR3_CAVPO C-C chemokine receptor type 3 OS=Cavia porcellus OX=10141 GN=CCR3 PE=3 SV=1	1.03e-05
+sp|O14843|FFAR3_HUMAN	sp|O14843|FFAR3_HUMAN Free fatty acid receptor 3 OS=Homo sapiens OX=9606 GN=FFAR3 PE=1 SV=1	1.07e-05
+sp|P43240|AGTR1_CANLF	sp|P43240|AGTR1_CANLF Type-1 angiotensin II receptor OS=Canis lupus familiaris OX=9615 GN=AGTR1 PE=2 SV=1	1.09e-05
+sp|Q5MD61|CXCR3_BOVIN	sp|Q5MD61|CXCR3_BOVIN C-X-C chemokine receptor type 3 OS=Bos taurus OX=9913 GN=CXCR3 PE=2 SV=1	1.14e-05
+sp|P35406|DRD1_CARAU	sp|P35406|DRD1_CARAU D(1) dopamine receptor OS=Carassius auratus OX=7957 PE=2 SV=1	1.14e-05
+sp|P10980|ACM2_RAT	sp|P10980|ACM2_RAT Muscarinic acetylcholine receptor M2 OS=Rattus norvegicus OX=10116 GN=Chrm2 PE=1 SV=2	1.17e-05
+sp|Q9ERZ4|ACM2_MOUSE	sp|Q9ERZ4|ACM2_MOUSE Muscarinic acetylcholine receptor M2 OS=Mus musculus OX=10090 GN=Chrm2 PE=1 SV=2	1.17e-05
+sp|Q49SQ1|GPR33_HUMAN	sp|Q49SQ1|GPR33_HUMAN Probable G-protein coupled receptor 33 OS=Homo sapiens OX=9606 GN=GPR33 PE=2 SV=1	1.17e-05
+sp|O77680|DRD1_MACMU	sp|O77680|DRD1_MACMU D(1A) dopamine receptor OS=Macaca mulatta OX=9544 GN=DRD1 PE=3 SV=1	1.20e-05
+sp|O77830|ADA2B_RABIT	sp|O77830|ADA2B_RABIT Alpha-2B adrenergic receptor (Fragment) OS=Oryctolagus cuniculus OX=9986 GN=ADRA2B PE=3 SV=2	1.26e-05
+sp|Q25414|5HTR_LYMST	sp|Q25414|5HTR_LYMST 5-hydroxytryptamine receptor OS=Lymnaea stagnalis OX=6523 PE=2 SV=1	1.28e-05
+sp|P16395|ACM1_DROME	sp|P16395|ACM1_DROME Muscarinic acetylcholine receptor DM1 OS=Drosophila melanogaster OX=7227 GN=mAChR-A PE=2 SV=2	1.29e-05
+sp|Q28005|LSHR_BOVIN	sp|Q28005|LSHR_BOVIN Lutropin-choriogonadotropic hormone receptor OS=Bos taurus OX=9913 GN=LHCGR PE=2 SV=1	1.29e-05
+sp|Q920A1|CLTR2_MOUSE	sp|Q920A1|CLTR2_MOUSE Cysteinyl leukotriene receptor 2 OS=Mus musculus OX=10090 GN=Cysltr2 PE=2 SV=2	1.30e-05
+sp|Q5IS73|CNR1_PANTR	sp|Q5IS73|CNR1_PANTR Cannabinoid receptor 1 OS=Pan troglodytes OX=9598 GN=CNR1 PE=2 SV=1	1.33e-05
+sp|Q71SP5|CNR1_MACMU	sp|Q71SP5|CNR1_MACMU Cannabinoid receptor 1 OS=Macaca mulatta OX=9544 GN=CNR1 PE=2 SV=1	1.33e-05
+sp|P21554|CNR1_HUMAN	sp|P21554|CNR1_HUMAN Cannabinoid receptor 1 OS=Homo sapiens OX=9606 GN=CNR1 PE=1 SV=1	1.33e-05
+sp|P83861|QRFPR_MOUSE	sp|P83861|QRFPR_MOUSE Pyroglutamylated RF-amide peptide receptor OS=Mus musculus OX=10090 GN=Qrfpr PE=2 SV=1	1.34e-05
+sp|Q8UUY8|ADRB2_ONCMY	sp|Q8UUY8|ADRB2_ONCMY Beta-2 adrenergic receptor OS=Oncorhynchus mykiss OX=8022 GN=adrb2 PE=2 SV=1	1.35e-05
+sp|Q8CH60|GNRHR_CAVPO	sp|Q8CH60|GNRHR_CAVPO Gonadotropin-releasing hormone receptor OS=Cavia porcellus OX=10141 GN=GNRHR PE=2 SV=2	1.35e-05
+sp|O77700|ADA2B_BOVIN	sp|O77700|ADA2B_BOVIN Alpha-2B adrenergic receptor (Fragment) OS=Bos taurus OX=9913 GN=ADRA2B PE=3 SV=2	1.37e-05
+sp|Q8HZP1|BKRB1_TUPMI	sp|Q8HZP1|BKRB1_TUPMI B1 bradykinin receptor OS=Tupaia minor OX=143289 GN=BDKRB1 PE=3 SV=1	1.39e-05
+sp|P46093|GPR4_HUMAN	sp|P46093|GPR4_HUMAN G-protein coupled receptor 4 OS=Homo sapiens OX=9606 GN=GPR4 PE=1 SV=2	1.43e-05
+sp|Q969N4|TAAR8_HUMAN	sp|Q969N4|TAAR8_HUMAN Trace amine-associated receptor 8 OS=Homo sapiens OX=9606 GN=TAAR8 PE=2 SV=1	1.44e-05
+sp|P50132|GPR4_PIG	sp|P50132|GPR4_PIG G-protein coupled receptor 4 OS=Sus scrofa OX=9823 GN=GPR4 PE=3 SV=2	1.45e-05
+sp|Q98894|CNR1A_TAKRU	sp|Q98894|CNR1A_TAKRU Cannabinoid receptor type 1A OS=Takifugu rubripes OX=31033 GN=cnr1a PE=3 SV=1	1.49e-05
+sp|Q924T9|CLTR2_RAT	sp|Q924T9|CLTR2_RAT Cysteinyl leukotriene receptor 2 OS=Rattus norvegicus OX=10116 GN=Cysltr2 PE=2 SV=1	1.51e-05
+sp|P30730|LSHR_MOUSE	sp|P30730|LSHR_MOUSE Lutropin-choriogonadotropic hormone receptor OS=Mus musculus OX=10090 GN=Lhcgr PE=2 SV=1	1.51e-05
+sp|P70612|CXCR1_RAT	sp|P70612|CXCR1_RAT C-X-C chemokine receptor type 1 OS=Rattus norvegicus OX=10116 GN=Cxcr1 PE=3 SV=1	1.53e-05
+sp|O77721|ADA2B_HORSE	sp|O77721|ADA2B_HORSE Alpha-2B adrenergic receptor (Fragment) OS=Equus caballus OX=9796 GN=ADRA2B PE=3 SV=2	1.54e-05
+sp|Q6IYF8|OXGR1_MOUSE	sp|Q6IYF8|OXGR1_MOUSE 2-oxoglutarate receptor 1 OS=Mus musculus OX=10090 GN=Oxgr1 PE=2 SV=1	1.65e-05
+sp|Q3LSL6|CXCR4_CANLF	sp|Q3LSL6|CXCR4_CANLF C-X-C chemokine receptor type 4 OS=Canis lupus familiaris OX=9615 GN=CXCR4 PE=2 SV=1	1.67e-05
+sp|O77723|ADA2B_ECHTE	sp|O77723|ADA2B_ECHTE Alpha-2B adrenergic receptor (Fragment) OS=Echinops telfairi OX=9371 GN=ADRA2B PE=3 SV=1	1.67e-05
+sp|Q8HZU0|CXCR4_SAISC	sp|Q8HZU0|CXCR4_SAISC C-X-C chemokine receptor type 4 OS=Saimiri sciureus OX=9521 GN=CXCR4 PE=2 SV=1	1.74e-05
+sp|O19012|ADA2B_ERIEU	sp|O19012|ADA2B_ERIEU Alpha-2B adrenergic receptor (Fragment) OS=Erinaceus europaeus OX=9365 GN=ADRA2B PE=3 SV=1	1.77e-05
+sp|P20789|NTR1_RAT	sp|P20789|NTR1_RAT Neurotensin receptor type 1 OS=Rattus norvegicus OX=10116 GN=Ntsr1 PE=1 SV=1	1.78e-05
+sp|Q90WY5|ADA2B_DANRE	sp|Q90WY5|ADA2B_DANRE Alpha-2B adrenergic receptor OS=Danio rerio OX=7955 GN=adra2b PE=3 SV=1	1.78e-05
+sp|P79235|FPR1_PONPY	sp|P79235|FPR1_PONPY fMet-Leu-Phe receptor (Fragment) OS=Pongo pygmaeus OX=9600 GN=FPR1 PE=3 SV=1	1.85e-05
+sp|Q8HZP3|BKRB1_CHLPG	sp|Q8HZP3|BKRB1_CHLPG B1 bradykinin receptor OS=Chlorocebus pygerythrus OX=60710 GN=BDKRB1 PE=3 SV=1	1.93e-05
+sp|Q1JQB3|GPR4_BOVIN	sp|Q1JQB3|GPR4_BOVIN G-protein coupled receptor 4 OS=Bos taurus OX=9913 GN=GPR4 PE=2 SV=1	1.98e-05
+sp|Q8HZU1|CXCR4_CALJA	sp|Q8HZU1|CXCR4_CALJA C-X-C chemokine receptor type 4 OS=Callithrix jacchus OX=9483 GN=CXCR4 PE=2 SV=1	2.00e-05
+sp|Q95L01|BKRB1_CHLAE	sp|Q95L01|BKRB1_CHLAE B1 bradykinin receptor OS=Chlorocebus aethiops OX=9534 GN=BDKRB1 PE=3 SV=1	2.00e-05
+sp|P49578|ACM3_CHICK	sp|P49578|ACM3_CHICK Muscarinic acetylcholine receptor M3 OS=Gallus gallus OX=9031 GN=CHRM3 PE=2 SV=1	2.08e-05
+sp|P08485|ACM4_RAT	sp|P08485|ACM4_RAT Muscarinic acetylcholine receptor M4 OS=Rattus norvegicus OX=10116 GN=Chrm4 PE=1 SV=1	2.09e-05
+sp|B4XF06|GPR39_BOVIN	sp|B4XF06|GPR39_BOVIN G-protein coupled receptor 39 OS=Bos taurus OX=9913 GN=GPR39 PE=2 SV=1	2.12e-05
+sp|Q61618|AA3R_MOUSE	sp|Q61618|AA3R_MOUSE Adenosine receptor A3 OS=Mus musculus OX=10090 GN=Adora3 PE=2 SV=2	2.17e-05
+sp|O89039|ACKR3_RAT	sp|O89039|ACKR3_RAT Atypical chemokine receptor 3 OS=Rattus norvegicus OX=10116 GN=Ackr3 PE=1 SV=2	2.27e-05
+sp|Q28585|LSHR_SHEEP	sp|Q28585|LSHR_SHEEP Lutropin-choriogonadotropic hormone receptor (Fragment) OS=Ovis aries OX=9940 GN=LHCGR PE=2 SV=1	2.40e-05
+sp|Q9PUI7|CNR1_TARGR	sp|Q9PUI7|CNR1_TARGR Cannabinoid receptor 1 OS=Taricha granulosa OX=8321 GN=CNR1 PE=2 SV=1	2.41e-05
+sp|Q9Y5N1|HRH3_HUMAN	sp|Q9Y5N1|HRH3_HUMAN Histamine H3 receptor OS=Homo sapiens OX=9606 GN=HRH3 PE=1 SV=2	2.43e-05
+sp|O19054|ADA2B_PROHA	sp|O19054|ADA2B_PROHA Alpha-2B adrenergic receptor (Fragment) OS=Procavia capensis habessinica OX=9814 GN=ADRA2B PE=3 SV=1	2.45e-05
+sp|P56491|CXCR4_PAPAN	sp|P56491|CXCR4_PAPAN C-X-C chemokine receptor type 4 OS=Papio anubis OX=9555 GN=CXCR4 PE=2 SV=1	2.69e-05
+sp|Q9JI35|HRH3_CAVPO	sp|Q9JI35|HRH3_CAVPO Histamine H3 receptor OS=Cavia porcellus OX=10141 GN=HRH3 PE=2 SV=2	2.83e-05
+sp|P51052|MTR1C_DANRE	sp|P51052|MTR1C_DANRE Melatonin receptor type 1C (Fragment) OS=Danio rerio OX=7955 GN=mtnr1c PE=2 SV=1	2.89e-05
+sp|P22888|LSHR_HUMAN	sp|P22888|LSHR_HUMAN Lutropin-choriogonadotropic hormone receptor OS=Homo sapiens OX=9606 GN=LHCGR PE=1 SV=4	3.00e-05
+sp|Q5W9T5|OPR_OCTVU	sp|Q5W9T5|OPR_OCTVU Octopressin receptor OS=Octopus vulgaris OX=6645 GN=OPR PE=2 SV=1	3.20e-05
+sp|Q7YS92|CXCR4_TUPCH	sp|Q7YS92|CXCR4_TUPCH C-X-C chemokine receptor type 4 OS=Tupaia chinensis OX=246437 GN=CXCR4 PE=2 SV=1	3.28e-05
+sp|Q04683|CXCR5_MOUSE	sp|Q04683|CXCR5_MOUSE C-X-C chemokine receptor type 5 OS=Mus musculus OX=10090 GN=Cxcr5 PE=1 SV=2	3.30e-05
+sp|Q6Y1R5|OXGR1_RAT	sp|Q6Y1R5|OXGR1_RAT 2-oxoglutarate receptor 1 OS=Rattus norvegicus OX=10116 GN=Oxgr1 PE=2 SV=1	3.41e-05
+sp|Q2YEF9|CXCR1_PONPY	sp|Q2YEF9|CXCR1_PONPY C-X-C chemokine receptor type 1 OS=Pongo pygmaeus OX=9600 GN=CXCR1 PE=3 SV=1	3.42e-05
+sp|Q80WT4|GP176_MOUSE	sp|Q80WT4|GP176_MOUSE G-protein coupled receptor 176 OS=Mus musculus OX=10090 GN=Gpr176 PE=1 SV=1	3.44e-05
+sp|Q7ZXJ7|CXR4B_XENLA	sp|Q7ZXJ7|CXR4B_XENLA C-X-C chemokine receptor type 4-B OS=Xenopus laevis OX=8355 GN=cxcr4-b PE=2 SV=1	3.45e-05
+sp|Q9NSD7|RL3R1_HUMAN	sp|Q9NSD7|RL3R1_HUMAN Relaxin-3 receptor 1 OS=Homo sapiens OX=9606 GN=RXFP3 PE=1 SV=1	3.52e-05
+sp|Q9QZN9|CNR2_RAT	sp|Q9QZN9|CNR2_RAT Cannabinoid receptor 2 OS=Rattus norvegicus OX=10116 GN=Cnr2 PE=1 SV=3	3.79e-05
+sp|P56498|CXCR4_FELCA	sp|P56498|CXCR4_FELCA C-X-C chemokine receptor type 4 OS=Felis catus OX=9685 GN=CXCR4 PE=2 SV=1	3.89e-05
+sp|P35413|GPR3_MOUSE	sp|P35413|GPR3_MOUSE G-protein coupled receptor 3 OS=Mus musculus OX=10090 GN=Gpr3 PE=2 SV=1	4.03e-05
+sp|Q9ERZ3|ACM3_MOUSE	sp|Q9ERZ3|ACM3_MOUSE Muscarinic acetylcholine receptor M3 OS=Mus musculus OX=10090 GN=Chrm3 PE=1 SV=1	4.05e-05
+sp|P61072|CXCR4_PANTR	sp|P61072|CXCR4_PANTR C-X-C chemokine receptor type 4 OS=Pan troglodytes OX=9598 GN=CXCR4 PE=2 SV=1	4.28e-05
+sp|P61073|CXCR4_HUMAN	sp|P61073|CXCR4_HUMAN C-X-C chemokine receptor type 4 OS=Homo sapiens OX=9606 GN=CXCR4 PE=1 SV=1	4.28e-05
+sp|P46626|ADRB3_BOVIN	sp|P46626|ADRB3_BOVIN Beta-3 adrenergic receptor OS=Bos taurus OX=9913 GN=ADRB3 PE=2 SV=1	4.38e-05
+sp|O02213|SER2_CAEEL	sp|O02213|SER2_CAEEL Tyramine receptor Ser-2 OS=Caenorhabditis elegans OX=6239 GN=ser-2 PE=1 SV=4	4.43e-05
+sp|Q4V622|CCH2R_DROME	sp|Q4V622|CCH2R_DROME Neuropeptide CCHamide-2 receptor OS=Drosophila melanogaster OX=7227 GN=CCHa2-R PE=2 SV=1	4.44e-05
+sp|Q4LBB6|OCTB3_DROME	sp|Q4LBB6|OCTB3_DROME Octopamine receptor beta-3R OS=Drosophila melanogaster OX=7227 GN=Octbeta3R PE=2 SV=4	4.46e-05
+sp|Q28929|AGTR2_SHEEP	sp|Q28929|AGTR2_SHEEP Type-2 angiotensin II receptor (Fragment) OS=Ovis aries OX=9940 GN=AGTR2 PE=2 SV=1	4.52e-05
+sp|P08483|ACM3_RAT	sp|P08483|ACM3_RAT Muscarinic acetylcholine receptor M3 OS=Rattus norvegicus OX=10116 GN=Chrm3 PE=1 SV=1	4.58e-05
+sp|P43657|LPAR6_HUMAN	sp|P43657|LPAR6_HUMAN Lysophosphatidic acid receptor 6 OS=Homo sapiens OX=9606 GN=LPAR6 PE=1 SV=3	4.93e-05
