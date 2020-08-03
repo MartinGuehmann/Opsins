@@ -2,7 +2,7 @@ file                                                                            
 /media/martin/Win10/Science/OpsinPhylogenetics/Opsins/Sequences/DAnielloEtAl-Opsin_evolution_in_the_Ambulacraria-2015.fasta  FASTA   Protein        85      22,112       60    260.1      533
 /media/martin/Win10/Science/OpsinPhylogenetics/Opsins/Sequences/EnvNRSequences.fasta                                         FASTA   Protein         1         600      600      600      600
 /media/martin/Win10/Science/OpsinPhylogenetics/Opsins/Sequences/NCBISequences.fasta                                          FASTA   Protein   221,454  83,949,319       26    379.1   12,487
-/media/martin/Win10/Science/OpsinPhylogenetics/Opsins/Sequences/NonRedundantSequences90.fasta                                FASTA   Protein    89,995  36,675,494       30    407.5   12,487
+/media/martin/Win10/Science/OpsinPhylogenetics/Opsins/Sequences/NonRedundantSequences90.fasta                                FASTA   Protein    89,996  36,675,843       30    407.5   12,487
 /media/martin/Win10/Science/OpsinPhylogenetics/Opsins/Sequences/NonRedundantSequences.fasta                                  FASTA   Protein   259,378  98,272,787       23    378.9   12,487
 /media/martin/Win10/Science/OpsinPhylogenetics/Opsins/Sequences/PIA_Results_From_Fanworm_transcriptomes.fasta                FASTA   Protein     1,207     408,360       43    338.3    1,811
 /media/martin/Win10/Science/OpsinPhylogenetics/Opsins/Sequences/PlatynereisDumerilii.fasta                                   FASTA   Protein        20       7,789      175    389.5      569
