@@ -1,0 +1,12 @@
+# Memory size argument for CLANS
+# This is the maximum memory allowed for CLANS to use
+# This is given to the java runtime. Java wastes not only
+# memory due to its pointer requirement for objects
+# but allocates also new memory before it frees unused
+# memory. Therefore this should not exceed the memory
+# available on the computer. Note the number given here
+# is something else than htop for instance shows, which
+# is 1024 (bytes) = 1K.
+# 176G would use 186 GB of RAM. Even so the java man
+# page seems to agree with htop.
+-Xmx175G
