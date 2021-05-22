@@ -1,0 +1,6 @@
+# Add to this file the names of things in 
+# the sequence names of interest, such a 
+# species or genus name
+# However, be careful not to and up with 
+# to many additional sequences
+Trichoplax
