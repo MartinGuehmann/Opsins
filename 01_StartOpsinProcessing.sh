@@ -19,5 +19,5 @@ shuffleSeqs="--shuffleSeqs" # Shuffle the sequences between iterations of Rogue 
 extension="-e contree"      # Extension of tree files to extract the sequences of interests from
 trimAl="-t Default"         # Value for trimAl use Default value, values are between 0.0 and 1.0, default is 0.1.
 
-qsub -v "DIR=$DIR, gene=$gene, bigTreeIteration=$bigTreeIteration, aligner=$aligner, continue=$continue, numRoundsLeft=$numRoundsLeft, shuffleSeqs=$shuffleSeqs, extension=$extension, trimAl=$trimAl" \
+qsub -v "DIR=$DIR/../PBS-Pro/, gene=$gene, bigTreeIteration=$bigTreeIteration, aligner=$aligner, continue=$continue, numRoundsLeft=$numRoundsLeft, shuffleSeqs=$shuffleSeqs, extension=$extension, trimAl=$trimAl" \
 "$DIR/../PBS-Pro/PBS-Pro-01-PrepareSequences.sh"
