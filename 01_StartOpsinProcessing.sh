@@ -13,11 +13,11 @@ thisScript="$(basename "$(test -L "$0" && readlink "$0" || echo "$0")")"
 gene=$(basename "$DIR")
 bigTreeIteration="10"       # Actually this is default
 aligner="PASTA"             # Is default
-continue=""                 # Not default
+#continue=""                # No default
+continue="--continue"       # No default
 numRoundsLeft="20"          # Is default
 shuffleSeqs="--shuffleSeqs" # Shuffle the sequences between iterations of Rogue removal, this should be done
-extension="-e contree"      # Extension of tree files to extract the sequences of interests from
-trimAl="-t Default"         # Value for trimAl use Default value, values are between 0.0 and 1.0, default is 0.1.
+extension="contree"         # Extension of tree files to extract the sequences of interests from
+trimAl="Default"            # Value for trimAl use Default value, values are between 0.0 and 1.0, default is 0.1.
 
-qsub -v "DIR=$DIR/../PBS-Pro/, gene=$gene, bigTreeIteration=$bigTreeIteration, aligner=$aligner, continue=$continue, numRoundsLeft=$numRoundsLeft, shuffleSeqs=$shuffleSeqs, extension=$extension, trimAl=$trimAl" \
-"$DIR/../PBS-Pro/PBS-Pro-01-PrepareSequences.sh"
+"$DIR/../PBS-Pro/PBS-Pro-01-PrepareSequences.sh" -g $gene -b $bigTreeIteration -a $aligner -c $continue -n $numRoundsLeft -l $shuffleSeqs -e $extension -t $trimAl
