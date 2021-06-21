@@ -32,8 +32,6 @@ do
 	fi
 done
 
-echo $i
-echo "${bovineRhdopsin:$i:1}"
 
 numLysins=0
 numGaps=0
@@ -58,6 +56,8 @@ do
 	fi
 done < $alignmentFile
 
-echo $numSequences
-echo $numLysins
-echo $numGaps
+echo "Number of columns in alignment file:   $i"
+echo "Amino acid at target position:         ${bovineRhdopsin:$i:1}"
+echo "Number of sequences:                   $numSequences" >&2
+echo "Sequencces with Lysins:                $numLysins"    >&2
+echo "Sequences with gaps at lysin-position: $numGaps"      >&2
