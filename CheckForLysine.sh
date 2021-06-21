@@ -59,5 +59,6 @@ done < $alignmentFile
 echo "Number of columns in alignment file:   $i"
 echo "Amino acid at target position:         ${bovineRhdopsin:$i:1}"
 echo "Number of sequences:                   $numSequences" >&2
-echo "Sequencces with Lysins:                $numLysins"    >&2
+echo "Sequencces with lysins:                $numLysins"    >&2
 echo "Sequences with gaps at lysin-position: $numGaps"      >&2
+echo "Sequences with gaps or lysins:         $((numLysins + numGaps))"      >&2
