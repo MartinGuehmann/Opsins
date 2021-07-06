@@ -5,7 +5,7 @@ OWF40989.1_Rhodopsin_GQ-coupled_Mizuhopecten_yessoensis	Scallopsin	Red	PeachPuff
 EFX83617.1_arthropsin1_Daphnia_pulex	Arthropsin	Red	Red
 BAG14332.1_kumopsin3_Hasarius_adansoni	Kumopsin	Yellow	Yellow
 XP_016872444.1_melanopsin_isoform_X1_Homo_sapiens	MelanopsinM	Blue	Blue
-NP_001243006.1_opsin_4xa_Danio_rerio	MelanopsinX	Orange	Orange
+NP_001265982.1_opsin_4xb_Salmo_salar	MelanopsinX	Orange	Orange
 AWU78807.1_melanopsin_Branchiostoma_lanceolatum	MelanopsinL|Branchiostoma	Green	Green
 PBC29422.1_Rhodopsin_long-wavelength_Apis_cerana_cerana	LWS-Rhabopsin	Green	Green
 XP_034484111.1_opsin_ultraviolet-sensitive_Drosophila_innubila	UV-Rhabopsin	Violet	Violet
@@ -22,7 +22,7 @@ NP_001303874.1_opsin_8_group_member_b_Danio_rerio	Neuropsin4	Cyan	Cyan
 AIT11645.1_neuropsin_partial_Platynereis_dumerilii	Nervopsin	Red	Red
 AKS48306.1_Go_coupled_opsin_1_Platynereis_dumerilii	Go-opsin	Cyan	Cyan
 APB88020.1_retinochrome_Argopecten_irradians	Retinochrome	LightGreen	Green
-tr|A0A494C1B2|A0A494C1B2_HUMAN_Visual_pigment-like_receptor_peropsin_Fragment_OS=Homo_sapiens_OX=9606_GN=RRH_PE=1_SV=1	Peropsin	LightBlue	LightBlue
+tr|A0A494C1B2|A0A494C1B2_HUMAN_Visual_pigment-like_receptor_peropsin_Fragment_OS_Homo_sapiens_OX_9606_GN_RRH_PE_1_SV_1	Peropsin	LightBlue	LightBlue
 
 
 QHA94769.1_xenopsin_1_isoform_1_Sepia_officinalis	Xenopsin	Pink	Pink
