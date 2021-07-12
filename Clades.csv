@@ -12,6 +12,8 @@ XP_034484111.1_opsin_ultraviolet-sensitive_Drosophila_innubila	UV-Rhabopsin	Viol
 XP_029041874.1_opsin_blue-sensitive_Osmia_bicornis_bicornis	SWS-Rhabopsin	Blue	Blue
 QDR51016.1_Rhodopsin_7_Manduca_sexta	RH7-Rhabopsin	Orange	Orange
 AFM43711.1_onychopsin_Eoperipatus_sp._LH-2012	Onychopsin	Red	Red
+DAniello2015_ops4_Parastichopus_parvimensis	Parvopsin	Green	Green
+
 
 # Tetraopsins
 XP_007249548.2_RPE-retinal_G_protein-coupled_receptor-like_Astyanax_mexicanus	RGR-opsin	Green	LightGreen
@@ -23,7 +25,7 @@ AIT11645.1_neuropsin_partial_Platynereis_dumerilii	Nervopsin	Red	Red
 AKS48306.1_Go_coupled_opsin_1_Platynereis_dumerilii	Go-opsin	Cyan	Cyan
 APB88020.1_retinochrome_Argopecten_irradians	Retinochrome	LightGreen	Green
 tr|A0A494C1B2|A0A494C1B2_HUMAN_Visual_pigment-like_receptor_peropsin_Fragment_OS_Homo_sapiens_OX_9606_GN_RRH_PE_1_SV_1	Peropsin	LightBlue	LightBlue
-
+BAQ54848.1_opsin_RGR-like_Anax_parthenope	Eopsin	Red	Red
 
 QHA94769.1_xenopsin_1_isoform_1_Sepia_officinalis	Xenopsin	Pink	Pink
 DAniello2015_ops1.B_Paracentrotus_lividus	Chaopsin	Cyan	Cyan
