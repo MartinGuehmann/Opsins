@@ -1,0 +1,27 @@
+#
+# This is a list of interesting taxa.
+# The taxa are visualized in the output trees with the given colors
+# The format is one taxon per line and a ETE color definition
+# The taxon and the color are separated by a tab.
+# The taxa should not be part of the same lineage, the behavior is undefined if they are.
+# The taxa must start with a capital letter, otherwise they are not recognized, however
+# the taxa in the sequence IDs can be in any case, but must be spelt correctly,
+# but that would be a problem at NCBI or Swissprot.
+# Lines starting with # are comment lines, note the # must be the first character in the line.
+#
+
+Craniata	LimeGreen
+Cephalochordata	DarkGreen
+Tunicata	LightSeaGreen
+Echinodermata	SteelBlue
+Hemichordata	SaddleBrown
+Annelida	Pink
+Arthropoda	DarKBlue
+Brachiopoda	DarkViolet
+Rotifera	Orchid
+Tardigrada	Tomato
+Mollusca	Purple
+Platyhelminthes	DarkGoldenrod
+Cnidaria	Red
+Ctenophora	DarkOrange
+Placozoa	DarkKhaki
