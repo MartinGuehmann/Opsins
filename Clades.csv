@@ -16,16 +16,16 @@ DAniello2015_ops4_Parastichopus_parvimensis	Parvopsin	Green	Green
 
 
 # Tetraopsins
-XP_007249548.2_RPE-retinal_G_protein-coupled_receptor-like_Astyanax_mexicanus	RGR-opsin	Green	LightGreen
 XP_016865903.1_opsin-5_isoform_X5_Homo_sapiens	Neuropsin1	Orange	Orange
 NP_001073125.1_opsin_6_group_member_a_Danio_rerio	Neuropsin2	Pink	Pink
 NP_001038457.1_opsin_7_group_member_c_Danio_rerio	Neuropsin3	Yellow	Yellow
 NP_001303874.1_opsin_8_group_member_b_Danio_rerio	Neuropsin4	Cyan	Cyan
 AIT11645.1_neuropsin_partial_Platynereis_dumerilii	Nervopsin	Red	Red
 AKS48306.1_Go_coupled_opsin_1_Platynereis_dumerilii	Go-opsin	Cyan	Cyan
+XP_007249548.2_RPE-retinal_G_protein-coupled_receptor-like_Astyanax_mexicanus	RGR-opsin	Green	LightGreen
 APB88020.1_retinochrome_Argopecten_irradians	Retinochrome	LightGreen	Green
 tr|A0A494C1B2|A0A494C1B2_HUMAN_Visual_pigment-like_receptor_peropsin_Fragment_OS_Homo_sapiens_OX_9606_GN_RRH_PE_1_SV_1	Peropsin	LightBlue	LightBlue
-BAQ54848.1_opsin_RGR-like_Anax_parthenope	Eopsin	Red	Red
+BAQ54848.1_opsin_RGR-like_Anax_parthenope	Gluopsin	Red	Red
 
 QHA94769.1_xenopsin_1_isoform_1_Sepia_officinalis	Xenopsin	Pink	Pink
 DAniello2015_ops1.B_Paracentrotus_lividus	Chaopsin	Cyan	Cyan
