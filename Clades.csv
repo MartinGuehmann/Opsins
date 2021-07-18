@@ -55,7 +55,5 @@ NP_001269304.1_teleost_multiple_tissue_opsin_3b_Danio_rerio	TMT3-Opsins	Blue	Blu
 NP_001299608.1_teleost_multiple_tissue_opsin_b_Danio_rerio	TMT1-Opsins	Green	Green
 AWU78793.1_C-type_opsin_Branchiostoma_lanceolatum	TMTL-Opsins	Red	Red
 
-# Outgroup and wired stuff
-#KAE9525951.1_hypothetical_protein_AGLY_014000_Aphis_glycines	Wiredopsins	LightBlue	LightBlue
-#RDD42723.1_Rhodopsin_GQ-coupled_Trichoplax_sp._H2	Placopsins	LightBlue	Blue
+# Use the last entry as outgroup for rooting the tree
 NP_001081388.1_melatonin_receptor_type_1C_Xenopus_laevis	Outgroup	Black	White
