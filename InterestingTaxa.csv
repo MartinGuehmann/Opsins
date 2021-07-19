@@ -10,18 +10,29 @@
 # Lines starting with # are comment lines, note the # must be the first character in the line.
 #
 
-Craniata	LimeGreen
-Cephalochordata	DarkGreen
-Tunicata	LightSeaGreen
-Echinodermata	SteelBlue
-Hemichordata	SaddleBrown
-Annelida	Pink
-Arthropoda	DarKBlue
-Brachiopoda	DarkViolet
-Rotifera	Orchid
-Tardigrada	Tomato
-Mollusca	Purple
-Platyhelminthes	DarkGoldenrod
-Cnidaria	Red
-Ctenophora	DarkOrange
-Placozoa	DarkKhaki
+Bilateria	Black	LegendOnly	0
+
+Coelomata	Black	LegendOnly	1
+Deuterostomia	Black	LegendOnly	2
+Chordata	Black	LegendOnly	3
+Craniata	LimeGreen	Regular	4
+Cephalochordata	DarkGreen	Regular	4
+Tunicata	LightSeaGreen	Regular	4
+
+Echinodermata	SteelBlue	Regular	3
+Hemichordata	SaddleBrown	Regular	3
+
+Protostomia	Black	LegendOnly	2
+Annelida	Pink	Regular	3
+Arthropoda	DarKBlue	Regular	3
+Brachiopoda	DarkViolet	Regular	3
+Rotifera	Orchid	Regular	3
+Tardigrada	Tomato	Regular	3
+Mollusca	Purple	Regular	3
+
+Acoelomata	Black	LegendOnly	2
+Platyhelminthes	DarkGoldenrod	Regular	3
+
+Cnidaria	Red	Regular	0
+Ctenophora	DarkOrange	Regular	0
+Placozoa	DarkKhaki	Regular	0
