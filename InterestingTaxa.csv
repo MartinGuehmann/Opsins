@@ -10,6 +10,12 @@
 # Lines starting with # are comment lines, note the # must be the first character in the line.
 #
 
+Taxa	Black	Title	0
+Total	Black	Total	0
+Opsins	Black	Ingroup	0
+Outgroup	Black	Outgroup	0
+Unknown	Black	Unknown	0
+
 Bilateria	Black	LegendOnly	0
 
 Coelomata	Black	LegendOnly	1
