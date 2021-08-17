@@ -17,4 +17,5 @@ aaPos	296
 toLowerLimit	9
 toUpperLimit	29
 
+# Make sure those are in order, this is the order that shows up in the sequence logo
 interestingAAPositions	83	110	113	134	135	136	181	185	187	296	302	303	304	305	306	313	310	311	312
