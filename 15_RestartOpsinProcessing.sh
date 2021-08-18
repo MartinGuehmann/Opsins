@@ -11,13 +11,14 @@ DIR="$( cd -P "$( dirname "$SOURCE" )" && pwd )"
 thisScript="$(basename "$(test -L "$0" && readlink "$0" || echo "$0")")"
 
 gene=$(basename "$DIR")
-bigTreeIteration="10"       # Actually this is default
-aligner="PASTA"             # Is default
+bigTreeIteration="10"       # Actually this is the default
+bigNumRoundsLeft="10"       # Actually this is the default
+aligner="PASTA"             # Is the default
 #continue=""                # No default
 continue="--continue"       # No default
-numRoundsLeft="20"          # Is default
+numRoundsLeft="20"          # Is the default
 shuffleSeqs="--shuffleSeqs" # Shuffle the sequences between iterations of Rogue removal, this should be done
 extension="contree"         # Extension of tree files to extract the sequences of interests from
 trimAl="Default"            # Value for trimAl use Default value, values are between 0.0 and 1.0, default is 0.1.
 
-"$DIR/../PBS-Pro/PBS-Pro-15-ExtractSequencesOfInterestWithIQ-Tree.sh" -g $gene -b $bigTreeIteration -a $aligner -c $continue -n $numRoundsLeft $shuffleSeqs -e $extension -t $trimAl
+"$DIR/../PBS-Pro/PBS-Pro-15-ExtractSequencesOfInterestWithIQ-Tree.sh" -g $gene -b $bigTreeIteration -a $aligner -c $continue -n $numRoundsLeft -N $bigNumRoundsLeft $shuffleSeqs -e $extension -t $trimAl
