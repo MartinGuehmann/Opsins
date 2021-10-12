@@ -2,7 +2,7 @@
 NP_001081388.1_melatonin_receptor_type_1C_Xenopus_laevis	MelatoninRs	Blue	Blue
 XP_013773454.1_5-hydroxytryptamine_receptor_2A-like_Limulus_polyphemus	5-hydroxytryptamineRs	Cyan	Cyan
 XP_001503427.1_trace_amine-associated_receptor_5_Equus_caballus	TraceAmineA-Rs	DarkGreen	DarkGreen
-RDD42723.1_Rhodopsin_GQ-coupled_Trichoplax_sp._H2	LabelOpsins	LightBlue	Blue
+RDD42723.1_Rhodopsin_GQ-coupled_Trichoplax_sp._H2	Placozoan MelatoninRs	LightBlue	Blue
 RDD37110.1_Prostaglandin_E2_receptor_EP4_subtype_Trichoplax_sp._H2	ProstaglandinRs	Red	Red
 RDD38885.1_Thyrotropin_receptor_Trichoplax_sp._H2	ThyrotropinRs	Yellow	Yellow
 Bispira_guinensis_TRINITY_DN25405_c0_g1_i1|ORF1	RelaxinRs	Brown	Brown
