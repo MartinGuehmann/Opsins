@@ -1,11 +1,11 @@
-NP_001081388.1_melatonin_receptor_type_1C_Xenopus_laevis	MelatoninRs	Blue	Blue
+NP_001081388.1_melatonin_receptor_type_1C_Xenopus_laevis	MelatoninRs	Fuchsia	Plum
 
-RDD42218.1_Prostaglandin_E2_receptor_EP4_subtype_Trichoplax_sp._H2	Clade1	Red	Red
-XP_032900198.1_somatostatin_receptor_type_2-like_Amblyraja_radiata	Clade2	Green	Green
-XP_013773454.1_5-hydroxytryptamine_receptor_2A-like_Limulus_polyphemus	Clade3	Cyan	Cyan
+RDD42218.1_Prostaglandin_E2_receptor_EP4_subtype_Trichoplax_sp._H2	Clade1	Yellow	LightYellow
+XP_032900198.1_somatostatin_receptor_type_2-like_Amblyraja_radiata	Clade2	Green	LightGreen
+XP_013773454.1_5-hydroxytryptamine_receptor_2A-like_Limulus_polyphemus	Clade3	Teal	MediumAquamarine
 
-RDD42723.1_Rhodopsin_GQ-coupled_Trichoplax_sp._H2	Placozoan MelatoninRs	LightBlue	Blue
-RDD38936.1_G-protein_coupled_receptor_161_Trichoplax_sp._H2	Placopsins	Red	Red
+RDD42723.1_Rhodopsin_GQ-coupled_Trichoplax_sp._H2	Placozoan MelatoninRs	Blue	LightBlue
+RDD38936.1_G-protein_coupled_receptor_161_Trichoplax_sp._H2	Placopsins	Red	LightSalmon
 
 # Use the last entry as outgroup for rooting the tree
 NP_001014890.1_rhodopsin_Bos_taurus	Opsins	Black	White
