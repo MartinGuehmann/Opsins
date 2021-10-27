@@ -1,35 +1,42 @@
 # Rhabopsins
 AWU78812.1_Amphiop6_Branchiostoma_lanceolatum	Amphopsin	Blue	Blue
-Pdu-r-opsin6_Platynereis_dumerilii	Dumopsin	Green	Green
+AKS48309.1_rhabdomeric_opsin_5_Platynereis_dumerilii	Dumopsin	Green	Green
 OWF40989.1_Rhodopsin_GQ-coupled_Mizuhopecten_yessoensis	Scallopsin	Red	PeachPuff
 EFX83617.1_arthropsin1_Daphnia_pulex	Arthropsin	Red	Red
 BAG14332.1_kumopsin3_Hasarius_adansoni	Kumopsin	Yellow	Yellow
-XP_016872444.1_melanopsin_isoform_X1_Homo_sapiens	MelanopsinM	Blue	Blue
-NP_001265982.1_opsin_4xb_Salmo_salar	MelanopsinX	Orange	Orange
-AWU78807.1_melanopsin_Branchiostoma_lanceolatum	MelanopsinL	Green	Green
+XP_016872444.1_melanopsin_isoform_X1_Homo_sapiens	Melanopsin M	Blue	Blue
+XP_010875318.1_opsin_4xb_isoform_X1_Esox_lucius	Melanopsin X	Orange	Orange
+XP_019635260.1_PREDICTED_melanopsin_Branchiostoma_belcheri	Melanopsin L	Green	Green
 PBC29422.1_Rhodopsin_long-wavelength_Apis_cerana_cerana	LWS-Rhabopsin	Green	Green
 XP_034484111.1_opsin_ultraviolet-sensitive_Drosophila_innubila	UV-Rhabopsin	Violet	Violet
 XP_029041874.1_opsin_blue-sensitive_Osmia_bicornis_bicornis	SWS-Rhabopsin	Blue	Blue
-QDR51016.1_Rhodopsin_7_Manduca_sexta	RH7-Rhabopsin	Orange	Orange
+#QDR50942.1_Rhodopsin_7_Heliconius_melpomene	RH7-Rhabopsin	Orange	Orange
 AFM43711.1_onychopsin_Eoperipatus_sp._LH-2012	Onychopsin	Red	Red
 DAniello2015_ops4_Parastichopus_parvimensis	Parvopsin	Green	Green
 
 
 # Tetraopsins
-XP_016865903.1_opsin-5_isoform_X5_Homo_sapiens	Neuropsin1	Orange	Orange
-NP_001073125.1_opsin_6_group_member_a_Danio_rerio	Neuropsin2	Pink	Pink
-NP_001038457.1_opsin_7_group_member_c_Danio_rerio	Neuropsin3	Yellow	Yellow
-NP_001303874.1_opsin_8_group_member_b_Danio_rerio	Neuropsin4	Cyan	Cyan
+XP_016865903.1_opsin-5_isoform_X5_Homo_sapiens	Neuropsin 1	Orange	Orange
+NP_001073125.1_opsin_6_group_member_a_Danio_rerio	Neuropsin 2	Pink	Pink
+NP_001038457.1_opsin_7_group_member_c_Danio_rerio	Neuropsin 3	Yellow	Yellow
+NP_001303874.1_opsin_8_group_member_b_Danio_rerio	Neuropsin 4	Cyan	Cyan
 AIT11645.1_neuropsin_partial_Platynereis_dumerilii	Nervopsin	Red	Red
 AKS48306.1_Go_coupled_opsin_1_Platynereis_dumerilii	Go-opsin	Cyan	Cyan
-XP_007249548.2_RPE-retinal_G_protein-coupled_receptor-like_Astyanax_mexicanus	RGR-opsin	Green	LightGreen
+tr|A0A494C187|A0A494C187_HUMAN_RPE-retinal_G_protein-coupled_receptor_OS_Homo_sapiens_OX_9606_GN_RGR_PE_1_SV_1	RGR-opsin	Green	LightGreen
 APB88020.1_retinochrome_Argopecten_irradians	Retinochrome	LightGreen	Green
 tr|A0A494C1B2|A0A494C1B2_HUMAN_Visual_pigment-like_receptor_peropsin_Fragment_OS_Homo_sapiens_OX_9606_GN_RRH_PE_1_SV_1	Peropsin	LightBlue	LightBlue
-BAQ54848.1_opsin_RGR-like_Anax_parthenope	Gluopsin	Red	Red
+BAQ54923.1_opsin_RGR-like_Mnais_costalis	Gluopsin	Red	Red
 XP_022670895.1_visual_pigment-like_receptor_peropsin_Varroa_destructor	Varropsin	Lime	Lime
 DAniello2015_ops6.1_Holothuria_glaberrima	Astropsin	Red	Red
 
-QHA94769.1_xenopsin_1_isoform_1_Sepia_officinalis	Xenopsin	Pink	Pink
+
+# Xenopsins and Cnidopsins
+APB88016.1_xenopsin_Argopecten_irradians	Xenopsin A	Pink	Pink
+APB88017.1_xenopsin_Argopecten_irradians	Xenopsin B	Red	Pink
+AGB67488.1_c-like_opsin_partial_Tripedalia_cystophora	Cyan	Cyan
+NP_001296626.1_uncharacterized_protein_LOC101237290_Hydra_vulgaris	Cnidopsin	Orange	Orange
+
+
 DAniello2015_ops1.B_Paracentrotus_lividus	Chaopsin	Cyan	Cyan
 XP_031563535.1_rhodopsin-like_Actinia_tenebrosa	Actopsin	Red	Red
 
@@ -37,14 +44,14 @@ XP_031563535.1_rhodopsin-like_Actinia_tenebrosa	Actopsin	Red	Red
 # Cilopsins
 AAV63834.1_ciliary_opsin_Platynereis_dumerilii	Annopsin	Red	Red
 NP_001035057.1_pteropsin_Apis_mellifera	Pteropsin	LightBlue	LightBlue
-BAM28746.1_parietopsin_Iguana_iguana	Parietopsin	LightGreen	LightGreen
-XP_010736993.3_parapinopsin_Larimichthys_crocea	Parapinopsin	Orange	Orange
-NP_001280047.1_opsin-VA_Anolis_carolinensis	Vaopsin	Cyan	Cyan
+NP_001039256.1_parietopsin_Xenopus_tropicalis	Parietopsin	LightGreen	LightGreen
+NP_001005312.1_parapinopsin_b_Danio_rerio	Parapinopsin	Orange	Orange
+NP_001265680.1_opsin-VA-like_Xenopus_tropicalis	Vaopsin	Cyan	Cyan
 XP_027896363.1_red-sensitive_opsin-like_Xiphophorus_couchianus	LWS-Cilopsin	Red	Red
 NP_001014890.1_rhodopsin_Bos_taurus	RHO1-Cilopsin	Blue	Blue
 XP_023853250.1_green-sensitive_opsin-2-like_Salvelinus_alpinus	RHO2-Cilopsin	Yellow	Yellow
 NP_990848.1_blue-sensitive_opsin_Gallus_gallus	SWS2-Cilopsin	PeachPuff	Red
-NP_001289029.1_short-wave-sensitive_opsin_1_Serinus_canaria	SWS1-Cilopsin	LightBlue	Blue
+NP_001119548.1_short-wave-sensitive_opsin_1_Xenopus_tropicalis	SWS1-Cilopsin	LightBlue	Blue
 BAM28747.1_pinopsin_Iguana_iguana	Pinopsin	Yellow	LightBlue
 XP_002119963.1_pinopsin-like_Ciona_intestinalis	Cionopsin	Red	Red
 
