@@ -5,7 +5,7 @@
 # The taxon and the color are separated by a tab.
 # The taxa should not be part of the same lineage, the behavior is undefined if they are.
 # The taxa must start with a capital letter, otherwise they are not recognized, however
-# the taxa in the sequence IDs can be in any case, but must be spelt correctly,
+# The taxa in the sequence IDs must be in the correct case, and must be spelt correctly,
 # but that would be a problem at NCBI or Swissprot.
 # Lines starting with # are comment lines, note the # must be the first character in the line.
 #
