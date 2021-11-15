@@ -22,7 +22,7 @@ NP_001038457.1_opsin_7_group_member_c_Danio_rerio	Neuropsins 3	Yellow	Yellow
 NP_001303874.1_opsin_8_group_member_b_Danio_rerio	Neuropsins 4	Cyan	Cyan
 AIT11645.1_neuropsin_partial_Platynereis_dumerilii	Nervopsins	Red	Red
 AKS48306.1_Go_coupled_opsin_1_Platynereis_dumerilii	Go-opsins	Cyan	Cyan
-tr|A0A494C187|A0A494C187_HUMAN_RPE-retinal_G_protein-coupled_receptor_OS_Homo_sapiens_OX_9606_GN_RGR_PE_1_SV_1	RGR-opsin	Green	LightGreen
+tr|A0A494C187|A0A494C187_HUMAN_RPE-retinal_G_protein-coupled_receptor_OS_Homo_sapiens_OX_9606_GN_RGR_PE_1_SV_1	RGR-opsins	Green	LightGreen
 APB88020.1_retinochrome_Argopecten_irradians	Retinochromes	LightGreen	Green
 tr|A0A494C1B2|A0A494C1B2_HUMAN_Visual_pigment-like_receptor_peropsin_Fragment_OS_Homo_sapiens_OX_9606_GN_RRH_PE_1_SV_1	Peropsins	MediumBlue	LightBlue
 BAQ54923.1_opsin_RGR-like_Mnais_costalis	Gluopsins	Purple	Orchid
@@ -33,7 +33,7 @@ DAniello2015_ops6.1_Holothuria_glaberrima	Astropsins	Red	Salmon
 # Xenopsins and Cnidopsins
 APB88016.1_xenopsin_Argopecten_irradians	Xenopsins A	Pink	Pink
 APB88017.1_xenopsin_Argopecten_irradians	Xenopsins B	Red	Pink
-AGB67488.1_c-like_opsin_partial_Tripedalia_cystophora	Xenopsin C	Cyan	Cyan
+AGB67488.1_c-like_opsin_partial_Tripedalia_cystophora	Xenopsins C	Cyan	Cyan
 NP_001296626.1_uncharacterized_protein_LOC101237290_Hydra_vulgaris	Cnidopsins	Orange	Orange
 
 
@@ -58,10 +58,10 @@ XP_002119963.1_pinopsin-like_Ciona_intestinalis	Cionopsins	Red	Red
 
 # Panopsins subgroup of Cilopsins
 NP_001368784.1_opsin-3_isoform_2_Homo_sapiens	Encephalopsin	Blue	LightBlue
-XP_034042633.1_teleost_multiple_tissue_opsin_2b_Thalassophryne_amazonica	TMT2-Opsin	Red	Red
-NP_001269304.1_teleost_multiple_tissue_opsin_3b_Danio_rerio	TMT3-Opsin	Blue	Blue
-NP_001299608.1_teleost_multiple_tissue_opsin_b_Danio_rerio	TMT1-Opsin	Green	Green
-AWU78793.1_C-type_opsin_Branchiostoma_lanceolatum	TMTL-Opsin	Red	Red
+XP_034042633.1_teleost_multiple_tissue_opsin_2b_Thalassophryne_amazonica	TMT2-Opsins	Red	Red
+NP_001269304.1_teleost_multiple_tissue_opsin_3b_Danio_rerio	TMT3-Opsins	Blue	Blue
+NP_001299608.1_teleost_multiple_tissue_opsin_b_Danio_rerio	TMT1-Opsins	Green	Green
+AWU78793.1_C-type_opsin_Branchiostoma_lanceolatum	TMTL-Opsins	Red	Red
 
 # Use the last entry as outgroup for rooting the tree
 NP_001081388.1_melatonin_receptor_type_1C_Xenopus_laevis	Outgroup	Black	White
