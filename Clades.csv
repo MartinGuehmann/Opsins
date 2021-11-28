@@ -21,7 +21,7 @@ NP_001073125.1_opsin_6_group_member_a_Danio_rerio	Neuropsins 2	DeepPink	Pink
 NP_001038457.1_opsin_7_group_member_c_Danio_rerio	Neuropsins 3	Yellow	LightYellow
 NP_001303874.1_opsin_8_group_member_b_Danio_rerio	Neuropsins 4	Cyan	LightCyan
 AIT11645.1_neuropsin_partial_Platynereis_dumerilii	Nervopsins	Crimson	LightSalmon
-AKS48306.1_Go_coupled_opsin_1_Platynereis_dumerilii	Go-opsins	DarkTurquoise	PaleTurquoise
+ASW31195.1_Go_opsin_Branchiostoma_floridae	Go-opsins	DarkTurquoise	PaleTurquoise
 
 # Chromopsins subgroup of the tetraopsins
 tr|A0A494C187|A0A494C187_HUMAN_RPE-retinal_G_protein-coupled_receptor_OS_Homo_sapiens_OX_9606_GN_RGR_PE_1_SV_1	RGR-opsins	Green	LightGreen
@@ -43,7 +43,7 @@ XP_031563535.1_rhodopsin-like_Actinia_tenebrosa	Actopsins	Chocolate	Wheat
 # Cilopsins
 DAniello2015_ops1.B_Paracentrotus_lividus	Livopsins	Cyan	LightCyan
 AAV63834.1_ciliary_opsin_Platynereis_dumerilii	Annopsins	SandyBrown	PapayaWhip
-NP_001035057.1_pteropsin_Apis_mellifera	Pteropsins	CornflowerBlue	LightBlue
+QDR50943.1_pteropsin_Heliconius_melpomene	Pteropsins	CornflowerBlue	LightBlue
 NP_001039256.1_parietopsin_Xenopus_tropicalis	Parietopsins	MediumSpringGreen	Honeydew
 NP_001005312.1_parapinopsin_b_Danio_rerio	Parapinopsins	Gold	LemonChiffon
 NP_001265680.1_opsin-VA-like_Xenopus_tropicalis	Vaopsins	Cyan	PaleTurquoise
