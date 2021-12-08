@@ -11,7 +11,7 @@ PBC29422.1_Rhodopsin_long-wavelength_Apis_cerana_cerana	LWS-Rhabopsins	Lime	Pale
 XP_034484111.1_opsin_ultraviolet-sensitive_Drosophila_innubila	UV-Rhabopsins	MediumOrchid	Plum
 XP_029041874.1_opsin_blue-sensitive_Osmia_bicornis_bicornis	SWS-Rhabopsins	Blue	PowderBlue
 #QDR50942.1_Rhodopsin_7_Heliconius_melpomene	RH7-Rhabopsins	Coral	PeachPuff
-AFM43711.1_onychopsin_Eoperipatus_sp._LH-2012	Onychopsins	OrangeRed	Bisque
+AFM43712.1_onychopsin_Ooperipatus_hispidus	Onychopsins	OrangeRed	Bisque
 DAniello2015_ops4_Parastichopus_parvimensis	Parvopsins	Green	PaleGreen
 
 
@@ -51,7 +51,7 @@ XP_027896363.1_red-sensitive_opsin-like_Xiphophorus_couchianus	LWS-Okopsins	Red	
 NP_001014890.1_rhodopsin_Bos_taurus	RHO1-Okopsins	Blue	LightBlue
 XP_023853250.1_green-sensitive_opsin-2-like_Salvelinus_alpinus	RHO2-Okopsins	Yellow	LightYellow
 NP_990848.1_blue-sensitive_opsin_Gallus_gallus	SWS2-Okopsins	DarkViolet	Lavender
-NP_001119548.1_short-wave-sensitive_opsin_1_Xenopus_tropicalis	SWS1-Okopsins	SandyBrown	Cornsilk
+NP_990769.1_violet-sensitive_opsin_Gallus_gallus	SWS1-Okopsins	SandyBrown	Cornsilk
 BAM28747.1_pinopsin_Iguana_iguana	Pinopsins	LimeGreen	PaleGreen
 XP_002119963.1_pinopsin-like_Ciona_intestinalis	Cionopsins	Crimson	Moccasin
 
