@@ -3,24 +3,25 @@ AWU78808.1_Amphiop6_Branchiostoma_lanceolatum	Amphopsins	DarkTurquoise	PaleTurqu
 AKS48309.1_rhabdomeric_opsin_5_Platynereis_dumerilii	Dumopsins	LimeGreen	PaleGreen
 OWF40989.1_Rhodopsin_GQ-coupled_Mizuhopecten_yessoensis	Scallopsins	Red	PeachPuff
 EFX83617.1_arthropsin1_Daphnia_pulex	Arthropsins	Red	LightSalmon
-BAG14332.1_kumopsin3_Hasarius_adansoni	Kumopsins	Yellow	LemonChiffon
-XP_016872444.1_melanopsin_isoform_X1_Homo_sapiens	Melanopsins M	DodgerBlue	LightBlue
+#BAG14332.1_kumopsin3_Hasarius_adansoni	Kumopsins	Yellow	LemonChiffon # Kumopsins do not exist
+NP_001009325.1_melanopsin_Felis_catus	Melanopsins M	DodgerBlue	LightBlue
 XP_010875318.1_opsin_4xb_isoform_X1_Esox_lucius	Melanopsins X	DarkOrange	NavajoWhite
 XP_019635260.1_PREDICTED_melanopsin_Branchiostoma_belcheri	Melanopsins L	SeaGreen	LightGreen
-PBC29422.1_Rhodopsin_long-wavelength_Apis_cerana_cerana	LWS-Rhabopsins	Lime	PaleGreen
-XP_034484111.1_opsin_ultraviolet-sensitive_Drosophila_innubila	UV-Rhabopsins	MediumOrchid	Plum
-XP_029041874.1_opsin_blue-sensitive_Osmia_bicornis_bicornis	SWS-Rhabopsins	Blue	PowderBlue
-#QDR50942.1_Rhodopsin_7_Heliconius_melpomene	RH7-Rhabopsins	Coral	PeachPuff
+PBC29422.1_Rhodopsin_long-wavelength_Apis_cerana_cerana	LWS-Facetopsins	Lime	PaleGreen
+XP_034484111.1_opsin_ultraviolet-sensitive_Drosophila_innubila	UV-Facetopsins	MediumOrchid	Plum
+XP_029041874.1_opsin_blue-sensitive_Osmia_bicornis_bicornis	SWS-Facetopsins	Blue	PowderBlue
+#QDR50942.1_Rhodopsin_7_Heliconius_melpomene	RH7-Facetopsins	Coral	PeachPuff
 AFM43712.1_onychopsin_Ooperipatus_hispidus	Onychopsins	OrangeRed	Bisque
 DAniello2015_ops4_Parastichopus_parvimensis	Parvopsins	Green	PaleGreen
 
 
 # Tetraopsins
-XP_016865903.1_opsin-5_isoform_X5_Homo_sapiens	Neuropsins 1	Orange	Khaki
-NP_001073125.1_opsin_6_group_member_a_Danio_rerio	Neuropsins 2	DeepPink	Pink
-NP_001038457.1_opsin_7_group_member_c_Danio_rerio	Neuropsins 3	Yellow	LightYellow
-NP_001303874.1_opsin_8_group_member_b_Danio_rerio	Neuropsins 4	Cyan	LightCyan
-AIT11645.1_neuropsin_partial_Platynereis_dumerilii	Nervopsins	Crimson	LightSalmon
+XP_016865903.1_opsin-5_isoform_X5_Homo_sapiens	Euthropsins (Opn5/Opn5m)	Orange	Khaki
+XP_035262346.1_opsin_6_group_member_a_Anguilla_anguilla	Tremopsins (Opn6)	DeepPink	Pink
+NP_001038457.1_opsin_7_group_member_c_Danio_rerio	Qoshopsins (Opn7/Opn5L1)	Yellow	LightYellow
+NP_001303874.1_opsin_8_group_member_b_Danio_rerio	Fibopsins (Opn8/Opn5L2)	Cyan	LightCyan
+NP_001304680.1_opsin_9_Danio_rerio	Fiskopsins (Opn9/Opn5m2)	SeaGreen	PaleGreen
+AIT11645.1_neuropsin_partial_Platynereis_dumerilii	Kiropsins	Crimson	LightSalmon
 ASW31195.1_Go_opsin_Branchiostoma_floridae	Go-opsins	DarkTurquoise	PaleTurquoise
 
 # Chromopsins subgroup of the tetraopsins
@@ -31,10 +32,10 @@ BAQ54923.1_opsin_RGR-like_Mnais_costalis	Gluopsins	Purple	Plum
 XP_022670895.1_visual_pigment-like_receptor_peropsin_Varroa_destructor	Varropsins	Fuchsia	Lavender
 XP_784266.3_visual_pigment-like_receptor_peropsin_Strongylocentrotus_purpuratus	Astropsins	Red	Salmon
 
-# Xenopsins and Cnidopsins
-APB88016.1_xenopsin_Argopecten_irradians	Xenopsins A	HotPink	Pink
-APB88017.1_xenopsin_Argopecten_irradians	Xenopsins B	LimeGreen	PaleGreen
-AGB67488.1_c-like_opsin_partial_Tripedalia_cystophora	Xenopsins C	DeepSkyBlue	LightCyan
+# Stranopsins and Cnidopsins
+APB88016.1_xenopsin_Argopecten_irradians	Stranopsins A	HotPink	Pink
+APB88017.1_xenopsin_Argopecten_irradians	Stranopsins B	LimeGreen	PaleGreen
+AGB67488.1_c-like_opsin_partial_Tripedalia_cystophora	Stranopsins C	DeepSkyBlue	LightCyan
 NP_001296626.1_uncharacterized_protein_LOC101237290_Hydra_vulgaris	Cnidopsins	Orange	Orange
 
 XP_031563535.1_rhodopsin-like_Actinia_tenebrosa	Actopsins	Chocolate	Wheat
@@ -46,7 +47,7 @@ AAV63834.1_ciliary_opsin_Platynereis_dumerilii	Annopsins	SandyBrown	PapayaWhip
 QDR50943.1_pteropsin_Heliconius_melpomene	Pteropsins	CornflowerBlue	LightBlue
 NP_001039256.1_parietopsin_Xenopus_tropicalis	Parietopsins	MediumSpringGreen	Honeydew
 NP_001005312.1_parapinopsin_b_Danio_rerio	Parapinopsins	Gold	LemonChiffon
-NP_001265680.1_opsin-VA-like_Xenopus_tropicalis	Vaopsins	Cyan	PaleTurquoise
+NP_001265680.1_opsin-VA-like_Xenopus_tropicalis	Va-Opsins	Cyan	PaleTurquoise
 XP_027896363.1_red-sensitive_opsin-like_Xiphophorus_couchianus	LWS-Okopsins	Red	PeachPuff
 NP_001014890.1_rhodopsin_Bos_taurus	RHO1-Okopsins	Blue	LightBlue
 XP_023853250.1_green-sensitive_opsin-2-like_Salvelinus_alpinus	RHO2-Okopsins	Yellow	LightYellow
