@@ -10,8 +10,8 @@ NP_001296626.1_uncharacterized_protein_LOC101237290_Hydra_vulgaris	Strano-Cnidop
 # Cilopsins
 NP_001014890.1_rhodopsin_Bos_taurus	Cilopsins	Blue	Blue
 
-# Actopsins
-XP_031563535.1_rhodopsin-like_Actinia_tenebrosa	Actopsins	Cyan	Cyan
+# Nessopsins
+XP_031563535.1_rhodopsin-like_Actinia_tenebrosa	Nessopsins	Cyan	Cyan
 
 # Use the last entry as outgroup for rooting the tree
 NP_001081388.1_melatonin_receptor_type_1C_Xenopus_laevis	Outgroup	Black	White
