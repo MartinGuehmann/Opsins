@@ -1,0 +1,17 @@
+# Rhabopsins
+XP_016872444.1_melanopsin_isoform_X1_Homo_sapiens	Rhabobsins	Red	Red
+
+# Tetraopsins
+ASW31195.1_Go_opsin_Branchiostoma_floridae	Tetraopsins	Green	Green
+
+# Xenopsins and Cnidopsins
+NP_001296626.1_uncharacterized_protein_LOC101237290_Hydra_vulgaris	Xenopsins	Yellow	Yellow
+
+# Cilopsins
+NP_001014890.1_rhodopsin_Bos_taurus	Cilopsins	Blue	Blue
+
+# Nessopsins
+XP_031563535.1_rhodopsin-like_Actinia_tenebrosa	Nessopsins	Cyan	Cyan
+
+# Use the last entry as outgroup for rooting the tree
+NP_001081388.1_melatonin_receptor_type_1C_Xenopus_laevis	Outgroup	Black	White

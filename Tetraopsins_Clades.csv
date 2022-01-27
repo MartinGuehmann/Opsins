@@ -1,0 +1,9 @@
+# Tetraopsins
+XP_016865903.1_opsin-5_isoform_X5_Homo_sapiens	Neuropsins	Orange	Khaki
+ASW31195.1_Go_opsin_Branchiostoma_floridae	Go-opsins	DarkTurquoise	PaleTurquoise
+
+# Chromopsins
+BAQ54923.1_opsin_RGR-like_Mnais_costalis	Chromopsins	Purple	Plum
+
+# Use the last entry as outgroup for rooting the tree
+NP_001081388.1_melatonin_receptor_type_1C_Xenopus_laevis	Outgroup	Black	White
