@@ -1,0 +1,9 @@
+# Optional file as an additional look-up table for higher taxa, which are not in the taxon database.
+# Higher taxa must be given as they appear in the taxon database, that means in Latin,
+# Annelids become Annelida
+# For instance Notalux is a misspelling for Notaulax, and would not be identified
+Notalux	Annelida
+miTrinity	Annelida
+scTrinity	Annelida
+Paradialychone	Annelida
+Sabelloma	Annelida
