@@ -21,8 +21,8 @@ toUpperLimit	29
 interestingAAPositions	83	110	113	134	135	136	181	185	187	296	302	303	304	305	306	313	310	311	312
 
 # AminoAcids to highlight
-aaToHighlight	296	302	303	304	305	306
+aaToHighlight	292	296	302	303	304	305	306	314
 
 #
 # Highlight colors, for each amino acid a color
-highlightColors	Gold	DimGray	DimGray	DimGray	DimGray	DimGray
+highlightColors	DimGray	DimGray	DimGray	DimGray	DimGray	DimGray	DimGray	DimGray
