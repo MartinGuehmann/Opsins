@@ -1,7 +1,7 @@
-# This is a config files it is loaded by 12_ConvertTressToFigures.py.
+# This is a config file. It is loaded by 12_ConvertTressToFigures.py.
 # The values defined here are used for displaying the amino acid of
 # interest in the visualized trees, and the sequences logos.
-# One sequence  logo displays the coveres the sequences around the
+# One sequence  logo displays the covers the sequences around the
 # aaPos, toLowerLimit gives the number of amino acids before the
 # amino acid of interest at aaPos. And toUpperLimit gives the number of amino acids
 # following aaPos for the end of the sequence logo.
