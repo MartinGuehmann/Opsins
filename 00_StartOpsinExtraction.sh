@@ -21,4 +21,4 @@ shuffleSeqs="--shuffleSeqs" # Shuffle the sequences between iterations of Rogue 
 extension="contree"         # Extension of tree files to extract the sequences of interests from
 trimAl="Default"            # Value for trimAl use Default value, values are between 0.0 and 1.0, default is 0.1.
 
-"$DIR/../Scheduler/Scheduler-00-ExtractSequences.sh" -g $gene -b $bigTreeIteration -a $aligner $continue -n $numRoundsLeft -N $bigNumRoundsLeft $shuffleSeqs -e $extension -t $trimAl
+"$DIR/../PhylogenyPipeline/Scheduler/Scheduler-00-ExtractSequences.sh" -g $gene -b $bigTreeIteration -a $aligner $continue -n $numRoundsLeft -N $bigNumRoundsLeft $shuffleSeqs -e $extension -t $trimAl
