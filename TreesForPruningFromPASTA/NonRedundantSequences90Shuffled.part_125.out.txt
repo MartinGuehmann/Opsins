@@ -1,0 +1,28 @@
+PASTA INFO: Directory for temporary files created at /work/oa20474/.pasta/NonRedundantSequences90Shuffled.part_125/tempmeevd5jy
+PASTA INFO: Name translation information saved to /work/oa20474/PhylogenyPipeline/Opsins/TreesForPruningFromPASTA/NonRedundantSequences90Shuffled.part_125_temp_name_translation.txt as safe name, original name, blank line format.
+PASTA INFO: Creating a starting tree for the PASTA algorithm...
+PASTA INFO: Performing initial alignment of the entire data matrix...
+PASTA INFO: Performing initial tree search to get starting tree...
+PASTA INFO: Starting PASTA algorithm on initial tree...
+PASTA INFO: Max subproblem set to 200
+PASTA INFO: Step 0. Realigning with decomposition strategy set to mincluster
+PASTA INFO: Step 0. Alignment obtained. Tree inference beginning...
+PASTA INFO: realignment accepted and score improved.
+PASTA INFO: current score: -720596.579, best score: -720596.579
+PASTA INFO: TreeShrink option has been turned off!
+PASTA INFO: Step 1. Realigning with decomposition strategy set to mincluster
+PASTA INFO: Step 1. Alignment obtained. Tree inference beginning...
+PASTA INFO: realignment accepted despite the score not improving.
+PASTA INFO: current score: -626799.261, best score: -626799.261
+PASTA INFO: TreeShrink option has been turned off!
+PASTA INFO: Step 2. Realigning with decomposition strategy set to mincluster
+PASTA INFO: Step 2. Alignment obtained. Tree inference beginning...
+PASTA INFO: realignment accepted despite the score not improving.
+PASTA INFO: current score: -627211.807, best score: -626799.261
+PASTA INFO: TreeShrink option has been turned off!
+PASTA INFO: Writing resulting alignment to /work/oa20474/PhylogenyPipeline/Opsins/TreesForPruningFromPASTA/NonRedundantSequences90Shuffled.part_125.alignment.PASTA.fasta
+PASTA INFO: Writing resulting tree to /work/oa20474/PhylogenyPipeline/Opsins/TreesForPruningFromPASTA/NonRedundantSequences90Shuffled.part_125.tre
+PASTA INFO: Writing resulting likelihood score to /work/oa20474/PhylogenyPipeline/Opsins/TreesForPruningFromPASTA/NonRedundantSequences90Shuffled.part_125.score.txt
+PASTA INFO: The resulting alignment (with the names in a "safe" form) was first written as the file "/work/oa20474/PhylogenyPipeline/Opsins/TreesForPruningFromPASTA/NonRedundantSequences90Shuffled.part_125_temp_iteration_2_seq_alignment.txt"
+PASTA INFO: The resulting tree (with the names in a "safe" form) was first written as the file "/work/oa20474/PhylogenyPipeline/Opsins/TreesForPruningFromPASTA/NonRedundantSequences90Shuffled.part_125_temp_iteration_2_tree.tre"
+PASTA INFO: Total time spent: 3433.5026597976685s
