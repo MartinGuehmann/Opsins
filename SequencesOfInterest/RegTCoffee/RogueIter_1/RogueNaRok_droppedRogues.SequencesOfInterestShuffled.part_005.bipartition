@@ -1,0 +1,8 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.943992
+1	302	tr|H9GGD4|H9GGD4_ANOCA_Prolactin_releasing_hormone_receptor_OS_Anolis_carolinensis_OX_28377_GN_PRLHR_PE_3_SV_1	2.000000	0.946029
+2	152	PVD33043.1_hypothetical_protein_C0Q70_08491_Pomacea_canaliculata	2.000000	0.948065
+3	838	XP_001688790.1_AGAP006126-PA_Anopheles_gambiae_str._PEST	1.000000	0.949084
+4	368,350	XP_029208349.1_prostaglandin_E2_receptor_EP4_subtype-like_Acropora_millepora,JAQ59454.1_G-protein_coupled_receptor_22_putative_partial_Fundulus_heteroclitus	2.000000	0.951120
+5	349	VDK47124.1_unnamed_protein_product_Anisakis_simplex	1.000000	0.952138
+6	914	XP_029366523.1_melanopsin-A-like_Echeneis_naucrates	1.000000	0.953157

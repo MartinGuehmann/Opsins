@@ -1,0 +1,136 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.269244] initialisation done (initScore = 0.896335, numBip=3286)
+[0.013099] sorting bipartition profile
+[0.069046] computed / updated events
+[0.017900] combined events
+[0.003134] calculated per dropset improvement
+[0.004055] executed the merging events 
+>457	RXN37756.1_melanopsin-B-like_protein_Labeo_rohita	1.560000	0.897924
+[0.003149] sorting bipartition profile
+[0.002142] computed / updated events
+[0.018971] combined events
+[0.002781] calculated per dropset improvement
+[0.004073] executed the merging events 
+>791,790	tr|A0A1D1VX88|A0A1D1VX88_RAMVA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Ramazzottius_varieornatus_OX_947166_GN_RvY_16096-1_PE_4_SV_1,XP_019636885.1_PREDICTED_uncharacterized_protein_LOC109479371_Branchiostoma_belcheri	2.471000	0.900440
+[0.003879] sorting bipartition profile
+[0.001436] computed / updated events
+[0.017179] combined events
+[0.002795] calculated per dropset improvement
+[0.003845] executed the merging events 
+>474	XP_027795799.1_melanopsin_isoform_X1_Marmota_flaviventris	0.505000	0.900954
+[0.002913] sorting bipartition profile
+[0.001002] computed / updated events
+[0.017339] combined events
+[0.002799] calculated per dropset improvement
+[0.003793] executed the merging events 
+>53	GCF39899.1_hypothetical_protein_parPi_0027532_partial_Paroedura_picta	0.325000	0.901285
+[0.002787] sorting bipartition profile
+[0.000745] computed / updated events
+[0.016966] combined events
+[0.002684] calculated per dropset improvement
+[0.003830] executed the merging events 
+>834	tr|A0A5K3FUM5|A0A5K3FUM5_9CEST_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Mesocestoides_corti_OX_53468_PE_4_SV_1	0.292000	0.901582
+[0.002903] sorting bipartition profile
+[0.001236] computed / updated events
+[0.017561] combined events
+[0.002791] calculated per dropset improvement
+[0.003933] executed the merging events 
+>444,440	KAF3851142.1_hypothetical_protein_F7725_012914_Dissostichus_mawsoni,tr|H3DEE0|H3DEE0_TETNG_Opsin_4xb_OS_Tetraodon_nigroviridis_OX_99883_PE_3_SV_1	0.566000	0.902159
+[0.003794] sorting bipartition profile
+[0.001061] computed / updated events
+[0.017109] combined events
+[0.002767] calculated per dropset improvement
+[0.003770] executed the merging events 
+>225	BBA68522.1_pinopsin_partial_Atelomycterus_marmoratus	0.217000	0.902380
+[0.003026] sorting bipartition profile
+[0.001004] computed / updated events
+[0.017412] combined events
+[0.002637] calculated per dropset improvement
+[0.003822] executed the merging events 
+>632	ROT75856.1_opsin_protein_Penaeus_vannamei	0.210000	0.902594
+[0.003043] sorting bipartition profile
+[0.000825] computed / updated events
+[0.017204] combined events
+[0.002718] calculated per dropset improvement
+[0.003795] executed the merging events 
+>571	KYN13668.1_Rhodopsin_Trachymyrmex_cornetzi	0.155000	0.902752
+[0.003008] sorting bipartition profile
+[0.001333] computed / updated events
+[0.016846] combined events
+[0.002694] calculated per dropset improvement
+[0.003740] executed the merging events 
+>776	miTrinity_TR5983|c1_g1_i2|ORF1	0.117000	0.902871
+[0.002992] sorting bipartition profile
+[0.001086] computed / updated events
+[0.016959] combined events
+[0.002671] calculated per dropset improvement
+[0.003815] executed the merging events 
+>291	VEN60747.1_unnamed_protein_product_partial_Callosobruchus_maculatus	0.112000	0.902985
+[0.002990] sorting bipartition profile
+[0.000868] computed / updated events
+[0.016670] combined events
+[0.002683] calculated per dropset improvement
+[0.003717] executed the merging events 
+>663	XP_008487287.1_opsin_blue-sensitive-like_partial_Diaphorina_citri	0.112000	0.903099
+[0.003325] sorting bipartition profile
+[0.000980] computed / updated events
+[0.017203] combined events
+[0.002691] calculated per dropset improvement
+[0.003714] executed the merging events 
+>770	XP_013083242.1_PREDICTED_melanopsin-like_partial_Biomphalaria_glabrata	0.097000	0.903198
+[0.002896] sorting bipartition profile
+[0.000767] computed / updated events
+[0.016636] combined events
+[0.002654] calculated per dropset improvement
+[0.003805] executed the merging events 
+>793,792	XP_011405490.2_PREDICTED_G-protein_coupled_receptor_161-like_Amphimedon_queenslandica,XP_002113728.1_hypothetical_protein_TRIADDRAFT_57447_Trichoplax_adhaerens	0.191000	0.903392
+[0.004076] sorting bipartition profile
+[0.000889] computed / updated events
+[0.016063] combined events
+[0.002629] calculated per dropset improvement
+[0.003684] executed the merging events 
+>547	AAZ94235.1_long-wavelength_rhodopsin_partial_Eucerceris_tricolor	0.046000	0.903439
+[0.003001] sorting bipartition profile
+[0.001538] computed / updated events
+[0.016156] combined events
+[0.002739] calculated per dropset improvement
+[0.003805] executed the merging events 
+>507	AAT47920.1_rhodopsin_partial_Rossia_pacifica	0.040000	0.903480
+[0.002924] sorting bipartition profile
+[0.000960] computed / updated events
+[0.016253] combined events
+[0.002648] calculated per dropset improvement
+[0.003650] executed the merging events 
+>21	KAF1383439.1_hypothetical_protein_PFLUV_G00131910_Perca_fluviatilis	0.039000	0.903519
+[0.002815] sorting bipartition profile
+[0.000958] computed / updated events
+[0.016290] combined events
+[0.002581] calculated per dropset improvement
+[0.003590] executed the merging events 
+>456	XP_026153256.1_melanopsin-B-like_isoform_X1_Mastacembelus_armatus	0.028000	0.903548
+[0.002773] sorting bipartition profile
+[0.001227] computed / updated events
+[0.016000] combined events
+[0.002581] calculated per dropset improvement
+[0.003799] executed the merging events 
+>520	RMC11727.1_hypothetical_protein_DUI87_11850_Hirundo_rustica_rustica	0.004000	0.903552
+[0.003037] sorting bipartition profile
+[0.000846] computed / updated events
+[0.015737] combined events
+[0.002602] calculated per dropset improvement
+[0.003690] executed the merging events 
+>777	DAniello2015_ops7_Saccoglossus_mereschkowskii	0.004000	0.903556
+[0.002889] sorting bipartition profile
+[0.000989] computed / updated events
+[0.015831] combined events
+[0.002657] calculated per dropset improvement
+[0.003620] executed the merging events 
+>247,246	tr|G3N9V9|G3N9V9_GASAC_Parapinopsin_b_OS_Gasterosteus_aculeatus_OX_69293_PE_3_SV_1,tr|A0A3Q3NN53|A0A3Q3NN53_9TELE_Parapinopsin_b_OS_Mastacembelus_armatus_OX_205130_PE_4_SV_1	0.001000	0.903557
+[0.003988] sorting bipartition profile
+[0.001193] computed / updated events
+[0.015705] combined events
+[0.002546] calculated per dropset improvement
+total time elapsed: 1.950214

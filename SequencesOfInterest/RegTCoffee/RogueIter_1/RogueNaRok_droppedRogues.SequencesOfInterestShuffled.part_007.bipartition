@@ -1,0 +1,7 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.969450
+1	119	RXN37648.1_gypsy_retrotransposon_integrase_1-like_protein_Labeo_rohita	2.000000	0.971487
+2	98	DAniello2015_ops8.3_Saccoglossus_kowalevskii	1.000000	0.972505
+3	493	tr|A0A3B5A7S9|A0A3B5A7S9_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Stegastes_partitus_OX_144197_PE_4_SV_1	1.000000	0.973523
+4	804	QCB20340.1_long-wavelength_sensitive_opsin_Apogon_notatus	1.000000	0.974542
+5	661	PRD22354.1_Opsin-5_Trichonephila_clavipes	1.000000	0.975560

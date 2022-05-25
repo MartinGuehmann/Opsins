@@ -1,0 +1,100 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.178434] initialisation done (initScore = 0.931772, numBip=4184)
+[0.013532] sorting bipartition profile
+[0.084001] computed / updated events
+[0.025248] combined events
+[0.004775] calculated per dropset improvement
+[0.007830] executed the merging events 
+>485	XP_027039232.1_melanopsin-like_Pocillopora_damicornis	3.000000	0.934827
+[0.004280] sorting bipartition profile
+[0.002154] computed / updated events
+[0.028205] combined events
+[0.004055] calculated per dropset improvement
+[0.007224] executed the merging events 
+>24	APY20627.1_ultraviolet_sensitive_opsin_2_partial_Metrius_contractus	2.000000	0.936864
+[0.003744] sorting bipartition profile
+[0.001281] computed / updated events
+[0.028094] combined events
+[0.003727] calculated per dropset improvement
+[0.006072] executed the merging events 
+>682	TNN47126.1_Pineal_opsin_Liparis_tanakae	2.000000	0.938900
+[0.004438] sorting bipartition profile
+[0.001721] computed / updated events
+[0.029080] combined events
+[0.003964] calculated per dropset improvement
+[0.006028] executed the merging events 
+>614	AJD38848.1_long-wavelength_sensitive_opsin_partial_Beryx_splendens	2.000000	0.940937
+[0.003657] sorting bipartition profile
+[0.001649] computed / updated events
+[0.027560] combined events
+[0.003643] calculated per dropset improvement
+[0.005948] executed the merging events 
+>487,486	tr|H2YR13|H2YR13_CIOSA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Ciona_savignyi_OX_51511_PE_4_SV_1,XP_007519724.1_PREDICTED_G-protein_coupled_receptor_26_Erinaceus_europaeus	4.000000	0.945010
+[0.005715] sorting bipartition profile
+[0.002862] computed / updated events
+[0.027198] combined events
+[0.003648] calculated per dropset improvement
+[0.005668] executed the merging events 
+>834	CCP72260.1_Visual_pigment-like_receptor_peropsin_Neovison_vison	2.000000	0.947047
+[0.003640] sorting bipartition profile
+[0.001724] computed / updated events
+[0.026332] combined events
+[0.003652] calculated per dropset improvement
+[0.005613] executed the merging events 
+>510	KAF4086324.1_hypothetical_protein_AMELA_G00105560_Ameiurus_melas	1.000000	0.948065
+[0.003591] sorting bipartition profile
+[0.000986] computed / updated events
+[0.026476] combined events
+[0.003558] calculated per dropset improvement
+[0.005648] executed the merging events 
+>558	XP_015496276.1_rhodopsin_isoform_X1_Parus_major	1.000000	0.949084
+[0.003711] sorting bipartition profile
+[0.001044] computed / updated events
+[0.026237] combined events
+[0.003633] calculated per dropset improvement
+[0.005613] executed the merging events 
+>826,793	DAniello2015_ops5_Paracentrotus_lividus,AIT99327.1_ciliary_opsin_1_partial_Brachionus_koreanus	2.000000	0.951120
+[0.004830] sorting bipartition profile
+[0.001413] computed / updated events
+[0.026127] combined events
+[0.003533] calculated per dropset improvement
+[0.005741] executed the merging events 
+>507	XP_013817485.1_PREDICTED_double_C2-like_domain-containing_protein_beta_Apteryx_mantelli_mantelli	1.000000	0.952138
+[0.003750] sorting bipartition profile
+[0.001558] computed / updated events
+[0.025731] combined events
+[0.003526] calculated per dropset improvement
+[0.005408] executed the merging events 
+>75	MPC37709.1_Ocellar_opsin_Portunus_trituberculatus	1.000000	0.953157
+[0.003590] sorting bipartition profile
+[0.001518] computed / updated events
+[0.025593] combined events
+[0.003524] calculated per dropset improvement
+[0.005531] executed the merging events 
+>238	CDQ59800.1_unnamed_protein_product_Oncorhynchus_mykiss	1.000000	0.954175
+[0.004282] sorting bipartition profile
+[0.000939] computed / updated events
+[0.027120] combined events
+[0.003635] calculated per dropset improvement
+[0.005866] executed the merging events 
+>304	GAU95013.1_hypothetical_protein_RvY_06702_Ramazzottius_varieornatus	1.000000	0.955193
+[0.003775] sorting bipartition profile
+[0.000839] computed / updated events
+[0.025550] combined events
+[0.003537] calculated per dropset improvement
+[0.005539] executed the merging events 
+>358	RDD44389.1_Neuropeptide_FF_receptor_2_Trichoplax_sp._H2	1.000000	0.956212
+[0.003715] sorting bipartition profile
+[0.001971] computed / updated events
+[0.025537] combined events
+[0.003657] calculated per dropset improvement
+[0.005465] executed the merging events 
+>904,903	DAniello2015_ops8.5_Saccoglossus_kowalevskii,DAniello2015_ops8.2_Saccoglossus_kowalevskii	1.000000	0.957230
+[0.004761] sorting bipartition profile
+[0.000906] computed / updated events
+[0.026139] combined events
+[0.003359] calculated per dropset improvement
+total time elapsed: 1.935659

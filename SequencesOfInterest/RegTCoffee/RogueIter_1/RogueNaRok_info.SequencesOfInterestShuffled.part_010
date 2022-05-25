@@ -1,0 +1,232 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.220697] initialisation done (initScore = 0.853136, numBip=4184)
+[0.013627] sorting bipartition profile
+[0.084332] computed / updated events
+[0.029681] combined events
+[0.003615] calculated per dropset improvement
+[0.005265] executed the merging events 
+>485	XP_027039232.1_melanopsin-like_Pocillopora_damicornis	2.835000	0.856023
+[0.003220] sorting bipartition profile
+[0.002002] computed / updated events
+[0.030679] combined events
+[0.003333] calculated per dropset improvement
+[0.005057] executed the merging events 
+>682	TNN47126.1_Pineal_opsin_Liparis_tanakae	2.237000	0.858301
+[0.003281] sorting bipartition profile
+[0.001519] computed / updated events
+[0.031165] combined events
+[0.003207] calculated per dropset improvement
+[0.005066] executed the merging events 
+>487	tr|H2YR13|H2YR13_CIOSA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Ciona_savignyi_OX_51511_PE_4_SV_1	1.965000	0.860302
+[0.003571] sorting bipartition profile
+[0.002011] computed / updated events
+[0.029975] combined events
+[0.003409] calculated per dropset improvement
+[0.005246] executed the merging events 
+>614	AJD38848.1_long-wavelength_sensitive_opsin_partial_Beryx_splendens	1.756000	0.862091
+[0.003219] sorting bipartition profile
+[0.001706] computed / updated events
+[0.029949] combined events
+[0.003319] calculated per dropset improvement
+[0.004934] executed the merging events 
+>834	CCP72260.1_Visual_pigment-like_receptor_peropsin_Neovison_vison	1.359000	0.863475
+[0.003446] sorting bipartition profile
+[0.001650] computed / updated events
+[0.029704] combined events
+[0.003369] calculated per dropset improvement
+[0.004933] executed the merging events 
+>304	GAU95013.1_hypothetical_protein_RvY_06702_Ramazzottius_varieornatus	1.289000	0.864787
+[0.003246] sorting bipartition profile
+[0.000859] computed / updated events
+[0.029953] combined events
+[0.003347] calculated per dropset improvement
+[0.004917] executed the merging events 
+>507	XP_013817485.1_PREDICTED_double_C2-like_domain-containing_protein_beta_Apteryx_mantelli_mantelli	1.235000	0.866045
+[0.003239] sorting bipartition profile
+[0.001698] computed / updated events
+[0.027524] combined events
+[0.003043] calculated per dropset improvement
+[0.004575] executed the merging events 
+>24	APY20627.1_ultraviolet_sensitive_opsin_2_partial_Metrius_contractus	1.175000	0.867241
+[0.003143] sorting bipartition profile
+[0.000908] computed / updated events
+[0.026792] combined events
+[0.003048] calculated per dropset improvement
+[0.004587] executed the merging events 
+>486	XP_007519724.1_PREDICTED_G-protein_coupled_receptor_26_Erinaceus_europaeus	1.155000	0.868418
+[0.003875] sorting bipartition profile
+[0.001523] computed / updated events
+[0.027474] combined events
+[0.003328] calculated per dropset improvement
+[0.006167] executed the merging events 
+>141	T29877.1_EST98579_Human_Thyroid_gland_Homo_sapiens_cDNA_5_end_similar_to_elastase_inhibitor_monocyte/neutrophil_HT_3771__mRNA_sequence	1.141000	0.869579
+[0.004885] sorting bipartition profile
+[0.001358] computed / updated events
+[0.026711] combined events
+[0.003782] calculated per dropset improvement
+[0.007340] executed the merging events 
+>130	ACT83788.1_long-wavelength_sensitive_opsin_partial_Encarsia_pergandiella	1.123000	0.870723
+[0.004426] sorting bipartition profile
+[0.001612] computed / updated events
+[0.026343] combined events
+[0.003644] calculated per dropset improvement
+[0.007194] executed the merging events 
+>358	RDD44389.1_Neuropeptide_FF_receptor_2_Trichoplax_sp._H2	1.079000	0.871822
+[0.004401] sorting bipartition profile
+[0.002182] computed / updated events
+[0.025087] combined events
+[0.003629] calculated per dropset improvement
+[0.007024] executed the merging events 
+>510	KAF4086324.1_hypothetical_protein_AMELA_G00105560_Ameiurus_melas	1.039000	0.872880
+[0.004315] sorting bipartition profile
+[0.001131] computed / updated events
+[0.024899] combined events
+[0.003578] calculated per dropset improvement
+[0.006991] executed the merging events 
+>786	DAB27254.1_TPA_inf_xenopsinA_Prostheceraeus_vittatus	0.798000	0.873692
+[0.004319] sorting bipartition profile
+[0.001367] computed / updated events
+[0.024427] combined events
+[0.003526] calculated per dropset improvement
+[0.007029] executed the merging events 
+>238	CDQ59800.1_unnamed_protein_product_Oncorhynchus_mykiss	0.683000	0.874388
+[0.004165] sorting bipartition profile
+[0.000830] computed / updated events
+[0.024602] combined events
+[0.003533] calculated per dropset improvement
+[0.007034] executed the merging events 
+>826	DAniello2015_ops5_Paracentrotus_lividus	0.645000	0.875045
+[0.004387] sorting bipartition profile
+[0.000964] computed / updated events
+[0.024212] combined events
+[0.003531] calculated per dropset improvement
+[0.007121] executed the merging events 
+>887,809	OQV13731.1_putative_Opsin-5_Hypsibius_dujardini,AGB67498.1_c-like_opsin_Tripedalia_cystophora	1.078000	0.876143
+[0.005867] sorting bipartition profile
+[0.001963] computed / updated events
+[0.023650] combined events
+[0.003491] calculated per dropset improvement
+[0.006781] executed the merging events 
+>75	MPC37709.1_Ocellar_opsin_Portunus_trituberculatus	0.534000	0.876686
+[0.004559] sorting bipartition profile
+[0.001098] computed / updated events
+[0.023386] combined events
+[0.003627] calculated per dropset improvement
+[0.006835] executed the merging events 
+>558	XP_015496276.1_rhodopsin_isoform_X1_Parus_major	0.523000	0.877219
+[0.004263] sorting bipartition profile
+[0.001039] computed / updated events
+[0.023387] combined events
+[0.003360] calculated per dropset improvement
+[0.006952] executed the merging events 
+>424	Bispira_guinensis_TRINITY_DN34101_c2_g1_i1|ORF7	0.435000	0.877662
+[0.004413] sorting bipartition profile
+[0.001738] computed / updated events
+[0.021913] combined events
+[0.003537] calculated per dropset improvement
+[0.006595] executed the merging events 
+>742	LAA13894.1_ocellar_opsin_partial_Parasteatoda_tepidariorum	0.400000	0.878069
+[0.004176] sorting bipartition profile
+[0.001027] computed / updated events
+[0.021591] combined events
+[0.003336] calculated per dropset improvement
+[0.006593] executed the merging events 
+>380	OZG01712.1_hypothetical_protein_FL83_18596_partial_Caenorhabditis_latens	0.387000	0.878463
+[0.004543] sorting bipartition profile
+[0.001341] computed / updated events
+[0.022408] combined events
+[0.008029] calculated per dropset improvement
+[0.006961] executed the merging events 
+>488	RDD40459.1_rhodopsin_Trichoplax_sp._H2	0.328000	0.878797
+[0.004311] sorting bipartition profile
+[0.001904] computed / updated events
+[0.020851] combined events
+[0.003313] calculated per dropset improvement
+[0.006574] executed the merging events 
+>941	tr|A0A3B4A2G8|A0A3B4A2G8_9GOBI_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Periophthalmus_magnuspinnatus_OX_409849_PE_4_SV_1	0.295000	0.879098
+[0.004318] sorting bipartition profile
+[0.001049] computed / updated events
+[0.021070] combined events
+[0.003407] calculated per dropset improvement
+[0.006588] executed the merging events 
+>25	APY20495.1_ultraviolet_sensitive_opsin_2_partial_Dryops_sp._CRS-2017	0.251000	0.879353
+[0.004259] sorting bipartition profile
+[0.001069] computed / updated events
+[0.020949] combined events
+[0.003305] calculated per dropset improvement
+[0.006506] executed the merging events 
+>333	XP_019613461.1_PREDICTED_delta-type_opioid_receptor-like_Branchiostoma_belcheri	0.239000	0.879597
+[0.004305] sorting bipartition profile
+[0.001207] computed / updated events
+[0.020809] combined events
+[0.003373] calculated per dropset improvement
+[0.006475] executed the merging events 
+>70	JAT19337.1_hypothetical_protein_g.49949_partial_Graphocephala_atropunctata	0.237000	0.879838
+[0.004140] sorting bipartition profile
+[0.001473] computed / updated events
+[0.020654] combined events
+[0.003284] calculated per dropset improvement
+[0.006542] executed the merging events 
+>498	XP_013081644.1_PREDICTED_olfactory_receptor_5K2-like_Biomphalaria_glabrata	0.236000	0.880078
+[0.004265] sorting bipartition profile
+[0.001121] computed / updated events
+[0.019983] combined events
+[0.003306] calculated per dropset improvement
+[0.006414] executed the merging events 
+>623	AMB42852.1_long_wavelength_sensitive_opsin_Chlorurus_sordidus	0.167000	0.880248
+[0.004369] sorting bipartition profile
+[0.001272] computed / updated events
+[0.020008] combined events
+[0.003303] calculated per dropset improvement
+[0.006416] executed the merging events 
+>73	ANF89422.1_UV_opsin_2_Limulus_polyphemus	0.161000	0.880412
+[0.004460] sorting bipartition profile
+[0.000909] computed / updated events
+[0.019791] combined events
+[0.003326] calculated per dropset improvement
+[0.006414] executed the merging events 
+>904,903	DAniello2015_ops8.5_Saccoglossus_kowalevskii,DAniello2015_ops8.2_Saccoglossus_kowalevskii	0.216000	0.880632
+[0.005437] sorting bipartition profile
+[0.000951] computed / updated events
+[0.019874] combined events
+[0.003260] calculated per dropset improvement
+[0.006549] executed the merging events 
+>712	TRY71252.1_hypothetical_protein_DNTS_035740_partial_Danionella_translucida	0.090000	0.880724
+[0.004386] sorting bipartition profile
+[0.001172] computed / updated events
+[0.019789] combined events
+[0.003258] calculated per dropset improvement
+[0.006349] executed the merging events 
+>879	XP_023346171.1_blue-sensitive_opsin-like_partial_Eurytemora_affinis	0.089000	0.880815
+[0.004181] sorting bipartition profile
+[0.000970] computed / updated events
+[0.019521] combined events
+[0.003254] calculated per dropset improvement
+[0.006338] executed the merging events 
+>232	XP_031159553.1_LOW_QUALITY_PROTEIN_melanopsin-A-like_Sander_lucioperca	0.058000	0.880874
+[0.004252] sorting bipartition profile
+[0.001507] computed / updated events
+[0.019522] combined events
+[0.003304] calculated per dropset improvement
+[0.006294] executed the merging events 
+>588	ALK00884.1_short-wave-sensitive_opsin_1_partial_Notophthalmus_viridescens	0.014000	0.880888
+[0.004299] sorting bipartition profile
+[0.001427] computed / updated events
+[0.019121] combined events
+[0.003433] calculated per dropset improvement
+[0.006273] executed the merging events 
+>303	XP_009062294.1_hypothetical_protein_LOTGIDRAFT_154846_Lottia_gigantea	0.012000	0.880900
+[0.004220] sorting bipartition profile
+[0.000974] computed / updated events
+[0.018951] combined events
+[0.003241] calculated per dropset improvement
+[0.006089] executed the merging events 
+>231	TMS04626.1_hypothetical_protein_E3U43_009783_Larimichthys_crocea	0.004000	0.880904
+[0.004130] sorting bipartition profile
+[0.001176] computed / updated events
+[0.019095] combined events
+[0.003225] calculated per dropset improvement
+total time elapsed: 2.793426

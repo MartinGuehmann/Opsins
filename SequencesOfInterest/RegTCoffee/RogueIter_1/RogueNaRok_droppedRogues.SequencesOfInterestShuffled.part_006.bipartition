@@ -1,0 +1,6 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.966395
+1	457	RXN37756.1_melanopsin-B-like_protein_Labeo_rohita	1.000000	0.967413
+2	474	XP_027795799.1_melanopsin_isoform_X1_Marmota_flaviventris	1.000000	0.968432
+3	444,440	KAF3851142.1_hypothetical_protein_F7725_012914_Dissostichus_mawsoni,tr|H3DEE0|H3DEE0_TETNG_Opsin_4xb_OS_Tetraodon_nigroviridis_OX_99883_PE_3_SV_1	1.000000	0.969450
+4	791,790	tr|A0A1D1VX88|A0A1D1VX88_RAMVA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Ramazzottius_varieornatus_OX_947166_GN_RvY_16096-1_PE_4_SV_1,XP_019636885.1_PREDICTED_uncharacterized_protein_LOC109479371_Branchiostoma_belcheri	1.000000	0.970468

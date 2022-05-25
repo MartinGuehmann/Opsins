@@ -1,0 +1,70 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.171090] initialisation done (initScore = 0.954175, numBip=4333)
+[0.013075] sorting bipartition profile
+[0.079684] computed / updated events
+[0.032533] combined events
+[0.004278] calculated per dropset improvement
+[0.006861] executed the merging events 
+>318	XP_020609821.1_histamine_H2_receptor-like_Orbicella_faveolata	3.000000	0.957230
+[0.004001] sorting bipartition profile
+[0.001805] computed / updated events
+[0.032605] combined events
+[0.004219] calculated per dropset improvement
+[0.006825] executed the merging events 
+>280	XP_012657364.2_probable_G-protein_coupled_receptor_83_Otolemur_garnettii	2.000000	0.959267
+[0.004065] sorting bipartition profile
+[0.001807] computed / updated events
+[0.031911] combined events
+[0.004407] calculated per dropset improvement
+[0.006435] executed the merging events 
+>913	GBN71276.1_Rhodopsin_partial_Araneus_ventricosus	2.000000	0.961303
+[0.003947] sorting bipartition profile
+[0.001366] computed / updated events
+[0.031985] combined events
+[0.003889] calculated per dropset improvement
+[0.006369] executed the merging events 
+>577,576	ABK54920.1_long_wavelength_rhodopsin_partial_Dasymutilla_aureola,XP_029036862.1_rhodopsin_long-wavelength-like_Osmia_bicornis_bicornis	2.000000	0.963340
+[0.005214] sorting bipartition profile
+[0.001859] computed / updated events
+[0.031000] combined events
+[0.003971] calculated per dropset improvement
+[0.006656] executed the merging events 
+>62,31	GCB77389.1_hypothetical_protein_scyTo_0020570_partial_Scyliorhinus_torazame,XP_018422399.1_PREDICTED_platelet-activating_factor_receptor_Nanorana_parkeri	2.000000	0.965377
+[0.005008] sorting bipartition profile
+[0.001109] computed / updated events
+[0.030031] combined events
+[0.004046] calculated per dropset improvement
+[0.006506] executed the merging events 
+>176	OCU00947.1_hypothetical_protein_XELAEV_18006726mg_Xenopus_laevis	1.000000	0.966395
+[0.004001] sorting bipartition profile
+[0.001322] computed / updated events
+[0.029715] combined events
+[0.004054] calculated per dropset improvement
+[0.006536] executed the merging events 
+>883	DAniello2015_ops8.1_Saccoglossus_kowalevskii	1.000000	0.967413
+[0.004030] sorting bipartition profile
+[0.001405] computed / updated events
+[0.029769] combined events
+[0.003914] calculated per dropset improvement
+[0.006590] executed the merging events 
+>317	XP_020628640.1_beta-4C_adrenergic_receptor-like_Orbicella_faveolata	1.000000	0.968432
+[0.004250] sorting bipartition profile
+[0.001564] computed / updated events
+[0.029335] combined events
+[0.003998] calculated per dropset improvement
+[0.006350] executed the merging events 
+>858	ODM97999.1_Opsin-5_Orchesella_cincta	1.000000	0.969450
+[0.004018] sorting bipartition profile
+[0.001242] computed / updated events
+[0.029193] combined events
+[0.003788] calculated per dropset improvement
+[0.006430] executed the merging events 
+>621	XP_034238556.1_rhodopsin-like_Thrips_palmi	1.000000	0.970468
+[0.004038] sorting bipartition profile
+[0.001333] computed / updated events
+[0.029298] combined events
+[0.003872] calculated per dropset improvement
+total time elapsed: 1.769623

@@ -1,0 +1,6 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.969450
+1	328	AAW80337.1_long-wavelength_opsin_partial_Ctenophthalmus_agyrtes	1.000000	0.970468
+2	100,99	KTF87460.1_hypothetical_protein_cypCar_00010512_partial_Cyprinus_carpio,XP_002107733.1_hypothetical_protein_TRIADDRAFT_51534_Trichoplax_adhaerens	2.000000	0.972505
+3	916	GCB76592.1_hypothetical_protein_scyTo_0019163_partial_Scyliorhinus_torazame	1.000000	0.973523
+4	444	JAL19917.1_Gpcr_rhodopsin_family_partial_Daphnia_magna	1.000000	0.974542

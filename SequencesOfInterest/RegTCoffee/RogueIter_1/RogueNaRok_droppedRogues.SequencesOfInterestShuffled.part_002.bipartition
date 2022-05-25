@@ -1,0 +1,11 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.963303
+1	375	RDD37922.1_Substance-K_receptor_Trichoplax_sp._H2	2.000000	0.965341
+2	511	XP_023328582.1_visual_pigment-like_receptor_peropsin_isoform_X1_Eurytemora_affinis	1.000000	0.966361
+3	896	AAP23945.2_SWS1_cone_opsin_partial_Anas_platyrhynchos	1.000000	0.967380
+4	571	XP_013399892.2_rhodopsin_G0-coupled_partial_Lingula_anatina	1.000000	0.968400
+5	465	XP_015769105.1_PREDICTED_5-hydroxytryptamine_receptor_1-like_Acropora_digitifera	1.000000	0.969419
+6	871	XP_009700812.1_PREDICTED_pinopsin-like_Cariama_cristata	1.000000	0.970438
+7	420	tr|A0A2R7WHI8|A0A2R7WHI8_ONCFA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Oncopeltus_fasciatus_OX_7536_GN_OFAS_OFAS010354_PE_4_SV_1	1.000000	0.971458
+8	172	APY20557.1_long_wavelength_sensitive_opsin_1_partial_Aphanisticus_sp._CRS-2017	1.000000	0.972477
+9	933	tr|A0A4W5R196|A0A4W5R196_9TELE_Rhodopsin_N_domain-containing_protein_OS_Hucho_hucho_OX_62062_PE_4_SV_1	1.000000	0.973496

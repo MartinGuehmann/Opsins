@@ -1,0 +1,12 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.954175
+1	318	XP_020609821.1_histamine_H2_receptor-like_Orbicella_faveolata	3.000000	0.957230
+2	280	XP_012657364.2_probable_G-protein_coupled_receptor_83_Otolemur_garnettii	2.000000	0.959267
+3	913	GBN71276.1_Rhodopsin_partial_Araneus_ventricosus	2.000000	0.961303
+4	577,576	ABK54920.1_long_wavelength_rhodopsin_partial_Dasymutilla_aureola,XP_029036862.1_rhodopsin_long-wavelength-like_Osmia_bicornis_bicornis	2.000000	0.963340
+5	62,31	GCB77389.1_hypothetical_protein_scyTo_0020570_partial_Scyliorhinus_torazame,XP_018422399.1_PREDICTED_platelet-activating_factor_receptor_Nanorana_parkeri	2.000000	0.965377
+6	176	OCU00947.1_hypothetical_protein_XELAEV_18006726mg_Xenopus_laevis	1.000000	0.966395
+7	883	DAniello2015_ops8.1_Saccoglossus_kowalevskii	1.000000	0.967413
+8	317	XP_020628640.1_beta-4C_adrenergic_receptor-like_Orbicella_faveolata	1.000000	0.968432
+9	858	ODM97999.1_Opsin-5_Orchesella_cincta	1.000000	0.969450
+10	621	XP_034238556.1_rhodopsin-like_Thrips_palmi	1.000000	0.970468

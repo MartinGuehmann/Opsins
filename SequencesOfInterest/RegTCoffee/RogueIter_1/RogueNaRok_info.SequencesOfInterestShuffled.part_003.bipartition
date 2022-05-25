@@ -1,0 +1,52 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.245739] initialisation done (initScore = 0.964803, numBip=4030)
+[0.021070] sorting bipartition profile
+[0.081605] computed / updated events
+[0.029838] combined events
+[0.004049] calculated per dropset improvement
+[0.005979] executed the merging events 
+>925	NWI77026.1_OPSR_protein_partial_Dryoscopus_gambensis	1.000000	0.965839
+[0.003626] sorting bipartition profile
+[0.001528] computed / updated events
+[0.031108] combined events
+[0.003649] calculated per dropset improvement
+[0.006083] executed the merging events 
+>885	RLV96949.1_hypothetical_protein_DV515_00012312_Erythrura_gouldiae	1.000000	0.966874
+[0.003952] sorting bipartition profile
+[0.001069] computed / updated events
+[0.030938] combined events
+[0.003780] calculated per dropset improvement
+[0.006062] executed the merging events 
+>628,625	LAA16445.1_ocellar_opsin_partial_Parasteatoda_tepidariorum,tr|T1GNY6|T1GNY6_MEGSC_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Megaselia_scalaris_OX_36166_PE_4_SV_1	2.000000	0.968944
+[0.005198] sorting bipartition profile
+[0.002395] computed / updated events
+[0.028953] combined events
+[0.003638] calculated per dropset improvement
+[0.005688] executed the merging events 
+>173,172	RDD41301.1_Melatonin_receptor_type_1C_Trichoplax_sp._H2,XP_015776330.1_PREDICTED_kappa-type_opioid_receptor-like_Acropora_digitifera	2.000000	0.971014
+[0.004899] sorting bipartition profile
+[0.002066] computed / updated events
+[0.027882] combined events
+[0.004089] calculated per dropset improvement
+[0.005621] executed the merging events 
+>863	AAG49742.1_rhodopsin_partial_Microhyla_sp._FB-2000	1.000000	0.972050
+[0.004067] sorting bipartition profile
+[0.001291] computed / updated events
+[0.028740] combined events
+[0.003548] calculated per dropset improvement
+[0.005585] executed the merging events 
+>913	AJD38880.1_short-wavelength_sensitive_opsin_2B_partial_Signigobius_biocellatus	1.000000	0.973085
+[0.004110] sorting bipartition profile
+[0.001243] computed / updated events
+[0.028691] combined events
+[0.003604] calculated per dropset improvement
+[0.005637] executed the merging events 
+>171,168	XP_029376515.1_prostaglandin_E2_receptor_EP2_subtype_isoform_X1_Echeneis_naucrates,XP_033111907.1_thyrotropin-releasing_hormone_receptor-like_Anneissia_japonica	1.000000	0.974120
+[0.005028] sorting bipartition profile
+[0.002154] computed / updated events
+[0.027555] combined events
+[0.003501] calculated per dropset improvement
+total time elapsed: 1.695939

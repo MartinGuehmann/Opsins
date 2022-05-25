@@ -1,0 +1,16 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.891157
+1	661	PRD22354.1_Opsin-5_Trichonephila_clavipes	3.053000	0.894266
+2	119	RXN37648.1_gypsy_retrotransposon_integrase_1-like_protein_Labeo_rohita	1.561000	0.895855
+3	493	tr|A0A3B5A7S9|A0A3B5A7S9_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Stegastes_partitus_OX_144197_PE_4_SV_1	0.973000	0.896846
+4	803	AMB42853.1_long_wavelength_sensitive_opsin_Chlorurus_sordidus	0.927000	0.897790
+5	549	KAF0025105.1_hypothetical_protein_F2P81_021986_partial_Scophthalmus_maximus	0.873000	0.898679
+6	98	DAniello2015_ops8.3_Saccoglossus_kowalevskii	0.782000	0.899476
+7	813	tr|U3K3T0|U3K3T0_FICAL_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Ficedula_albicollis_OX_59894_GN_LOC101822096_PE_3_SV_1	0.774000	0.900264
+8	252	XP_016925695.1_PREDICTED_LOW_QUALITY_PROTEIN_opsin_Rh4_partial_Drosophila_suzukii	0.678000	0.900954
+9	127	Paradialychone_ambigua_TRINITY_DN7651_c0_g1_i2|ORF2	0.505000	0.901468
+10	112	XP_018409651.1_PREDICTED_opsin-5-like_Nanorana_parkeri	0.308000	0.901782
+11	917	CAB1325778.1_unnamed_protein_product_Coregonus_sp._balchen_	0.292000	0.902079
+12	628	tr|A0A0K0EZQ2|A0A0K0EZQ2_STRVS_Melanopsin_inferred_by_orthology_to_a_human_protein_OS_Strongyloides_venezuelensis_OX_75913_PE_4_SV_1	0.212000	0.902295
+13	819	XP_010127336.1_PREDICTED_pinopsin_Chlamydotis_macqueenii	0.082000	0.902379
+14	805	PWA27675.1_hypothetical_protein_CCH79_00000495_Gambusia_affinis	0.009000	0.902388

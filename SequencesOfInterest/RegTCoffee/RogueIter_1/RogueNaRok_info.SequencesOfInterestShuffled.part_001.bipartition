@@ -1,0 +1,58 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.278710] initialisation done (initScore = 0.965412, numBip=3720)
+[0.013376] sorting bipartition profile
+[0.069387] computed / updated events
+[0.022588] combined events
+[0.003926] calculated per dropset improvement
+[0.005096] executed the merging events 
+>222	AAX83002.1_opsin_partial_Thalasseus_sandvicensis	3.000000	0.968464
+[0.004060] sorting bipartition profile
+[0.001361] computed / updated events
+[0.023800] combined events
+[0.003284] calculated per dropset improvement
+[0.004945] executed the merging events 
+>493	AAT47997.1_rhodopsin_partial_Sepioloidea_lineolata	2.000000	0.970498
+[0.004055] sorting bipartition profile
+[0.001426] computed / updated events
+[0.023285] combined events
+[0.003422] calculated per dropset improvement
+[0.004976] executed the merging events 
+>815	ELU13478.1_hypothetical_protein_CAPTEDRAFT_216204_Capitella_teleta	2.000000	0.972533
+[0.004008] sorting bipartition profile
+[0.001345] computed / updated events
+[0.022684] combined events
+[0.003355] calculated per dropset improvement
+[0.004954] executed the merging events 
+>635	tr|Q4RCP4|Q4RCP4_TETNG_Chromosome_undetermined_SCAF18373_whole_genome_shotgun_sequence_Fragment_OS_Tetraodon_nigroviridis_OX_99883_GN_GSTENG00038566001_PE_4_SV_1	2.000000	0.974568
+[0.004174] sorting bipartition profile
+[0.001884] computed / updated events
+[0.022181] combined events
+[0.003154] calculated per dropset improvement
+[0.004612] executed the merging events 
+>779	XP_023932090.1_rhodopsin_GQ-coupled-like_Lingula_anatina	1.000000	0.975585
+[0.003807] sorting bipartition profile
+[0.001131] computed / updated events
+[0.022109] combined events
+[0.003313] calculated per dropset improvement
+[0.004675] executed the merging events 
+>715	tr|A0A3B4DCP0|A0A3B4DCP0_PYGNA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Pygocentrus_nattereri_OX_42514_PE_4_SV_1	1.000000	0.976602
+[0.003886] sorting bipartition profile
+[0.001510] computed / updated events
+[0.021986] combined events
+[0.003128] calculated per dropset improvement
+[0.004829] executed the merging events 
+>442	RDD38564.1_G-protein_coupled_receptor_moody_Trichoplax_sp._H2	1.000000	0.977620
+[0.003643] sorting bipartition profile
+[0.001976] computed / updated events
+[0.021754] combined events
+[0.003631] calculated per dropset improvement
+[0.004568] executed the merging events 
+>576	RDD43464.1_Orexin_receptor_type_2_Trichoplax_sp._H2	1.000000	0.978637
+[0.004389] sorting bipartition profile
+[0.001222] computed / updated events
+[0.021302] combined events
+[0.003162] calculated per dropset improvement
+total time elapsed: 1.676709

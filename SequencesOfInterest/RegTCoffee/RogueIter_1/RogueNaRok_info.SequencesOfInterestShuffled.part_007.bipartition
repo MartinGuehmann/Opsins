@@ -1,0 +1,40 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.208607] initialisation done (initScore = 0.969450, numBip=4142)
+[0.013719] sorting bipartition profile
+[0.083917] computed / updated events
+[0.028452] combined events
+[0.003978] calculated per dropset improvement
+[0.005455] executed the merging events 
+>119	RXN37648.1_gypsy_retrotransposon_integrase_1-like_protein_Labeo_rohita	2.000000	0.971487
+[0.003840] sorting bipartition profile
+[0.001309] computed / updated events
+[0.028744] combined events
+[0.003578] calculated per dropset improvement
+[0.005371] executed the merging events 
+>98	DAniello2015_ops8.3_Saccoglossus_kowalevskii	1.000000	0.972505
+[0.003803] sorting bipartition profile
+[0.001398] computed / updated events
+[0.028214] combined events
+[0.003559] calculated per dropset improvement
+[0.005502] executed the merging events 
+>493	tr|A0A3B5A7S9|A0A3B5A7S9_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Stegastes_partitus_OX_144197_PE_4_SV_1	1.000000	0.973523
+[0.003773] sorting bipartition profile
+[0.001642] computed / updated events
+[0.027919] combined events
+[0.003584] calculated per dropset improvement
+[0.005429] executed the merging events 
+>804	QCB20340.1_long-wavelength_sensitive_opsin_Apogon_notatus	1.000000	0.974542
+[0.004003] sorting bipartition profile
+[0.001413] computed / updated events
+[0.028538] combined events
+[0.003605] calculated per dropset improvement
+[0.005437] executed the merging events 
+>661	PRD22354.1_Opsin-5_Trichonephila_clavipes	1.000000	0.975560
+[0.003900] sorting bipartition profile
+[0.001641] computed / updated events
+[0.027368] combined events
+[0.003493] calculated per dropset improvement
+total time elapsed: 1.551882

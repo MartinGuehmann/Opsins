@@ -1,0 +1,17 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.931772
+1	485	XP_027039232.1_melanopsin-like_Pocillopora_damicornis	3.000000	0.934827
+2	24	APY20627.1_ultraviolet_sensitive_opsin_2_partial_Metrius_contractus	2.000000	0.936864
+3	682	TNN47126.1_Pineal_opsin_Liparis_tanakae	2.000000	0.938900
+4	614	AJD38848.1_long-wavelength_sensitive_opsin_partial_Beryx_splendens	2.000000	0.940937
+5	487,486	tr|H2YR13|H2YR13_CIOSA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Ciona_savignyi_OX_51511_PE_4_SV_1,XP_007519724.1_PREDICTED_G-protein_coupled_receptor_26_Erinaceus_europaeus	4.000000	0.945010
+6	834	CCP72260.1_Visual_pigment-like_receptor_peropsin_Neovison_vison	2.000000	0.947047
+7	510	KAF4086324.1_hypothetical_protein_AMELA_G00105560_Ameiurus_melas	1.000000	0.948065
+8	558	XP_015496276.1_rhodopsin_isoform_X1_Parus_major	1.000000	0.949084
+9	826,793	DAniello2015_ops5_Paracentrotus_lividus,AIT99327.1_ciliary_opsin_1_partial_Brachionus_koreanus	2.000000	0.951120
+10	507	XP_013817485.1_PREDICTED_double_C2-like_domain-containing_protein_beta_Apteryx_mantelli_mantelli	1.000000	0.952138
+11	75	MPC37709.1_Ocellar_opsin_Portunus_trituberculatus	1.000000	0.953157
+12	238	CDQ59800.1_unnamed_protein_product_Oncorhynchus_mykiss	1.000000	0.954175
+13	304	GAU95013.1_hypothetical_protein_RvY_06702_Ramazzottius_varieornatus	1.000000	0.955193
+14	358	RDD44389.1_Neuropeptide_FF_receptor_2_Trichoplax_sp._H2	1.000000	0.956212
+15	904,903	DAniello2015_ops8.5_Saccoglossus_kowalevskii,DAniello2015_ops8.2_Saccoglossus_kowalevskii	1.000000	0.957230

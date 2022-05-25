@@ -1,0 +1,46 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.229406] initialisation done (initScore = 0.943992, numBip=4371)
+[0.020852] sorting bipartition profile
+[0.083468] computed / updated events
+[0.033120] combined events
+[0.004498] calculated per dropset improvement
+[0.006531] executed the merging events 
+>302	tr|H9GGD4|H9GGD4_ANOCA_Prolactin_releasing_hormone_receptor_OS_Anolis_carolinensis_OX_28377_GN_PRLHR_PE_3_SV_1	2.000000	0.946029
+[0.003914] sorting bipartition profile
+[0.001736] computed / updated events
+[0.035623] combined events
+[0.004107] calculated per dropset improvement
+[0.006349] executed the merging events 
+>152	PVD33043.1_hypothetical_protein_C0Q70_08491_Pomacea_canaliculata	2.000000	0.948065
+[0.003819] sorting bipartition profile
+[0.001487] computed / updated events
+[0.035292] combined events
+[0.004280] calculated per dropset improvement
+[0.005984] executed the merging events 
+>838	XP_001688790.1_AGAP006126-PA_Anopheles_gambiae_str._PEST	1.000000	0.949084
+[0.003816] sorting bipartition profile
+[0.001227] computed / updated events
+[0.036496] combined events
+[0.003789] calculated per dropset improvement
+[0.005973] executed the merging events 
+>368,350	XP_029208349.1_prostaglandin_E2_receptor_EP4_subtype-like_Acropora_millepora,JAQ59454.1_G-protein_coupled_receptor_22_putative_partial_Fundulus_heteroclitus	2.000000	0.951120
+[0.005417] sorting bipartition profile
+[0.004253] computed / updated events
+[0.034838] combined events
+[0.003625] calculated per dropset improvement
+[0.005818] executed the merging events 
+>349	VDK47124.1_unnamed_protein_product_Anisakis_simplex	1.000000	0.952138
+[0.003743] sorting bipartition profile
+[0.002094] computed / updated events
+[0.034655] combined events
+[0.003937] calculated per dropset improvement
+[0.005829] executed the merging events 
+>914	XP_029366523.1_melanopsin-A-like_Echeneis_naucrates	1.000000	0.953157
+[0.003948] sorting bipartition profile
+[0.001513] computed / updated events
+[0.035083] combined events
+[0.003925] calculated per dropset improvement
+total time elapsed: 1.681202

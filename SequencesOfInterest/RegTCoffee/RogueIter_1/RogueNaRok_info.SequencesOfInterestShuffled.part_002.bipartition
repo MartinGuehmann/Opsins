@@ -1,0 +1,64 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.174363] initialisation done (initScore = 0.963303, numBip=3906)
+[0.012866] sorting bipartition profile
+[0.080086] computed / updated events
+[0.027063] combined events
+[0.003710] calculated per dropset improvement
+[0.005111] executed the merging events 
+>375	RDD37922.1_Substance-K_receptor_Trichoplax_sp._H2	2.000000	0.965341
+[0.003158] sorting bipartition profile
+[0.001647] computed / updated events
+[0.028445] combined events
+[0.003621] calculated per dropset improvement
+[0.004740] executed the merging events 
+>511	XP_023328582.1_visual_pigment-like_receptor_peropsin_isoform_X1_Eurytemora_affinis	1.000000	0.966361
+[0.003424] sorting bipartition profile
+[0.000790] computed / updated events
+[0.027765] combined events
+[0.003272] calculated per dropset improvement
+[0.004799] executed the merging events 
+>896	AAP23945.2_SWS1_cone_opsin_partial_Anas_platyrhynchos	1.000000	0.967380
+[0.003364] sorting bipartition profile
+[0.001180] computed / updated events
+[0.028132] combined events
+[0.003487] calculated per dropset improvement
+[0.004917] executed the merging events 
+>571	XP_013399892.2_rhodopsin_G0-coupled_partial_Lingula_anatina	1.000000	0.968400
+[0.003420] sorting bipartition profile
+[0.001668] computed / updated events
+[0.027211] combined events
+[0.003277] calculated per dropset improvement
+[0.004803] executed the merging events 
+>465	XP_015769105.1_PREDICTED_5-hydroxytryptamine_receptor_1-like_Acropora_digitifera	1.000000	0.969419
+[0.003096] sorting bipartition profile
+[0.001094] computed / updated events
+[0.027342] combined events
+[0.003041] calculated per dropset improvement
+[0.004442] executed the merging events 
+>871	XP_009700812.1_PREDICTED_pinopsin-like_Cariama_cristata	1.000000	0.970438
+[0.003398] sorting bipartition profile
+[0.001378] computed / updated events
+[0.025370] combined events
+[0.003190] calculated per dropset improvement
+[0.004443] executed the merging events 
+>420	tr|A0A2R7WHI8|A0A2R7WHI8_ONCFA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Oncopeltus_fasciatus_OX_7536_GN_OFAS_OFAS010354_PE_4_SV_1	1.000000	0.971458
+[0.003381] sorting bipartition profile
+[0.002569] computed / updated events
+[0.024318] combined events
+[0.003326] calculated per dropset improvement
+[0.004216] executed the merging events 
+>172	APY20557.1_long_wavelength_sensitive_opsin_1_partial_Aphanisticus_sp._CRS-2017	1.000000	0.972477
+[0.003271] sorting bipartition profile
+[0.001142] computed / updated events
+[0.024637] combined events
+[0.003000] calculated per dropset improvement
+[0.004381] executed the merging events 
+>933	tr|A0A4W5R196|A0A4W5R196_9TELE_Rhodopsin_N_domain-containing_protein_OS_Hucho_hucho_OX_62062_PE_4_SV_1	1.000000	0.973496
+[0.003440] sorting bipartition profile
+[0.000901] computed / updated events
+[0.024283] combined events
+[0.003009] calculated per dropset improvement
+total time elapsed: 1.649636

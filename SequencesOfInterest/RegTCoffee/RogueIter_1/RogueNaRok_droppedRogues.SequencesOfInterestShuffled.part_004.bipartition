@@ -1,0 +1,11 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.950102
+1	379,364	XP_020905765.2_5-hydroxytryptamine_receptor_1B-like_Exaiptasia_diaphana,XP_020621389.1_adenosine_receptor_A2a-like_Orbicella_faveolata	4.000000	0.954175
+2	830	ODM99064.1_Opsin_ultraviolet-sensitive_Orchesella_cincta	1.000000	0.955193
+3	957	ADN93815.1_long-wavelength_rhodopsin_partial_Ancyloscelis_sp._1_JS-2010	1.000000	0.956212
+4	858	tr|A0A182LZL7|A0A182LZL7_9DIPT_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Anopheles_culicifacies_OX_139723_PE_4_SV_1	1.000000	0.957230
+5	680	APF30603.1_opsin_Stenoplax_conspicua	1.000000	0.958248
+6	922	XP_312478.1_AGAP002462-PA_Anopheles_gambiae_str._PEST	1.000000	0.959267
+7	711	XP_006819174.1_PREDICTED_opsin-5-like_Saccoglossus_kowalevskii	1.000000	0.960285
+8	335	tr|A0A1W0XDH2|A0A1W0XDH2_HYPDU_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Hypsibius_dujardini_OX_232323_GN_BV898_00453_PE_4_SV_1	1.000000	0.961303
+9	6	tr|A0A3Q3VR85|A0A3Q3VR85_MOLML_Teleost_multiple_tissue_opsin_b_OS_Mola_mola_OX_94237_PE_3_SV_1	1.000000	0.962322

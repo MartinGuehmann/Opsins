@@ -1,0 +1,34 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.320415] initialisation done (initScore = 0.966395, numBip=3286)
+[0.013012] sorting bipartition profile
+[0.061173] computed / updated events
+[0.016305] combined events
+[0.002940] calculated per dropset improvement
+[0.004161] executed the merging events 
+>457	RXN37756.1_melanopsin-B-like_protein_Labeo_rohita	1.000000	0.967413
+[0.003080] sorting bipartition profile
+[0.001763] computed / updated events
+[0.017474] combined events
+[0.002729] calculated per dropset improvement
+[0.004005] executed the merging events 
+>474	XP_027795799.1_melanopsin_isoform_X1_Marmota_flaviventris	1.000000	0.968432
+[0.002922] sorting bipartition profile
+[0.001106] computed / updated events
+[0.017418] combined events
+[0.002713] calculated per dropset improvement
+[0.004074] executed the merging events 
+>444,440	KAF3851142.1_hypothetical_protein_F7725_012914_Dissostichus_mawsoni,tr|H3DEE0|H3DEE0_TETNG_Opsin_4xb_OS_Tetraodon_nigroviridis_OX_99883_PE_3_SV_1	1.000000	0.969450
+[0.003712] sorting bipartition profile
+[0.001206] computed / updated events
+[0.017459] combined events
+[0.002932] calculated per dropset improvement
+[0.004113] executed the merging events 
+>791,790	tr|A0A1D1VX88|A0A1D1VX88_RAMVA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Ramazzottius_varieornatus_OX_947166_GN_RvY_16096-1_PE_4_SV_1,XP_019636885.1_PREDICTED_uncharacterized_protein_LOC109479371_Branchiostoma_belcheri	1.000000	0.970468
+[0.003836] sorting bipartition profile
+[0.001353] computed / updated events
+[0.016466] combined events
+[0.002756] calculated per dropset improvement
+total time elapsed: 1.529657
