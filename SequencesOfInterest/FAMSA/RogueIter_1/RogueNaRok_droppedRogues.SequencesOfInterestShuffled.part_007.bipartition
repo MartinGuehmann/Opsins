@@ -1,0 +1,9 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.960285
+1	795	KAF3423729.1_hypothetical_protein_E2986_09344_Frieseomelitta_varia	3.000000	0.963340
+2	584	PSN55728.1_hypothetical_protein_C0J52_28495_Blattella_germanica	2.000000	0.965377
+3	775,576	QID92082.1_G-protein-coupled_chemokine_receptor_partial_Lumpy_skin_disease_virus,RDD45030.1_Octopamine_receptor_beta-2R_Trichoplax_sp._H2	2.000000	0.967413
+4	767	XP_031570069.1_D_2_dopamine_receptor_A-like_Actinia_tenebrosa	1.000000	0.968432
+5	684	XP_032077028.1_LOW_QUALITY_PROTEIN_galanin_receptor_type_3_Thamnophis_elegans	1.000000	0.969450
+6	784	AGE89245.1_opsin-2_Pleurobrachia_bachei	1.000000	0.970468
+7	110	ACI00518.1_rhodopsin_partial_Howella_brodiei	1.000000	0.971487

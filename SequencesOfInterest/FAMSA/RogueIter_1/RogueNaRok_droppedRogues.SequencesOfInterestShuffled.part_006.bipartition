@@ -1,0 +1,10 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.953157
+1	711	DAniello2015_ops8_Eucidaris_tribuloides	4.000000	0.957230
+2	971,970	ACB70919.1_long_wavelength_rhodopsin_partial_Gynecaptera_namibiana,ACB70901.1_long_wavelength_rhodopsin_partial_Apterogyna_mickeli	4.000000	0.961303
+3	634	RDD45467.1_Apelin_receptor_A_Trichoplax_sp._H2	2.000000	0.963340
+4	818	XP_023304937.1_opsin_Rh5_Lucilia_cuprina	2.000000	0.965377
+5	290	XP_015770772.1_PREDICTED_melanopsin-B-like_Acropora_digitifera	1.000000	0.966395
+6	638,547	RDD40517.1_Melanopsin_Trichoplax_sp._H2,RDD42346.1_Alpha-1A_adrenergic_receptor_Trichoplax_sp._H2	2.000000	0.968432
+7	641	EFX81737.1_hypothetical_protein_DAPPUDRAFT_242115_Daphnia_pulex	1.000000	0.969450
+8	964	AAW59477.1_rhodopsin_partial_Aenictus_eugenii	1.000000	0.970468

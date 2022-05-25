@@ -1,0 +1,12 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.947101
+1	795	QFQ66903.1_RRH-like_protein_Hofstenia_miamia	2.000000	0.949135
+2	798,392	KOF78023.1_hypothetical_protein_OCBIM_22031367mg_Octopus_bimaculoides,XP_023932090.1_rhodopsin_GQ-coupled-like_Lingula_anatina	4.000000	0.953204
+3	705	ELU09017.1_hypothetical_protein_CAPTEDRAFT_44169_partial_Capitella_teleta	2.000000	0.955239
+4	446,445	OWA51983.1_hypothetical_protein_BV898_16440_Hypsibius_dujardini,OQV20362.1_putative_Melanopsin_Hypsibius_dujardini	3.000000	0.958291
+5	732	XP_002435056.2_visual_pigment-like_receptor_peropsin_Ixodes_scapularis	1.000000	0.959308
+6	643	RVE55722.1_hypothetical_protein_OJAV_G00228840_Oryzias_javanicus	1.000000	0.960326
+7	804	GBP65280.1_Pineal_opsin_Eumeta_japonica	1.000000	0.961343
+8	978	tr|A0A3Q3WRD4|A0A3Q3WRD4_MOLML_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Mola_mola_OX_94237_PE_3_SV_1	1.000000	0.962360
+9	430	XP_004557927.1_atypical_chemokine_receptor_3_Maylandia_zebra	1.000000	0.963377
+10	488,487	RDD36598.1_Neuropeptide_FF_receptor_2_Trichoplax_sp._H2,RDD36380.1_Neuropeptide_FF_receptor_2_Trichoplax_sp._H2	1.000000	0.964395

@@ -1,0 +1,64 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.283769] initialisation done (initScore = 0.955193, numBip=4245)
+[0.013230] sorting bipartition profile
+[0.096360] computed / updated events
+[0.034513] combined events
+[0.004260] calculated per dropset improvement
+[0.005996] executed the merging events 
+>298	Bispira_serrata_TRINITY_DN19630_c0_g1_i1|ORF17	2.000000	0.957230
+[0.003772] sorting bipartition profile
+[0.001963] computed / updated events
+[0.035332] combined events
+[0.003696] calculated per dropset improvement
+[0.005700] executed the merging events 
+>754	JAN69370.1_Gpcr_rhodopsin_family_partial_Daphnia_magna	2.000000	0.959267
+[0.003668] sorting bipartition profile
+[0.001269] computed / updated events
+[0.035644] combined events
+[0.003854] calculated per dropset improvement
+[0.005954] executed the merging events 
+>461	EHA99336.1_Visual_pigment-like_receptor_peropsin_Heterocephalus_glaber	2.000000	0.961303
+[0.003357] sorting bipartition profile
+[0.001378] computed / updated events
+[0.034035] combined events
+[0.003808] calculated per dropset improvement
+[0.005858] executed the merging events 
+>94	ABK55001.1_long_wavelength_rhodopsin_partial_Tatuidris_sp._ECU01	1.000000	0.962322
+[0.003646] sorting bipartition profile
+[0.003610] computed / updated events
+[0.033951] combined events
+[0.003690] calculated per dropset improvement
+[0.006155] executed the merging events 
+>591	XP_014673742.1_PREDICTED_delta-type_opioid_receptor-like_partial_Priapulus_caudatus	1.000000	0.963340
+[0.003563] sorting bipartition profile
+[0.002563] computed / updated events
+[0.033211] combined events
+[0.003814] calculated per dropset improvement
+[0.006007] executed the merging events 
+>982	AMB38740.1_short_wavelength_sensitive_opsin_Tupaia_montana	1.000000	0.964358
+[0.003554] sorting bipartition profile
+[0.002251] computed / updated events
+[0.033967] combined events
+[0.003708] calculated per dropset improvement
+[0.005808] executed the merging events 
+>766	RZC33605.1_c-opsin_partial_Asbolus_verrucosus	1.000000	0.965377
+[0.003960] sorting bipartition profile
+[0.001545] computed / updated events
+[0.035236] combined events
+[0.003833] calculated per dropset improvement
+[0.005863] executed the merging events 
+>92	AAW59476.1_rhodopsin_partial_Acanthostichus_kirbyi	1.000000	0.966395
+[0.003745] sorting bipartition profile
+[0.002638] computed / updated events
+[0.033245] combined events
+[0.004441] calculated per dropset improvement
+[0.010479] executed the merging events 
+>978	XP_009944518.1_PREDICTED_violet-sensitive_opsin-like_partial_Leptosomus_discolor	1.000000	0.967413
+[0.004277] sorting bipartition profile
+[0.001330] computed / updated events
+[0.034504] combined events
+[0.003795] calculated per dropset improvement
+total time elapsed: 1.886452

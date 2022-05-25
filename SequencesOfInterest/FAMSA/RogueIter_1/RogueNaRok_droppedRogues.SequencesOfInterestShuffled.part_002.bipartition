@@ -1,0 +1,15 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.941955
+1	188	PIK51714.1_putative_5-hydroxytryptamine_receptor_7_Apostichopus_japonicus	4.000000	0.946029
+2	84	XP_006817369.1_PREDICTED_neuropeptide_Y_receptor_type_5-like_Saccoglossus_kowalevskii	2.000000	0.948065
+3	83	XP_018027622.1_PREDICTED_cholecystokinin_receptor_type_A-like_Hyalella_azteca	2.000000	0.950102
+4	82	CAB3249990.1_unnamed_protein_product_Arctia_plantaginis	2.000000	0.952138
+5	944	XP_027657548.1_blue-sensitive_opsin-like_Falco_cherrug	1.000000	0.953157
+6	745	XP_028290404.1_pinopsin-like_Gouania_willdenowi	1.000000	0.954175
+7	975	XP_019327323.1_PREDICTED_LOW_QUALITY_PROTEIN_pinopsin-like_Aptenodytes_forsteri	1.000000	0.955193
+8	532	AIZ50554.1_opsin_8.1_partial_Amphiura_filiformis	1.000000	0.956212
+9	935	AJD38790.1_short-wavelength_sensitive_opsin_2B2_partial_Synodus_synodus	1.000000	0.957230
+10	317	BAQ54950.1_opsin_ultraviolet_sensitive_type_Indolestes_peregrinus	1.000000	0.958248
+11	756	TRY82208.1_hypothetical_protein_DNTS_032385_Danionella_translucida	1.000000	0.959267
+12	454	OON16212.1_hypothetical_protein_X801_07977_partial_Opisthorchis_viverrini	1.000000	0.960285
+13	927	AEO00700.1_SWS2B_opsin_partial_Abudefduf_sexfasciatus	1.000000	0.961303

@@ -1,0 +1,64 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.241415] initialisation done (initScore = 0.953157, numBip=4227)
+[0.013359] sorting bipartition profile
+[0.074322] computed / updated events
+[0.030609] combined events
+[0.004018] calculated per dropset improvement
+[0.006140] executed the merging events 
+>577	XP_013077497.1_PREDICTED_uncharacterized_protein_LOC106063629_Biomphalaria_glabrata	3.000000	0.956212
+[0.003866] sorting bipartition profile
+[0.002664] computed / updated events
+[0.033133] combined events
+[0.004196] calculated per dropset improvement
+[0.006125] executed the merging events 
+>724	XP_023932942.1_rhodopsin_GQ-coupled-like_Lingula_anatina	2.000000	0.958248
+[0.004829] sorting bipartition profile
+[0.002101] computed / updated events
+[0.034995] combined events
+[0.003921] calculated per dropset improvement
+[0.005874] executed the merging events 
+>331	XP_019623100.1_PREDICTED_rhodopsin_G0-coupled-like_Branchiostoma_belcheri	2.000000	0.960285
+[0.004512] sorting bipartition profile
+[0.001325] computed / updated events
+[0.033754] combined events
+[0.003761] calculated per dropset improvement
+[0.005879] executed the merging events 
+>508,507	tr|A0A369RRC0|A0A369RRC0_9METZ_Neuromedin-K_receptor_OS_Trichoplax_sp._H2_OX_287889_GN_TrispH2_011770_PE_4_SV_1,GAU94431.1_hypothetical_protein_RvY_06206_Ramazzottius_varieornatus	2.000000	0.962322
+[0.006231] sorting bipartition profile
+[0.001864] computed / updated events
+[0.033366] combined events
+[0.004120] calculated per dropset improvement
+[0.006355] executed the merging events 
+>10	tr|A0A4W5JMZ3|A0A4W5JMZ3_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Hucho_hucho_OX_62062_PE_3_SV_1	1.000000	0.963340
+[0.003890] sorting bipartition profile
+[0.001159] computed / updated events
+[0.033446] combined events
+[0.003879] calculated per dropset improvement
+[0.006132] executed the merging events 
+>505	XP_014663373.1_PREDICTED_visual_pigment-like_receptor_peropsin_Priapulus_caudatus	1.000000	0.964358
+[0.003861] sorting bipartition profile
+[0.001508] computed / updated events
+[0.033059] combined events
+[0.003894] calculated per dropset improvement
+[0.006114] executed the merging events 
+>935	KPI93338.1_Opsin-1_Papilio_xuthus	1.000000	0.965377
+[0.003679] sorting bipartition profile
+[0.002108] computed / updated events
+[0.033312] combined events
+[0.003742] calculated per dropset improvement
+[0.005944] executed the merging events 
+>439	ELT87227.1_hypothetical_protein_CAPTEDRAFT_221903_Capitella_teleta	1.000000	0.966395
+[0.003439] sorting bipartition profile
+[0.001030] computed / updated events
+[0.033388] combined events
+[0.004482] calculated per dropset improvement
+[0.009981] executed the merging events 
+>952,944	ABW97637.1_longwave_rhodopsin_partial_Ascogaster_sp._8_NM-2007,AAW59478.1_rhodopsin_partial_Syscia_augustae	1.000000	0.967413
+[0.005277] sorting bipartition profile
+[0.003347] computed / updated events
+[0.031876] combined events
+[0.003659] calculated per dropset improvement
+total time elapsed: 1.815700

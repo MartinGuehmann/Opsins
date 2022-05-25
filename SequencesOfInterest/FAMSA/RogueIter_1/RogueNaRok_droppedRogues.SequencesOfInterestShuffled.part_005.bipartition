@@ -1,0 +1,12 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.943992
+1	785	BispiraSerrataCDS_TRINITY_DN62132_c0_g1_i1|ORF1	2.000000	0.946029
+2	591	Chone_infundibiliformis_TRINITY_DN33011_c0_g1_i2|ORF5	2.000000	0.948065
+3	466	XP_006866799.1_PREDICTED_5-hydroxytryptamine_receptor_2B_Chrysochloris_asiatica	1.000000	0.949084
+4	391	XP_020629279.1_melanopsin-A-like_Orbicella_faveolata	1.000000	0.950102
+5	500	XP_004698495.1_olfactory_receptor_6S1_Echinops_telfairi	1.000000	0.951120
+6	860,859	AAW80327.1_long-wavelength_opsin_partial_Boreus_coloradensis,XP_015377282.1_PREDICTED_opsin-1-like_Diuraphis_noxia	2.000000	0.953157
+7	396	AXN75748.1_opsin_Exaiptasia_diaphana	1.000000	0.954175
+8	68	ODM90740.1_Neuropeptide_Y_receptor_Orchesella_cincta	1.000000	0.955193
+9	621,609	KAF2360463.1_G_protein-coupled_receptor_rhodopsin-like_Trinorchestia_longiramus,TMS32136.1_hypothetical_protein_L596_000021_Steinernema_carpocapsae	1.000000	0.956212
+10	606	GAU91615.1_hypothetical_protein_RvY_03838-2_Ramazzottius_varieornatus	1.000000	0.957230

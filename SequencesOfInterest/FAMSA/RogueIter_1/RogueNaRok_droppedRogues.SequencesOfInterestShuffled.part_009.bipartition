@@ -1,0 +1,11 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.955193
+1	298	Bispira_serrata_TRINITY_DN19630_c0_g1_i1|ORF17	2.000000	0.957230
+2	754	JAN69370.1_Gpcr_rhodopsin_family_partial_Daphnia_magna	2.000000	0.959267
+3	461	EHA99336.1_Visual_pigment-like_receptor_peropsin_Heterocephalus_glaber	2.000000	0.961303
+4	94	ABK55001.1_long_wavelength_rhodopsin_partial_Tatuidris_sp._ECU01	1.000000	0.962322
+5	591	XP_014673742.1_PREDICTED_delta-type_opioid_receptor-like_partial_Priapulus_caudatus	1.000000	0.963340
+6	982	AMB38740.1_short_wavelength_sensitive_opsin_Tupaia_montana	1.000000	0.964358
+7	766	RZC33605.1_c-opsin_partial_Asbolus_verrucosus	1.000000	0.965377
+8	92	AAW59476.1_rhodopsin_partial_Acanthostichus_kirbyi	1.000000	0.966395
+9	978	XP_009944518.1_PREDICTED_violet-sensitive_opsin-like_partial_Leptosomus_discolor	1.000000	0.967413

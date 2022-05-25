@@ -1,0 +1,88 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.275620] initialisation done (initScore = 0.941955, numBip=4518)
+[0.013294] sorting bipartition profile
+[0.082654] computed / updated events
+[0.039048] combined events
+[0.004354] calculated per dropset improvement
+[0.006311] executed the merging events 
+>188	PIK51714.1_putative_5-hydroxytryptamine_receptor_7_Apostichopus_japonicus	4.000000	0.946029
+[0.003803] sorting bipartition profile
+[0.001437] computed / updated events
+[0.038585] combined events
+[0.003994] calculated per dropset improvement
+[0.005987] executed the merging events 
+>84	XP_006817369.1_PREDICTED_neuropeptide_Y_receptor_type_5-like_Saccoglossus_kowalevskii	2.000000	0.948065
+[0.004068] sorting bipartition profile
+[0.002867] computed / updated events
+[0.037543] combined events
+[0.004663] calculated per dropset improvement
+[0.012595] executed the merging events 
+>83	XP_018027622.1_PREDICTED_cholecystokinin_receptor_type_A-like_Hyalella_azteca	2.000000	0.950102
+[0.005519] sorting bipartition profile
+[0.003213] computed / updated events
+[0.038363] combined events
+[0.004110] calculated per dropset improvement
+[0.007108] executed the merging events 
+>82	CAB3249990.1_unnamed_protein_product_Arctia_plantaginis	2.000000	0.952138
+[0.004502] sorting bipartition profile
+[0.002043] computed / updated events
+[0.034759] combined events
+[0.003948] calculated per dropset improvement
+[0.006824] executed the merging events 
+>944	XP_027657548.1_blue-sensitive_opsin-like_Falco_cherrug	1.000000	0.953157
+[0.004222] sorting bipartition profile
+[0.001535] computed / updated events
+[0.035241] combined events
+[0.004195] calculated per dropset improvement
+[0.006816] executed the merging events 
+>745	XP_028290404.1_pinopsin-like_Gouania_willdenowi	1.000000	0.954175
+[0.004272] sorting bipartition profile
+[0.001630] computed / updated events
+[0.035190] combined events
+[0.004398] calculated per dropset improvement
+[0.006924] executed the merging events 
+>975	XP_019327323.1_PREDICTED_LOW_QUALITY_PROTEIN_pinopsin-like_Aptenodytes_forsteri	1.000000	0.955193
+[0.004188] sorting bipartition profile
+[0.002056] computed / updated events
+[0.036588] combined events
+[0.004084] calculated per dropset improvement
+[0.006785] executed the merging events 
+>532	AIZ50554.1_opsin_8.1_partial_Amphiura_filiformis	1.000000	0.956212
+[0.004450] sorting bipartition profile
+[0.001189] computed / updated events
+[0.035276] combined events
+[0.003983] calculated per dropset improvement
+[0.006638] executed the merging events 
+>935	AJD38790.1_short-wavelength_sensitive_opsin_2B2_partial_Synodus_synodus	1.000000	0.957230
+[0.003984] sorting bipartition profile
+[0.001410] computed / updated events
+[0.034701] combined events
+[0.003906] calculated per dropset improvement
+[0.006606] executed the merging events 
+>317	BAQ54950.1_opsin_ultraviolet_sensitive_type_Indolestes_peregrinus	1.000000	0.958248
+[0.004200] sorting bipartition profile
+[0.001184] computed / updated events
+[0.032842] combined events
+[0.003860] calculated per dropset improvement
+[0.006926] executed the merging events 
+>756	TRY82208.1_hypothetical_protein_DNTS_032385_Danionella_translucida	1.000000	0.959267
+[0.004008] sorting bipartition profile
+[0.001991] computed / updated events
+[0.032035] combined events
+[0.003938] calculated per dropset improvement
+[0.006836] executed the merging events 
+>454	OON16212.1_hypothetical_protein_X801_07977_partial_Opisthorchis_viverrini	1.000000	0.960285
+[0.004122] sorting bipartition profile
+[0.001024] computed / updated events
+[0.032338] combined events
+[0.003766] calculated per dropset improvement
+[0.006903] executed the merging events 
+>927	AEO00700.1_SWS2B_opsin_partial_Abudefduf_sexfasciatus	1.000000	0.961303
+[0.004302] sorting bipartition profile
+[0.002121] computed / updated events
+[0.031895] combined events
+[0.003807] calculated per dropset improvement
+total time elapsed: 2.096386

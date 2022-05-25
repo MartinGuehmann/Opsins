@@ -1,0 +1,8 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.951120
+1	502	tr|H2MMN1|H2MMN1_ORYLA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Oryzias_latipes_OX_8090_PE_4_SV_2	2.000000	0.953157
+2	96	APY20687.1_long_wavelength_sensitive_opsin_4_partial_Xenos_vesparum	2.000000	0.955193
+3	550	RDD44202.1_D_1A_dopamine_receptor_Trichoplax_sp._H2	2.000000	0.957230
+4	845	TRY62428.1_hypothetical_protein_DNTS_013971_Danionella_translucida	1.000000	0.958248
+5	722	Pdu-Neuropsin3_Platynereis_dumerilii	1.000000	0.959267
+6	258	TKS78615.1_Melanopsin-A_Opsin-4A_Collichthys_lucidus	1.000000	0.960285

@@ -1,0 +1,52 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.242146] initialisation done (initScore = 0.963340, numBip=4301)
+[0.013298] sorting bipartition profile
+[0.082534] computed / updated events
+[0.035156] combined events
+[0.004470] calculated per dropset improvement
+[0.006081] executed the merging events 
+>885	XP_029193906.1_probable_G-protein_coupled_receptor_83_Acropora_millepora	4.000000	0.967413
+[0.003706] sorting bipartition profile
+[0.002237] computed / updated events
+[0.036460] combined events
+[0.004111] calculated per dropset improvement
+[0.005692] executed the merging events 
+>801	JAQ32374.1_hypothetical_protein_partial_Fundulus_heteroclitus	2.000000	0.969450
+[0.003821] sorting bipartition profile
+[0.001788] computed / updated events
+[0.031921] combined events
+[0.004220] calculated per dropset improvement
+[0.007567] executed the merging events 
+>805	XP_010076909.1_PREDICTED_melanopsin-like_partial_Pterocles_gutturalis	2.000000	0.971487
+[0.004503] sorting bipartition profile
+[0.002319] computed / updated events
+[0.030357] combined events
+[0.003841] calculated per dropset improvement
+[0.006235] executed the merging events 
+>800,798	XP_023344028.1_rhodopsin_GQ-coupled-like_Eurytemora_affinis,GAU91613.1_hypothetical_protein_RvY_03838-1_Ramazzottius_varieornatus	3.000000	0.974542
+[0.005597] sorting bipartition profile
+[0.001161] computed / updated events
+[0.028316] combined events
+[0.003678] calculated per dropset improvement
+[0.010667] executed the merging events 
+>804	KOB79086.1_Opsin_partial_Operophtera_brumata	1.000000	0.975560
+[0.004475] sorting bipartition profile
+[0.002075] computed / updated events
+[0.028269] combined events
+[0.003646] calculated per dropset improvement
+[0.010648] executed the merging events 
+>844	Perkinsiana_anodina_TRINITY_DN37214_c0_g1_i1|ORF2	1.000000	0.976578
+[0.004698] sorting bipartition profile
+[0.002105] computed / updated events
+[0.028231] combined events
+[0.004282] calculated per dropset improvement
+[0.009066] executed the merging events 
+>886	XP_010207713.1_PREDICTED_H/ACA_ribonucleoprotein_complex_subunit_1_partial_Colius_striatus	1.000000	0.977597
+[0.004445] sorting bipartition profile
+[0.002805] computed / updated events
+[0.029352] combined events
+[0.003540] calculated per dropset improvement
+total time elapsed: 1.720292

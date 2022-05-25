@@ -1,0 +1,70 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.286718] initialisation done (initScore = 0.943992, numBip=4815)
+[0.013236] sorting bipartition profile
+[0.093098] computed / updated events
+[0.041796] combined events
+[0.004742] calculated per dropset improvement
+[0.007387] executed the merging events 
+>785	BispiraSerrataCDS_TRINITY_DN62132_c0_g1_i1|ORF1	2.000000	0.946029
+[0.003781] sorting bipartition profile
+[0.001921] computed / updated events
+[0.042614] combined events
+[0.004527] calculated per dropset improvement
+[0.007189] executed the merging events 
+>591	Chone_infundibiliformis_TRINITY_DN33011_c0_g1_i2|ORF5	2.000000	0.948065
+[0.004040] sorting bipartition profile
+[0.001748] computed / updated events
+[0.041371] combined events
+[0.004392] calculated per dropset improvement
+[0.007077] executed the merging events 
+>466	XP_006866799.1_PREDICTED_5-hydroxytryptamine_receptor_2B_Chrysochloris_asiatica	1.000000	0.949084
+[0.003834] sorting bipartition profile
+[0.002161] computed / updated events
+[0.041587] combined events
+[0.004194] calculated per dropset improvement
+[0.006956] executed the merging events 
+>391	XP_020629279.1_melanopsin-A-like_Orbicella_faveolata	1.000000	0.950102
+[0.003697] sorting bipartition profile
+[0.001793] computed / updated events
+[0.042515] combined events
+[0.004306] calculated per dropset improvement
+[0.006825] executed the merging events 
+>500	XP_004698495.1_olfactory_receptor_6S1_Echinops_telfairi	1.000000	0.951120
+[0.003944] sorting bipartition profile
+[0.001925] computed / updated events
+[0.042642] combined events
+[0.004316] calculated per dropset improvement
+[0.006964] executed the merging events 
+>860,859	AAW80327.1_long-wavelength_opsin_partial_Boreus_coloradensis,XP_015377282.1_PREDICTED_opsin-1-like_Diuraphis_noxia	2.000000	0.953157
+[0.005129] sorting bipartition profile
+[0.001778] computed / updated events
+[0.043750] combined events
+[0.005091] calculated per dropset improvement
+[0.009403] executed the merging events 
+>396	AXN75748.1_opsin_Exaiptasia_diaphana	1.000000	0.954175
+[0.004007] sorting bipartition profile
+[0.001508] computed / updated events
+[0.045540] combined events
+[0.004496] calculated per dropset improvement
+[0.007620] executed the merging events 
+>68	ODM90740.1_Neuropeptide_Y_receptor_Orchesella_cincta	1.000000	0.955193
+[0.003746] sorting bipartition profile
+[0.001644] computed / updated events
+[0.043770] combined events
+[0.005133] calculated per dropset improvement
+[0.012001] executed the merging events 
+>621,609	KAF2360463.1_G_protein-coupled_receptor_rhodopsin-like_Trinorchestia_longiramus,TMS32136.1_hypothetical_protein_L596_000021_Steinernema_carpocapsae	1.000000	0.956212
+[0.005059] sorting bipartition profile
+[0.004727] computed / updated events
+[0.042716] combined events
+[0.004419] calculated per dropset improvement
+[0.007713] executed the merging events 
+>606	GAU91615.1_hypothetical_protein_RvY_03838-2_Ramazzottius_varieornatus	1.000000	0.957230
+[0.003786] sorting bipartition profile
+[0.002455] computed / updated events
+[0.038367] combined events
+[0.004283] calculated per dropset improvement
+total time elapsed: 2.052038

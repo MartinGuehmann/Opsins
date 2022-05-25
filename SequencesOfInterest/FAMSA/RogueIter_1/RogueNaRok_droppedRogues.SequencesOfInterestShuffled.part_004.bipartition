@@ -1,0 +1,12 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.943992
+1	78	AAU12760.1_long-wavelength_rhodopsin_partial_Typhlomyrmex_rogenhoferi	3.000000	0.947047
+2	278	AAG49784.1_rhodopsin_partial_Hoplobatrachus_crassus	2.000000	0.949084
+3	298	ABB52680.1_rhodopsin_partial_Epigonus_telescopus	1.000000	0.950102
+4	305	AKC94668.1_rhodopsin_partial_Cheilotrema_saturnum	1.000000	0.951120
+5	42	APY20682.1_ultraviolet_sensitive_opsin_1_Xenos_vesparum	1.000000	0.952138
+6	73	ADN93799.1_long-wavelength_rhodopsin_partial_Eucera_angustior	1.000000	0.953157
+7	963	XP_027046262.1_alpha-1A_adrenergic_receptor-like_Pocillopora_damicornis	1.000000	0.954175
+8	653	XP_021422954.1_opsin-5-like_Oncorhynchus_mykiss	1.000000	0.955193
+9	330	tr|A0A4W5R260|A0A4W5R260_9TELE_Rhodopsin_N_domain-containing_protein_OS_Hucho_hucho_OX_62062_PE_4_SV_1	1.000000	0.956212
+10	860	XP_002108861.1_hypothetical_protein_TRIADDRAFT_19440_Trichoplax_adhaerens	1.000000	0.957230

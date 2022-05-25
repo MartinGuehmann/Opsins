@@ -1,0 +1,11 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.953157
+1	577	XP_013077497.1_PREDICTED_uncharacterized_protein_LOC106063629_Biomphalaria_glabrata	3.000000	0.956212
+2	724	XP_023932942.1_rhodopsin_GQ-coupled-like_Lingula_anatina	2.000000	0.958248
+3	331	XP_019623100.1_PREDICTED_rhodopsin_G0-coupled-like_Branchiostoma_belcheri	2.000000	0.960285
+4	508,507	tr|A0A369RRC0|A0A369RRC0_9METZ_Neuromedin-K_receptor_OS_Trichoplax_sp._H2_OX_287889_GN_TrispH2_011770_PE_4_SV_1,GAU94431.1_hypothetical_protein_RvY_06206_Ramazzottius_varieornatus	2.000000	0.962322
+5	10	tr|A0A4W5JMZ3|A0A4W5JMZ3_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Hucho_hucho_OX_62062_PE_3_SV_1	1.000000	0.963340
+6	505	XP_014663373.1_PREDICTED_visual_pigment-like_receptor_peropsin_Priapulus_caudatus	1.000000	0.964358
+7	935	KPI93338.1_Opsin-1_Papilio_xuthus	1.000000	0.965377
+8	439	ELT87227.1_hypothetical_protein_CAPTEDRAFT_221903_Capitella_teleta	1.000000	0.966395
+9	952,944	ABW97637.1_longwave_rhodopsin_partial_Ascogaster_sp._8_NM-2007,AAW59478.1_rhodopsin_partial_Syscia_augustae	1.000000	0.967413

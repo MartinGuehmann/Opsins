@@ -1,0 +1,52 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.269627] initialisation done (initScore = 0.960285, numBip=4454)
+[0.013229] sorting bipartition profile
+[0.090229] computed / updated events
+[0.042499] combined events
+[0.004806] calculated per dropset improvement
+[0.006724] executed the merging events 
+>795	KAF3423729.1_hypothetical_protein_E2986_09344_Frieseomelitta_varia	3.000000	0.963340
+[0.004202] sorting bipartition profile
+[0.002791] computed / updated events
+[0.040037] combined events
+[0.003999] calculated per dropset improvement
+[0.006227] executed the merging events 
+>584	PSN55728.1_hypothetical_protein_C0J52_28495_Blattella_germanica	2.000000	0.965377
+[0.004136] sorting bipartition profile
+[0.001834] computed / updated events
+[0.039877] combined events
+[0.003966] calculated per dropset improvement
+[0.006283] executed the merging events 
+>775,576	QID92082.1_G-protein-coupled_chemokine_receptor_partial_Lumpy_skin_disease_virus,RDD45030.1_Octopamine_receptor_beta-2R_Trichoplax_sp._H2	2.000000	0.967413
+[0.005295] sorting bipartition profile
+[0.001972] computed / updated events
+[0.035003] combined events
+[0.004537] calculated per dropset improvement
+[0.007394] executed the merging events 
+>767	XP_031570069.1_D_2_dopamine_receptor_A-like_Actinia_tenebrosa	1.000000	0.968432
+[0.005003] sorting bipartition profile
+[0.001898] computed / updated events
+[0.033872] combined events
+[0.003943] calculated per dropset improvement
+[0.011621] executed the merging events 
+>684	XP_032077028.1_LOW_QUALITY_PROTEIN_galanin_receptor_type_3_Thamnophis_elegans	1.000000	0.969450
+[0.005138] sorting bipartition profile
+[0.002885] computed / updated events
+[0.033578] combined events
+[0.003815] calculated per dropset improvement
+[0.006566] executed the merging events 
+>784	AGE89245.1_opsin-2_Pleurobrachia_bachei	1.000000	0.970468
+[0.003944] sorting bipartition profile
+[0.002172] computed / updated events
+[0.030782] combined events
+[0.003961] calculated per dropset improvement
+[0.011206] executed the merging events 
+>110	ACI00518.1_rhodopsin_partial_Howella_brodiei	1.000000	0.971487
+[0.004676] sorting bipartition profile
+[0.001341] computed / updated events
+[0.032013] combined events
+[0.004214] calculated per dropset improvement
+total time elapsed: 1.798159

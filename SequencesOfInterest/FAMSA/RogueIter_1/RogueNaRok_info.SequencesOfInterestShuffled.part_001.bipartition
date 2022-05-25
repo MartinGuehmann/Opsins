@@ -1,0 +1,70 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.227357] initialisation done (initScore = 0.947101, numBip=4051)
+[0.013170] sorting bipartition profile
+[0.075038] computed / updated events
+[0.030224] combined events
+[0.004136] calculated per dropset improvement
+[0.005150] executed the merging events 
+>795	QFQ66903.1_RRH-like_protein_Hofstenia_miamia	2.000000	0.949135
+[0.003821] sorting bipartition profile
+[0.002056] computed / updated events
+[0.031821] combined events
+[0.003975] calculated per dropset improvement
+[0.005539] executed the merging events 
+>798,392	KOF78023.1_hypothetical_protein_OCBIM_22031367mg_Octopus_bimaculoides,XP_023932090.1_rhodopsin_GQ-coupled-like_Lingula_anatina	4.000000	0.953204
+[0.005275] sorting bipartition profile
+[0.002338] computed / updated events
+[0.028409] combined events
+[0.003760] calculated per dropset improvement
+[0.006343] executed the merging events 
+>705	ELU09017.1_hypothetical_protein_CAPTEDRAFT_44169_partial_Capitella_teleta	2.000000	0.955239
+[0.004116] sorting bipartition profile
+[0.001291] computed / updated events
+[0.029316] combined events
+[0.003748] calculated per dropset improvement
+[0.005172] executed the merging events 
+>446,445	OWA51983.1_hypothetical_protein_BV898_16440_Hypsibius_dujardini,OQV20362.1_putative_Melanopsin_Hypsibius_dujardini	3.000000	0.958291
+[0.005136] sorting bipartition profile
+[0.002152] computed / updated events
+[0.028374] combined events
+[0.003733] calculated per dropset improvement
+[0.005725] executed the merging events 
+>732	XP_002435056.2_visual_pigment-like_receptor_peropsin_Ixodes_scapularis	1.000000	0.959308
+[0.003812] sorting bipartition profile
+[0.001387] computed / updated events
+[0.027776] combined events
+[0.003703] calculated per dropset improvement
+[0.006230] executed the merging events 
+>643	RVE55722.1_hypothetical_protein_OJAV_G00228840_Oryzias_javanicus	1.000000	0.960326
+[0.004105] sorting bipartition profile
+[0.001262] computed / updated events
+[0.029499] combined events
+[0.003640] calculated per dropset improvement
+[0.010480] executed the merging events 
+>804	GBP65280.1_Pineal_opsin_Eumeta_japonica	1.000000	0.961343
+[0.004356] sorting bipartition profile
+[0.001178] computed / updated events
+[0.027614] combined events
+[0.003641] calculated per dropset improvement
+[0.006223] executed the merging events 
+>978	tr|A0A3Q3WRD4|A0A3Q3WRD4_MOLML_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Mola_mola_OX_94237_PE_3_SV_1	1.000000	0.962360
+[0.003962] sorting bipartition profile
+[0.002227] computed / updated events
+[0.026624] combined events
+[0.003654] calculated per dropset improvement
+[0.006130] executed the merging events 
+>430	XP_004557927.1_atypical_chemokine_receptor_3_Maylandia_zebra	1.000000	0.963377
+[0.004242] sorting bipartition profile
+[0.002315] computed / updated events
+[0.026385] combined events
+[0.003597] calculated per dropset improvement
+[0.006170] executed the merging events 
+>488,487	RDD36598.1_Neuropeptide_FF_receptor_2_Trichoplax_sp._H2,RDD36380.1_Neuropeptide_FF_receptor_2_Trichoplax_sp._H2	1.000000	0.964395
+[0.004952] sorting bipartition profile
+[0.001939] computed / updated events
+[0.026374] combined events
+[0.003605] calculated per dropset improvement
+total time elapsed: 1.794903
