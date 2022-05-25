@@ -1,0 +1,40 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.162018] initialisation done (initScore = 0.973523, numBip=3718)
+[0.013384] sorting bipartition profile
+[0.063049] computed / updated events
+[0.022756] combined events
+[0.003640] calculated per dropset improvement
+[0.005441] executed the merging events 
+>455	XP_002107938.1_hypothetical_protein_TRIADDRAFT_51946_Trichoplax_adhaerens	2.000000	0.975560
+[0.004064] sorting bipartition profile
+[0.001292] computed / updated events
+[0.024206] combined events
+[0.003449] calculated per dropset improvement
+[0.005356] executed the merging events 
+>62	tr|T1GNY6|T1GNY6_MEGSC_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Megaselia_scalaris_OX_36166_PE_4_SV_1	1.000000	0.976578
+[0.003713] sorting bipartition profile
+[0.001528] computed / updated events
+[0.023933] combined events
+[0.003514] calculated per dropset improvement
+[0.005300] executed the merging events 
+>955	XP_011811310.1_PREDICTED_medium-wave-sensitive_opsin_1-like_Colobus_angolensis_palliatus	1.000000	0.977597
+[0.003708] sorting bipartition profile
+[0.001302] computed / updated events
+[0.024090] combined events
+[0.003528] calculated per dropset improvement
+[0.005319] executed the merging events 
+>271	Notalux_sp1_SOAP_k35_C1081339|ORF3	1.000000	0.978615
+[0.003616] sorting bipartition profile
+[0.000939] computed / updated events
+[0.023700] combined events
+[0.003543] calculated per dropset improvement
+[0.005098] executed the merging events 
+>239	XP_029018368.1_melanopsin-A-like_Betta_splendens	1.000000	0.979633
+[0.003592] sorting bipartition profile
+[0.001152] computed / updated events
+[0.024347] combined events
+[0.003446] calculated per dropset improvement
+total time elapsed: 1.454747

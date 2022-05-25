@@ -1,0 +1,52 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.161987] initialisation done (initScore = 0.955056, numBip=4077)
+[0.013375] sorting bipartition profile
+[0.076741] computed / updated events
+[0.023225] combined events
+[0.003905] calculated per dropset improvement
+[0.005666] executed the merging events 
+>507	AAD14407.1_S-cone_pigment_gene/opsin_partial_Otolemur_crassicaudatus	2.000000	0.957099
+[0.003923] sorting bipartition profile
+[0.002008] computed / updated events
+[0.023987] combined events
+[0.003562] calculated per dropset improvement
+[0.005470] executed the merging events 
+>166	AXN75756.1_opsin_Renilla_koellikeri	1.000000	0.958121
+[0.003924] sorting bipartition profile
+[0.001619] computed / updated events
+[0.024139] combined events
+[0.004282] calculated per dropset improvement
+[0.008984] executed the merging events 
+>747	ANN75146.1_long_wavelength_rhodopsin_partial_Onychomyrmex_sp._AU01	1.000000	0.959142
+[0.004188] sorting bipartition profile
+[0.002804] computed / updated events
+[0.025562] combined events
+[0.003729] calculated per dropset improvement
+[0.006128] executed the merging events 
+>243	XP_007897605.1_PREDICTED_probable_G-protein_coupled_receptor_61_Callorhinchus_milii	1.000000	0.960163
+[0.003598] sorting bipartition profile
+[0.001237] computed / updated events
+[0.026098] combined events
+[0.003524] calculated per dropset improvement
+[0.005943] executed the merging events 
+>173	XP_020629279.1_melanopsin-A-like_Orbicella_faveolata	1.000000	0.961185
+[0.003350] sorting bipartition profile
+[0.001525] computed / updated events
+[0.025618] combined events
+[0.003490] calculated per dropset improvement
+[0.005948] executed the merging events 
+>707	XP_014284462.1_pinopsin-like_Halyomorpha_halys	1.000000	0.962206
+[0.003330] sorting bipartition profile
+[0.001379] computed / updated events
+[0.026138] combined events
+[0.003575] calculated per dropset improvement
+[0.005965] executed the merging events 
+>349	XP_002115069.1_hypothetical_protein_TRIADDRAFT_58846_Trichoplax_adhaerens	1.000000	0.963228
+[0.003429] sorting bipartition profile
+[0.001821] computed / updated events
+[0.025573] combined events
+[0.003520] calculated per dropset improvement
+total time elapsed: 1.564900

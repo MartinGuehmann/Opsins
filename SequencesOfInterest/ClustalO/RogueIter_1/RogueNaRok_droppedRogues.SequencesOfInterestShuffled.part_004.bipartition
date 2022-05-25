@@ -1,0 +1,9 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.959267
+1	703	tr|A0A1W0XDH2|A0A1W0XDH2_HYPDU_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Hypsibius_dujardini_OX_232323_GN_BV898_00453_PE_4_SV_1	3.000000	0.962322
+2	805	tr|A0A182VW53|A0A182VW53_9DIPT_Uncharacterized_protein_OS_Anopheles_minimus_OX_112268_PE_3_SV_1	2.000000	0.964358
+3	585	RDD39603.1_rhodopsin_partial_Trichoplax_sp._H2	2.000000	0.966395
+4	841	tr|A0A182LZL7|A0A182LZL7_9DIPT_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Anopheles_culicifacies_OX_139723_PE_4_SV_1	2.000000	0.968432
+5	92	RLV61823.1_hypothetical_protein_DV515_00020002_partial_Erythrura_gouldiae	2.000000	0.970468
+6	502	XP_028394341.1_visual_pigment-like_receptor_peropsin_Dendronephthya_gigantea	1.000000	0.971487
+7	721	Notalux_sp4_TRINITY_DN12929_c0_g2_i1|ORF2	1.000000	0.972505

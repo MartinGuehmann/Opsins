@@ -1,0 +1,82 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.159559] initialisation done (initScore = 0.945973, numBip=4592)
+[0.013228] sorting bipartition profile
+[0.087369] computed / updated events
+[0.048186] combined events
+[0.005218] calculated per dropset improvement
+[0.008537] executed the merging events 
+>516	CAB1335429.1_unnamed_protein_product_Coregonus_sp._balchen_	5.000000	0.951070
+[0.003814] sorting bipartition profile
+[0.002193] computed / updated events
+[0.047599] combined events
+[0.005213] calculated per dropset improvement
+[0.007601] executed the merging events 
+>418	XP_032218877.1_galanin_receptor_type_1_Nematostella_vectensis	3.000000	0.954128
+[0.003924] sorting bipartition profile
+[0.002255] computed / updated events
+[0.046267] combined events
+[0.004835] calculated per dropset improvement
+[0.007788] executed the merging events 
+>650	AKO71854.1_long_wavelength_rhodopsin_partial_Strumigenys_khakaura	1.000000	0.955148
+[0.004022] sorting bipartition profile
+[0.002893] computed / updated events
+[0.044031] combined events
+[0.005028] calculated per dropset improvement
+[0.007956] executed the merging events 
+>470,197	tr|W4ZJF1|W4ZJF1_STRPU_Uncharacterized_protein_OS_Strongylocentrotus_purpuratus_OX_7668_PE_4_SV_1,SBR23657.1_teleost_multiple_tissue_opsin_b_Nothobranchius_kuhntae	2.000000	0.957187
+[0.005127] sorting bipartition profile
+[0.002406] computed / updated events
+[0.042747] combined events
+[0.004861] calculated per dropset improvement
+[0.007664] executed the merging events 
+>932	XP_022068018.1_RPE-retinal_G_protein-coupled_receptor-like_isoform_X2_Acanthochromis_polyacanthus	1.000000	0.958206
+[0.003834] sorting bipartition profile
+[0.001796] computed / updated events
+[0.043127] combined events
+[0.004844] calculated per dropset improvement
+[0.007881] executed the merging events 
+>261	MAA36732.1_Hepatocyte_growth_factor-regulated_tyrosine_kinase_substrate_partial_Ornithodoros_erraticus	1.000000	0.959225
+[0.003999] sorting bipartition profile
+[0.002428] computed / updated events
+[0.038881] combined events
+[0.004542] calculated per dropset improvement
+[0.007186] executed the merging events 
+>506	AIT99328.1_blue-sensitive_opsin-like_protein_partial_Brachionus_koreanus	1.000000	0.960245
+[0.003929] sorting bipartition profile
+[0.001535] computed / updated events
+[0.038559] combined events
+[0.004414] calculated per dropset improvement
+[0.007296] executed the merging events 
+>676	XP_034238556.1_rhodopsin-like_Thrips_palmi	1.000000	0.961264
+[0.003923] sorting bipartition profile
+[0.001726] computed / updated events
+[0.038568] combined events
+[0.004511] calculated per dropset improvement
+[0.007348] executed the merging events 
+>368	XP_007250160.1_cysteinyl_leukotriene_receptor_2-like_Astyanax_mexicanus	1.000000	0.962283
+[0.003836] sorting bipartition profile
+[0.001416] computed / updated events
+[0.039914] combined events
+[0.004620] calculated per dropset improvement
+[0.007401] executed the merging events 
+>556	XP_022242139.1_LOW_QUALITY_PROTEIN_rhodopsin-like_Limulus_polyphemus	1.000000	0.963303
+[0.003811] sorting bipartition profile
+[0.001509] computed / updated events
+[0.039202] combined events
+[0.004508] calculated per dropset improvement
+[0.007258] executed the merging events 
+>643	ABK54920.1_long_wavelength_rhodopsin_partial_Dasymutilla_aureola	1.000000	0.964322
+[0.004050] sorting bipartition profile
+[0.001486] computed / updated events
+[0.038772] combined events
+[0.004608] calculated per dropset improvement
+[0.007373] executed the merging events 
+>603,602	CAB3372958.1_Hypothetical_predicted_protein_Cloeon_dipterum,KAF4525364.1_Short_Wavelength_Sensitive_Opsin_Ultraviolet_Ephemera_danica	1.000000	0.965341
+[0.005188] sorting bipartition profile
+[0.001212] computed / updated events
+[0.038696] combined events
+[0.004448] calculated per dropset improvement
+total time elapsed: 2.030675

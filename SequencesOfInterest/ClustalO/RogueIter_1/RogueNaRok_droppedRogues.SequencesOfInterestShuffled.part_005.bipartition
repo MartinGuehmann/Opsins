@@ -1,0 +1,9 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.955056
+1	507	AAD14407.1_S-cone_pigment_gene/opsin_partial_Otolemur_crassicaudatus	2.000000	0.957099
+2	166	AXN75756.1_opsin_Renilla_koellikeri	1.000000	0.958121
+3	747	ANN75146.1_long_wavelength_rhodopsin_partial_Onychomyrmex_sp._AU01	1.000000	0.959142
+4	243	XP_007897605.1_PREDICTED_probable_G-protein_coupled_receptor_61_Callorhinchus_milii	1.000000	0.960163
+5	173	XP_020629279.1_melanopsin-A-like_Orbicella_faveolata	1.000000	0.961185
+6	707	XP_014284462.1_pinopsin-like_Halyomorpha_halys	1.000000	0.962206
+7	349	XP_002115069.1_hypothetical_protein_TRIADDRAFT_58846_Trichoplax_adhaerens	1.000000	0.963228

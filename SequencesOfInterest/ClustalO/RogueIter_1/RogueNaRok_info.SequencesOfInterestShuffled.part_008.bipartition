@@ -1,0 +1,46 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.152773] initialisation done (initScore = 0.964358, numBip=3811)
+[0.012808] sorting bipartition profile
+[0.069641] computed / updated events
+[0.023872] combined events
+[0.003760] calculated per dropset improvement
+[0.005513] executed the merging events 
+>914	XP_024832324.1_LOW_QUALITY_PROTEIN_opsin-3_Bos_taurus	5.000000	0.969450
+[0.003698] sorting bipartition profile
+[0.002146] computed / updated events
+[0.022738] combined events
+[0.003308] calculated per dropset improvement
+[0.005079] executed the merging events 
+>613	ROT81263.1_Opsin-5_Penaeus_vannamei	2.000000	0.971487
+[0.003752] sorting bipartition profile
+[0.001050] computed / updated events
+[0.022792] combined events
+[0.003327] calculated per dropset improvement
+[0.005146] executed the merging events 
+>916,125	GAU91613.1_hypothetical_protein_RvY_03838-1_Ramazzottius_varieornatus,JAT82037.1_hypothetical_protein_g.19690_partial_Pectinophora_gossypiella	2.000000	0.973523
+[0.004787] sorting bipartition profile
+[0.001333] computed / updated events
+[0.021790] combined events
+[0.003150] calculated per dropset improvement
+[0.004972] executed the merging events 
+>32	XP_016063278.1_PREDICTED_G-protein_coupled_receptor_20_Miniopterus_natalensis	1.000000	0.974542
+[0.003883] sorting bipartition profile
+[0.001630] computed / updated events
+[0.021384] combined events
+[0.003357] calculated per dropset improvement
+[0.004895] executed the merging events 
+>533	XP_029011689.1_opsin-5-like_Betta_splendens	1.000000	0.975560
+[0.003808] sorting bipartition profile
+[0.001508] computed / updated events
+[0.021516] combined events
+[0.003244] calculated per dropset improvement
+[0.004964] executed the merging events 
+>520,245	ELU03019.1_hypothetical_protein_CAPTEDRAFT_54244_partial_Capitella_teleta,XP_026690831.1_rhodopsin_GQ-coupled-like_isoform_X1_Ciona_intestinalis	1.000000	0.976578
+[0.004949] sorting bipartition profile
+[0.001759] computed / updated events
+[0.020601] combined events
+[0.003085] calculated per dropset improvement
+total time elapsed: 1.478656

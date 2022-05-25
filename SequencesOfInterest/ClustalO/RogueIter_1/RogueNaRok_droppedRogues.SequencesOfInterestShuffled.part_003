@@ -1,0 +1,16 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.899616
+1	455	XP_002107938.1_hypothetical_protein_TRIADDRAFT_51946_Trichoplax_adhaerens	1.122000	0.900759
+2	62	tr|T1GNY6|T1GNY6_MEGSC_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Megaselia_scalaris_OX_36166_PE_4_SV_1	1.089000	0.901868
+3	271	Notalux_sp1_SOAP_k35_C1081339|ORF3	0.855000	0.902738
+4	239	XP_029018368.1_melanopsin-A-like_Betta_splendens	0.669000	0.903420
+5	956,955	OPJ86391.1_hypothetical_protein_AV530_000431_Patagioenas_fasciata_monilis,XP_011811310.1_PREDICTED_medium-wave-sensitive_opsin_1-like_Colobus_angolensis_palliatus	1.130000	0.904570
+6	510	JAN84518.1_putative_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna	0.516000	0.905096
+7	295	XP_013077497.1_PREDICTED_uncharacterized_protein_LOC106063629_Biomphalaria_glabrata	0.324000	0.905426
+8	697	JAL51404.1_putative_Gpcr_rhodopsin_family_partial_Daphnia_magna	0.290000	0.905721
+9	758	XP_018425659.1_PREDICTED_parapinopsin-like_partial_Nanorana_parkeri	0.285000	0.906011
+10	917	AJD38880.1_short-wavelength_sensitive_opsin_2B_partial_Signigobius_biocellatus	0.261000	0.906277
+11	604	ELT87227.1_hypothetical_protein_CAPTEDRAFT_221903_Capitella_teleta	0.210000	0.906491
+12	454	RDD42742.1_Rhodopsin_GQ-coupled_Trichoplax_sp._H2	0.067000	0.906559
+13	236	XP_031616171.1_melanopsin-A-like_Oreochromis_aureus	0.001000	0.906560
+14	692	AIZ50551.1_opsin_5_Amphiura_filiformis	0.001000	0.906561

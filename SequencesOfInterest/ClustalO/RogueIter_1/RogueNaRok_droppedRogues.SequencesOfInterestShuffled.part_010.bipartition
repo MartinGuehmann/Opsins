@@ -1,0 +1,10 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.960285
+1	798	AGJ70279.1_Go_opsin_2_Terebratalia_transversa	3.000000	0.963340
+2	106	AIM43139.1_long-wavelength_rhodopsin_partial_Apterogyna_sp._za01	2.000000	0.965377
+3	672	XP_015201739.1_PREDICTED_pyroglutamylated_RFamide_peptide_receptor_isoform_X2_Lepisosteus_oculatus	1.000000	0.966395
+4	699	Branchiomma_TRINITY_DN56132_c0_g1_i1|ORF2	1.000000	0.967413
+5	809	AIT99327.1_ciliary_opsin_1_partial_Brachionus_koreanus	1.000000	0.968432
+6	361	XP_033927774.1_blue-sensitive_opsin-like_Melopsittacus_undulatus	1.000000	0.969450
+7	427,426	AMB42852.1_long_wavelength_sensitive_opsin_Chlorurus_sordidus,ALK02376.1_LWS-1_partial_Poecilia_reticulata	1.000000	0.970468
+8	650,649	XP_015926534.1_substance-K_receptor_isoform_X3_Parasteatoda_tepidariorum,XP_023295388.1_neuropeptide_FF_receptor_2_Lucilia_cuprina	1.000000	0.971487

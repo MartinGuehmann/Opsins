@@ -1,0 +1,14 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.945973
+1	516	CAB1335429.1_unnamed_protein_product_Coregonus_sp._balchen_	5.000000	0.951070
+2	418	XP_032218877.1_galanin_receptor_type_1_Nematostella_vectensis	3.000000	0.954128
+3	650	AKO71854.1_long_wavelength_rhodopsin_partial_Strumigenys_khakaura	1.000000	0.955148
+4	470,197	tr|W4ZJF1|W4ZJF1_STRPU_Uncharacterized_protein_OS_Strongylocentrotus_purpuratus_OX_7668_PE_4_SV_1,SBR23657.1_teleost_multiple_tissue_opsin_b_Nothobranchius_kuhntae	2.000000	0.957187
+5	932	XP_022068018.1_RPE-retinal_G_protein-coupled_receptor-like_isoform_X2_Acanthochromis_polyacanthus	1.000000	0.958206
+6	261	MAA36732.1_Hepatocyte_growth_factor-regulated_tyrosine_kinase_substrate_partial_Ornithodoros_erraticus	1.000000	0.959225
+7	506	AIT99328.1_blue-sensitive_opsin-like_protein_partial_Brachionus_koreanus	1.000000	0.960245
+8	676	XP_034238556.1_rhodopsin-like_Thrips_palmi	1.000000	0.961264
+9	368	XP_007250160.1_cysteinyl_leukotriene_receptor_2-like_Astyanax_mexicanus	1.000000	0.962283
+10	556	XP_022242139.1_LOW_QUALITY_PROTEIN_rhodopsin-like_Limulus_polyphemus	1.000000	0.963303
+11	643	ABK54920.1_long_wavelength_rhodopsin_partial_Dasymutilla_aureola	1.000000	0.964322
+12	603,602	CAB3372958.1_Hypothetical_predicted_protein_Cloeon_dipterum,KAF4525364.1_Short_Wavelength_Sensitive_Opsin_Ultraviolet_Ephemera_danica	1.000000	0.965341

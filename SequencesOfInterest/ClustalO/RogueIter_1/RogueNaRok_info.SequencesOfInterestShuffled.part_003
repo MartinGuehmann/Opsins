@@ -1,0 +1,94 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.189364] initialisation done (initScore = 0.899616, numBip=3718)
+[0.013572] sorting bipartition profile
+[0.063287] computed / updated events
+[0.022854] combined events
+[0.003960] calculated per dropset improvement
+[0.005223] executed the merging events 
+>455	XP_002107938.1_hypothetical_protein_TRIADDRAFT_51946_Trichoplax_adhaerens	1.122000	0.900759
+[0.003994] sorting bipartition profile
+[0.001120] computed / updated events
+[0.024306] combined events
+[0.003491] calculated per dropset improvement
+[0.005241] executed the merging events 
+>62	tr|T1GNY6|T1GNY6_MEGSC_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Megaselia_scalaris_OX_36166_PE_4_SV_1	1.089000	0.901868
+[0.004123] sorting bipartition profile
+[0.001289] computed / updated events
+[0.024369] combined events
+[0.003467] calculated per dropset improvement
+[0.005229] executed the merging events 
+>271	Notalux_sp1_SOAP_k35_C1081339|ORF3	0.855000	0.902738
+[0.004113] sorting bipartition profile
+[0.001031] computed / updated events
+[0.024043] combined events
+[0.003373] calculated per dropset improvement
+[0.005089] executed the merging events 
+>239	XP_029018368.1_melanopsin-A-like_Betta_splendens	0.669000	0.903420
+[0.003631] sorting bipartition profile
+[0.001124] computed / updated events
+[0.024335] combined events
+[0.003424] calculated per dropset improvement
+[0.005076] executed the merging events 
+>956,955	OPJ86391.1_hypothetical_protein_AV530_000431_Patagioenas_fasciata_monilis,XP_011811310.1_PREDICTED_medium-wave-sensitive_opsin_1-like_Colobus_angolensis_palliatus	1.130000	0.904570
+[0.004874] sorting bipartition profile
+[0.001575] computed / updated events
+[0.024193] combined events
+[0.003416] calculated per dropset improvement
+[0.005107] executed the merging events 
+>510	JAN84518.1_putative_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna	0.516000	0.905096
+[0.004390] sorting bipartition profile
+[0.001683] computed / updated events
+[0.023754] combined events
+[0.003432] calculated per dropset improvement
+[0.005061] executed the merging events 
+>295	XP_013077497.1_PREDICTED_uncharacterized_protein_LOC106063629_Biomphalaria_glabrata	0.324000	0.905426
+[0.004374] sorting bipartition profile
+[0.001686] computed / updated events
+[0.023031] combined events
+[0.003399] calculated per dropset improvement
+[0.005007] executed the merging events 
+>697	JAL51404.1_putative_Gpcr_rhodopsin_family_partial_Daphnia_magna	0.290000	0.905721
+[0.004253] sorting bipartition profile
+[0.001379] computed / updated events
+[0.022827] combined events
+[0.003604] calculated per dropset improvement
+[0.005008] executed the merging events 
+>758	XP_018425659.1_PREDICTED_parapinopsin-like_partial_Nanorana_parkeri	0.285000	0.906011
+[0.004172] sorting bipartition profile
+[0.001013] computed / updated events
+[0.023420] combined events
+[0.003336] calculated per dropset improvement
+[0.004942] executed the merging events 
+>917	AJD38880.1_short-wavelength_sensitive_opsin_2B_partial_Signigobius_biocellatus	0.261000	0.906277
+[0.003938] sorting bipartition profile
+[0.001239] computed / updated events
+[0.023105] combined events
+[0.003254] calculated per dropset improvement
+[0.004774] executed the merging events 
+>604	ELT87227.1_hypothetical_protein_CAPTEDRAFT_221903_Capitella_teleta	0.210000	0.906491
+[0.003634] sorting bipartition profile
+[0.000838] computed / updated events
+[0.023094] combined events
+[0.003368] calculated per dropset improvement
+[0.004904] executed the merging events 
+>454	RDD42742.1_Rhodopsin_GQ-coupled_Trichoplax_sp._H2	0.067000	0.906559
+[0.003451] sorting bipartition profile
+[0.001245] computed / updated events
+[0.022566] combined events
+[0.003312] calculated per dropset improvement
+[0.004956] executed the merging events 
+>236	XP_031616171.1_melanopsin-A-like_Oreochromis_aureus	0.001000	0.906560
+[0.003939] sorting bipartition profile
+[0.001069] computed / updated events
+[0.023116] combined events
+[0.003347] calculated per dropset improvement
+[0.005028] executed the merging events 
+>692	AIZ50551.1_opsin_5_Amphiura_filiformis	0.001000	0.906561
+[0.003778] sorting bipartition profile
+[0.001021] computed / updated events
+[0.022344] combined events
+[0.003218] calculated per dropset improvement
+total time elapsed: 1.814258

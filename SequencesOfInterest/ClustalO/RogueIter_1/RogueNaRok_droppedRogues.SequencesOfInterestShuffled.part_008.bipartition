@@ -1,0 +1,8 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.964358
+1	914	XP_024832324.1_LOW_QUALITY_PROTEIN_opsin-3_Bos_taurus	5.000000	0.969450
+2	613	ROT81263.1_Opsin-5_Penaeus_vannamei	2.000000	0.971487
+3	916,125	GAU91613.1_hypothetical_protein_RvY_03838-1_Ramazzottius_varieornatus,JAT82037.1_hypothetical_protein_g.19690_partial_Pectinophora_gossypiella	2.000000	0.973523
+4	32	XP_016063278.1_PREDICTED_G-protein_coupled_receptor_20_Miniopterus_natalensis	1.000000	0.974542
+5	533	XP_029011689.1_opsin-5-like_Betta_splendens	1.000000	0.975560
+6	520,245	ELU03019.1_hypothetical_protein_CAPTEDRAFT_54244_partial_Capitella_teleta,XP_026690831.1_rhodopsin_GQ-coupled-like_isoform_X1_Ciona_intestinalis	1.000000	0.976578

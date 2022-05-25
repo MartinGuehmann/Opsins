@@ -1,0 +1,9 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.965128
+1	627	XP_015806327.1_PREDICTED_uncharacterized_protein_LOC107379884_Nothobranchius_furzeri	2.000000	0.967179
+2	657,460	tr|A0A4W4EP46|A0A4W4EP46_ELEEL_Uncharacterized_protein_OS_Electrophorus_electricus_OX_8005_PE_4_SV_1,XP_002115687.1_hypothetical_protein_TRIADDRAFT_59637_Trichoplax_adhaerens	4.000000	0.971282
+3	667	DAB27257.1_TPA_inf_xenopsinB1_partial_Prostheceraeus_vittatus	2.000000	0.973333
+4	127	AFD04930.1_long-wavelength_rhodopsin_partial_Pachycondyla_amblyops	1.000000	0.974359
+5	316	XP_019737318.1_PREDICTED_melanin-concentrating_hormone_receptor_1-like_Hippocampus_comes	1.000000	0.975385
+6	480	AIZ50547.1_opsin_4.3_partial_Amphiura_filiformis	1.000000	0.976410
+7	145	ALI30436.1_long_wavelength_rhodopsin_partial_Praon_yomenae	1.000000	0.977436

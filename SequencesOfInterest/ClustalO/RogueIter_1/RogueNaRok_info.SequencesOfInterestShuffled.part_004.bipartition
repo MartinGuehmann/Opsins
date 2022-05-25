@@ -1,0 +1,52 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.174682] initialisation done (initScore = 0.959267, numBip=4281)
+[0.014776] sorting bipartition profile
+[0.082680] computed / updated events
+[0.030975] combined events
+[0.004181] calculated per dropset improvement
+[0.006391] executed the merging events 
+>703	tr|A0A1W0XDH2|A0A1W0XDH2_HYPDU_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Hypsibius_dujardini_OX_232323_GN_BV898_00453_PE_4_SV_1	3.000000	0.962322
+[0.003913] sorting bipartition profile
+[0.002192] computed / updated events
+[0.033057] combined events
+[0.004002] calculated per dropset improvement
+[0.006223] executed the merging events 
+>805	tr|A0A182VW53|A0A182VW53_9DIPT_Uncharacterized_protein_OS_Anopheles_minimus_OX_112268_PE_3_SV_1	2.000000	0.964358
+[0.003862] sorting bipartition profile
+[0.001811] computed / updated events
+[0.031620] combined events
+[0.003892] calculated per dropset improvement
+[0.005981] executed the merging events 
+>585	RDD39603.1_rhodopsin_partial_Trichoplax_sp._H2	2.000000	0.966395
+[0.003762] sorting bipartition profile
+[0.001219] computed / updated events
+[0.031871] combined events
+[0.003818] calculated per dropset improvement
+[0.006019] executed the merging events 
+>841	tr|A0A182LZL7|A0A182LZL7_9DIPT_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Anopheles_culicifacies_OX_139723_PE_4_SV_1	2.000000	0.968432
+[0.003817] sorting bipartition profile
+[0.001637] computed / updated events
+[0.031635] combined events
+[0.004632] calculated per dropset improvement
+[0.010459] executed the merging events 
+>92	RLV61823.1_hypothetical_protein_DV515_00020002_partial_Erythrura_gouldiae	2.000000	0.970468
+[0.003699] sorting bipartition profile
+[0.001032] computed / updated events
+[0.033603] combined events
+[0.003897] calculated per dropset improvement
+[0.006917] executed the merging events 
+>502	XP_028394341.1_visual_pigment-like_receptor_peropsin_Dendronephthya_gigantea	1.000000	0.971487
+[0.003584] sorting bipartition profile
+[0.001600] computed / updated events
+[0.032853] combined events
+[0.003966] calculated per dropset improvement
+[0.006840] executed the merging events 
+>721	Notalux_sp4_TRINITY_DN12929_c0_g2_i1|ORF2	1.000000	0.972505
+[0.003640] sorting bipartition profile
+[0.001214] computed / updated events
+[0.032708] combined events
+[0.004054] calculated per dropset improvement
+total time elapsed: 1.649367

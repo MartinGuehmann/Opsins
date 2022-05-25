@@ -1,0 +1,58 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.168237] initialisation done (initScore = 0.960285, numBip=4608)
+[0.013148] sorting bipartition profile
+[0.090894] computed / updated events
+[0.036939] combined events
+[0.005284] calculated per dropset improvement
+[0.007217] executed the merging events 
+>798	AGJ70279.1_Go_opsin_2_Terebratalia_transversa	3.000000	0.963340
+[0.003947] sorting bipartition profile
+[0.002226] computed / updated events
+[0.037650] combined events
+[0.004642] calculated per dropset improvement
+[0.007043] executed the merging events 
+>106	AIM43139.1_long-wavelength_rhodopsin_partial_Apterogyna_sp._za01	2.000000	0.965377
+[0.004117] sorting bipartition profile
+[0.001937] computed / updated events
+[0.037981] combined events
+[0.004337] calculated per dropset improvement
+[0.006961] executed the merging events 
+>672	XP_015201739.1_PREDICTED_pyroglutamylated_RFamide_peptide_receptor_isoform_X2_Lepisosteus_oculatus	1.000000	0.966395
+[0.004063] sorting bipartition profile
+[0.003099] computed / updated events
+[0.037239] combined events
+[0.004376] calculated per dropset improvement
+[0.007085] executed the merging events 
+>699	Branchiomma_TRINITY_DN56132_c0_g1_i1|ORF2	1.000000	0.967413
+[0.004355] sorting bipartition profile
+[0.002978] computed / updated events
+[0.036976] combined events
+[0.004270] calculated per dropset improvement
+[0.006879] executed the merging events 
+>809	AIT99327.1_ciliary_opsin_1_partial_Brachionus_koreanus	1.000000	0.968432
+[0.004028] sorting bipartition profile
+[0.001915] computed / updated events
+[0.036591] combined events
+[0.004472] calculated per dropset improvement
+[0.006985] executed the merging events 
+>361	XP_033927774.1_blue-sensitive_opsin-like_Melopsittacus_undulatus	1.000000	0.969450
+[0.004032] sorting bipartition profile
+[0.001615] computed / updated events
+[0.037280] combined events
+[0.004266] calculated per dropset improvement
+[0.006950] executed the merging events 
+>427,426	AMB42852.1_long_wavelength_sensitive_opsin_Chlorurus_sordidus,ALK02376.1_LWS-1_partial_Poecilia_reticulata	1.000000	0.970468
+[0.005787] sorting bipartition profile
+[0.002487] computed / updated events
+[0.036729] combined events
+[0.004237] calculated per dropset improvement
+[0.006942] executed the merging events 
+>650,649	XP_015926534.1_substance-K_receptor_isoform_X3_Parasteatoda_tepidariorum,XP_023295388.1_neuropeptide_FF_receptor_2_Lucilia_cuprina	1.000000	0.971487
+[0.005228] sorting bipartition profile
+[0.002399] computed / updated events
+[0.035170] combined events
+[0.004260] calculated per dropset improvement
+total time elapsed: 1.755990

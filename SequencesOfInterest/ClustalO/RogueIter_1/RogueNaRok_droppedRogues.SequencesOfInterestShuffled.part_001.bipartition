@@ -1,0 +1,7 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.969481
+1	762	KXJ28235.1_ESF1-like_Exaiptasia_diaphana	1.000000	0.970498
+2	463	TRY72607.1_hypothetical_protein_TCAL_09979_Tigriopus_californicus	1.000000	0.971516
+3	592	XP_011302802.1_PREDICTED_rhodopsin-like_Fopius_arisanus	1.000000	0.972533
+4	680	tr|H3DRA4|H3DRA4_TETNG_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Tetraodon_nigroviridis_OX_99883_PE_4_SV_1	1.000000	0.973550
+5	99	DAniello2015_ops8_Ptychodera_flava	1.000000	0.974568

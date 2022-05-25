@@ -1,0 +1,40 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.255633] initialisation done (initScore = 0.969481, numBip=3494)
+[0.027669] sorting bipartition profile
+[0.066486] computed / updated events
+[0.019739] combined events
+[0.003413] calculated per dropset improvement
+[0.004655] executed the merging events 
+>762	KXJ28235.1_ESF1-like_Exaiptasia_diaphana	1.000000	0.970498
+[0.003731] sorting bipartition profile
+[0.001239] computed / updated events
+[0.019692] combined events
+[0.003251] calculated per dropset improvement
+[0.004737] executed the merging events 
+>463	TRY72607.1_hypothetical_protein_TCAL_09979_Tigriopus_californicus	1.000000	0.971516
+[0.003518] sorting bipartition profile
+[0.000974] computed / updated events
+[0.018751] combined events
+[0.003142] calculated per dropset improvement
+[0.004541] executed the merging events 
+>592	XP_011302802.1_PREDICTED_rhodopsin-like_Fopius_arisanus	1.000000	0.972533
+[0.003746] sorting bipartition profile
+[0.001206] computed / updated events
+[0.019082] combined events
+[0.003165] calculated per dropset improvement
+[0.004582] executed the merging events 
+>680	tr|H3DRA4|H3DRA4_TETNG_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Tetraodon_nigroviridis_OX_99883_PE_4_SV_1	1.000000	0.973550
+[0.003640] sorting bipartition profile
+[0.001104] computed / updated events
+[0.018874] combined events
+[0.003094] calculated per dropset improvement
+[0.004637] executed the merging events 
+>99	DAniello2015_ops8_Ptychodera_flava	1.000000	0.974568
+[0.003804] sorting bipartition profile
+[0.001002] computed / updated events
+[0.018977] combined events
+[0.003168] calculated per dropset improvement
+total time elapsed: 1.531869

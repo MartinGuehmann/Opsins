@@ -1,0 +1,7 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.973523
+1	455	XP_002107938.1_hypothetical_protein_TRIADDRAFT_51946_Trichoplax_adhaerens	2.000000	0.975560
+2	62	tr|T1GNY6|T1GNY6_MEGSC_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Megaselia_scalaris_OX_36166_PE_4_SV_1	1.000000	0.976578
+3	955	XP_011811310.1_PREDICTED_medium-wave-sensitive_opsin_1-like_Colobus_angolensis_palliatus	1.000000	0.977597
+4	271	Notalux_sp1_SOAP_k35_C1081339|ORF3	1.000000	0.978615
+5	239	XP_029018368.1_melanopsin-A-like_Betta_splendens	1.000000	0.979633

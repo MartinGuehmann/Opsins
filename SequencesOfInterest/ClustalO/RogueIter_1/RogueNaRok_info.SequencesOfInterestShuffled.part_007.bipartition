@@ -1,0 +1,40 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.188940] initialisation done (initScore = 0.973523, numBip=3936)
+[0.013136] sorting bipartition profile
+[0.075202] computed / updated events
+[0.024781] combined events
+[0.003855] calculated per dropset improvement
+[0.005670] executed the merging events 
+>274	AAK29003.1_long-wavelength_rhodopsin_partial_Panurgus_calcaratus	1.000000	0.974542
+[0.004072] sorting bipartition profile
+[0.001605] computed / updated events
+[0.026779] combined events
+[0.004094] calculated per dropset improvement
+[0.005509] executed the merging events 
+>384	XP_034050503.1_LOW_QUALITY_PROTEIN_melanopsin-A-like_Thalassophryne_amazonica	1.000000	0.975560
+[0.003973] sorting bipartition profile
+[0.001965] computed / updated events
+[0.026492] combined events
+[0.003587] calculated per dropset improvement
+[0.005492] executed the merging events 
+>638	XP_785299.2_muscarinic_acetylcholine_receptor_M1-like_Strongylocentrotus_purpuratus	1.000000	0.976578
+[0.004019] sorting bipartition profile
+[0.001309] computed / updated events
+[0.027108] combined events
+[0.003624] calculated per dropset improvement
+[0.005513] executed the merging events 
+>698,675	AGB67494.1_c-like_opsin_Tripedalia_cystophora,XP_006872524.1_PREDICTED_LOW_QUALITY_PROTEIN_RPE-retinal_G_protein-coupled_receptor_Chrysochloris_asiatica	2.000000	0.978615
+[0.005311] sorting bipartition profile
+[0.002662] computed / updated events
+[0.024134] combined events
+[0.003386] calculated per dropset improvement
+[0.005214] executed the merging events 
+>295,294	APY20643.1_long_wavelength_sensitive_opsin_Paussus_spinicoxis,AKC01671.1_long-wavelength_opsin_partial_Paroster_nigroadumbratus	1.000000	0.979633
+[0.005522] sorting bipartition profile
+[0.001106] computed / updated events
+[0.024560] combined events
+[0.003426] calculated per dropset improvement
+total time elapsed: 1.512718

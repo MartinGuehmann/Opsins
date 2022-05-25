@@ -1,0 +1,14 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.943992
+1	276	XP_019641551.1_PREDICTED_LOW_QUALITY_PROTEIN_chitinase_domain-containing_protein_1-like_Branchiostoma_belcheri	4.000000	0.948065
+2	493	XP_021369164.1_opsin-3-like_partial_Mizuhopecten_yessoensis	2.000000	0.950102
+3	59	ANN75139.1_long_wavelength_rhodopsin_partial_Adetomyrma_bressleri	2.000000	0.952138
+4	485	AGB67503.1_c-like_opsin_Tripedalia_cystophora	2.000000	0.954175
+5	917	XP_002113728.1_hypothetical_protein_TRIADDRAFT_57447_Trichoplax_adhaerens	2.000000	0.956212
+6	91	APY20624.1_long_wavelength_sensitive_opsin_2_Mengenilla_moldrzyki	1.000000	0.957230
+7	113	JAJ78228.1_putative_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_partial_Daphnia_magna	1.000000	0.958248
+8	828	RDD45467.1_Apelin_receptor_A_Trichoplax_sp._H2	1.000000	0.959267
+9	465	tr|A0A1D1VX88|A0A1D1VX88_RAMVA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Ramazzottius_varieornatus_OX_947166_GN_RvY_16096-1_PE_4_SV_1	1.000000	0.960285
+10	278	DAB27259.1_TPA_inf_xenopsinB_partial_Stylochus_ellipticus	1.000000	0.961303
+11	66	AAW59477.1_rhodopsin_partial_Aenictus_eugenii	1.000000	0.962322
+12	902,901	RDD40480.1_Neuropeptide_FF_receptor_2_Trichoplax_sp._H2,RDD40489.1_Kappa-type_opioid_receptor_Trichoplax_sp._H2	1.000000	0.963340
