@@ -1,0 +1,15 @@
+file                                                                                                                            format  type     num_seqs    sum_len  min_len  avg_len  max_len
+/work/oa20474/PhylogenyPipeline/Opsins/SequencesOfInterest/PASTA.Opsins/RogueIter_1/SequencesOfInterestAll.dropped.fasta        FASTA   Protein       452    150,264       35    332.4    2,370
+/work/oa20474/PhylogenyPipeline/Opsins/SequencesOfInterest/PASTA.Opsins/RogueIter_1/SequencesOfInterestAll.fasta                FASTA   Protein     8,031  2,960,578       30    368.6    2,497
+/work/oa20474/PhylogenyPipeline/Opsins/SequencesOfInterest/PASTA.Opsins/RogueIter_1/SequencesOfInterest.dropped.fasta                                   0          0        0        0        0
+/work/oa20474/PhylogenyPipeline/Opsins/SequencesOfInterest/PASTA.Opsins/RogueIter_1/SequencesOfInterest.fasta                   FASTA   Protein     8,483  3,110,842       30    366.7    2,497
+/work/oa20474/PhylogenyPipeline/Opsins/SequencesOfInterest/PASTA.Opsins/RogueIter_1/SequencesOfInterestShuffled.fasta           FASTA   Protein     8,483  3,110,842       30    366.7    2,497
+/work/oa20474/PhylogenyPipeline/Opsins/SequencesOfInterest/PASTA.Opsins/RogueIter_1/SequencesOfInterestShuffled.part_001.fasta  FASTA   Protein       943    349,504       35    370.6    2,370
+/work/oa20474/PhylogenyPipeline/Opsins/SequencesOfInterest/PASTA.Opsins/RogueIter_1/SequencesOfInterestShuffled.part_002.fasta  FASTA   Protein       943    349,327       36    370.4    2,497
+/work/oa20474/PhylogenyPipeline/Opsins/SequencesOfInterest/PASTA.Opsins/RogueIter_1/SequencesOfInterestShuffled.part_003.fasta  FASTA   Protein       943    335,814       35    356.1    2,014
+/work/oa20474/PhylogenyPipeline/Opsins/SequencesOfInterest/PASTA.Opsins/RogueIter_1/SequencesOfInterestShuffled.part_004.fasta  FASTA   Protein       943    342,010       53    362.7    2,401
+/work/oa20474/PhylogenyPipeline/Opsins/SequencesOfInterest/PASTA.Opsins/RogueIter_1/SequencesOfInterestShuffled.part_005.fasta  FASTA   Protein       943    341,908       55    362.6    1,634
+/work/oa20474/PhylogenyPipeline/Opsins/SequencesOfInterest/PASTA.Opsins/RogueIter_1/SequencesOfInterestShuffled.part_006.fasta  FASTA   Protein       942    352,142       36    373.8    2,441
+/work/oa20474/PhylogenyPipeline/Opsins/SequencesOfInterest/PASTA.Opsins/RogueIter_1/SequencesOfInterestShuffled.part_007.fasta  FASTA   Protein       942    347,723       33    369.1    1,484
+/work/oa20474/PhylogenyPipeline/Opsins/SequencesOfInterest/PASTA.Opsins/RogueIter_1/SequencesOfInterestShuffled.part_008.fasta  FASTA   Protein       942    342,868       30      364    2,254
+/work/oa20474/PhylogenyPipeline/Opsins/SequencesOfInterest/PASTA.Opsins/RogueIter_1/SequencesOfInterestShuffled.part_009.fasta  FASTA   Protein       942    349,546       35    371.1    2,253
