@@ -1,0 +1,148 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.199163] initialisation done (initScore = 0.868077, numBip=5264)
+[0.013081] sorting bipartition profile
+[0.115792] computed / updated events
+[0.052374] combined events
+[0.006089] calculated per dropset improvement
+[0.009191] executed the merging events 
+>273	AIW62550.1_opsin_Scytodes_thoracica	3.311000	0.871449
+[0.004623] sorting bipartition profile
+[0.002937] computed / updated events
+[0.056983] combined events
+[0.006107] calculated per dropset improvement
+[0.014723] executed the merging events 
+>138	RWS06560.1_tyramine_receptor_1-like_protein_Dinothrombium_tinctorium	2.761000	0.874261
+[0.004567] sorting bipartition profile
+[0.002490] computed / updated events
+[0.055464] combined events
+[0.005283] calculated per dropset improvement
+[0.015499] executed the merging events 
+>0	ORX84024.1_hypothetical_protein_BCR32DRAFT_266597_Anaeromyces_robustus	2.213000	0.876514
+[0.004240] sorting bipartition profile
+[0.002839] computed / updated events
+[0.052478] combined events
+[0.005174] calculated per dropset improvement
+[0.008150] executed the merging events 
+>57	PFX14768.1_NACHT_LRR_and_PYD_domains-containing_protein_12_Stylophora_pistillata	2.059000	0.878611
+[0.003840] sorting bipartition profile
+[0.002876] computed / updated events
+[0.053291] combined events
+[0.005179] calculated per dropset improvement
+[0.008634] executed the merging events 
+>215,198	TRY83597.1_hypothetical_protein_DNTS_021444_Danionella_translucida,tr|A0A182MGW7|A0A182MGW7_9DIPT_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Anopheles_culicifacies_OX_139723_PE_4_SV_1	2.416000	0.881071
+[0.005158] sorting bipartition profile
+[0.004536] computed / updated events
+[0.046221] combined events
+[0.004865] calculated per dropset improvement
+[0.007684] executed the merging events 
+>2,1	XP_007519342.1_PREDICTED_probable_G-protein_coupled_receptor_135_Erinaceus_europaeus,miTrinity_TR21298|c0_g1_i1|ORF1	1.778000	0.882882
+[0.005794] sorting bipartition profile
+[0.003996] computed / updated events
+[0.043452] combined events
+[0.004532] calculated per dropset improvement
+[0.007287] executed the merging events 
+>802	tr|H2YR13|H2YR13_CIOSA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Ciona_savignyi_OX_51511_PE_4_SV_1	1.015000	0.883915
+[0.003743] sorting bipartition profile
+[0.002040] computed / updated events
+[0.039873] combined events
+[0.004648] calculated per dropset improvement
+[0.007258] executed the merging events 
+>502	AAS67095.1_rhodopsin_partial_Stauroteuthis_gilchristi	0.747000	0.884676
+[0.004672] sorting bipartition profile
+[0.002469] computed / updated events
+[0.040680] combined events
+[0.004327] calculated per dropset improvement
+[0.006842] executed the merging events 
+>48	XP_015926534.1_substance-K_receptor_isoform_X3_Parasteatoda_tepidariorum	0.531000	0.885217
+[0.003689] sorting bipartition profile
+[0.001461] computed / updated events
+[0.039265] combined events
+[0.004422] calculated per dropset improvement
+[0.006897] executed the merging events 
+>149	XP_015687986.1_5-hydroxytryptamine_receptor_2C_Protobothrops_mucrosquamatus	0.482000	0.885708
+[0.004590] sorting bipartition profile
+[0.001766] computed / updated events
+[0.040597] combined events
+[0.004295] calculated per dropset improvement
+[0.006887] executed the merging events 
+>525	LAA13894.1_ocellar_opsin_partial_Parasteatoda_tepidariorum	0.454000	0.886170
+[0.003793] sorting bipartition profile
+[0.002018] computed / updated events
+[0.037846] combined events
+[0.004354] calculated per dropset improvement
+[0.007050] executed the merging events 
+>120	tr|A0A1X7TAF4|A0A1X7TAF4_AMPQE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Amphimedon_queenslandica_OX_400682_PE_4_SV_1	0.440000	0.886618
+[0.004807] sorting bipartition profile
+[0.001321] computed / updated events
+[0.037737] combined events
+[0.004130] calculated per dropset improvement
+[0.011570] executed the merging events 
+>72	XP_013081644.1_PREDICTED_olfactory_receptor_5K2-like_Biomphalaria_glabrata	0.351000	0.886976
+[0.004509] sorting bipartition profile
+[0.001155] computed / updated events
+[0.038023] combined events
+[0.006256] calculated per dropset improvement
+[0.006871] executed the merging events 
+>829	DAniello2015_ops5_Paracentrotus_lividus	0.129000	0.887107
+[0.004214] sorting bipartition profile
+[0.001135] computed / updated events
+[0.036206] combined events
+[0.004283] calculated per dropset improvement
+[0.011459] executed the merging events 
+>475	XP_024913593.1_melanopsin-like_Cynoglossus_semilaevis	0.118000	0.887227
+[0.004294] sorting bipartition profile
+[0.002255] computed / updated events
+[0.036956] combined events
+[0.004311] calculated per dropset improvement
+[0.006520] executed the merging events 
+>4	CDJ82687.1_7TM_GPCR_domain_containing_protein_Haemonchus_contortus	0.079000	0.887308
+[0.003737] sorting bipartition profile
+[0.001198] computed / updated events
+[0.034776] combined events
+[0.004181] calculated per dropset improvement
+[0.011359] executed the merging events 
+>854	XP_005612764.1_histamine_H4_receptor_isoform_X1_Equus_caballus	0.075000	0.887384
+[0.004405] sorting bipartition profile
+[0.002618] computed / updated events
+[0.035531] combined events
+[0.004188] calculated per dropset improvement
+[0.006344] executed the merging events 
+>65	JAK97654.1_hypothetical_protein_Daphnia_magna	0.059000	0.887444
+[0.005228] sorting bipartition profile
+[0.001514] computed / updated events
+[0.035158] combined events
+[0.007239] calculated per dropset improvement
+[0.012295] executed the merging events 
+>485	tr|G3PCB7|G3PCB7_GASAC_Opsin_4a_melanopsin_OS_Gasterosteus_aculeatus_OX_69293_PE_3_SV_1	0.052000	0.887497
+[0.004414] sorting bipartition profile
+[0.001846] computed / updated events
+[0.035311] combined events
+[0.004241] calculated per dropset improvement
+[0.011431] executed the merging events 
+>496	XP_020661617.1_melanopsin_Pogona_vitticeps	0.033000	0.887531
+[0.004229] sorting bipartition profile
+[0.000893] computed / updated events
+[0.035079] combined events
+[0.004018] calculated per dropset improvement
+[0.006403] executed the merging events 
+>555,552	PWA31488.1_hypothetical_protein_CCH79_00002612_Gambusia_affinis,XP_033966374.1_teleost_multiple_tissue_opsin_2b_Pseudochaenichthys_georgianus	0.054000	0.887586
+[0.006162] sorting bipartition profile
+[0.001584] computed / updated events
+[0.035455] combined events
+[0.004080] calculated per dropset improvement
+[0.006448] executed the merging events 
+>804	CDG67423.1_Hydra_vulgaris_Opsin-3_partial_Hydra_vulgaris	0.020000	0.887606
+[0.003750] sorting bipartition profile
+[0.002017] computed / updated events
+[0.034745] combined events
+[0.004073] calculated per dropset improvement
+[0.006517] executed the merging events 
+>225	Bispira_brunnea_TRINITY_DN69665_c0_g1_i1|ORF2	0.014000	0.887620
+[0.003698] sorting bipartition profile
+[0.002258] computed / updated events
+[0.033044] combined events
+[0.003740] calculated per dropset improvement
+total time elapsed: 2.784018

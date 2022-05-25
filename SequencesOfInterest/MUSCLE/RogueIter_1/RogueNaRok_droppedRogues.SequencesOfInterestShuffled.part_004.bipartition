@@ -1,0 +1,16 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.933809
+1	12	EDO41487.1_predicted_protein_Nematostella_vectensis	4.000000	0.937882
+2	152	XP_023246947.1_rhodopsin-like_Copidosoma_floridanum	3.000000	0.940937
+3	712	AKO71860.1_long_wavelength_rhodopsin_partial_Carebara_sp._FAS01	2.000000	0.942974
+4	948,947	tr|A0A369RVC4|A0A369RVC4_9METZ_Putative_G-protein_coupled_receptor_tkr-1_OS_Trichoplax_sp._H2_OX_287889_GN_TrispH2_009832_PE_4_SV_1,XP_022794949.1_uncharacterized_protein_LOC111333600_Stylophora_pistillata	3.000000	0.946029
+5	932	PFX23592.1_G-protein_coupled_receptor_161_Stylophora_pistillata	2.000000	0.948065
+6	953,815	RDD40437.1_Histamine_H2_receptor_Trichoplax_sp._H2,Pseudopotamilla_reniformisII_SOAP_k35_C1672501|ORF5	2.000000	0.950102
+7	549	LAA07857.1_ocellar_opsin_partial_Parasteatoda_tepidariorum	1.000000	0.951120
+8	68	XP_008841944.1_LOW_QUALITY_PROTEIN_visual_pigment-like_receptor_peropsin_Nannospalax_galili	1.000000	0.952138
+9	772	JAJ32508.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop2_Daphnia_magna	1.000000	0.953157
+10	322	AMB42855.1_long_wavelength_sensitive_opsin_Epibulus_insidiator	1.000000	0.954175
+11	80	AWU78800.1_Go_opsin_Branchiostoma_lanceolatum	1.000000	0.955193
+12	88,13	JAN71258.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna,JAM58722.1_Gpcr_rhodopsin_family_partial_Daphnia_magna	2.000000	0.957230
+13	72	ROK87102.1_Melanopsin_Anabarilius_grahami	1.000000	0.958248
+14	70,38	ROV95596.1_hypothetical_protein_VSDG_05300_Valsa_sordida,XP_016943700.1_PREDICTED_opsin_Rh2_Drosophila_suzukii	1.000000	0.959267

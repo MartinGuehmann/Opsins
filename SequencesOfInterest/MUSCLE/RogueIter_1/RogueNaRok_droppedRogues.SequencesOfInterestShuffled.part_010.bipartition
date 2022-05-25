@@ -1,0 +1,11 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.953157
+1	273	AIW62550.1_opsin_Scytodes_thoracica	4.000000	0.957230
+2	0	ORX84024.1_hypothetical_protein_BCR32DRAFT_266597_Anaeromyces_robustus	3.000000	0.960285
+3	138	RWS06560.1_tyramine_receptor_1-like_protein_Dinothrombium_tinctorium	3.000000	0.963340
+4	57	PFX14768.1_NACHT_LRR_and_PYD_domains-containing_protein_12_Stylophora_pistillata	2.000000	0.965377
+5	198,120	tr|A0A182MGW7|A0A182MGW7_9DIPT_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Anopheles_culicifacies_OX_139723_PE_4_SV_1,tr|A0A1X7TAF4|A0A1X7TAF4_AMPQE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Amphimedon_queenslandica_OX_400682_PE_4_SV_1	3.000000	0.968432
+6	149	XP_015687986.1_5-hydroxytryptamine_receptor_2C_Protobothrops_mucrosquamatus	1.000000	0.969450
+7	2,1	XP_007519342.1_PREDICTED_probable_G-protein_coupled_receptor_135_Erinaceus_europaeus,miTrinity_TR21298|c0_g1_i1|ORF1	2.000000	0.971487
+8	802	tr|H2YR13|H2YR13_CIOSA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Ciona_savignyi_OX_51511_PE_4_SV_1	1.000000	0.972505
+9	48	XP_015926534.1_substance-K_receptor_isoform_X3_Parasteatoda_tepidariorum	1.000000	0.973523

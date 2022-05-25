@@ -1,0 +1,15 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.921589
+1	905	XP_023045121.1_G-protein_coupled_receptor_176_Piliocolobus_tephrosceles	2.000000	0.923625
+2	688	XP_015280716.1_PREDICTED_LOW_QUALITY_PROTEIN_rhodopsin_Gekko_japonicus	2.000000	0.925662
+3	982	XP_020616759.1_beta-4C_adrenergic_receptor-like_Orbicella_faveolata	2.000000	0.927699
+4	952	XP_018965251.1_PREDICTED_sphingosine_1-phosphate_receptor_3-like_Cyprinus_carpio	2.000000	0.929735
+5	548	ACV52572.3_short_wavelength_sensitive_type_1_opsin_partial_Emberiza_citrinella	2.000000	0.931772
+6	471,456	AGB67497.1_c-like_opsin_partial_Tripedalia_cystophora,AGJ70278.1_Go_opsin_1_Terebratalia_transversa	2.000000	0.933809
+7	475,463	XP_020610778.1_melanopsin-B-like_Orbicella_faveolata,PVD25772.1_hypothetical_protein_C0Q70_13432_Pomacea_canaliculata	2.000000	0.935845
+8	906	tr|A0A369RRH0|A0A369RRH0_9METZ_G-protein_coupled_receptor_GRL101-like_protein_Fragment_OS_Trichoplax_sp._H2_OX_287889_GN_TrispH2_009947_PE_4_SV_1	1.000000	0.936864
+9	860,821	XP_015761372.1_PREDICTED_neuromedin-K_receptor-like_Acropora_digitifera,tr|A0A3B4C3L1|A0A3B4C3L1_PYGNA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Pygocentrus_nattereri_OX_42514_PE_3_SV_1	2.000000	0.938900
+10	394,374	DAniello2015_ops7_Paracentrotus_lividus,RLV62700.1_hypothetical_protein_DV515_00019033_Erythrura_gouldiae	2.000000	0.940937
+11	790	XP_027059435.1_uncharacterized_protein_LOC113686041_Pocillopora_damicornis	1.000000	0.941955
+12	657	AJD38880.1_short-wavelength_sensitive_opsin_2B_partial_Signigobius_biocellatus	1.000000	0.942974
+13	924,923	KAA0716466.1_D_2_-like_dopamine_receptor_Triplophysa_tibetana,XP_027010023.1_5-hydroxytryptamine_receptor_2C-like_Tachysurus_fulvidraco	1.000000	0.943992

@@ -1,0 +1,106 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.256495] initialisation done (initScore = 0.920570, numBip=5451)
+[0.013315] sorting bipartition profile
+[0.105023] computed / updated events
+[0.060617] combined events
+[0.005845] calculated per dropset improvement
+[0.009152] executed the merging events 
+>0	ORY74965.1_Annexin_Neocallimastix_californiae	3.000000	0.923625
+[0.003932] sorting bipartition profile
+[0.003927] computed / updated events
+[0.061489] combined events
+[0.005563] calculated per dropset improvement
+[0.010000] executed the merging events 
+>619	PPQ89352.1_hypothetical_protein_CVT25_003189_Psilocybe_cyanescens	2.000000	0.925662
+[0.005966] sorting bipartition profile
+[0.002231] computed / updated events
+[0.061832] combined events
+[0.006009] calculated per dropset improvement
+[0.009152] executed the merging events 
+>151	AAQ54659.1_long-wavelength_rhodopsin_partial_Apsilocephala_sp._MEI103270	2.000000	0.927699
+[0.004684] sorting bipartition profile
+[0.001904] computed / updated events
+[0.061566] combined events
+[0.005410] calculated per dropset improvement
+[0.015753] executed the merging events 
+>80	RNA11184.1_rhabdomeric_partial_Brachionus_plicatilis	2.000000	0.929735
+[0.004771] sorting bipartition profile
+[0.002670] computed / updated events
+[0.060068] combined events
+[0.005360] calculated per dropset improvement
+[0.009075] executed the merging events 
+>895	RNA39387.1_prolactin-releasing_peptide_receptor-like_Brachionus_plicatilis	1.000000	0.930754
+[0.004442] sorting bipartition profile
+[0.002813] computed / updated events
+[0.061973] combined events
+[0.005623] calculated per dropset improvement
+[0.009152] executed the merging events 
+>770	XP_010837760.1_PREDICTED_trace_amine-associated_receptor_7a-like_partial_Bison_bison_bison	1.000000	0.931772
+[0.004754] sorting bipartition profile
+[0.002873] computed / updated events
+[0.058211] combined events
+[0.005185] calculated per dropset improvement
+[0.008450] executed the merging events 
+>242	JAS44559.1_hypothetical_protein_g.37129_partial_Cuerna_arida	1.000000	0.932790
+[0.004024] sorting bipartition profile
+[0.001446] computed / updated events
+[0.057766] combined events
+[0.005941] calculated per dropset improvement
+[0.008816] executed the merging events 
+>978,741	ABG34948.1_long-wavelength_rhodopsin_partial_Sania_sp._3_JCB-2006,ETN66793.1_hypothetical_protein_AND_001414_Anopheles_darlingi	2.000000	0.934827
+[0.006294] sorting bipartition profile
+[0.004453] computed / updated events
+[0.052385] combined events
+[0.004862] calculated per dropset improvement
+[0.007882] executed the merging events 
+>194	KAF5285417.1_hypothetical_protein_FQA39_LY16671_Lamprigera_yunnana	1.000000	0.935845
+[0.003617] sorting bipartition profile
+[0.001964] computed / updated events
+[0.051371] combined events
+[0.005073] calculated per dropset improvement
+[0.008125] executed the merging events 
+>645	XP_032931110.1_LOW_QUALITY_PROTEIN_opsin-5-like_Catharus_ustulatus	1.000000	0.936864
+[0.004612] sorting bipartition profile
+[0.002293] computed / updated events
+[0.052547] combined events
+[0.004760] calculated per dropset improvement
+[0.007896] executed the merging events 
+>666	tr|K1QW48|K1QW48_CRAGI_Opsin-5_Fragment_OS_Crassostrea_gigas_OX_29159_GN_CGI_10017784_PE_3_SV_1	1.000000	0.937882
+[0.004312] sorting bipartition profile
+[0.001258] computed / updated events
+[0.054328] combined events
+[0.009188] calculated per dropset improvement
+[0.012557] executed the merging events 
+>955	XP_002113374.1_hypothetical_protein_TRIADDRAFT_57467_Trichoplax_adhaerens	1.000000	0.938900
+[0.004127] sorting bipartition profile
+[0.002832] computed / updated events
+[0.051073] combined events
+[0.005675] calculated per dropset improvement
+[0.013222] executed the merging events 
+>740	LAA16339.1_ocellar_opsin_partial_Parasteatoda_tepidariorum	1.000000	0.939919
+[0.004837] sorting bipartition profile
+[0.002869] computed / updated events
+[0.048811] combined events
+[0.004743] calculated per dropset improvement
+[0.007734] executed the merging events 
+>799,798	RDD41460.1_Beta-1_adrenergic_receptor_Trichoplax_sp._H2,XP_002115518.1_hypothetical_protein_TRIADDRAFT_59536_Trichoplax_adhaerens	2.000000	0.941955
+[0.005341] sorting bipartition profile
+[0.002434] computed / updated events
+[0.047460] combined events
+[0.004797] calculated per dropset improvement
+[0.007459] executed the merging events 
+>801	XP_033208961.1_D_2_dopamine_receptor-like_Belonocnema_treatae	1.000000	0.942974
+[0.004951] sorting bipartition profile
+[0.002429] computed / updated events
+[0.049321] combined events
+[0.004829] calculated per dropset improvement
+[0.007714] executed the merging events 
+>252,251	AMT92020.1_rhodopsin_partial_Nothophryne_sp._PEM_A11369,JAQ87936.1_Rhodopsin_partial_Fundulus_heteroclitus	2.000000	0.945010
+[0.004745] sorting bipartition profile
+[0.002851] computed / updated events
+[0.048043] combined events
+[0.004556] calculated per dropset improvement
+total time elapsed: 2.676655

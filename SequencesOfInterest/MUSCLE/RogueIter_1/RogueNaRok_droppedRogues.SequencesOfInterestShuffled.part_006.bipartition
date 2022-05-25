@@ -1,0 +1,14 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.923625
+1	776	ABD90873.1_rhodopsin_partial_Dasypops_schirchi	3.000000	0.926680
+2	772,316	AEP81835.1_rhodopsin_2_partial_Lerista_macropisthopus,XP_012566343.1_PREDICTED_parapinopsin-like_partial_Hydra_vulgaris	6.000000	0.932790
+3	890	KRY57445.1_5-hydroxytryptamine_receptor_1A_Trichinella_britovi	2.000000	0.934827
+4	971	ALQ32683.1_short_wavelength-sensitive_opsin_1_partial_Aplodontia_rufa	2.000000	0.936864
+5	297	PVD38369.1_hypothetical_protein_C0Q70_00983_Pomacea_canaliculata	2.000000	0.938900
+6	662	XP_019641551.1_PREDICTED_LOW_QUALITY_PROTEIN_chitinase_domain-containing_protein_1-like_Branchiostoma_belcheri	2.000000	0.940937
+7	552	ROT66579.1_rhodopsin_Penaeus_vannamei	2.000000	0.942974
+8	866	XP_022784786.1_adenosine_receptor_A1-like_Stylophora_pistillata	1.000000	0.943992
+9	487	DAniello2015_ops8_Schizocardium_spp	1.000000	0.945010
+10	692,683	XP_028368537.1_LOW_QUALITY_PROTEIN_melanopsin_Phyllostomus_discolor,XP_008268123.1_PREDICTED_melanopsin_Oryctolagus_cuniculus	1.000000	0.946029
+11	326,325	tr|W5P3U5|W5P3U5_SHEEP_Retinal_pigment_epithelium-derived_rhodopsin_homolog_OS_Ovis_aries_OX_9940_GN_RRH_PE_3_SV_1,XP_032962655.1_visual_pigment-like_receptor_peropsin_isoform_X1_Rhinolophus_ferrumequinum	1.000000	0.947047
+12	35,33	tr|A0A674PIF4|A0A674PIF4_TAKRU_Uncharacterized_protein_OS_Takifugu_rubripes_OX_31033_PE_4_SV_1,tr|A0A3B5LQ82|A0A3B5LQ82_9TELE_Rhodopsin_OS_Xiphophorus_couchianus_OX_32473_PE_3_SV_1	1.000000	0.948065

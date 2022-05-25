@@ -1,0 +1,88 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.246837] initialisation done (initScore = 0.921589, numBip=5777)
+[0.013331] sorting bipartition profile
+[0.122296] computed / updated events
+[0.067109] combined events
+[0.006609] calculated per dropset improvement
+[0.010364] executed the merging events 
+>905	XP_023045121.1_G-protein_coupled_receptor_176_Piliocolobus_tephrosceles	2.000000	0.923625
+[0.003736] sorting bipartition profile
+[0.003584] computed / updated events
+[0.068704] combined events
+[0.006323] calculated per dropset improvement
+[0.009935] executed the merging events 
+>688	XP_015280716.1_PREDICTED_LOW_QUALITY_PROTEIN_rhodopsin_Gekko_japonicus	2.000000	0.925662
+[0.003541] sorting bipartition profile
+[0.002169] computed / updated events
+[0.068728] combined events
+[0.006208] calculated per dropset improvement
+[0.009823] executed the merging events 
+>982	XP_020616759.1_beta-4C_adrenergic_receptor-like_Orbicella_faveolata	2.000000	0.927699
+[0.003718] sorting bipartition profile
+[0.004434] computed / updated events
+[0.067024] combined events
+[0.005826] calculated per dropset improvement
+[0.009863] executed the merging events 
+>952	XP_018965251.1_PREDICTED_sphingosine_1-phosphate_receptor_3-like_Cyprinus_carpio	2.000000	0.929735
+[0.003727] sorting bipartition profile
+[0.002336] computed / updated events
+[0.066636] combined events
+[0.005599] calculated per dropset improvement
+[0.009512] executed the merging events 
+>548	ACV52572.3_short_wavelength_sensitive_type_1_opsin_partial_Emberiza_citrinella	2.000000	0.931772
+[0.003493] sorting bipartition profile
+[0.001827] computed / updated events
+[0.066527] combined events
+[0.005631] calculated per dropset improvement
+[0.009572] executed the merging events 
+>471,456	AGB67497.1_c-like_opsin_partial_Tripedalia_cystophora,AGJ70278.1_Go_opsin_1_Terebratalia_transversa	2.000000	0.933809
+[0.004924] sorting bipartition profile
+[0.004548] computed / updated events
+[0.064279] combined events
+[0.005758] calculated per dropset improvement
+[0.009407] executed the merging events 
+>475,463	XP_020610778.1_melanopsin-B-like_Orbicella_faveolata,PVD25772.1_hypothetical_protein_C0Q70_13432_Pomacea_canaliculata	2.000000	0.935845
+[0.004559] sorting bipartition profile
+[0.004121] computed / updated events
+[0.063803] combined events
+[0.006027] calculated per dropset improvement
+[0.009240] executed the merging events 
+>906	tr|A0A369RRH0|A0A369RRH0_9METZ_G-protein_coupled_receptor_GRL101-like_protein_Fragment_OS_Trichoplax_sp._H2_OX_287889_GN_TrispH2_009947_PE_4_SV_1	1.000000	0.936864
+[0.003751] sorting bipartition profile
+[0.002019] computed / updated events
+[0.064244] combined events
+[0.005596] calculated per dropset improvement
+[0.009435] executed the merging events 
+>860,821	XP_015761372.1_PREDICTED_neuromedin-K_receptor-like_Acropora_digitifera,tr|A0A3B4C3L1|A0A3B4C3L1_PYGNA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Pygocentrus_nattereri_OX_42514_PE_3_SV_1	2.000000	0.938900
+[0.004931] sorting bipartition profile
+[0.005077] computed / updated events
+[0.061924] combined events
+[0.005670] calculated per dropset improvement
+[0.013401] executed the merging events 
+>394,374	DAniello2015_ops7_Paracentrotus_lividus,RLV62700.1_hypothetical_protein_DV515_00019033_Erythrura_gouldiae	2.000000	0.940937
+[0.005627] sorting bipartition profile
+[0.002905] computed / updated events
+[0.057236] combined events
+[0.005263] calculated per dropset improvement
+[0.008401] executed the merging events 
+>790	XP_027059435.1_uncharacterized_protein_LOC113686041_Pocillopora_damicornis	1.000000	0.941955
+[0.004343] sorting bipartition profile
+[0.002857] computed / updated events
+[0.055400] combined events
+[0.005543] calculated per dropset improvement
+[0.008585] executed the merging events 
+>657	AJD38880.1_short-wavelength_sensitive_opsin_2B_partial_Signigobius_biocellatus	1.000000	0.942974
+[0.003866] sorting bipartition profile
+[0.001971] computed / updated events
+[0.054237] combined events
+[0.004968] calculated per dropset improvement
+[0.008124] executed the merging events 
+>924,923	KAA0716466.1_D_2_-like_dopamine_receptor_Triplophysa_tibetana,XP_027010023.1_5-hydroxytryptamine_receptor_2C-like_Tachysurus_fulvidraco	1.000000	0.943992
+[0.005172] sorting bipartition profile
+[0.001926] computed / updated events
+[0.054936] combined events
+[0.005138] calculated per dropset improvement
+total time elapsed: 2.564999

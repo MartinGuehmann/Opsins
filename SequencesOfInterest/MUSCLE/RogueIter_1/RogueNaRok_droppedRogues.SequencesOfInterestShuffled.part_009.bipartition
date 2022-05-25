@@ -1,0 +1,8 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.958248
+1	729	GCF66037.1_hypothetical_protein_parPi_0034092_Paroedura_picta	3.000000	0.961303
+2	695	Branchiomma_TRINITY_DN87585_c0_g1_i1|ORF1	3.000000	0.964358
+3	773	AFM85197.1_rodopsin_partial_Benthosema_panamense	2.000000	0.966395
+4	196	EHH31210.1_hypothetical_protein_EGK_21098_Macaca_mulatta	2.000000	0.968432
+5	486	JAI57196.1_hypothetical_protein_PF00001.17_Scylla_olivacea	1.000000	0.969450
+6	273	Parasabella_SOAP_k35_C747705|ORF1	1.000000	0.970468

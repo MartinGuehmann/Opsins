@@ -1,0 +1,64 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.174386] initialisation done (initScore = 0.953157, numBip=5264)
+[0.024778] sorting bipartition profile
+[0.120907] computed / updated events
+[0.056277] combined events
+[0.005630] calculated per dropset improvement
+[0.008061] executed the merging events 
+>273	AIW62550.1_opsin_Scytodes_thoracica	4.000000	0.957230
+[0.004795] sorting bipartition profile
+[0.003104] computed / updated events
+[0.058871] combined events
+[0.005590] calculated per dropset improvement
+[0.008307] executed the merging events 
+>0	ORX84024.1_hypothetical_protein_BCR32DRAFT_266597_Anaeromyces_robustus	3.000000	0.960285
+[0.003856] sorting bipartition profile
+[0.002720] computed / updated events
+[0.052165] combined events
+[0.005208] calculated per dropset improvement
+[0.008153] executed the merging events 
+>138	RWS06560.1_tyramine_receptor_1-like_protein_Dinothrombium_tinctorium	3.000000	0.963340
+[0.003864] sorting bipartition profile
+[0.002431] computed / updated events
+[0.053743] combined events
+[0.005119] calculated per dropset improvement
+[0.008065] executed the merging events 
+>57	PFX14768.1_NACHT_LRR_and_PYD_domains-containing_protein_12_Stylophora_pistillata	2.000000	0.965377
+[0.003838] sorting bipartition profile
+[0.002868] computed / updated events
+[0.052517] combined events
+[0.004968] calculated per dropset improvement
+[0.008110] executed the merging events 
+>198,120	tr|A0A182MGW7|A0A182MGW7_9DIPT_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Anopheles_culicifacies_OX_139723_PE_4_SV_1,tr|A0A1X7TAF4|A0A1X7TAF4_AMPQE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Amphimedon_queenslandica_OX_400682_PE_4_SV_1	3.000000	0.968432
+[0.005213] sorting bipartition profile
+[0.002803] computed / updated events
+[0.046039] combined events
+[0.004693] calculated per dropset improvement
+[0.007779] executed the merging events 
+>149	XP_015687986.1_5-hydroxytryptamine_receptor_2C_Protobothrops_mucrosquamatus	1.000000	0.969450
+[0.004671] sorting bipartition profile
+[0.001917] computed / updated events
+[0.048014] combined events
+[0.004668] calculated per dropset improvement
+[0.007814] executed the merging events 
+>2,1	XP_007519342.1_PREDICTED_probable_G-protein_coupled_receptor_135_Erinaceus_europaeus,miTrinity_TR21298|c0_g1_i1|ORF1	2.000000	0.971487
+[0.004807] sorting bipartition profile
+[0.003500] computed / updated events
+[0.042160] combined events
+[0.004336] calculated per dropset improvement
+[0.007398] executed the merging events 
+>802	tr|H2YR13|H2YR13_CIOSA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Ciona_savignyi_OX_51511_PE_4_SV_1	1.000000	0.972505
+[0.004489] sorting bipartition profile
+[0.002163] computed / updated events
+[0.040952] combined events
+[0.004360] calculated per dropset improvement
+[0.007160] executed the merging events 
+>48	XP_015926534.1_substance-K_receptor_isoform_X3_Parasteatoda_tepidariorum	1.000000	0.973523
+[0.003466] sorting bipartition profile
+[0.001494] computed / updated events
+[0.039639] combined events
+[0.004186] calculated per dropset improvement
+total time elapsed: 1.992764

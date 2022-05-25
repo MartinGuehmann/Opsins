@@ -1,0 +1,94 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.268830] initialisation done (initScore = 0.933809, numBip=5823)
+[0.013301] sorting bipartition profile
+[0.137606] computed / updated events
+[0.092829] combined events
+[0.007894] calculated per dropset improvement
+[0.011757] executed the merging events 
+>12	EDO41487.1_predicted_protein_Nematostella_vectensis	4.000000	0.937882
+[0.004260] sorting bipartition profile
+[0.005348] computed / updated events
+[0.092516] combined events
+[0.006719] calculated per dropset improvement
+[0.010613] executed the merging events 
+>152	XP_023246947.1_rhodopsin-like_Copidosoma_floridanum	3.000000	0.940937
+[0.003960] sorting bipartition profile
+[0.002745] computed / updated events
+[0.089866] combined events
+[0.006580] calculated per dropset improvement
+[0.010370] executed the merging events 
+>712	AKO71860.1_long_wavelength_rhodopsin_partial_Carebara_sp._FAS01	2.000000	0.942974
+[0.004141] sorting bipartition profile
+[0.002549] computed / updated events
+[0.083192] combined events
+[0.006610] calculated per dropset improvement
+[0.011687] executed the merging events 
+>948,947	tr|A0A369RVC4|A0A369RVC4_9METZ_Putative_G-protein_coupled_receptor_tkr-1_OS_Trichoplax_sp._H2_OX_287889_GN_TrispH2_009832_PE_4_SV_1,XP_022794949.1_uncharacterized_protein_LOC111333600_Stylophora_pistillata	3.000000	0.946029
+[0.005954] sorting bipartition profile
+[0.003891] computed / updated events
+[0.068894] combined events
+[0.006247] calculated per dropset improvement
+[0.011108] executed the merging events 
+>932	PFX23592.1_G-protein_coupled_receptor_161_Stylophora_pistillata	2.000000	0.948065
+[0.004637] sorting bipartition profile
+[0.002724] computed / updated events
+[0.067692] combined events
+[0.006148] calculated per dropset improvement
+[0.011017] executed the merging events 
+>953,815	RDD40437.1_Histamine_H2_receptor_Trichoplax_sp._H2,Pseudopotamilla_reniformisII_SOAP_k35_C1672501|ORF5	2.000000	0.950102
+[0.005711] sorting bipartition profile
+[0.004020] computed / updated events
+[0.064918] combined events
+[0.005975] calculated per dropset improvement
+[0.010412] executed the merging events 
+>549	LAA07857.1_ocellar_opsin_partial_Parasteatoda_tepidariorum	1.000000	0.951120
+[0.005399] sorting bipartition profile
+[0.002006] computed / updated events
+[0.066296] combined events
+[0.006172] calculated per dropset improvement
+[0.010493] executed the merging events 
+>68	XP_008841944.1_LOW_QUALITY_PROTEIN_visual_pigment-like_receptor_peropsin_Nannospalax_galili	1.000000	0.952138
+[0.004457] sorting bipartition profile
+[0.002320] computed / updated events
+[0.065996] combined events
+[0.010155] calculated per dropset improvement
+[0.010704] executed the merging events 
+>772	JAJ32508.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop2_Daphnia_magna	1.000000	0.953157
+[0.004656] sorting bipartition profile
+[0.002175] computed / updated events
+[0.066017] combined events
+[0.006012] calculated per dropset improvement
+[0.010577] executed the merging events 
+>322	AMB42855.1_long_wavelength_sensitive_opsin_Epibulus_insidiator	1.000000	0.954175
+[0.004479] sorting bipartition profile
+[0.002551] computed / updated events
+[0.065444] combined events
+[0.006233] calculated per dropset improvement
+[0.010292] executed the merging events 
+>80	AWU78800.1_Go_opsin_Branchiostoma_lanceolatum	1.000000	0.955193
+[0.004417] sorting bipartition profile
+[0.002210] computed / updated events
+[0.066286] combined events
+[0.006261] calculated per dropset improvement
+[0.011058] executed the merging events 
+>88,13	JAN71258.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna,JAM58722.1_Gpcr_rhodopsin_family_partial_Daphnia_magna	2.000000	0.957230
+[0.005996] sorting bipartition profile
+[0.002937] computed / updated events
+[0.053497] combined events
+[0.005447] calculated per dropset improvement
+[0.009462] executed the merging events 
+>72	ROK87102.1_Melanopsin_Anabarilius_grahami	1.000000	0.958248
+[0.004534] sorting bipartition profile
+[0.002493] computed / updated events
+[0.050772] combined events
+[0.005193] calculated per dropset improvement
+[0.009103] executed the merging events 
+>70,38	ROV95596.1_hypothetical_protein_VSDG_05300_Valsa_sordida,XP_016943700.1_PREDICTED_opsin_Rh2_Drosophila_suzukii	1.000000	0.959267
+[0.005510] sorting bipartition profile
+[0.002293] computed / updated events
+[0.047685] combined events
+[0.005538] calculated per dropset improvement
+total time elapsed: 2.816726

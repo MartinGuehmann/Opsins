@@ -1,0 +1,46 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.175266] initialisation done (initScore = 0.958248, numBip=5105)
+[0.013010] sorting bipartition profile
+[0.100253] computed / updated events
+[0.049929] combined events
+[0.005977] calculated per dropset improvement
+[0.008150] executed the merging events 
+>729	GCF66037.1_hypothetical_protein_parPi_0034092_Paroedura_picta	3.000000	0.961303
+[0.004337] sorting bipartition profile
+[0.002698] computed / updated events
+[0.050363] combined events
+[0.005337] calculated per dropset improvement
+[0.008075] executed the merging events 
+>695	Branchiomma_TRINITY_DN87585_c0_g1_i1|ORF1	3.000000	0.964358
+[0.004574] sorting bipartition profile
+[0.002417] computed / updated events
+[0.049892] combined events
+[0.005214] calculated per dropset improvement
+[0.007878] executed the merging events 
+>773	AFM85197.1_rodopsin_partial_Benthosema_panamense	2.000000	0.966395
+[0.004982] sorting bipartition profile
+[0.002713] computed / updated events
+[0.049548] combined events
+[0.005737] calculated per dropset improvement
+[0.007696] executed the merging events 
+>196	EHH31210.1_hypothetical_protein_EGK_21098_Macaca_mulatta	2.000000	0.968432
+[0.004153] sorting bipartition profile
+[0.002464] computed / updated events
+[0.047614] combined events
+[0.006009] calculated per dropset improvement
+[0.013339] executed the merging events 
+>486	JAI57196.1_hypothetical_protein_PF00001.17_Scylla_olivacea	1.000000	0.969450
+[0.004104] sorting bipartition profile
+[0.002093] computed / updated events
+[0.049296] combined events
+[0.005048] calculated per dropset improvement
+[0.008241] executed the merging events 
+>273	Parasabella_SOAP_k35_C747705|ORF1	1.000000	0.970468
+[0.004873] sorting bipartition profile
+[0.003786] computed / updated events
+[0.051613] combined events
+[0.005944] calculated per dropset improvement
+total time elapsed: 1.773479

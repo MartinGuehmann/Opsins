@@ -1,0 +1,11 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.942974
+1	121	XP_027054370.1_melanocortin_receptor_5-like_Pocillopora_damicornis	4.000000	0.947047
+2	36	XP_017679647.1_PREDICTED_LOW_QUALITY_PROTEIN_galanin_receptor_type_1-like_Lepidothrix_coronata	3.000000	0.950102
+3	974,889	AJD38873.1_long-wavelength_sensitive_opsin_partial_Ctenochaetus_strigosus,BAQ54762.1_opsin_arthropsin_type_partial_Macromia_amphigena	4.000000	0.954175
+4	356	AUO16425.1_opsin_4_Clytia_hemisphaerica	2.000000	0.956212
+5	172	TNN34934.1_Opsin-VA_Liparis_tanakae	1.000000	0.957230
+6	526	AFP03346.1_parapinopsin-like_protein_partial_Callorhinchus_milii	1.000000	0.958248
+7	67	XP_012415263.2_pyroglutamylated_RFamide_peptide_receptor_Trichechus_manatus_latirostris	1.000000	0.959267
+8	179	XP_017782639.1_PREDICTED_neuropeptide_Y_receptor_type_2-like_Nicrophorus_vespilloides	1.000000	0.960285
+9	969,722	XP_021375680.1_rhodopsin-like_Mizuhopecten_yessoensis,tr|A0A3B3T6P5|A0A3B3T6P5_9TELE_Uncharacterized_protein_OS_Paramormyrops_kingsleyae_OX_1676925_PE_4_SV_1	1.000000	0.961303
