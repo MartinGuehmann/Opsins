@@ -1,0 +1,130 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.351705] initialisation done (initScore = 0.897366, numBip=3836)
+[0.014798] sorting bipartition profile
+[0.147940] computed / updated events
+[0.051151] combined events
+[0.006212] calculated per dropset improvement
+[0.006149] executed the merging events 
+>494	tr|A0A3M6ULF7|A0A3M6ULF7_9CNID_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Pocillopora_damicornis_OX_46731_GN_pdam_00021663_PE_4_SV_1	1.493000	0.898886
+[0.004171] sorting bipartition profile
+[0.002663] computed / updated events
+[0.048786] combined events
+[0.008234] calculated per dropset improvement
+[0.010939] executed the merging events 
+>665	XP_015806327.1_PREDICTED_uncharacterized_protein_LOC107379884_Nothobranchius_furzeri	1.453000	0.900366
+[0.004721] sorting bipartition profile
+[0.002551] computed / updated events
+[0.054738] combined events
+[0.006495] calculated per dropset improvement
+[0.008814] executed the merging events 
+>381	CAB3249990.1_unnamed_protein_product_Arctia_plantaginis	1.387000	0.901778
+[0.004327] sorting bipartition profile
+[0.002962] computed / updated events
+[0.051474] combined events
+[0.006929] calculated per dropset improvement
+[0.008046] executed the merging events 
+>446	tr|A0A2R7WHI8|A0A2R7WHI8_ONCFA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Oncopeltus_fasciatus_OX_7536_GN_OFAS_OFAS010354_PE_4_SV_1	0.874000	0.902668
+[0.004312] sorting bipartition profile
+[0.001972] computed / updated events
+[0.050244] combined events
+[0.006092] calculated per dropset improvement
+[0.007630] executed the merging events 
+>912	CBN81003.1_Short_wavelength_sensitive_2b_Dicentrarchus_labrax	0.750000	0.903432
+[0.004134] sorting bipartition profile
+[0.003813] computed / updated events
+[0.050534] combined events
+[0.006023] calculated per dropset improvement
+[0.007635] executed the merging events 
+>292	scTrinity_TR74689|c2_g1_i3|ORF5	0.690000	0.904134
+[0.004381] sorting bipartition profile
+[0.001582] computed / updated events
+[0.050335] combined events
+[0.006356] calculated per dropset improvement
+[0.007709] executed the merging events 
+>263	BAQ54950.1_opsin_ultraviolet_sensitive_type_Indolestes_peregrinus	0.672000	0.904819
+[0.004141] sorting bipartition profile
+[0.001307] computed / updated events
+[0.051093] combined events
+[0.006131] calculated per dropset improvement
+[0.007493] executed the merging events 
+>689	XP_033726492.1_rhodopsin_GQ-coupled-like_Pecten_maximus	0.671000	0.905502
+[0.004292] sorting bipartition profile
+[0.003608] computed / updated events
+[0.050198] combined events
+[0.006029] calculated per dropset improvement
+[0.007560] executed the merging events 
+>154	AIA23621.1_long_wavelength_rhodopsin_partial_Acanthostichus_punctiscapus	0.532000	0.906044
+[0.004221] sorting bipartition profile
+[0.002593] computed / updated events
+[0.047227] combined events
+[0.005833] calculated per dropset improvement
+[0.008052] executed the merging events 
+>875	tr|U3JT28|U3JT28_FICAL_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Ficedula_albicollis_OX_59894_PE_3_SV_1	0.468000	0.906520
+[0.004210] sorting bipartition profile
+[0.002601] computed / updated events
+[0.041426] combined events
+[0.004966] calculated per dropset improvement
+[0.005908] executed the merging events 
+>709	XP_022092780.1_visual_pigment-like_receptor_peropsin_Acanthaster_planci	0.304000	0.906830
+[0.004174] sorting bipartition profile
+[0.001009] computed / updated events
+[0.040147] combined events
+[0.005090] calculated per dropset improvement
+[0.006106] executed the merging events 
+>708,707	RNA18204.1_melanopsin_partial_Brachionus_plicatilis,RNA14436.1_visual_pigment-like_receptor_peropsin_Brachionus_plicatilis	0.577000	0.907418
+[0.005474] sorting bipartition profile
+[0.002574] computed / updated events
+[0.042071] combined events
+[0.006554] calculated per dropset improvement
+[0.005926] executed the merging events 
+>156	AAW59481.1_rhodopsin_partial_Leptanilloides_sp._EC1	0.237000	0.907659
+[0.004135] sorting bipartition profile
+[0.002047] computed / updated events
+[0.041263] combined events
+[0.005130] calculated per dropset improvement
+[0.005790] executed the merging events 
+>395	GCC38458.1_hypothetical_protein_chiPu_0016972_Chiloscyllium_punctatum	0.163000	0.907825
+[0.004261] sorting bipartition profile
+[0.001834] computed / updated events
+[0.040817] combined events
+[0.005178] calculated per dropset improvement
+[0.006073] executed the merging events 
+>394	XP_028305871.1_neuropeptide_FF_receptor_2-like_Gouania_willdenowi	0.154000	0.907982
+[0.004502] sorting bipartition profile
+[0.001602] computed / updated events
+[0.040557] combined events
+[0.004894] calculated per dropset improvement
+[0.005651] executed the merging events 
+>487	PIK51714.1_putative_5-hydroxytryptamine_receptor_7_Apostichopus_japonicus	0.139000	0.908123
+[0.004489] sorting bipartition profile
+[0.001729] computed / updated events
+[0.039259] combined events
+[0.004930] calculated per dropset improvement
+[0.005723] executed the merging events 
+>787	tr|A0A3B5MN64|A0A3B5MN64_9TELE_Teleost_multiple_tissue_opsin_2b_OS_Xiphophorus_couchianus_OX_32473_PE_3_SV_1	0.038000	0.908162
+[0.004516] sorting bipartition profile
+[0.001752] computed / updated events
+[0.039100] combined events
+[0.005052] calculated per dropset improvement
+[0.005729] executed the merging events 
+>853	BAD17958.1_red_sensitive_opsin_Lethenteron_camtschaticum	0.018000	0.908180
+[0.004409] sorting bipartition profile
+[0.001720] computed / updated events
+[0.038482] combined events
+[0.004982] calculated per dropset improvement
+[0.005815] executed the merging events 
+>515	TPX68967.1_hypothetical_protein_CcCBS67573_g06996_Chytriomyces_confervae	0.017000	0.908198
+[0.004533] sorting bipartition profile
+[0.001512] computed / updated events
+[0.038027] combined events
+[0.004982] calculated per dropset improvement
+[0.006132] executed the merging events 
+>480	XP_011670210.2_G-protein_coupled_receptor_52-like_Strongylocentrotus_purpuratus	0.007000	0.908205
+[0.004438] sorting bipartition profile
+[0.001683] computed / updated events
+[0.036792] combined events
+[0.004812] calculated per dropset improvement
+total time elapsed: 2.849750

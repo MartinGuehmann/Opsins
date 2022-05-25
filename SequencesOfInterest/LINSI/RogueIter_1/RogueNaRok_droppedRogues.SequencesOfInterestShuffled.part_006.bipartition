@@ -1,0 +1,7 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.973523
+1	910	RDD46452.1_Mu-type_opioid_receptor_Trichoplax_sp._H2	2.000000	0.975560
+2	484	AJD38787.1_short-wavelength_sensitive_opsin_2A_Lota_lota	1.000000	0.976578
+3	308	TKS65746.1_Pinopsin_Pineal_gland-specific_opsin_Collichthys_lucidus	1.000000	0.977597
+4	768	DAB27259.1_TPA_inf_xenopsinB_partial_Stylochus_ellipticus	1.000000	0.978615
+5	376,373	JAN69420.1_Gpcr_rhodopsin_family_partial_Daphnia_magna,JAJ00944.1_hypothetical_protein_partial_Daphnia_magna	1.000000	0.979633

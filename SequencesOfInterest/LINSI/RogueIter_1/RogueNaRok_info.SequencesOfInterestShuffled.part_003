@@ -1,0 +1,124 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.502658] initialisation done (initScore = 0.894213, numBip=3691)
+[0.017706] sorting bipartition profile
+[0.134060] computed / updated events
+[0.036551] combined events
+[0.005752] calculated per dropset improvement
+[0.006966] executed the merging events 
+>573	XP_029931763.1_cholecystokinin_receptor_type_A_Myripristis_murdjan	1.971000	0.896220
+[0.005123] sorting bipartition profile
+[0.002048] computed / updated events
+[0.034573] combined events
+[0.005325] calculated per dropset improvement
+[0.006693] executed the merging events 
+>531	XP_020910728.1_neuropeptide_Y_receptor_type_6_Exaiptasia_diaphana	1.307000	0.897551
+[0.005065] sorting bipartition profile
+[0.002533] computed / updated events
+[0.033403] combined events
+[0.005327] calculated per dropset improvement
+[0.007048] executed the merging events 
+>37	KPI93338.1_Opsin-1_Papilio_xuthus	1.204000	0.898777
+[0.004731] sorting bipartition profile
+[0.001399] computed / updated events
+[0.034145] combined events
+[0.005360] calculated per dropset improvement
+[0.007147] executed the merging events 
+>100	JAN36674.1_hypothetical_protein_Daphnia_magna	1.091000	0.899888
+[0.004676] sorting bipartition profile
+[0.001723] computed / updated events
+[0.032557] combined events
+[0.004692] calculated per dropset improvement
+[0.004678] executed the merging events 
+>528	GBM75955.1_Neuropeptide_SIFamide_receptor_Araneus_ventricosus	0.994000	0.900900
+[0.004376] sorting bipartition profile
+[0.001935] computed / updated events
+[0.031684] combined events
+[0.004677] calculated per dropset improvement
+[0.004866] executed the merging events 
+>652	TRZ10401.1_hypothetical_protein_HGM15179_016698_Zosterops_borbonicus	0.830000	0.901745
+[0.004742] sorting bipartition profile
+[0.001653] computed / updated events
+[0.031131] combined events
+[0.005000] calculated per dropset improvement
+[0.004609] executed the merging events 
+>9	ABD18332.1_long-wavelength_rhodopsin_partial_Leptothorax_sp._CSM-2006	0.767000	0.902526
+[0.004451] sorting bipartition profile
+[0.002630] computed / updated events
+[0.031538] combined events
+[0.005335] calculated per dropset improvement
+[0.006880] executed the merging events 
+>329	XP_022670895.1_visual_pigment-like_receptor_peropsin_Varroa_destructor	0.393000	0.902927
+[0.005080] sorting bipartition profile
+[0.001545] computed / updated events
+[0.031724] combined events
+[0.005033] calculated per dropset improvement
+[0.004887] executed the merging events 
+>617	tr|A0A3B3XYH7|A0A3B3XYH7_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Poecilia_mexicana_OX_48701_GN_GPR119_PE_3_SV_1	0.270000	0.903202
+[0.004689] sorting bipartition profile
+[0.001510] computed / updated events
+[0.031400] combined events
+[0.004440] calculated per dropset improvement
+[0.004687] executed the merging events 
+>33	ALP92257.1_long_wavelength_rhodopsin_partial_Hemipepsis_australasiae	0.179000	0.903384
+[0.004572] sorting bipartition profile
+[0.001921] computed / updated events
+[0.030564] combined events
+[0.005089] calculated per dropset improvement
+[0.005102] executed the merging events 
+>553	XP_023941153.1_RYamide_receptor_Bicyclus_anynana	0.138000	0.903524
+[0.004625] sorting bipartition profile
+[0.001522] computed / updated events
+[0.027567] combined events
+[0.004962] calculated per dropset improvement
+[0.007135] executed the merging events 
+>297	XP_002934288.2_visual_pigment-like_receptor_peropsin_Xenopus_tropicalis	0.136000	0.903663
+[0.004799] sorting bipartition profile
+[0.001333] computed / updated events
+[0.027658] combined events
+[0.005009] calculated per dropset improvement
+[0.005762] executed the merging events 
+>32	CAD59822.1_long-wavelength_rhodopsin_partial_Cotesia_electrae	0.094000	0.903759
+[0.004623] sorting bipartition profile
+[0.001806] computed / updated events
+[0.030302] combined events
+[0.005007] calculated per dropset improvement
+[0.006204] executed the merging events 
+>725	EDO27579.1_predicted_protein_Nematostella_vectensis	0.083000	0.903843
+[0.005602] sorting bipartition profile
+[0.001354] computed / updated events
+[0.037597] combined events
+[0.005873] calculated per dropset improvement
+[0.008640] executed the merging events 
+>842	XP_026876930.1_rhodopsin_Electrophorus_electricus	0.020000	0.903864
+[0.004504] sorting bipartition profile
+[0.002212] computed / updated events
+[0.035899] combined events
+[0.005213] calculated per dropset improvement
+[0.007114] executed the merging events 
+>157	XP_001943275.1_opsin_ultraviolet-sensitive_Acyrthosiphon_pisum	0.016000	0.903880
+[0.004082] sorting bipartition profile
+[0.001525] computed / updated events
+[0.035779] combined events
+[0.005233] calculated per dropset improvement
+[0.007156] executed the merging events 
+>7	AAZ94255.1_long-wavelength_rhodopsin_partial_Melitta_leporina	0.009000	0.903889
+[0.004314] sorting bipartition profile
+[0.001628] computed / updated events
+[0.035531] combined events
+[0.009702] calculated per dropset improvement
+[0.007166] executed the merging events 
+>13	AAW59478.1_rhodopsin_partial_Syscia_augustae	0.007000	0.903896
+[0.004226] sorting bipartition profile
+[0.002402] computed / updated events
+[0.035201] combined events
+[0.005044] calculated per dropset improvement
+[0.007031] executed the merging events 
+>537	RDD37896.1_Neuropeptide_FF_receptor_2_Trichoplax_sp._H2	0.001000	0.903897
+[0.004449] sorting bipartition profile
+[0.002193] computed / updated events
+[0.035039] combined events
+[0.005266] calculated per dropset improvement
+total time elapsed: 2.665936

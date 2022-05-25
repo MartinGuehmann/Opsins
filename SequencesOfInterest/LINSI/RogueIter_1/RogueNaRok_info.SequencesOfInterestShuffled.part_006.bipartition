@@ -1,0 +1,40 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.684137] initialisation done (initScore = 0.973523, numBip=3324)
+[0.014839] sorting bipartition profile
+[0.087312] computed / updated events
+[0.029761] combined events
+[0.006218] calculated per dropset improvement
+[0.008254] executed the merging events 
+>910	RDD46452.1_Mu-type_opioid_receptor_Trichoplax_sp._H2	2.000000	0.975560
+[0.005187] sorting bipartition profile
+[0.001902] computed / updated events
+[0.031078] combined events
+[0.005494] calculated per dropset improvement
+[0.006220] executed the merging events 
+>484	AJD38787.1_short-wavelength_sensitive_opsin_2A_Lota_lota	1.000000	0.976578
+[0.004837] sorting bipartition profile
+[0.001205] computed / updated events
+[0.027734] combined events
+[0.004654] calculated per dropset improvement
+[0.004628] executed the merging events 
+>308	TKS65746.1_Pinopsin_Pineal_gland-specific_opsin_Collichthys_lucidus	1.000000	0.977597
+[0.004772] sorting bipartition profile
+[0.001739] computed / updated events
+[0.030177] combined events
+[0.005363] calculated per dropset improvement
+[0.004508] executed the merging events 
+>768	DAB27259.1_TPA_inf_xenopsinB_partial_Stylochus_ellipticus	1.000000	0.978615
+[0.004275] sorting bipartition profile
+[0.002413] computed / updated events
+[0.033882] combined events
+[0.004838] calculated per dropset improvement
+[0.004369] executed the merging events 
+>376,373	JAN69420.1_Gpcr_rhodopsin_family_partial_Daphnia_magna,JAJ00944.1_hypothetical_protein_partial_Daphnia_magna	1.000000	0.979633
+[0.005839] sorting bipartition profile
+[0.002277] computed / updated events
+[0.035420] combined events
+[0.005014] calculated per dropset improvement
+total time elapsed: 2.069118

@@ -1,0 +1,9 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.968432
+1	665	XP_015806327.1_PREDICTED_uncharacterized_protein_LOC107379884_Nothobranchius_furzeri	1.000000	0.969450
+2	913	AJD38714.1_short-wavelength_sensitive_opsin_2B_Myoxocephalus_scorpius	1.000000	0.970468
+3	689,494	XP_033726492.1_rhodopsin_GQ-coupled-like_Pecten_maximus,tr|A0A3M6ULF7|A0A3M6ULF7_9CNID_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Pocillopora_damicornis_OX_46731_GN_pdam_00021663_PE_4_SV_1	2.000000	0.972505
+4	154	AIA23621.1_long_wavelength_rhodopsin_partial_Acanthostichus_punctiscapus	1.000000	0.973523
+5	263	BAQ54950.1_opsin_ultraviolet_sensitive_type_Indolestes_peregrinus	1.000000	0.974542
+6	291	XP_022315064.1_LOW_QUALITY_PROTEIN_rhodopsin_GQ-coupled-like_Crassostrea_virginica	1.000000	0.975560
+7	381	CAB3249990.1_unnamed_protein_product_Arctia_plantaginis	1.000000	0.976578

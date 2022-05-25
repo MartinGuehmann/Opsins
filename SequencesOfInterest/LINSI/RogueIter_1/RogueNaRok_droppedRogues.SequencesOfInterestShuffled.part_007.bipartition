@@ -1,0 +1,12 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.951120
+1	675	TPX71645.1_hypothetical_protein_CcCBS67573_g06095_Chytriomyces_confervae	2.000000	0.953157
+2	187	RCN36196.1_hypothetical_protein_ANCCAN_17917_Ancylostoma_caninum	2.000000	0.955193
+3	250	ABD18366.1_long-wavelength_rhodopsin_partial_Protanilla_sp._CSM-2006	1.000000	0.956212
+4	817	XP_017677195.1_PREDICTED_pinopsin_Lepidothrix_coronata	1.000000	0.957230
+5	327	tr|E9J7C7|E9J7C7_SOLIN_Uncharacterized_protein_Fragment_OS_Solenopsis_invicta_OX_13686_GN_SINV_03615_PE_4_SV_1	1.000000	0.958248
+6	864	JAO05021.1_OPN4A_Poeciliopsis_prolifica	1.000000	0.959267
+7	460	XP_009504167.1_PREDICTED_G-protein_coupled_receptor_15_Phalacrocorax_carbo	1.000000	0.960285
+8	358	JAN67825.1_hypothetical_protein_Daphnia_magna	1.000000	0.961303
+9	269,267	AAW80334.1_long-wavelength_opsin_partial_Pulex_irritans,AAQ74148.1_long-wavelength_opsin_partial_Aylax_papaveris	1.000000	0.962322
+10	561,559	Notalux_sp1_TRINITY_DN105894_c0_g1_i1|ORF4,XP_031572841.1_octopamine_receptor_1-like_Actinia_tenebrosa	1.000000	0.963340

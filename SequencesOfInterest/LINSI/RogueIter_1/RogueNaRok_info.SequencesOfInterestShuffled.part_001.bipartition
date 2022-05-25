@@ -1,0 +1,34 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.296178] initialisation done (initScore = 0.975585, numBip=3487)
+[0.014584] sorting bipartition profile
+[0.117811] computed / updated events
+[0.040647] combined events
+[0.005569] calculated per dropset improvement
+[0.005232] executed the merging events 
+>31	AIZ50543.1_opsin_2_partial_Amphiura_filiformis	2.000000	0.977620
+[0.004419] sorting bipartition profile
+[0.001627] computed / updated events
+[0.037573] combined events
+[0.005624] calculated per dropset improvement
+[0.005846] executed the merging events 
+>156	XP_010795648.1_PREDICTED_opsin-5-like_Notothenia_coriiceps	1.000000	0.978637
+[0.004113] sorting bipartition profile
+[0.001608] computed / updated events
+[0.040834] combined events
+[0.006281] calculated per dropset improvement
+[0.006706] executed the merging events 
+>496	tr|Q4RCP4|Q4RCP4_TETNG_Chromosome_undetermined_SCAF18373_whole_genome_shotgun_sequence_Fragment_OS_Tetraodon_nigroviridis_OX_99883_GN_GSTENG00038566001_PE_4_SV_1	1.000000	0.979654
+[0.004951] sorting bipartition profile
+[0.001747] computed / updated events
+[0.039722] combined events
+[0.005430] calculated per dropset improvement
+[0.006524] executed the merging events 
+>834	tr|A0A3Q0R5Q2|A0A3Q0R5Q2_AMPCI_Histamine_receptor_H2a_OS_Amphilophus_citrinellus_OX_61819_PE_3_SV_1	1.000000	0.980671
+[0.004459] sorting bipartition profile
+[0.001582] computed / updated events
+[0.037349] combined events
+[0.005045] calculated per dropset improvement
+total time elapsed: 1.702330

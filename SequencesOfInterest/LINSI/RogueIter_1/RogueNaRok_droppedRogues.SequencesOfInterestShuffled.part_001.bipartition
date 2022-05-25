@@ -1,0 +1,6 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.975585
+1	31	AIZ50543.1_opsin_2_partial_Amphiura_filiformis	2.000000	0.977620
+2	156	XP_010795648.1_PREDICTED_opsin-5-like_Notothenia_coriiceps	1.000000	0.978637
+3	496	tr|Q4RCP4|Q4RCP4_TETNG_Chromosome_undetermined_SCAF18373_whole_genome_shotgun_sequence_Fragment_OS_Tetraodon_nigroviridis_OX_99883_GN_GSTENG00038566001_PE_4_SV_1	1.000000	0.979654
+4	834	tr|A0A3Q0R5Q2|A0A3Q0R5Q2_AMPCI_Histamine_receptor_H2a_OS_Amphilophus_citrinellus_OX_61819_PE_3_SV_1	1.000000	0.980671

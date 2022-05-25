@@ -1,0 +1,52 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.291656] initialisation done (initScore = 0.968432, numBip=3836)
+[0.014447] sorting bipartition profile
+[0.124450] computed / updated events
+[0.050763] combined events
+[0.006620] calculated per dropset improvement
+[0.006050] executed the merging events 
+>665	XP_015806327.1_PREDICTED_uncharacterized_protein_LOC107379884_Nothobranchius_furzeri	1.000000	0.969450
+[0.004566] sorting bipartition profile
+[0.002271] computed / updated events
+[0.051648] combined events
+[0.005976] calculated per dropset improvement
+[0.006379] executed the merging events 
+>913	AJD38714.1_short-wavelength_sensitive_opsin_2B_Myoxocephalus_scorpius	1.000000	0.970468
+[0.004331] sorting bipartition profile
+[0.003382] computed / updated events
+[0.051208] combined events
+[0.005846] calculated per dropset improvement
+[0.006674] executed the merging events 
+>689,494	XP_033726492.1_rhodopsin_GQ-coupled-like_Pecten_maximus,tr|A0A3M6ULF7|A0A3M6ULF7_9CNID_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Pocillopora_damicornis_OX_46731_GN_pdam_00021663_PE_4_SV_1	2.000000	0.972505
+[0.005670] sorting bipartition profile
+[0.004998] computed / updated events
+[0.045683] combined events
+[0.005615] calculated per dropset improvement
+[0.006086] executed the merging events 
+>154	AIA23621.1_long_wavelength_rhodopsin_partial_Acanthostichus_punctiscapus	1.000000	0.973523
+[0.004408] sorting bipartition profile
+[0.002288] computed / updated events
+[0.046369] combined events
+[0.005609] calculated per dropset improvement
+[0.006151] executed the merging events 
+>263	BAQ54950.1_opsin_ultraviolet_sensitive_type_Indolestes_peregrinus	1.000000	0.974542
+[0.004419] sorting bipartition profile
+[0.001221] computed / updated events
+[0.046803] combined events
+[0.005542] calculated per dropset improvement
+[0.005884] executed the merging events 
+>291	XP_022315064.1_LOW_QUALITY_PROTEIN_rhodopsin_GQ-coupled-like_Crassostrea_virginica	1.000000	0.975560
+[0.004341] sorting bipartition profile
+[0.001318] computed / updated events
+[0.046663] combined events
+[0.005667] calculated per dropset improvement
+[0.006351] executed the merging events 
+>381	CAB3249990.1_unnamed_protein_product_Arctia_plantaginis	1.000000	0.976578
+[0.004380] sorting bipartition profile
+[0.002392] computed / updated events
+[0.044996] combined events
+[0.005258] calculated per dropset improvement
+total time elapsed: 1.955188

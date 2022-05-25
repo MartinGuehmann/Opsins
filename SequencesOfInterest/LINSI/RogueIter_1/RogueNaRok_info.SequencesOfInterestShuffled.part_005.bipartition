@@ -1,0 +1,40 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.305535] initialisation done (initScore = 0.969450, numBip=3943)
+[0.024616] sorting bipartition profile
+[0.165199] computed / updated events
+[0.063043] combined events
+[0.007879] calculated per dropset improvement
+[0.008149] executed the merging events 
+>596	tr|A0A672YQN1|A0A672YQN1_9TELE_Uncharacterized_protein_OS_Sphaeramia_orbicularis_OX_375764_PE_4_SV_1	2.000000	0.971487
+[0.004630] sorting bipartition profile
+[0.001647] computed / updated events
+[0.061488] combined events
+[0.007972] calculated per dropset improvement
+[0.009753] executed the merging events 
+>817	JAK20911.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna	1.000000	0.972505
+[0.004857] sorting bipartition profile
+[0.002185] computed / updated events
+[0.052292] combined events
+[0.007173] calculated per dropset improvement
+[0.009641] executed the merging events 
+>131,82	DAniello2015_ops8_Heliocidaris_erythrogramma,DAniello2015_ops8_Balanoglossus_aurantiacus	2.000000	0.974542
+[0.006315] sorting bipartition profile
+[0.001639] computed / updated events
+[0.051614] combined events
+[0.007379] calculated per dropset improvement
+[0.009344] executed the merging events 
+>248	VDM57014.1_unnamed_protein_product_Angiostrongylus_costaricensis	1.000000	0.975560
+[0.004931] sorting bipartition profile
+[0.002156] computed / updated events
+[0.052454] combined events
+[0.007353] calculated per dropset improvement
+[0.009743] executed the merging events 
+>548	QGW08871.1_vertebrate_ancient_long_opsin_partial_Glaucostegus_typus	1.000000	0.976578
+[0.005291] sorting bipartition profile
+[0.001193] computed / updated events
+[0.059140] combined events
+[0.007027] calculated per dropset improvement
+total time elapsed: 1.962605

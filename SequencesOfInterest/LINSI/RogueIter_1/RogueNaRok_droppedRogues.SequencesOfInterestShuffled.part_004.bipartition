@@ -1,0 +1,12 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.951120
+1	415	NP_501701.2_G_PROTEIN_RECEP_F1_2_domain-containing_protein_Caenorhabditis_elegans	2.000000	0.953157
+2	931	ABD18391.1_long-wavelength_rhodopsin_partial_Xenomyrmex_floridanus	2.000000	0.955193
+3	707	XP_029592359.1_uncharacterized_protein_LOC115176457_Salmo_trutta	1.000000	0.956212
+4	502	DAC74050.1_TPA_exp_neuropsin_Branchiostoma_floridae	1.000000	0.957230
+5	161	tr|A0A4W5R260|A0A4W5R260_9TELE_Rhodopsin_N_domain-containing_protein_OS_Hucho_hucho_OX_62062_PE_4_SV_1	1.000000	0.958248
+6	184	XP_034537245.1_opsin-1_short-wave-sensitive_2_isoform_X2_Notolabrus_celidotus	1.000000	0.959267
+7	82	tr|H2L4J0|H2L4J0_ORYLA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Oryzias_latipes_OX_8090_GN_valop_PE_3_SV_2	1.000000	0.960285
+8	46	XP_033829647.1_teleost_multiple_tissue_opsin_3a_Periophthalmus_magnuspinnatus	1.000000	0.961303
+9	199	ALQ32699.1_short_wavelength-sensitive_opsin_1_partial_Hydrochoerus_hydrochaeris	1.000000	0.962322
+10	579	tr|A0A4W4ER37|A0A4W4ER37_ELEEL_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Electrophorus_electricus_OX_8005_PE_4_SV_1	1.000000	0.963340

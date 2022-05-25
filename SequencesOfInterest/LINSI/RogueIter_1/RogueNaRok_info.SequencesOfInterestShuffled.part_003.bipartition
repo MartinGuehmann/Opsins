@@ -1,0 +1,40 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.305222] initialisation done (initScore = 0.969450, numBip=3691)
+[0.014678] sorting bipartition profile
+[0.136055] computed / updated events
+[0.050768] combined events
+[0.006960] calculated per dropset improvement
+[0.008720] executed the merging events 
+>573	XP_029931763.1_cholecystokinin_receptor_type_A_Myripristis_murdjan	3.000000	0.972505
+[0.004640] sorting bipartition profile
+[0.002772] computed / updated events
+[0.046288] combined events
+[0.006203] calculated per dropset improvement
+[0.008714] executed the merging events 
+>37	KPI93338.1_Opsin-1_Papilio_xuthus	1.000000	0.973523
+[0.004950] sorting bipartition profile
+[0.002055] computed / updated events
+[0.046078] combined events
+[0.006241] calculated per dropset improvement
+[0.008316] executed the merging events 
+>530	RDD40477.1_Neuropeptide_Y_receptor_Trichoplax_sp._H2	1.000000	0.974542
+[0.004939] sorting bipartition profile
+[0.002370] computed / updated events
+[0.045099] combined events
+[0.006156] calculated per dropset improvement
+[0.008778] executed the merging events 
+>13	AAW59478.1_rhodopsin_partial_Syscia_augustae	1.000000	0.975560
+[0.004954] sorting bipartition profile
+[0.002230] computed / updated events
+[0.045894] combined events
+[0.006233] calculated per dropset improvement
+[0.008933] executed the merging events 
+>100	JAN36674.1_hypothetical_protein_Daphnia_magna	1.000000	0.976578
+[0.005050] sorting bipartition profile
+[0.002425] computed / updated events
+[0.046004] combined events
+[0.006239] calculated per dropset improvement
+total time elapsed: 1.854964

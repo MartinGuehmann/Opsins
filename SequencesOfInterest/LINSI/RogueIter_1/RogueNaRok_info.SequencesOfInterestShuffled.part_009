@@ -1,0 +1,70 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.620837] initialisation done (initScore = 0.907342, numBip=3805)
+[0.014963] sorting bipartition profile
+[0.122392] computed / updated events
+[0.049377] combined events
+[0.006179] calculated per dropset improvement
+[0.005913] executed the merging events 
+>470	DAB27256.1_TPA_inf_xenopsin_partial_Prosthiostomum_siphunculus	2.082000	0.909462
+[0.004340] sorting bipartition profile
+[0.002537] computed / updated events
+[0.048318] combined events
+[0.006372] calculated per dropset improvement
+[0.007676] executed the merging events 
+>900	RUS90657.1_hypothetical_protein_EGW08_001557_Elysia_chlorotica	1.292000	0.910778
+[0.004813] sorting bipartition profile
+[0.002408] computed / updated events
+[0.047470] combined events
+[0.006167] calculated per dropset improvement
+[0.007127] executed the merging events 
+>321	ABG34867.1_long-wavelength_rhodopsin_partial_Promicrogaster_sp._1_JCB-2006	1.144000	0.911943
+[0.005117] sorting bipartition profile
+[0.002356] computed / updated events
+[0.044877] combined events
+[0.006680] calculated per dropset improvement
+[0.008583] executed the merging events 
+>942	tr|W4ZJF1|W4ZJF1_STRPU_Uncharacterized_protein_OS_Strongylocentrotus_purpuratus_OX_7668_PE_4_SV_1	0.784000	0.912741
+[0.005112] sorting bipartition profile
+[0.001709] computed / updated events
+[0.042787] combined events
+[0.006042] calculated per dropset improvement
+[0.006851] executed the merging events 
+>730	tr|A0A369S202|A0A369S202_9METZ_Thyrotropin-releasing_hormone_receptor_OS_Trichoplax_sp._H2_OX_287889_GN_TrispH2_007505_PE_4_SV_1	0.223000	0.912968
+[0.004757] sorting bipartition profile
+[0.002610] computed / updated events
+[0.041699] combined events
+[0.005999] calculated per dropset improvement
+[0.007466] executed the merging events 
+>365	sp|Q94741.1|OPS1_SCHGR_RecName_Full_Opsin-1	0.202000	0.913174
+[0.005219] sorting bipartition profile
+[0.001565] computed / updated events
+[0.041018] combined events
+[0.005580] calculated per dropset improvement
+[0.006592] executed the merging events 
+>446	APY20519.1_ultraviolet_sensitive_opsin_2_partial_Thanasimus_formicarius	0.179000	0.913356
+[0.004757] sorting bipartition profile
+[0.002512] computed / updated events
+[0.041106] combined events
+[0.005725] calculated per dropset improvement
+[0.006753] executed the merging events 
+>637	tr|A0A3P9DTN2|A0A3P9DTN2_9CICH_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Maylandia_zebra_OX_106582_PE_3_SV_1	0.149000	0.913508
+[0.004910] sorting bipartition profile
+[0.002725] computed / updated events
+[0.040866] combined events
+[0.005750] calculated per dropset improvement
+[0.006950] executed the merging events 
+>805	AGB67501.1_c-like_opsin_Tripedalia_cystophora	0.094000	0.913604
+[0.005096] sorting bipartition profile
+[0.001797] computed / updated events
+[0.040371] combined events
+[0.005881] calculated per dropset improvement
+[0.007448] executed the merging events 
+>974	XP_006869378.1_PREDICTED_visual_pigment-like_receptor_peropsin_Chrysochloris_asiatica	0.025000	0.913629
+[0.005165] sorting bipartition profile
+[0.001515] computed / updated events
+[0.039158] combined events
+[0.005604] calculated per dropset improvement
+total time elapsed: 2.444590

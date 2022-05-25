@@ -1,0 +1,70 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.418346] initialisation done (initScore = 0.951120, numBip=3693)
+[0.014781] sorting bipartition profile
+[0.135295] computed / updated events
+[0.043945] combined events
+[0.005920] calculated per dropset improvement
+[0.005323] executed the merging events 
+>415	NP_501701.2_G_PROTEIN_RECEP_F1_2_domain-containing_protein_Caenorhabditis_elegans	2.000000	0.953157
+[0.004088] sorting bipartition profile
+[0.002243] computed / updated events
+[0.043541] combined events
+[0.005183] calculated per dropset improvement
+[0.005472] executed the merging events 
+>931	ABD18391.1_long-wavelength_rhodopsin_partial_Xenomyrmex_floridanus	2.000000	0.955193
+[0.004135] sorting bipartition profile
+[0.005087] computed / updated events
+[0.041718] combined events
+[0.005244] calculated per dropset improvement
+[0.005682] executed the merging events 
+>707	XP_029592359.1_uncharacterized_protein_LOC115176457_Salmo_trutta	1.000000	0.956212
+[0.004182] sorting bipartition profile
+[0.001600] computed / updated events
+[0.039449] combined events
+[0.005088] calculated per dropset improvement
+[0.005268] executed the merging events 
+>502	DAC74050.1_TPA_exp_neuropsin_Branchiostoma_floridae	1.000000	0.957230
+[0.004124] sorting bipartition profile
+[0.000866] computed / updated events
+[0.039964] combined events
+[0.004979] calculated per dropset improvement
+[0.005231] executed the merging events 
+>161	tr|A0A4W5R260|A0A4W5R260_9TELE_Rhodopsin_N_domain-containing_protein_OS_Hucho_hucho_OX_62062_PE_4_SV_1	1.000000	0.958248
+[0.004065] sorting bipartition profile
+[0.001221] computed / updated events
+[0.037294] combined events
+[0.004857] calculated per dropset improvement
+[0.005339] executed the merging events 
+>184	XP_034537245.1_opsin-1_short-wave-sensitive_2_isoform_X2_Notolabrus_celidotus	1.000000	0.959267
+[0.004206] sorting bipartition profile
+[0.001315] computed / updated events
+[0.036994] combined events
+[0.004857] calculated per dropset improvement
+[0.005258] executed the merging events 
+>82	tr|H2L4J0|H2L4J0_ORYLA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Oryzias_latipes_OX_8090_GN_valop_PE_3_SV_2	1.000000	0.960285
+[0.004031] sorting bipartition profile
+[0.001122] computed / updated events
+[0.036711] combined events
+[0.005712] calculated per dropset improvement
+[0.007559] executed the merging events 
+>46	XP_033829647.1_teleost_multiple_tissue_opsin_3a_Periophthalmus_magnuspinnatus	1.000000	0.961303
+[0.004743] sorting bipartition profile
+[0.001544] computed / updated events
+[0.036803] combined events
+[0.005950] calculated per dropset improvement
+[0.007701] executed the merging events 
+>199	ALQ32699.1_short_wavelength-sensitive_opsin_1_partial_Hydrochoerus_hydrochaeris	1.000000	0.962322
+[0.004993] sorting bipartition profile
+[0.001192] computed / updated events
+[0.037144] combined events
+[0.005670] calculated per dropset improvement
+[0.007293] executed the merging events 
+>579	tr|A0A4W4ER37|A0A4W4ER37_ELEEL_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Electrophorus_electricus_OX_8005_PE_4_SV_1	1.000000	0.963340
+[0.004498] sorting bipartition profile
+[0.002531] computed / updated events
+[0.035163] combined events
+[0.005433] calculated per dropset improvement
+total time elapsed: 2.178724

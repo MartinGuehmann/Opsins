@@ -1,0 +1,82 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.384423] initialisation done (initScore = 0.907381, numBip=3487)
+[0.014698] sorting bipartition profile
+[0.125961] computed / updated events
+[0.040359] combined events
+[0.005783] calculated per dropset improvement
+[0.005158] executed the merging events 
+>496	tr|Q4RCP4|Q4RCP4_TETNG_Chromosome_undetermined_SCAF18373_whole_genome_shotgun_sequence_Fragment_OS_Tetraodon_nigroviridis_OX_99883_GN_GSTENG00038566001_PE_4_SV_1	2.455000	0.909879
+[0.004364] sorting bipartition profile
+[0.001606] computed / updated events
+[0.038426] combined events
+[0.005166] calculated per dropset improvement
+[0.005401] executed the merging events 
+>31	AIZ50543.1_opsin_2_partial_Amphiura_filiformis	1.177000	0.911076
+[0.004662] sorting bipartition profile
+[0.001579] computed / updated events
+[0.037220] combined events
+[0.005083] calculated per dropset improvement
+[0.005549] executed the merging events 
+>817	XP_018672409.2_uncharacterized_protein_LOC108950798_Ciona_intestinalis	0.895000	0.911987
+[0.004530] sorting bipartition profile
+[0.001980] computed / updated events
+[0.034096] combined events
+[0.004953] calculated per dropset improvement
+[0.005355] executed the merging events 
+>834	tr|A0A3Q0R5Q2|A0A3Q0R5Q2_AMPCI_Histamine_receptor_H2a_OS_Amphilophus_citrinellus_OX_61819_PE_3_SV_1	0.621000	0.912619
+[0.004498] sorting bipartition profile
+[0.001466] computed / updated events
+[0.034023] combined events
+[0.005116] calculated per dropset improvement
+[0.005474] executed the merging events 
+>156	XP_010795648.1_PREDICTED_opsin-5-like_Notothenia_coriiceps	0.549000	0.913177
+[0.004561] sorting bipartition profile
+[0.001571] computed / updated events
+[0.034838] combined events
+[0.004841] calculated per dropset improvement
+[0.005380] executed the merging events 
+>780	GAU91668.1_hypothetical_protein_RvY_03881-1_Ramazzottius_varieornatus	0.380000	0.913564
+[0.004429] sorting bipartition profile
+[0.001175] computed / updated events
+[0.035274] combined events
+[0.005485] calculated per dropset improvement
+[0.006554] executed the merging events 
+>777	ODM99002.1_Green-sensitive_opsin-1_Orchesella_cincta	0.267000	0.913835
+[0.004570] sorting bipartition profile
+[0.001461] computed / updated events
+[0.033998] combined events
+[0.005588] calculated per dropset improvement
+[0.006429] executed the merging events 
+>816	tr|A0A1D2NGL4|A0A1D2NGL4_ORCCI_Putative_tyramine_receptor_2_OS_Orchesella_cincta_OX_48709_GN_Ocin01_02281_PE_4_SV_1	0.236000	0.914075
+[0.004641] sorting bipartition profile
+[0.001764] computed / updated events
+[0.032929] combined events
+[0.005500] calculated per dropset improvement
+[0.006228] executed the merging events 
+>371	JAK93097.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna	0.071000	0.914148
+[0.004506] sorting bipartition profile
+[0.001545] computed / updated events
+[0.032705] combined events
+[0.005585] calculated per dropset improvement
+[0.006596] executed the merging events 
+>211	XP_023932090.1_rhodopsin_GQ-coupled-like_Lingula_anatina	0.055000	0.914203
+[0.004582] sorting bipartition profile
+[0.001921] computed / updated events
+[0.030972] combined events
+[0.005513] calculated per dropset improvement
+[0.006267] executed the merging events 
+>109,104	XP_003437932.1_opsin-5-like_Oreochromis_niloticus,XP_026230893.1_opsin_7_group_member_a_Anabas_testudineus	0.064000	0.914269
+[0.005811] sorting bipartition profile
+[0.001628] computed / updated events
+[0.030606] combined events
+[0.005496] calculated per dropset improvement
+[0.006319] executed the merging events 
+>556	KAF0047277.1_hypothetical_protein_F2P81_000910_Scophthalmus_maximus	0.021000	0.914290
+[0.004646] sorting bipartition profile
+[0.001585] computed / updated events
+[0.029738] combined events
+[0.005343] calculated per dropset improvement
+total time elapsed: 2.186443

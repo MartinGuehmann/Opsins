@@ -1,0 +1,58 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.663019] initialisation done (initScore = 0.966395, numBip=3882)
+[0.017867] sorting bipartition profile
+[0.161076] computed / updated events
+[0.055201] combined events
+[0.007457] calculated per dropset improvement
+[0.008552] executed the merging events 
+>232	JAR45427.1_Melanopsin_Fundulus_heteroclitus	3.000000	0.969450
+[0.004714] sorting bipartition profile
+[0.002550] computed / updated events
+[0.053612] combined events
+[0.006414] calculated per dropset improvement
+[0.007619] executed the merging events 
+>831	CCP72260.1_Visual_pigment-like_receptor_peropsin_Neovison_vison	2.000000	0.971487
+[0.004634] sorting bipartition profile
+[0.002756] computed / updated events
+[0.051461] combined events
+[0.006324] calculated per dropset improvement
+[0.006839] executed the merging events 
+>823	T29877.1_EST98579_Human_Thyroid_gland_Homo_sapiens_cDNA_5_end_similar_to_elastase_inhibitor_monocyte/neutrophil_HT_3771__mRNA_sequence	1.000000	0.972505
+[0.004201] sorting bipartition profile
+[0.002740] computed / updated events
+[0.048973] combined events
+[0.006827] calculated per dropset improvement
+[0.008173] executed the merging events 
+>143	XP_014274077.1_opsin-1_Halyomorpha_halys	1.000000	0.973523
+[0.004848] sorting bipartition profile
+[0.001906] computed / updated events
+[0.053684] combined events
+[0.007232] calculated per dropset improvement
+[0.006563] executed the merging events 
+>661	XP_017491876.1_PREDICTED_delta-type_opioid_receptor-like_partial_Rhagoletis_zephyria	1.000000	0.974542
+[0.004336] sorting bipartition profile
+[0.003794] computed / updated events
+[0.053400] combined events
+[0.006390] calculated per dropset improvement
+[0.007392] executed the merging events 
+>330	KAF4086324.1_hypothetical_protein_AMELA_G00105560_Ameiurus_melas	1.000000	0.975560
+[0.004428] sorting bipartition profile
+[0.001153] computed / updated events
+[0.049538] combined events
+[0.006376] calculated per dropset improvement
+[0.008057] executed the merging events 
+>531	TRY71252.1_hypothetical_protein_DNTS_035740_partial_Danionella_translucida	1.000000	0.976578
+[0.004685] sorting bipartition profile
+[0.001543] computed / updated events
+[0.047074] combined events
+[0.007575] calculated per dropset improvement
+[0.012181] executed the merging events 
+>663,662	XP_004609215.1_PREDICTED_prokineticin_receptor_1_Sorex_araneus,OZG01712.1_hypothetical_protein_FL83_18596_partial_Caenorhabditis_latens	1.000000	0.977597
+[0.006080] sorting bipartition profile
+[0.004226] computed / updated events
+[0.044642] combined events
+[0.006456] calculated per dropset improvement
+total time elapsed: 2.485364

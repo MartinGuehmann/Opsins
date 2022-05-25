@@ -1,0 +1,7 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.969450
+1	596	tr|A0A672YQN1|A0A672YQN1_9TELE_Uncharacterized_protein_OS_Sphaeramia_orbicularis_OX_375764_PE_4_SV_1	2.000000	0.971487
+2	817	JAK20911.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna	1.000000	0.972505
+3	131,82	DAniello2015_ops8_Heliocidaris_erythrogramma,DAniello2015_ops8_Balanoglossus_aurantiacus	2.000000	0.974542
+4	248	VDM57014.1_unnamed_protein_product_Angiostrongylus_costaricensis	1.000000	0.975560
+5	548	QGW08871.1_vertebrate_ancient_long_opsin_partial_Glaucostegus_typus	1.000000	0.976578

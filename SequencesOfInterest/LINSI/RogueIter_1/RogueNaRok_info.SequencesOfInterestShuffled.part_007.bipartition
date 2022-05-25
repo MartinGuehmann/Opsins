@@ -1,0 +1,70 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.562100] initialisation done (initScore = 0.951120, numBip=4124)
+[0.014867] sorting bipartition profile
+[0.152319] computed / updated events
+[0.053724] combined events
+[0.008069] calculated per dropset improvement
+[0.005845] executed the merging events 
+>675	TPX71645.1_hypothetical_protein_CcCBS67573_g06095_Chytriomyces_confervae	2.000000	0.953157
+[0.004085] sorting bipartition profile
+[0.001847] computed / updated events
+[0.057328] combined events
+[0.006176] calculated per dropset improvement
+[0.005986] executed the merging events 
+>187	RCN36196.1_hypothetical_protein_ANCCAN_17917_Ancylostoma_caninum	2.000000	0.955193
+[0.004150] sorting bipartition profile
+[0.001638] computed / updated events
+[0.051997] combined events
+[0.005718] calculated per dropset improvement
+[0.005961] executed the merging events 
+>250	ABD18366.1_long-wavelength_rhodopsin_partial_Protanilla_sp._CSM-2006	1.000000	0.956212
+[0.004233] sorting bipartition profile
+[0.002445] computed / updated events
+[0.051961] combined events
+[0.005705] calculated per dropset improvement
+[0.006097] executed the merging events 
+>817	XP_017677195.1_PREDICTED_pinopsin_Lepidothrix_coronata	1.000000	0.957230
+[0.004234] sorting bipartition profile
+[0.002409] computed / updated events
+[0.053368] combined events
+[0.006938] calculated per dropset improvement
+[0.007790] executed the merging events 
+>327	tr|E9J7C7|E9J7C7_SOLIN_Uncharacterized_protein_Fragment_OS_Solenopsis_invicta_OX_13686_GN_SINV_03615_PE_4_SV_1	1.000000	0.958248
+[0.004257] sorting bipartition profile
+[0.001990] computed / updated events
+[0.054101] combined events
+[0.007941] calculated per dropset improvement
+[0.006712] executed the merging events 
+>864	JAO05021.1_OPN4A_Poeciliopsis_prolifica	1.000000	0.959267
+[0.004479] sorting bipartition profile
+[0.002808] computed / updated events
+[0.055762] combined events
+[0.007940] calculated per dropset improvement
+[0.006664] executed the merging events 
+>460	XP_009504167.1_PREDICTED_G-protein_coupled_receptor_15_Phalacrocorax_carbo	1.000000	0.960285
+[0.004179] sorting bipartition profile
+[0.002484] computed / updated events
+[0.052300] combined events
+[0.007205] calculated per dropset improvement
+[0.006964] executed the merging events 
+>358	JAN67825.1_hypothetical_protein_Daphnia_magna	1.000000	0.961303
+[0.004109] sorting bipartition profile
+[0.001783] computed / updated events
+[0.052075] combined events
+[0.007215] calculated per dropset improvement
+[0.007115] executed the merging events 
+>269,267	AAW80334.1_long-wavelength_opsin_partial_Pulex_irritans,AAQ74148.1_long-wavelength_opsin_partial_Aylax_papaveris	1.000000	0.962322
+[0.005496] sorting bipartition profile
+[0.002753] computed / updated events
+[0.049059] combined events
+[0.005632] calculated per dropset improvement
+[0.006588] executed the merging events 
+>561,559	Notalux_sp1_TRINITY_DN105894_c0_g1_i1|ORF4,XP_031572841.1_octopamine_receptor_1-like_Actinia_tenebrosa	1.000000	0.963340
+[0.005552] sorting bipartition profile
+[0.003597] computed / updated events
+[0.040803] combined events
+[0.005298] calculated per dropset improvement
+total time elapsed: 2.510615

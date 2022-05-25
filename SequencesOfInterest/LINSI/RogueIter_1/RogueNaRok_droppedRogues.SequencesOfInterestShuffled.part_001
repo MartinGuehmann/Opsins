@@ -1,0 +1,14 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.907381
+1	496	tr|Q4RCP4|Q4RCP4_TETNG_Chromosome_undetermined_SCAF18373_whole_genome_shotgun_sequence_Fragment_OS_Tetraodon_nigroviridis_OX_99883_GN_GSTENG00038566001_PE_4_SV_1	2.455000	0.909879
+2	31	AIZ50543.1_opsin_2_partial_Amphiura_filiformis	1.177000	0.911076
+3	817	XP_018672409.2_uncharacterized_protein_LOC108950798_Ciona_intestinalis	0.895000	0.911987
+4	834	tr|A0A3Q0R5Q2|A0A3Q0R5Q2_AMPCI_Histamine_receptor_H2a_OS_Amphilophus_citrinellus_OX_61819_PE_3_SV_1	0.621000	0.912619
+5	156	XP_010795648.1_PREDICTED_opsin-5-like_Notothenia_coriiceps	0.549000	0.913177
+6	780	GAU91668.1_hypothetical_protein_RvY_03881-1_Ramazzottius_varieornatus	0.380000	0.913564
+7	777	ODM99002.1_Green-sensitive_opsin-1_Orchesella_cincta	0.267000	0.913835
+8	816	tr|A0A1D2NGL4|A0A1D2NGL4_ORCCI_Putative_tyramine_receptor_2_OS_Orchesella_cincta_OX_48709_GN_Ocin01_02281_PE_4_SV_1	0.236000	0.914075
+9	371	JAK93097.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna	0.071000	0.914148
+10	211	XP_023932090.1_rhodopsin_GQ-coupled-like_Lingula_anatina	0.055000	0.914203
+11	109,104	XP_003437932.1_opsin-5-like_Oreochromis_niloticus,XP_026230893.1_opsin_7_group_member_a_Anabas_testudineus	0.064000	0.914269
+12	556	KAF0047277.1_hypothetical_protein_F2P81_000910_Scophthalmus_maximus	0.021000	0.914290

@@ -1,0 +1,10 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.966395
+1	232	JAR45427.1_Melanopsin_Fundulus_heteroclitus	3.000000	0.969450
+2	831	CCP72260.1_Visual_pigment-like_receptor_peropsin_Neovison_vison	2.000000	0.971487
+3	823	T29877.1_EST98579_Human_Thyroid_gland_Homo_sapiens_cDNA_5_end_similar_to_elastase_inhibitor_monocyte/neutrophil_HT_3771__mRNA_sequence	1.000000	0.972505
+4	143	XP_014274077.1_opsin-1_Halyomorpha_halys	1.000000	0.973523
+5	661	XP_017491876.1_PREDICTED_delta-type_opioid_receptor-like_partial_Rhagoletis_zephyria	1.000000	0.974542
+6	330	KAF4086324.1_hypothetical_protein_AMELA_G00105560_Ameiurus_melas	1.000000	0.975560
+7	531	TRY71252.1_hypothetical_protein_DNTS_035740_partial_Danionella_translucida	1.000000	0.976578
+8	663,662	XP_004609215.1_PREDICTED_prokineticin_receptor_1_Sorex_araneus,OZG01712.1_hypothetical_protein_FL83_18596_partial_Caenorhabditis_latens	1.000000	0.977597

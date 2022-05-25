@@ -1,0 +1,8 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.954175
+1	916	I37105.1_Sequence_118_from_patent_US_5612215	3.000000	0.957230
+2	500	VDN08980.1_unnamed_protein_product_Dibothriocephalus_latus	2.000000	0.959267
+3	581	TNN73273.1_Opsin-5_Liparis_tanakae	1.000000	0.960285
+4	615,610	XP_025091427.1_rhodopsin_GQ-coupled-like_Pomacea_canaliculata,ROT81263.1_Opsin-5_Penaeus_vannamei	2.000000	0.962322
+5	286	ABG34894.1_long-wavelength_rhodopsin_partial_Alphomelon_sp._JCB-2006	1.000000	0.963340
+6	970	TTN01732.1_Pinopsin_Bagarius_yarrelli	1.000000	0.964358

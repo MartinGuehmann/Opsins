@@ -1,0 +1,46 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.739289] initialisation done (initScore = 0.954175, numBip=3666)
+[0.014752] sorting bipartition profile
+[0.149432] computed / updated events
+[0.049376] combined events
+[0.006854] calculated per dropset improvement
+[0.006485] executed the merging events 
+>916	I37105.1_Sequence_118_from_patent_US_5612215	3.000000	0.957230
+[0.004287] sorting bipartition profile
+[0.002647] computed / updated events
+[0.048639] combined events
+[0.005873] calculated per dropset improvement
+[0.005470] executed the merging events 
+>500	VDN08980.1_unnamed_protein_product_Dibothriocephalus_latus	2.000000	0.959267
+[0.004838] sorting bipartition profile
+[0.002150] computed / updated events
+[0.050868] combined events
+[0.006190] calculated per dropset improvement
+[0.006244] executed the merging events 
+>581	TNN73273.1_Opsin-5_Liparis_tanakae	1.000000	0.960285
+[0.004660] sorting bipartition profile
+[0.002069] computed / updated events
+[0.050605] combined events
+[0.006790] calculated per dropset improvement
+[0.006635] executed the merging events 
+>615,610	XP_025091427.1_rhodopsin_GQ-coupled-like_Pomacea_canaliculata,ROT81263.1_Opsin-5_Penaeus_vannamei	2.000000	0.962322
+[0.005748] sorting bipartition profile
+[0.002360] computed / updated events
+[0.046596] combined events
+[0.006140] calculated per dropset improvement
+[0.007673] executed the merging events 
+>286	ABG34894.1_long-wavelength_rhodopsin_partial_Alphomelon_sp._JCB-2006	1.000000	0.963340
+[0.005433] sorting bipartition profile
+[0.002621] computed / updated events
+[0.045620] combined events
+[0.006364] calculated per dropset improvement
+[0.006468] executed the merging events 
+>970	TTN01732.1_Pinopsin_Bagarius_yarrelli	1.000000	0.964358
+[0.004552] sorting bipartition profile
+[0.001459] computed / updated events
+[0.046205] combined events
+[0.006039] calculated per dropset improvement
+total time elapsed: 2.368528

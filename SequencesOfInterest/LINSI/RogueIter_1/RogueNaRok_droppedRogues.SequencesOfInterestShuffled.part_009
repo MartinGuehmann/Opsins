@@ -1,0 +1,12 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.907342
+1	470	DAB27256.1_TPA_inf_xenopsin_partial_Prosthiostomum_siphunculus	2.082000	0.909462
+2	900	RUS90657.1_hypothetical_protein_EGW08_001557_Elysia_chlorotica	1.292000	0.910778
+3	321	ABG34867.1_long-wavelength_rhodopsin_partial_Promicrogaster_sp._1_JCB-2006	1.144000	0.911943
+4	942	tr|W4ZJF1|W4ZJF1_STRPU_Uncharacterized_protein_OS_Strongylocentrotus_purpuratus_OX_7668_PE_4_SV_1	0.784000	0.912741
+5	730	tr|A0A369S202|A0A369S202_9METZ_Thyrotropin-releasing_hormone_receptor_OS_Trichoplax_sp._H2_OX_287889_GN_TrispH2_007505_PE_4_SV_1	0.223000	0.912968
+6	365	sp|Q94741.1|OPS1_SCHGR_RecName_Full_Opsin-1	0.202000	0.913174
+7	446	APY20519.1_ultraviolet_sensitive_opsin_2_partial_Thanasimus_formicarius	0.179000	0.913356
+8	637	tr|A0A3P9DTN2|A0A3P9DTN2_9CICH_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Maylandia_zebra_OX_106582_PE_3_SV_1	0.149000	0.913508
+9	805	AGB67501.1_c-like_opsin_Tripedalia_cystophora	0.094000	0.913604
+10	974	XP_006869378.1_PREDICTED_visual_pigment-like_receptor_peropsin_Chrysochloris_asiatica	0.025000	0.913629

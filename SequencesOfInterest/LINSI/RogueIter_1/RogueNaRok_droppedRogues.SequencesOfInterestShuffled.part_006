@@ -1,0 +1,16 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.905959
+1	316	GCF39899.1_hypothetical_protein_parPi_0027532_partial_Paroedura_picta	2.295000	0.908296
+2	910	RDD46452.1_Mu-type_opioid_receptor_Trichoplax_sp._H2	1.853000	0.910183
+3	945	XP_020909795.1_probable_G-protein_coupled_receptor_No9_Exaiptasia_diaphana	1.800000	0.912016
+4	469	ABC26410.1_nonfunctional_shortwave-sensitive_1_violet_opsin_partial_Glaucomys_sabrinus	0.998000	0.913033
+5	376,373	JAN69420.1_Gpcr_rhodopsin_family_partial_Daphnia_magna,JAJ00944.1_hypothetical_protein_partial_Daphnia_magna	1.816000	0.914882
+6	768	DAB27259.1_TPA_inf_xenopsinB_partial_Stylochus_ellipticus	0.850000	0.915747
+7	64	AAW59477.1_rhodopsin_partial_Aenictus_eugenii	0.786000	0.916548
+8	484	AJD38787.1_short-wavelength_sensitive_opsin_2A_Lota_lota	0.459000	0.917015
+9	917	VTJ87601.1_Hypothetical_predicted_protein_partial_Marmota_monax	0.454000	0.917478
+10	217	tr|A0A3Q3WSS5|A0A3Q3WSS5_MOLML_Opsin_4xa_OS_Mola_mola_OX_94237_PE_3_SV_1	0.366000	0.917850
+11	800	TPX59638.1_hypothetical_protein_CcCBS67573_g09072_Chytriomyces_confervae	0.188000	0.918042
+12	689	Parasabella_TRINITY_DN38834_c0_g1_i1|ORF3	0.041000	0.918084
+13	269	XP_020367109.1_melanopsin-A-like_partial_Rhincodon_typus	0.012000	0.918096
+14	797	XP_023657941.1_G-protein_coupled_receptor_176_isoform_X1_Paramormyrops_kingsleyae	0.010000	0.918106
