@@ -1,0 +1,17 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.898686
+1	51	RXN37756.1_melanopsin-B-like_protein_Labeo_rohita	1.838000	0.900558
+2	764	ANV21067.1_long-wavelength-sensitive_opsin_Mordacia_mordax	1.033000	0.901610
+3	647	DAniello2015_ops8_Eucidaris_tribuloides	0.896000	0.902522
+4	534	tr|H2ZH94|H2ZH94_CIOSA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Ciona_savignyi_OX_51511_PE_3_SV_1	0.889000	0.903428
+5	451	XP_027055517.1_neuropeptide_SIFamide_receptor-like_Pocillopora_damicornis	0.728000	0.904169
+6	361	RDD40517.1_Melanopsin_Trichoplax_sp._H2	0.568000	0.904747
+7	655	AKS48307.1_Go_coupled_opsin_2_Platynereis_dumerilii	0.526000	0.905283
+8	229	APY20589.1_ultraviolet_sensitive_opsin_Conwentzia_psociformis	0.378000	0.905668
+9	944	VEN60747.1_unnamed_protein_product_partial_Callosobruchus_maculatus	0.353000	0.906027
+10	80	tr|A0A182M0M0|A0A182M0M0_9DIPT_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Anopheles_culicifacies_OX_139723_PE_4_SV_1	0.263000	0.906295
+11	382,373	XP_034488594.1_RYamide_receptor_isoform_X3_Drosophila_innubila,XP_023657941.1_G-protein_coupled_receptor_176_isoform_X1_Paramormyrops_kingsleyae	0.292000	0.906593
+12	321	XP_020609096.1_neuromedin-U_receptor_2-like_Orbicella_faveolata	0.098000	0.906692
+13	157	KYN13668.1_Rhodopsin_Trachymyrmex_cornetzi	0.089000	0.906783
+14	47	KAF3851142.1_hypothetical_protein_F7725_012914_Dissostichus_mawsoni	0.021000	0.906804
+15	154	XP_012537821.1_rhodopsin_Monomorium_pharaonis	0.010000	0.906815

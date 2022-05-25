@@ -1,0 +1,40 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.459477] initialisation done (initScore = 0.974542, numBip=3661)
+[0.026695] sorting bipartition profile
+[0.122272] computed / updated events
+[0.045767] combined events
+[0.007300] calculated per dropset improvement
+[0.008008] executed the merging events 
+>160	XP_031467723.1_red-sensitive_opsin-like_partial_Phasianus_colchicus	1.000000	0.975560
+[0.004975] sorting bipartition profile
+[0.002002] computed / updated events
+[0.043119] combined events
+[0.005681] calculated per dropset improvement
+[0.011803] executed the merging events 
+>798	XP_022670895.1_visual_pigment-like_receptor_peropsin_Varroa_destructor	1.000000	0.976578
+[0.005755] sorting bipartition profile
+[0.002438] computed / updated events
+[0.039225] combined events
+[0.006579] calculated per dropset improvement
+[0.009067] executed the merging events 
+>497	KPI93338.1_Opsin-1_Papilio_xuthus	1.000000	0.977597
+[0.005475] sorting bipartition profile
+[0.002322] computed / updated events
+[0.041191] combined events
+[0.006841] calculated per dropset improvement
+[0.009100] executed the merging events 
+>599	JAL83509.1_hypothetical_protein_Daphnia_magna	1.000000	0.978615
+[0.005025] sorting bipartition profile
+[0.002563] computed / updated events
+[0.035280] combined events
+[0.006804] calculated per dropset improvement
+[0.010676] executed the merging events 
+>403	XP_023045121.1_G-protein_coupled_receptor_176_Piliocolobus_tephrosceles	1.000000	0.979633
+[0.005619] sorting bipartition profile
+[0.001888] computed / updated events
+[0.034154] combined events
+[0.005493] calculated per dropset improvement
+total time elapsed: 1.973536

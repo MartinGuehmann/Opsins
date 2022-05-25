@@ -1,0 +1,8 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.971487
+1	905	WP_099797806.1_PilT_PilU_family_type_4a_pilus_ATPase_Synechococcus_lividus	2.000000	0.973523
+2	503	AIT99328.1_blue-sensitive_opsin-like_protein_partial_Brachionus_koreanus	1.000000	0.974542
+3	764	ABK54920.1_long_wavelength_rhodopsin_partial_Dasymutilla_aureola	1.000000	0.975560
+4	522	ODM97999.1_Opsin-5_Orchesella_cincta	1.000000	0.976578
+5	133	XP_027003922.1_lysophosphatidic_acid_receptor_6-like_Tachysurus_fulvidraco	1.000000	0.977597
+6	197	XP_002108462.1_hypothetical_protein_TRIADDRAFT_51389_Trichoplax_adhaerens	1.000000	0.978615

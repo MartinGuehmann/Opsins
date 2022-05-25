@@ -1,0 +1,58 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.277128] initialisation done (initScore = 0.959267, numBip=3693)
+[0.013515] sorting bipartition profile
+[0.101833] computed / updated events
+[0.032035] combined events
+[0.008718] calculated per dropset improvement
+[0.010097] executed the merging events 
+>558	Pseudopotamilla_reniformisII_TRINITY_DN47402_c0_g1_i1|ORF1	1.000000	0.960285
+[0.004485] sorting bipartition profile
+[0.002356] computed / updated events
+[0.047266] combined events
+[0.007666] calculated per dropset improvement
+[0.008167] executed the merging events 
+>658	TWW73872.1_G-protein_coupled_receptor_136_Takifugu_flavidus	1.000000	0.961303
+[0.004647] sorting bipartition profile
+[0.002286] computed / updated events
+[0.039326] combined events
+[0.006650] calculated per dropset improvement
+[0.007978] executed the merging events 
+>315	QGW08880.1_teleost_multiple_tissue_opsin_1_partial_Glaucostegus_typus	1.000000	0.962322
+[0.005167] sorting bipartition profile
+[0.001477] computed / updated events
+[0.035684] combined events
+[0.006608] calculated per dropset improvement
+[0.009156] executed the merging events 
+>247	KOO28473.1_hypothetical_protein_Ctob_003518_Chrysochromulina_tobinii	1.000000	0.963340
+[0.005386] sorting bipartition profile
+[0.002172] computed / updated events
+[0.038512] combined events
+[0.006087] calculated per dropset improvement
+[0.007574] executed the merging events 
+>464	AJD38755.1_short-wavelength_sensitive_opsin_2B_Helostoma_temminkii	1.000000	0.964358
+[0.004927] sorting bipartition profile
+[0.002169] computed / updated events
+[0.035077] combined events
+[0.005333] calculated per dropset improvement
+[0.006195] executed the merging events 
+>165	AEO80027.1_long-wavelength_rhodopsin_partial_Sphecius_speciosus	1.000000	0.965377
+[0.004712] sorting bipartition profile
+[0.002338] computed / updated events
+[0.044770] combined events
+[0.006285] calculated per dropset improvement
+[0.005636] executed the merging events 
+>284	XP_022196699.1_short-wave-sensitive_opsin_1-like_Nilaparvata_lugens	1.000000	0.966395
+[0.004601] sorting bipartition profile
+[0.002567] computed / updated events
+[0.049038] combined events
+[0.008152] calculated per dropset improvement
+[0.005948] executed the merging events 
+>752,750	DAniello2015_ops6_Ptychodera_flava,XP_018425334.1_PREDICTED_visual_pigment-like_receptor_peropsin_Nanorana_parkeri	1.000000	0.967413
+[0.006271] sorting bipartition profile
+[0.001886] computed / updated events
+[0.049384] combined events
+[0.007658] calculated per dropset improvement
+total time elapsed: 1.946130

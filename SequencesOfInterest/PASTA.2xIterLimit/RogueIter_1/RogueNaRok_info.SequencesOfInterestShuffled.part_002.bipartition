@@ -1,0 +1,40 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.425641] initialisation done (initScore = 0.968432, numBip=3848)
+[0.013490] sorting bipartition profile
+[0.131023] computed / updated events
+[0.042806] combined events
+[0.006430] calculated per dropset improvement
+[0.014292] executed the merging events 
+>668	XP_022092780.1_visual_pigment-like_receptor_peropsin_Acanthaster_planci	1.000000	0.969450
+[0.005105] sorting bipartition profile
+[0.001411] computed / updated events
+[0.048613] combined events
+[0.008510] calculated per dropset improvement
+[0.009701] executed the merging events 
+>895	tr|A0A3Q3J6X8|A0A3Q3J6X8_MONAL_Parietopsin_OS_Monopterus_albus_OX_43700_PE_4_SV_1	1.000000	0.970468
+[0.006305] sorting bipartition profile
+[0.003091] computed / updated events
+[0.049045] combined events
+[0.008865] calculated per dropset improvement
+[0.013265] executed the merging events 
+>761	AEO00700.1_SWS2B_opsin_partial_Abudefduf_sexfasciatus	1.000000	0.971487
+[0.005531] sorting bipartition profile
+[0.003568] computed / updated events
+[0.048145] combined events
+[0.007455] calculated per dropset improvement
+[0.011279] executed the merging events 
+>789	BAM72013.1_green_opsin_Engraulis_japonicus	1.000000	0.972505
+[0.005089] sorting bipartition profile
+[0.001431] computed / updated events
+[0.048243] combined events
+[0.006062] calculated per dropset improvement
+[0.008548] executed the merging events 
+>197	XP_011670210.2_G-protein_coupled_receptor_52-like_Strongylocentrotus_purpuratus	1.000000	0.973523
+[0.005211] sorting bipartition profile
+[0.002210] computed / updated events
+[0.046973] combined events
+[0.006477] calculated per dropset improvement
+total time elapsed: 1.994765

@@ -1,0 +1,7 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.963340
+1	607	MPC37709.1_Ocellar_opsin_Portunus_trituberculatus	2.000000	0.965377
+2	392	Branchiomma_TRINITY_DN56132_c0_g1_i1|ORF2	1.000000	0.966395
+3	919	tr|A0A2G9UXU3|A0A2G9UXU3_TELCI_XYPPX_repeat_protein_OS_Teladorsagia_circumcincta_OX_45464_GN_TELCIR_02915_PE_4_SV_1	1.000000	0.967413
+4	604	XP_034231936.1_opsin_ultraviolet-sensitive-like_Thrips_palmi	1.000000	0.968432
+5	491,425	XP_027039232.1_melanopsin-like_Pocillopora_damicornis,Bispira_guinensis_TRINITY_DN34101_c2_g1_i1|ORF7	1.000000	0.969450

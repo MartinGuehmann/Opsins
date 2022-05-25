@@ -1,0 +1,40 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.263739] initialisation done (initScore = 0.973523, numBip=3760)
+[0.013331] sorting bipartition profile
+[0.081118] computed / updated events
+[0.031119] combined events
+[0.004644] calculated per dropset improvement
+[0.004511] executed the merging events 
+>51	RXN37756.1_melanopsin-B-like_protein_Labeo_rohita	2.000000	0.975560
+[0.004640] sorting bipartition profile
+[0.001532] computed / updated events
+[0.030429] combined events
+[0.004412] calculated per dropset improvement
+[0.004478] executed the merging events 
+>763	NP_001304659.1_red-sensitive_opsin-like_Callorhinchus_milii	1.000000	0.976578
+[0.004777] sorting bipartition profile
+[0.001412] computed / updated events
+[0.030201] combined events
+[0.004337] calculated per dropset improvement
+[0.004217] executed the merging events 
+>655	AKS48307.1_Go_coupled_opsin_2_Platynereis_dumerilii	1.000000	0.977597
+[0.004723] sorting bipartition profile
+[0.001272] computed / updated events
+[0.030683] combined events
+[0.004449] calculated per dropset improvement
+[0.004342] executed the merging events 
+>229	APY20589.1_ultraviolet_sensitive_opsin_Conwentzia_psociformis	1.000000	0.978615
+[0.004412] sorting bipartition profile
+[0.001414] computed / updated events
+[0.030189] combined events
+[0.004627] calculated per dropset improvement
+[0.004821] executed the merging events 
+>373	XP_023657941.1_G-protein_coupled_receptor_176_isoform_X1_Paramormyrops_kingsleyae	1.000000	0.979633
+[0.004677] sorting bipartition profile
+[0.001892] computed / updated events
+[0.029333] combined events
+[0.004554] calculated per dropset improvement
+total time elapsed: 1.621174

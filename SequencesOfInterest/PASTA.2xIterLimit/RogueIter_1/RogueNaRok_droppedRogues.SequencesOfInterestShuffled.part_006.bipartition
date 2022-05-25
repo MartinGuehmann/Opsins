@@ -1,0 +1,7 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.973523
+1	51	RXN37756.1_melanopsin-B-like_protein_Labeo_rohita	2.000000	0.975560
+2	763	NP_001304659.1_red-sensitive_opsin-like_Callorhinchus_milii	1.000000	0.976578
+3	655	AKS48307.1_Go_coupled_opsin_2_Platynereis_dumerilii	1.000000	0.977597
+4	229	APY20589.1_ultraviolet_sensitive_opsin_Conwentzia_psociformis	1.000000	0.978615
+5	373	XP_023657941.1_G-protein_coupled_receptor_176_isoform_X1_Paramormyrops_kingsleyae	1.000000	0.979633

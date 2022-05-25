@@ -1,0 +1,46 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.256517] initialisation done (initScore = 0.958248, numBip=3745)
+[0.013443] sorting bipartition profile
+[0.115909] computed / updated events
+[0.038507] combined events
+[0.008296] calculated per dropset improvement
+[0.006455] executed the merging events 
+>890	DAC80522.1_TPA_inf_rhabdomeric_opsin_Schmidtea_mediterranea	1.000000	0.959267
+[0.004835] sorting bipartition profile
+[0.001600] computed / updated events
+[0.039955] combined events
+[0.005772] calculated per dropset improvement
+[0.006988] executed the merging events 
+>315	Sabella_spallanzanii_TRINITY_DN60005_c0_g1_i1|ORF2	1.000000	0.960285
+[0.004695] sorting bipartition profile
+[0.001424] computed / updated events
+[0.038560] combined events
+[0.005701] calculated per dropset improvement
+[0.006786] executed the merging events 
+>822	AAT01077.1_putative_rhodopsin_Homalodisca_vitripennis	1.000000	0.961303
+[0.004853] sorting bipartition profile
+[0.001616] computed / updated events
+[0.039227] combined events
+[0.006120] calculated per dropset improvement
+[0.007094] executed the merging events 
+>571	RDD36768.1_Pinopsin_Trichoplax_sp._H2	1.000000	0.962322
+[0.004728] sorting bipartition profile
+[0.002672] computed / updated events
+[0.038493] combined events
+[0.005534] calculated per dropset improvement
+[0.007148] executed the merging events 
+>130	tr|A0A3B3SLC6|A0A3B3SLC6_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Paramormyrops_kingsleyae_OX_1676925_PE_3_SV_1	1.000000	0.963340
+[0.004639] sorting bipartition profile
+[0.001507] computed / updated events
+[0.038460] combined events
+[0.005274] calculated per dropset improvement
+[0.006421] executed the merging events 
+>574,564	VDK47124.1_unnamed_protein_product_Anisakis_simplex,CAB3399447.1_unnamed_protein_product_Caenorhabditis_bovis	1.000000	0.964358
+[0.006092] sorting bipartition profile
+[0.003207] computed / updated events
+[0.036856] combined events
+[0.005996] calculated per dropset improvement
+total time elapsed: 1.782283

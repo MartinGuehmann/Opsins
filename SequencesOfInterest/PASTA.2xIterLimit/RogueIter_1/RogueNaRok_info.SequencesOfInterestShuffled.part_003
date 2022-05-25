@@ -1,0 +1,94 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.415370] initialisation done (initScore = 0.906577, numBip=3661)
+[0.014296] sorting bipartition profile
+[0.127644] computed / updated events
+[0.041172] combined events
+[0.006313] calculated per dropset improvement
+[0.005244] executed the merging events 
+>497	KPI93338.1_Opsin-1_Papilio_xuthus	1.083000	0.907680
+[0.004510] sorting bipartition profile
+[0.001805] computed / updated events
+[0.042838] combined events
+[0.005554] calculated per dropset improvement
+[0.006148] executed the merging events 
+>160	XP_031467723.1_red-sensitive_opsin-like_partial_Phasianus_colchicus	1.035000	0.908734
+[0.006800] sorting bipartition profile
+[0.002072] computed / updated events
+[0.044983] combined events
+[0.005518] calculated per dropset improvement
+[0.006634] executed the merging events 
+>599	JAL83509.1_hypothetical_protein_Daphnia_magna	0.947000	0.909699
+[0.005313] sorting bipartition profile
+[0.002507] computed / updated events
+[0.042223] combined events
+[0.005156] calculated per dropset improvement
+[0.005206] executed the merging events 
+>227	CCA29935.1_rhodopsin_partial_Macruronus_novaezelandiae	0.910000	0.910625
+[0.005001] sorting bipartition profile
+[0.002254] computed / updated events
+[0.042518] combined events
+[0.005476] calculated per dropset improvement
+[0.005257] executed the merging events 
+>798	XP_022670895.1_visual_pigment-like_receptor_peropsin_Varroa_destructor	0.831000	0.911471
+[0.004692] sorting bipartition profile
+[0.001988] computed / updated events
+[0.041502] combined events
+[0.005267] calculated per dropset improvement
+[0.005517] executed the merging events 
+>403	XP_023045121.1_G-protein_coupled_receptor_176_Piliocolobus_tephrosceles	0.757000	0.912242
+[0.005409] sorting bipartition profile
+[0.002286] computed / updated events
+[0.041922] combined events
+[0.006709] calculated per dropset improvement
+[0.009318] executed the merging events 
+>36	Spirobranchus_corniculatus_Contig2815|ORF9	0.373000	0.912622
+[0.005453] sorting bipartition profile
+[0.002182] computed / updated events
+[0.047463] combined events
+[0.008361] calculated per dropset improvement
+[0.009251] executed the merging events 
+>469	XP_018965251.1_PREDICTED_sphingosine_1-phosphate_receptor_3-like_Cyprinus_carpio	0.181000	0.912807
+[0.005415] sorting bipartition profile
+[0.002650] computed / updated events
+[0.044225] combined events
+[0.006009] calculated per dropset improvement
+[0.006384] executed the merging events 
+>806	DAB27260.1_TPA_inf_G0-opsin_partial_Lineus_longissimus	0.170000	0.912980
+[0.004922] sorting bipartition profile
+[0.001477] computed / updated events
+[0.038836] combined events
+[0.006537] calculated per dropset improvement
+[0.006010] executed the merging events 
+>837	KZS03018.1_Uncharacterized_protein_APZ42_034443_Daphnia_magna	0.112000	0.913094
+[0.004528] sorting bipartition profile
+[0.002539] computed / updated events
+[0.036941] combined events
+[0.006361] calculated per dropset improvement
+[0.010976] executed the merging events 
+>423	RIB28107.1_hypothetical_protein_C2G38_1592903_Gigaspora_rosea	0.096000	0.913191
+[0.004857] sorting bipartition profile
+[0.001823] computed / updated events
+[0.043529] combined events
+[0.005652] calculated per dropset improvement
+[0.007455] executed the merging events 
+>827	XP_784266.3_visual_pigment-like_receptor_peropsin_Strongylocentrotus_purpuratus	0.046000	0.913238
+[0.004298] sorting bipartition profile
+[0.001386] computed / updated events
+[0.038059] combined events
+[0.005082] calculated per dropset improvement
+[0.006832] executed the merging events 
+>460	XP_008830406.1_olfactory_receptor_5AN1-like_Nannospalax_galili	0.029000	0.913268
+[0.004655] sorting bipartition profile
+[0.002285] computed / updated events
+[0.032379] combined events
+[0.005811] calculated per dropset improvement
+[0.006457] executed the merging events 
+>604	JAL40088.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna	0.005000	0.913273
+[0.004458] sorting bipartition profile
+[0.001936] computed / updated events
+[0.033773] combined events
+[0.006392] calculated per dropset improvement
+total time elapsed: 2.457049

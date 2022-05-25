@@ -1,0 +1,64 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.279338] initialisation done (initScore = 0.950102, numBip=4150)
+[0.013705] sorting bipartition profile
+[0.096446] computed / updated events
+[0.041051] combined events
+[0.005415] calculated per dropset improvement
+[0.005309] executed the merging events 
+>486	XP_033644353.1_rhodopsin-like_Asterias_rubens	2.000000	0.952138
+[0.004784] sorting bipartition profile
+[0.001018] computed / updated events
+[0.040750] combined events
+[0.004984] calculated per dropset improvement
+[0.006165] executed the merging events 
+>785	PRD22354.1_Opsin-5_Trichonephila_clavipes	2.000000	0.954175
+[0.004891] sorting bipartition profile
+[0.001645] computed / updated events
+[0.038327] combined events
+[0.004954] calculated per dropset improvement
+[0.005596] executed the merging events 
+>426,424	Notalux_sp1_TRINITY_DN105894_c0_g1_i1|ORF4,T16876.1_NIB1959-5R_Normalized_infant_brain_Bento_Soares_Homo_sapiens_cDNA_5end_mRNA_sequence	2.000000	0.956212
+[0.006632] sorting bipartition profile
+[0.002234] computed / updated events
+[0.034574] combined events
+[0.004678] calculated per dropset improvement
+[0.005463] executed the merging events 
+>75	JAL40087.1_putative_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna	1.000000	0.957230
+[0.004938] sorting bipartition profile
+[0.001737] computed / updated events
+[0.034463] combined events
+[0.004623] calculated per dropset improvement
+[0.005086] executed the merging events 
+>823	XP_019631155.1_PREDICTED_opsin-5-like_Branchiostoma_belcheri	1.000000	0.958248
+[0.005016] sorting bipartition profile
+[0.001554] computed / updated events
+[0.033368] combined events
+[0.004585] calculated per dropset improvement
+[0.005056] executed the merging events 
+>398	XP_009504167.1_PREDICTED_G-protein_coupled_receptor_15_Phalacrocorax_carbo	1.000000	0.959267
+[0.004983] sorting bipartition profile
+[0.001522] computed / updated events
+[0.033680] combined events
+[0.004562] calculated per dropset improvement
+[0.004825] executed the merging events 
+>518	TRY60025.1_hypothetical_protein_DNTS_033675_partial_Danionella_translucida	1.000000	0.960285
+[0.004798] sorting bipartition profile
+[0.001020] computed / updated events
+[0.033596] combined events
+[0.004784] calculated per dropset improvement
+[0.005232] executed the merging events 
+>130	ACB70945.1_long_wavelength_rhodopsin_partial_Typhoctes_peculiaris	1.000000	0.961303
+[0.005237] sorting bipartition profile
+[0.001873] computed / updated events
+[0.032146] combined events
+[0.004528] calculated per dropset improvement
+[0.005206] executed the merging events 
+>79,76	JAN65654.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_partial_Daphnia_magna,JAK54258.1_putative_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_partial_Daphnia_magna	1.000000	0.962322
+[0.006231] sorting bipartition profile
+[0.001817] computed / updated events
+[0.032193] combined events
+[0.004404] calculated per dropset improvement
+total time elapsed: 1.901932

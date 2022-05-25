@@ -1,0 +1,46 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.415669] initialisation done (initScore = 0.971487, numBip=3866)
+[0.015192] sorting bipartition profile
+[0.132351] computed / updated events
+[0.041685] combined events
+[0.007478] calculated per dropset improvement
+[0.007396] executed the merging events 
+>905	WP_099797806.1_PilT_PilU_family_type_4a_pilus_ATPase_Synechococcus_lividus	2.000000	0.973523
+[0.004717] sorting bipartition profile
+[0.002399] computed / updated events
+[0.044093] combined events
+[0.005878] calculated per dropset improvement
+[0.008564] executed the merging events 
+>503	AIT99328.1_blue-sensitive_opsin-like_protein_partial_Brachionus_koreanus	1.000000	0.974542
+[0.005343] sorting bipartition profile
+[0.002053] computed / updated events
+[0.044405] combined events
+[0.006104] calculated per dropset improvement
+[0.008150] executed the merging events 
+>764	ABK54920.1_long_wavelength_rhodopsin_partial_Dasymutilla_aureola	1.000000	0.975560
+[0.005291] sorting bipartition profile
+[0.003854] computed / updated events
+[0.042960] combined events
+[0.005644] calculated per dropset improvement
+[0.007544] executed the merging events 
+>522	ODM97999.1_Opsin-5_Orchesella_cincta	1.000000	0.976578
+[0.005083] sorting bipartition profile
+[0.003157] computed / updated events
+[0.041288] combined events
+[0.005947] calculated per dropset improvement
+[0.007695] executed the merging events 
+>133	XP_027003922.1_lysophosphatidic_acid_receptor_6-like_Tachysurus_fulvidraco	1.000000	0.977597
+[0.004989] sorting bipartition profile
+[0.002503] computed / updated events
+[0.044213] combined events
+[0.005464] calculated per dropset improvement
+[0.007541] executed the merging events 
+>197	XP_002108462.1_hypothetical_protein_TRIADDRAFT_51389_Trichoplax_adhaerens	1.000000	0.978615
+[0.005001] sorting bipartition profile
+[0.002431] computed / updated events
+[0.042516] combined events
+[0.006546] calculated per dropset improvement
+total time elapsed: 2.001964

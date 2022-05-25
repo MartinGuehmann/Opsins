@@ -1,0 +1,100 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.337644] initialisation done (initScore = 0.898686, numBip=3760)
+[0.013657] sorting bipartition profile
+[0.119595] computed / updated events
+[0.036294] combined events
+[0.006175] calculated per dropset improvement
+[0.005730] executed the merging events 
+>51	RXN37756.1_melanopsin-B-like_protein_Labeo_rohita	1.838000	0.900558
+[0.004271] sorting bipartition profile
+[0.002015] computed / updated events
+[0.038254] combined events
+[0.005856] calculated per dropset improvement
+[0.006849] executed the merging events 
+>764	ANV21067.1_long-wavelength-sensitive_opsin_Mordacia_mordax	1.033000	0.901610
+[0.004244] sorting bipartition profile
+[0.002012] computed / updated events
+[0.039171] combined events
+[0.005979] calculated per dropset improvement
+[0.006899] executed the merging events 
+>647	DAniello2015_ops8_Eucidaris_tribuloides	0.896000	0.902522
+[0.004237] sorting bipartition profile
+[0.001347] computed / updated events
+[0.037345] combined events
+[0.005457] calculated per dropset improvement
+[0.006084] executed the merging events 
+>534	tr|H2ZH94|H2ZH94_CIOSA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Ciona_savignyi_OX_51511_PE_3_SV_1	0.889000	0.903428
+[0.004198] sorting bipartition profile
+[0.001323] computed / updated events
+[0.037903] combined events
+[0.005652] calculated per dropset improvement
+[0.006304] executed the merging events 
+>451	XP_027055517.1_neuropeptide_SIFamide_receptor-like_Pocillopora_damicornis	0.728000	0.904169
+[0.004180] sorting bipartition profile
+[0.002573] computed / updated events
+[0.036055] combined events
+[0.005279] calculated per dropset improvement
+[0.006749] executed the merging events 
+>361	RDD40517.1_Melanopsin_Trichoplax_sp._H2	0.568000	0.904747
+[0.004574] sorting bipartition profile
+[0.002450] computed / updated events
+[0.035739] combined events
+[0.005390] calculated per dropset improvement
+[0.006456] executed the merging events 
+>655	AKS48307.1_Go_coupled_opsin_2_Platynereis_dumerilii	0.526000	0.905283
+[0.004137] sorting bipartition profile
+[0.001452] computed / updated events
+[0.036706] combined events
+[0.005461] calculated per dropset improvement
+[0.006619] executed the merging events 
+>229	APY20589.1_ultraviolet_sensitive_opsin_Conwentzia_psociformis	0.378000	0.905668
+[0.004314] sorting bipartition profile
+[0.001726] computed / updated events
+[0.035273] combined events
+[0.005114] calculated per dropset improvement
+[0.006086] executed the merging events 
+>944	VEN60747.1_unnamed_protein_product_partial_Callosobruchus_maculatus	0.353000	0.906027
+[0.004264] sorting bipartition profile
+[0.001545] computed / updated events
+[0.034858] combined events
+[0.005263] calculated per dropset improvement
+[0.006228] executed the merging events 
+>80	tr|A0A182M0M0|A0A182M0M0_9DIPT_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Anopheles_culicifacies_OX_139723_PE_4_SV_1	0.263000	0.906295
+[0.004452] sorting bipartition profile
+[0.001135] computed / updated events
+[0.035199] combined events
+[0.005131] calculated per dropset improvement
+[0.006102] executed the merging events 
+>382,373	XP_034488594.1_RYamide_receptor_isoform_X3_Drosophila_innubila,XP_023657941.1_G-protein_coupled_receptor_176_isoform_X1_Paramormyrops_kingsleyae	0.292000	0.906593
+[0.005892] sorting bipartition profile
+[0.002256] computed / updated events
+[0.033742] combined events
+[0.005147] calculated per dropset improvement
+[0.005899] executed the merging events 
+>321	XP_020609096.1_neuromedin-U_receptor_2-like_Orbicella_faveolata	0.098000	0.906692
+[0.004624] sorting bipartition profile
+[0.002540] computed / updated events
+[0.031734] combined events
+[0.004654] calculated per dropset improvement
+[0.005891] executed the merging events 
+>157	KYN13668.1_Rhodopsin_Trachymyrmex_cornetzi	0.089000	0.906783
+[0.004336] sorting bipartition profile
+[0.003076] computed / updated events
+[0.031534] combined events
+[0.004726] calculated per dropset improvement
+[0.004926] executed the merging events 
+>47	KAF3851142.1_hypothetical_protein_F7725_012914_Dissostichus_mawsoni	0.021000	0.906804
+[0.004406] sorting bipartition profile
+[0.001440] computed / updated events
+[0.031061] combined events
+[0.004393] calculated per dropset improvement
+[0.004945] executed the merging events 
+>154	XP_012537821.1_rhodopsin_Monomorium_pharaonis	0.010000	0.906815
+[0.004577] sorting bipartition profile
+[0.002089] computed / updated events
+[0.031345] combined events
+[0.004548] calculated per dropset improvement
+total time elapsed: 2.305685

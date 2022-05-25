@@ -1,0 +1,9 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.963377
+1	632	XP_028809020.1_G-protein_coupled_receptor_176_Denticeps_clupeoides	3.000000	0.966429
+2	447	tr|A0A4W5KZ34|A0A4W5KZ34_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Hucho_hucho_OX_62062_PE_3_SV_1	2.000000	0.968464
+3	668	Chone_infundibiliformis_SOAP_k35_C421641|ORF1	2.000000	0.970498
+4	499	tr|A0A3Q0R5Q2|A0A3Q0R5Q2_AMPCI_Histamine_receptor_H2a_OS_Amphilophus_citrinellus_OX_61819_PE_3_SV_1	1.000000	0.971516
+5	164	BAA96828.1_cone_pigment_Lithobates_catesbeianus	1.000000	0.972533
+6	462,332	XP_009051533.1_hypothetical_protein_LOTGIDRAFT_152765_Lottia_gigantea,QFQ66903.1_RRH-like_protein_Hofstenia_miamia	2.000000	0.974568
+7	426	TNN44880.1_Opsin-5_Liparis_tanakae	1.000000	0.975585

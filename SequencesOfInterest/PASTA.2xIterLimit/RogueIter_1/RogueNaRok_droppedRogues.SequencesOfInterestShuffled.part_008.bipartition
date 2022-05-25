@@ -1,0 +1,11 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.963340
+1	898	AIT99331.1_opsin_partial_Brachionus_koreanus	2.000000	0.965377
+2	718	ELU03019.1_hypothetical_protein_CAPTEDRAFT_54244_partial_Capitella_teleta	2.000000	0.967413
+3	757	QIB85075.1_long_wavelength_rhodopsin_partial_Basiceros_militaris	1.000000	0.968432
+4	847	JAN88250.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop2_partial_Daphnia_magna	1.000000	0.969450
+5	489	XP_016063278.1_PREDICTED_G-protein_coupled_receptor_20_Miniopterus_natalensis	1.000000	0.970468
+6	588	XP_027048887.1_type-1_angiotensin_II_receptor_B-like_Pocillopora_damicornis	1.000000	0.971487
+7	239	tr|A0A3B5B8V0|A0A3B5B8V0_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Stegastes_partitus_OX_144197_PE_3_SV_1	1.000000	0.972505
+8	51	TWW72897.1_Pineal_opsin_Takifugu_flavidus	1.000000	0.973523
+9	664	RDD38730.1_Blue-sensitive_opsin_Trichoplax_sp._H2	1.000000	0.974542

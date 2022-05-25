@@ -1,0 +1,7 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.974542
+1	160	XP_031467723.1_red-sensitive_opsin-like_partial_Phasianus_colchicus	1.000000	0.975560
+2	798	XP_022670895.1_visual_pigment-like_receptor_peropsin_Varroa_destructor	1.000000	0.976578
+3	497	KPI93338.1_Opsin-1_Papilio_xuthus	1.000000	0.977597
+4	599	JAL83509.1_hypothetical_protein_Daphnia_magna	1.000000	0.978615
+5	403	XP_023045121.1_G-protein_coupled_receptor_176_Piliocolobus_tephrosceles	1.000000	0.979633

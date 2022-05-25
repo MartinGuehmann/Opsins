@@ -1,0 +1,8 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.958248
+1	890	DAC80522.1_TPA_inf_rhabdomeric_opsin_Schmidtea_mediterranea	1.000000	0.959267
+2	315	Sabella_spallanzanii_TRINITY_DN60005_c0_g1_i1|ORF2	1.000000	0.960285
+3	822	AAT01077.1_putative_rhodopsin_Homalodisca_vitripennis	1.000000	0.961303
+4	571	RDD36768.1_Pinopsin_Trichoplax_sp._H2	1.000000	0.962322
+5	130	tr|A0A3B3SLC6|A0A3B3SLC6_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Paramormyrops_kingsleyae_OX_1676925_PE_3_SV_1	1.000000	0.963340
+6	574,564	VDK47124.1_unnamed_protein_product_Anisakis_simplex,CAB3399447.1_unnamed_protein_product_Caenorhabditis_bovis	1.000000	0.964358

@@ -1,0 +1,10 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.959267
+1	558	Pseudopotamilla_reniformisII_TRINITY_DN47402_c0_g1_i1|ORF1	1.000000	0.960285
+2	658	TWW73872.1_G-protein_coupled_receptor_136_Takifugu_flavidus	1.000000	0.961303
+3	315	QGW08880.1_teleost_multiple_tissue_opsin_1_partial_Glaucostegus_typus	1.000000	0.962322
+4	247	KOO28473.1_hypothetical_protein_Ctob_003518_Chrysochromulina_tobinii	1.000000	0.963340
+5	464	AJD38755.1_short-wavelength_sensitive_opsin_2B_Helostoma_temminkii	1.000000	0.964358
+6	165	AEO80027.1_long-wavelength_rhodopsin_partial_Sphecius_speciosus	1.000000	0.965377
+7	284	XP_022196699.1_short-wave-sensitive_opsin_1-like_Nilaparvata_lugens	1.000000	0.966395
+8	752,750	DAniello2015_ops6_Ptychodera_flava,XP_018425334.1_PREDICTED_visual_pigment-like_receptor_peropsin_Nanorana_parkeri	1.000000	0.967413

@@ -1,0 +1,1235 @@
+IQ-TREE multicore version 2.0.6 for Linux 64-bit built May 30 2020
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    bp1-compute00015.data.bp.acrc.priv (AVX512, FMA3, 187 GB RAM)
+Command: iqtree2 -s /work/oa20474/PhylogenyPipeline/Opsins/Alignments/PASTA.2xIterLimit/RogueIter_0/SequencesOfInterestShuffled.part_008.alignment.PASTA.fasta.raxml.reduced.phy -B 1000 --abayes --alrt 1000 -m TEST -nt 8 -ntmax 8 --boot-trees
+Seed:    776782 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Wed Jul  7 12:22:29 2021
+Kernel:  AVX+FMA - 8 threads (56 CPU cores detected)
+
+Reading alignment file /work/oa20474/PhylogenyPipeline/Opsins/Alignments/PASTA.2xIterLimit/RogueIter_0/SequencesOfInterestShuffled.part_008.alignment.PASTA.fasta.raxml.reduced.phy ... Phylip format detected
+Alignment most likely contains protein sequences
+Alignment has 985 sequences with 503 columns, 503 distinct patterns
+503 parsimony-informative, 0 singleton sites, 0 constant sites
+WARNING: Some sequence names are changed as follows:
+SNX37469.1_U<sub_15<_sub_-Deinotoxin-Dsu1a_1_Deinopis_subrufa -> SNX37469.1_U_sub_15__sub_-Deinotoxin-Dsu1a_1_Deinopis_subrufa
+
+                                                                                                                                          Gap/Ambiguity  Composition  p-value
+   1  AAV63834.1_ciliary_opsin_Platynereis_dumerilii                                                                                             37.18%    passed     51.77%
+   2  Notalux_sp1_SOAP_k55_C696102|ORF5                                                                                                          37.38%    passed      5.77%
+   3  miTrinity_TR28943|c0_g1_i1|ORF3                                                                                                            33.60%    passed     10.31%
+   4  Parasabella_TRINITY_DN22460_c0_g1_i1|ORF1                                                                                                  60.04%    passed     25.41%
+   5  XP_023231425.1_rhodopsin-like_Centruroides_sculpturatus                                                                                    34.59%    passed     68.23%
+   6  XP_033335790.1_pinopsin-like_Megalopta_genalis                                                                                             57.06%    failed      1.43%
+   7  KYN02508.1_Melanopsin_Cyphomyrmex_costatus                                                                                                 35.19%    passed     33.17%
+   8  XP_018305101.1_PREDICTED_green-sensitive_opsin-like_Trachymyrmex_zeteki                                                                    39.96%    passed     60.75%
+   9  XP_034947122.1_blue-sensitive_opsin-like_Chelonus_insularis                                                                                37.57%    passed     53.03%
+  10  XP_014250922.1_pinopsin-like_Cimex_lectularius                                                                                             34.19%    passed     78.58%
+  11  PSN43243.1_Pinopsin_partial_Blattella_germanica                                                                                            48.91%    passed     77.54%
+  12  RZF32516.1_hypothetical_protein_LSTR_LSTR017694_Laodelphax_striatellus                                                                     70.18%    passed     21.79%
+  13  BAQ54937.1_opsin_pteropsin_type_partial_Indolestes_peregrinus                                                                              33.40%    passed     72.01%
+  14  AKC01677.1_ciliary-type_opsin_partial_Allodessus_bistrigatus                                                                               45.13%    passed     59.54%
+  15  RVE43896.1_hypothetical_protein_evm_011458_Chilo_suppressalis                                                                              35.19%    passed     36.81%
+  16  XP_013136214.1_PREDICTED_parapinopsin-like_Papilio_polytes                                                                                 30.82%    passed     77.42%
+  17  XP_032518090.1_parapinopsin-like_Danaus_plexippus_plexippus                                                                                30.62%    passed     60.95%
+  18  KOB79086.1_Opsin_partial_Operophtera_brumata                                                                                               66.00%    passed     76.84%
+  19  XP_015834291.1_PREDICTED_c-opsin_isoform_X1_Tribolium_castaneum                                                                            34.39%    passed     68.33%
+  20  VEN40981.1_unnamed_protein_product_partial_Callosobruchus_maculatus                                                                        67.99%    passed     67.56%
+  21  KZS11218.1_putative_Pteropsin4_Daphnia_magna                                                                                               31.01%    passed     85.72%
+  22  JAL54292.1_Gpcr_rhodopsin_family_Daphnia_magna                                                                                             32.01%    passed     91.60%
+  23  JAM96248.1_Gpcr_rhodopsin_family_Daphnia_magna                                                                                             29.82%    passed     97.92%
+  24  JAM07680.1_Gpcr_rhodopsin_family_Daphnia_magna                                                                                             30.02%    passed     92.70%
+  25  JAM06432.1_Gpcr_rhodopsin_family_putative_partial_Daphnia_magna                                                                            63.42%    passed     34.18%
+  26  JAM55578.1_putative_Gpcr_rhodopsin_family_Daphnia_magna                                                                                    64.81%    passed     64.59%
+  27  JAL19917.1_Gpcr_rhodopsin_family_partial_Daphnia_magna                                                                                     57.46%    passed     22.60%
+  28  XP_032785657.1_melanopsin-like_isoform_X1_Daphnia_magna                                                                                    28.83%    passed     90.91%
+  29  RXG73426.1_Melanopsin_Armadillidium_vulgare                                                                                                77.14%    passed     17.54%
+  30  XP_023344028.1_rhodopsin_GQ-coupled-like_Eurytemora_affinis                                                                                59.05%    passed     33.92%
+  31  CCP46947.1_c-opsin_Euperipatoides_kanangrensis                                                                                             31.81%    passed      7.55%
+  32  tr|A0A3Q3M3P3|A0A3Q3M3P3_9TELE_Teleost_multiple_tissue_opsin_b_OS_Mastacembelus_armatus_OX_205130_PE_3_SV_1                                37.77%    passed     92.98%
+  33  XP_029955224.1_pinopsin-like_Salarias_fasciatus                                                                                            31.41%    passed      9.13%
+  34  XP_023250844.1_pinopsin-like_isoform_X1_Seriola_lalandi_dorsalis                                                                           32.21%    passed     33.37%
+  35  XP_034428890.1_teleost_multiple_tissue_opsin_b_Hippoglossus_hippoglossus                                                                   32.60%    passed     63.30%
+  36  XP_029385195.1_pinopsin-like_Echeneis_naucrates                                                                                            32.80%    passed      8.39%
+  37  XP_028288998.1_pinopsin-like_Parambassis_ranga                                                                                             32.01%    passed     14.40%
+  38  SBP09586.1_teleost_multiple_tissue_opsin_b_partial_Iconisemion_striatum                                                                    32.21%    passed     25.65%
+  39  XP_013860836.1_PREDICTED_LOW_QUALITY_PROTEIN_pinopsin-like_Austrofundulus_limnaeus                                                         32.60%    passed     57.47%
+  40  tr|H2MD81|H2MD81_ORYLA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Oryzias_latipes_OX_8090_GN_tmtops1b_PE_3_SV_2                     32.60%    passed     14.98%
+  41  PWA17974.1_hypothetical_protein_CCH79_00003987_Gambusia_affinis                                                                            76.74%    passed     40.20%
+  42  XP_005805805.1_pinopsin-like_isoform_X1_Xiphophorus_maculatus                                                                              32.60%    failed      4.13%
+  43  XP_017308205.1_PREDICTED_parapinopsin-like_isoform_X1_Ictalurus_punctatus                                                                  32.01%    passed     76.96%
+  44  KAA0704626.1_Pinopsin_Pineal_gland-specific_opsin_Triplophysa_tibetana                                                                     32.01%    passed     51.44%
+  45  NP_001299608.1_teleost_multiple_tissue_opsin_b_Danio_rerio                                                                                 32.01%    passed     43.82%
+  46  XP_020479761.1_pinopsin-like_isoform_X1_Monopterus_albus                                                                                   31.81%    passed     72.83%
+  47  XP_033838613.1_vertebrate_ancient_opsin-like_Periophthalmus_magnuspinnatus                                                                 31.61%    passed     49.13%
+  48  KAA8587416.1_hypothetical_protein_FQN60_016278_Etheostoma_spectabile                                                                       56.66%    failed      1.71%
+  49  TWW72897.1_Pineal_opsin_Takifugu_flavidus                                                                                                  70.58%    passed     16.53%
+  50  AWP04486.1_teleost_multiple_tissue_opsin-like_Scophthalmus_maximus                                                                         32.01%    passed     59.85%
+  51  tr|A0A3B5KUW1|A0A3B5KUW1_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Xiphophorus_couchianus_OX_32473_PE_4_SV_1                 75.75%    passed     35.05%
+  52  XP_016523318.1_PREDICTED_vertebrate_ancient_opsin-like_partial_Poecilia_formosa                                                            74.55%    passed     69.06%
+  53  TNN81450.1_Opsin-3_Liparis_tanakae                                                                                                         46.92%    failed      4.01%
+  54  XP_013994729.1_PREDICTED_opsin-3-like_isoform_X3_Salmo_salar                                                                               47.32%    passed     61.44%
+  55  CAB1325776.1_unnamed_protein_product_Coregonus_sp._balchen                                                                                 87.48%    passed     24.50%
+  56  XP_014043900.1_PREDICTED_pinopsin-like_Salmo_salar                                                                                         31.81%    passed     91.85%
+  57  RXM99665.1_Pinopsin_Acipenser_ruthenus                                                                                                     51.69%    passed     80.38%
+  58  TRZ15950.1_hypothetical_protein_HGM15179_011149_Zosterops_borbonicus                                                                       86.48%    passed     85.15%
+  59  OWK57611.1_Pinopsin_Lonchura_striata_domestica                                                                                             55.86%    passed     87.89%
+  60  XP_018608750.2_vertebrate_ancient_opsin-like_Scleropages_formosus                                                                          33.00%    passed     81.97%
+  61  TTN01732.1_Pinopsin_Bagarius_yarrelli                                                                                                      32.80%    passed     60.60%
+  62  XP_013809675.1_PREDICTED_pinopsin-like_Apteryx_mantelli_mantelli                                                                           32.41%    passed      6.90%
+  63  XP_017326070.1_PREDICTED_pinopsin-like_Ictalurus_punctatus                                                                                 32.60%    passed     74.26%
+  64  CAB1346469.1_unnamed_protein_product_Coregonus_sp._balchen                                                                                 48.51%    passed     48.76%
+  65  TDH06669.1_hypothetical_protein_EPR50_G00116660_Perca_flavescens                                                                           76.54%    passed     45.02%
+  66  XP_015821053.1_PREDICTED_opsin-3-like_Nothobranchius_furzeri                                                                               78.13%    passed     20.94%
+  67  tr|A0A3P9KM47|A0A3P9KM47_ORYLA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Oryzias_latipes_OX_8090_PE_3_SV_1                         32.21%    passed     64.29%
+  68  TMS06480.1_Vertebrate_ancient_opsin_Larimichthys_crocea                                                                                    32.41%    passed     64.45%
+  69  XP_034417706.1_LOW_QUALITY_PROTEIN_teleost_multiple_tissue_opsin_2b_Cyclopterus_lumpus                                                     39.36%    passed     16.90%
+  70  CDQ74432.1_unnamed_protein_product_Oncorhynchus_mykiss                                                                                     32.60%    failed      0.00%
+  71  BBI55015.1_multiple_tissue_opsin_2_Anguilla_japonica                                                                                       32.41%    passed     44.24%
+  72  XP_031414028.1_opsin-3-like_Clupea_harengus                                                                                                43.54%    passed     45.44%
+  73  tr|A0A665U4Q9|A0A665U4Q9_ECHNA_Uncharacterized_protein_OS_Echeneis_naucrates_OX_173247_GN_LOC115050794_PE_4_SV_1                           33.20%    failed      0.36%
+  74  tr|A0A665U582|A0A665U582_ECHNA_Uncharacterized_protein_OS_Echeneis_naucrates_OX_173247_GN_LOC115050794_PE_4_SV_1                           36.18%    failed      0.20%
+  75  KAE8584814.1_hypothetical_protein_XENTR_v10021115_Xenopus_tropicalis                                                                       33.60%    passed      9.07%
+  76  tr|A0A674KH56|A0A674KH56_TERCA_Uncharacterized_protein_OS_Terrapene_carolina_triunguis_OX_2587831_PE_4_SV_1                                78.93%    failed      0.70%
+  77  XP_016853216.1_PREDICTED_pinopsin_Anolis_carolinensis                                                                                      32.01%    failed      4.62%
+  78  tr|A0A674KJI8|A0A674KJI8_TERCA_Uncharacterized_protein_OS_Terrapene_carolina_triunguis_OX_2587831_PE_4_SV_1                                63.22%    passed     55.97%
+  79  tr|A0A667ZPZ0|A0A667ZPZ0_9TELE_Uncharacterized_protein_OS_Myripristis_murdjan_OX_586833_GN_LOC115371622_PE_4_SV_1                          46.12%    failed      1.62%
+  80  CAG08854.1_unnamed_protein_product_partial_Tetraodon_nigroviridis                                                                          47.51%    failed      0.13%
+  81  XP_028277845.1_pinopsin-like_Parambassis_ranga                                                                                             33.20%    failed      0.10%
+  82  tr|A0A672HEG0|A0A672HEG0_SALFA_Teleost_multiple_tissue_opsin_3b_OS_Salarias_fasciatus_OX_181472_PE_4_SV_1                                  34.39%    failed      0.00%
+  83  XP_034462759.1_pinopsin-like_Hippoglossus_hippoglossus                                                                                     32.60%    failed      0.18%
+  84  tr|A0A3Q0T1Q9|A0A3Q0T1Q9_AMPCI_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Amphilophus_citrinellus_OX_61819_PE_3_SV_1                60.04%    passed     24.98%
+  85  tr|A0A3Q4GC83|A0A3Q4GC83_NEOBR_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Neolamprologus_brichardi_OX_32507_PE_3_SV_1               34.59%    failed      1.83%
+  86  tr|A0A3B3XQR7|A0A3B3XQR7_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Poecilia_mexicana_OX_48701_PE_3_SV_1                      36.78%    failed      0.02%
+  87  XP_028838953.1_pinopsin-like_Denticeps_clupeoides                                                                                          32.01%    passed     57.44%
+  88  tr|A0A4W5N6R7|A0A4W5N6R7_9TELE_Teleost_multiple_tissue_opsin_3b_OS_Hucho_hucho_OX_62062_PE_3_SV_1                                          33.00%    passed     34.07%
+  89  CDQ63429.1_unnamed_protein_product_Oncorhynchus_mykiss                                                                                     52.09%    passed     74.89%
+  90  XP_030648087.1_pinopsin-like_Chanos_chanos                                                                                                 38.77%    passed     34.23%
+  91  XP_021415312.1_parapinopsin-like_Oncorhynchus_mykiss                                                                                       31.61%    passed     21.18%
+  92  TNN25824.1_Melanopsin-A_Liparis_tanakae                                                                                                    75.94%    passed     26.02%
+  93  KAA8588762.1_hypothetical_protein_FQN60_010107_Etheostoma_spectabile                                                                       38.97%    passed     48.29%
+  94  tr|A0A668S2C3|A0A668S2C3_OREAU_Teleost_multiple_tissue_opsin_3a_OS_Oreochromis_aureus_OX_47969_PE_4_SV_1                                   65.01%    failed      2.29%
+  95  XP_029970415.1_pinopsin-like_Salarias_fasciatus                                                                                            33.60%    passed      7.60%
+  96  XP_019718886.1_PREDICTED_pinopsin-like_Hippocampus_comes                                                                                   35.79%    failed      3.01%
+  97  XP_030224464.1_pinopsin-like_Gadus_morhua                                                                                                  31.61%    failed      1.11%
+  98  KAA0709370.1_Opsin-3_Encephalopsin_Triplophysa_tibetana                                                                                    37.38%    passed     38.50%
+  99  AWU78793.1_C-type_opsin_Branchiostoma_lanceolatum                                                                                          30.62%    passed     74.47%
+ 100  XP_019645819.1_PREDICTED_pinopsin-like_Branchiostoma_belcheri                                                                              29.62%    failed      0.42%
+ 101  QGW08876.1_opsin-3_partial_Geotria_australis                                                                                               55.07%    failed      2.49%
+ 102  XP_019383196.1_PREDICTED_opsin-3_Gavialis_gangeticus                                                                                       30.62%    passed     83.44%
+ 103  XP_024832324.1_LOW_QUALITY_PROTEIN_opsin-3_Bos_taurus                                                                                      56.46%    passed      5.70%
+ 104  XP_007182677.1_LOW_QUALITY_PROTEIN_opsin-3_Balaenoptera_acutorostrata_scammoni                                                             31.21%    passed     34.25%
+ 105  XP_024596234.1_LOW_QUALITY_PROTEIN_opsin-3_Neophocaena_asiaeorientalis_asiaeorientalis                                                     30.42%    passed      7.53%
+ 106  XP_005078226.1_opsin-3_Mesocricetus_auratus                                                                                                30.62%    passed     16.32%
+ 107  XP_035127843.1_opsin-3-like_Callithrix_jacchus                                                                                             78.93%    failed      4.73%
+ 108  XP_007988129.1_PREDICTED_opsin-3_isoform_X2_Chlorocebus_sabaeus                                                                            37.77%    failed      1.08%
+ 109  XP_007077100.2_PREDICTED_opsin-3_Panthera_tigris_altaica                                                                                   30.62%    passed     17.39%
+ 110  XP_029449874.1_opsin-3-like_Rhinatrema_bivittatum                                                                                          30.62%    passed     52.76%
+ 111  XP_034284158.1_opsin-3_Pantherophis_guttatus                                                                                               30.62%    passed     78.25%
+ 112  XP_005996890.1_PREDICTED_opsin-3_Latimeria_chalumnae                                                                                       30.82%    passed     18.18%
+ 113  GCB76592.1_hypothetical_protein_scyTo_0019163_partial_Scyliorhinus_torazame                                                                53.48%    passed     36.22%
+ 114  XP_027030722.1_opsin-3_Tachysurus_fulvidraco                                                                                               30.42%    passed     83.04%
+ 115  XP_010862161.2_opsin-3_isoform_X1_Esox_lucius                                                                                              30.42%    passed     72.43%
+ 116  tr|A0A3Q3M200|A0A3Q3M200_9TELE_Opsin_3_OS_Mastacembelus_armatus_OX_205130_PE_3_SV_1                                                        30.22%    passed     95.04%
+ 117  XP_019945374.1_PREDICTED_opsin-3_Paralichthys_olivaceus                                                                                    30.02%    passed     96.29%
+ 118  XP_006633282.1_PREDICTED_short-wave-sensitive_opsin_1_Lepisosteus_oculatus                                                                 31.81%    passed     21.97%
+ 119  NWI18430.1_OPSUV_protein_partial_Crypturellus_soui                                                                                         55.07%    passed      6.30%
+ 120  NP_990769.1_violet-sensitive_opsin_Gallus_gallus                                                                                           31.81%    passed     14.89%
+ 121  AXS77686.1_short_wavelength_sensitive_type_1_opsin_partial_Myiarchus_panamensis                                                            85.69%    passed     26.33%
+ 122  ELK13873.1_Blue-sensitive_opsin_Pteropus_alecto                                                                                            31.81%    passed     17.25%
+ 123  XP_034876195.1_short-wave-sensitive_opsin_1_Mirounga_leonina                                                                               43.54%    passed     30.90%
+ 124  XP_023988142.1_LOW_QUALITY_PROTEIN_short-wave-sensitive_opsin_1_Physeter_catodon                                                           31.81%    passed      7.08%
+ 125  KAB0399702.1_hypothetical_protein_E2I00_009031_Balaenoptera_physalus                                                                       37.97%    passed      6.75%
+ 126  ALQ32691.1_short_wavelength-sensitive_opsin_1_partial_Dasyprocta_punctata                                                                  78.13%    passed     50.74%
+ 127  XP_012644611.1_short-wave-sensitive_opsin_1_isoform_X2_Microcebus_murinus                                                                  36.98%    passed     13.65%
+ 128  BAW00380.1_UV_opsin_Sardinops_melanostictus                                                                                                34.00%    passed     21.47%
+ 129  XP_029901413.1_short-wave-sensitive_opsin_1_Myripristis_murdjan                                                                            33.00%    passed      6.99%
+ 130  XP_014865567.1_PREDICTED_LOW_QUALITY_PROTEIN_short-wave-sensitive_opsin_1_Poecilia_mexicana                                                33.60%    failed      2.72%
+ 131  RVE56824.1_hypothetical_protein_OJAV_G00224930_Oryzias_javanicus                                                                           33.60%    failed      1.20%
+ 132  tr|A0A3Q3FPI8|A0A3Q3FPI8_9LABR_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Labrus_bergylta_OX_56723_PE_3_SV_1                        33.00%    passed      6.86%
+ 133  XP_028305003.1_short-wave-sensitive_opsin_1_Gouania_willdenowi                                                                             33.20%    passed     16.71%
+ 134  BAU21318.1_ultraviolet_opsin_Epinephelus_bruneus                                                                                           32.80%    passed     15.05%
+ 135  XP_029282297.1_short-wave-sensitive_opsin_1_Cottoperca_gobio                                                                               33.00%    passed      8.70%
+ 136  CAB1333810.1_unnamed_protein_product_Coregonus_sp._balchen                                                                                 38.37%    passed     10.05%
+ 137  AWT62486.1_short-wavelength_sensitive_1_opsin_partial_Pantodon_buchholzi                                                                   42.94%    passed      7.33%
+ 138  sp|Q90309.1|OPSUV_CARAU_RecName_Full_Ultraviolet-sensitive_opsin_AltName_Full_Ultraviolet_cone_photoreceptor_pigment                       33.40%    failed      4.94%
+ 139  AAP58330.1_SWS2_opsin_Oncorhynchus_tshawytscha                                                                                             32.60%    passed     42.22%
+ 140  AMB42897.1_Short_wavelength_sensitive_2B_Epibulus_insidiator                                                                               32.21%    passed     63.56%
+ 141  AJD38800.1_short-wavelength_sensitive_opsin_2B_Carapus_acus                                                                                32.21%    passed     72.08%
+ 142  AJD38770.1_short-wavelength_sensitive_opsin_2B_Macrourus_berglax                                                                           32.41%    passed     65.88%
+ 143  AJD38793.1_short-wavelength_sensitive_opsin_2B_Gadus_chalcogrammus                                                                         32.41%    passed     68.42%
+ 144  AJD38788.1_short-wavelength_sensitive_opsin_2B_Lota_lota                                                                                   32.21%    passed     80.81%
+ 145  ABB88719.1_violet-sensitive_visual_pigment_SWS2b_synthetic_construct                                                                       31.21%    passed     44.28%
+ 146  AJD38758.1_short-wavelength_sensitive_opsin_2B1_partial_Synodus_synodus                                                                    76.94%    passed     78.99%
+ 147  ADA68239.1_short_wave_opsin_Melanotaenia_australis                                                                                         32.21%    passed     96.32%
+ 148  tr|A0A3B3YWR3|A0A3B3YWR3_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Poecilia_mexicana_OX_48701_PE_3_SV_1                      40.56%    passed     66.19%
+ 149  XP_031728434.1_blue-sensitive_opsin-like_Anarrhichthys_ocellatus                                                                           32.21%    passed     77.79%
+ 150  AAQ02799.1_blue-sensitive_pigment_Gadus_morhua                                                                                             32.21%    passed     71.88%
+ 151  XP_029288360.1_blue-sensitive_opsin-like_Cottoperca_gobio                                                                                  32.21%    passed     76.76%
+ 152  QCB20368.1_short-wavelength_sensitive_opsin_Rhabdamia_gracilis                                                                             32.41%    passed     27.92%
+ 153  XP_020448530.1_blue-sensitive_opsin-like_Monopterus_albus                                                                                  55.86%    passed     62.63%
+ 154  AWT62488.1_short-wavelength_sensitive_2_opsin_partial_Xenomystus_nigri                                                                     72.56%    passed     41.66%
+ 155  AKQ22856.1_short-wavelength_sensitive_opsin_2_partial_Ophiodes_striatus                                                                    56.06%    passed     63.58%
+ 156  XP_003216951.2_PREDICTED_blue-sensitive_opsin_isoform_X2_Anolis_carolinensis                                                               30.62%    passed     71.11%
+ 157  OWK49954.1_Blue-sensitive_opsin_Lonchura_striata_domestica                                                                                 48.71%    passed     13.35%
+ 158  OXB58320.1_hypothetical_protein_H355_013977_Colinus_virginianus                                                                            70.58%    passed     10.51%
+ 159  XP_014812091.1_PREDICTED_blue-sensitive_opsin-like_partial_Calidris_pugnax                                                                 64.02%    failed      2.92%
+ 160  tr|A0A671QI10|A0A671QI10_9TELE_Uncharacterized_protein_OS_Sinocyclocheilus_anshuiensis_OX_1608454_PE_4_SV_1                                44.53%    passed     46.64%
+ 161  tr|A0A672PD72|A0A672PD72_SINGR_Uncharacterized_protein_OS_Sinocyclocheilus_grahami_OX_75366_PE_4_SV_1                                      58.65%    passed     82.83%
+ 162  XP_016421070.1_PREDICTED_green-sensitive_opsin-2-like_Sinocyclocheilus_rhinocerous                                                         31.01%    passed     28.67%
+ 163  TRY55057.1_hypothetical_protein_DNTS_020785_partial_Danionella_translucida                                                                 31.61%    passed     32.69%
+ 164  ACC85896.1_green-sensitive_pigment_Rh2C_partial_Opsariichthys_pachycephalus                                                                37.18%    passed     26.93%
+ 165  tr|A0A3Q1JJ45|A0A3Q1JJ45_ANATE_Rhodopsin_OS_Anabas_testudineus_OX_64144_PE_3_SV_1                                                          31.01%    passed     48.89%
+ 166  JAR77431.1_Rhodopsin_Fundulus_heteroclitus                                                                                                 36.18%    failed      2.47%
+ 167  XP_004086178.2_green-sensitive_opsin_Oryzias_latipes                                                                                       32.60%    passed      9.66%
+ 168  tr|A0A3B4V835|A0A3B4V835_SERDU_Rhodopsin_OS_Seriola_dumerili_OX_41447_PE_3_SV_1                                                            32.60%    passed     13.63%
+ 169  XP_017263764.1_green-sensitive_opsin_Kryptolebias_marmoratus                                                                               32.60%    passed     18.69%
+ 170  JAO40530.1_OPSG_partial_Poeciliopsis_prolifica                                                                                             68.79%    passed     27.90%
+ 171  tr|A0A3P9KQ51|A0A3P9KQ51_ORYLA_Rhodopsin_OS_Oryzias_latipes_OX_8090_PE_3_SV_1                                                              32.60%    passed     36.22%
+ 172  QCB20256.1_medium-wavelength_sensitive_opsin_partial_Cheilodipterus_quinquelineatus                                                        70.78%    passed      7.13%
+ 173  tr|A0A3B5BFA1|A0A3B5BFA1_9TELE_Rhodopsin_OS_Stegastes_partitus_OX_144197_PE_3_SV_1                                                         32.60%    passed     16.41%
+ 174  XP_020789905.1_green-sensitive_opsin-like_Boleophthalmus_pectinirostris                                                                    68.39%    passed      5.25%
+ 175  TSK49631.1_Green-sensitive_opsin-3_Bagarius_yarrelli                                                                                       47.12%    passed     13.07%
+ 176  KFV71681.1_Green-sensitive_opsin_Picoides_pubescens                                                                                        31.01%    failed      2.03%
+ 177  XP_009325682.1_PREDICTED_LOW_QUALITY_PROTEIN_green-sensitive_opsin-like_Pygoscelis_adeliae                                                 31.21%    passed     17.20%
+ 178  XP_009970041.2_LOW_QUALITY_PROTEIN_green-sensitive_opsin-like_Tyto_alba_alba                                                               33.00%    passed     43.33%
+ 179  AIT55664.1_rhodopsin_partial_Pseudemoia_pagenstecheri                                                                                      92.84%    passed     64.40%
+ 180  AHE80977.1_RH1_opsin_partial_Platycercus_elegans                                                                                           41.55%    passed     38.22%
+ 181  OXB50954.1_hypothetical_protein_ASZ78_014597_partial_Callipepla_squamata                                                                   57.85%    passed     14.82%
+ 182  tr|A0A4W2C9I2|A0A4W2C9I2_BOBOX_Rhodopsin_OS_Bos_indicus_x_Bos_taurus_OX_30522_GN_RHO_PE_3_SV_1                                             38.77%    failed      1.22%
+ 183  XP_013810368.1_PREDICTED_rhodopsin_partial_Apteryx_mantelli_mantelli                                                                       41.55%    failed      3.87%
+ 184  AAR18739.1_rhodopsin_partial_Discoglossus_sardus                                                                                           79.13%    passed     24.49%
+ 185  AAY82582.1_rhodopsin_partial_Tomopterna_sp._Khorixas                                                                                       81.51%    passed     17.45%
+ 186  AAY82558.1_rhodopsin_partial_Amietia_angolensis                                                                                            85.49%    failed      1.03%
+ 187  AAP91768.1_rhodopsin_partial_Mantella_crocea                                                                                               79.52%    passed     23.31%
+ 188  ERE67214.1_histone_H1oo-like_protein_Cricetulus_griseus                                                                                    30.82%    failed      1.64%
+ 189  KAF0870487.1_OPSD_protein_partial_Crocuta_crocuta                                                                                          31.81%    passed      5.49%
+ 190  XP_014693911.1_PREDICTED_rhodopsin_Equus_asinus                                                                                            31.81%    passed      5.13%
+ 191  XP_012681595.2_rhodopsin_Clupea_harengus                                                                                                   31.21%    passed      5.04%
+ 192  AAQ02807.1_rhodopin_partial_Clupea_harengus                                                                                                52.49%    passed     49.44%
+ 193  ALK80025.1_rhodopsin_partial_Clarias_batrachus                                                                                             78.53%    passed     61.71%
+ 194  AFH77426.1_rhodopsin_partial_Campostoma_pauciradii                                                                                         44.14%    passed      5.09%
+ 195  XP_010900403.2_rhodopsin_Esox_lucius                                                                                                       30.62%    failed      1.75%
+ 196  AEW44013.1_rhodopsin_partial_Astronesthes_macropogon                                                                                       39.76%    passed     25.81%
+ 197  BAW35582.1_rhodopsin_Microstomus_achne                                                                                                     31.01%    failed      0.95%
+ 198  AFN01685.1_rhodopsin_partial_Macruronus_novaezelandiae                                                                                     68.59%    failed      4.79%
+ 199  tr|A0A3Q3XKR6|A0A3Q3XKR6_MOLML_Rhodopsin_OS_Mola_mola_OX_94237_PE_3_SV_1                                                                   36.78%    failed      0.89%
+ 200  AHA33552.1_rhodopsin_partial_Neoscopelus_microchir                                                                                         41.55%    failed      3.93%
+ 201  KAA8590904.1_hypothetical_protein_FQN60_001847_Etheostoma_spectabile                                                                       30.82%    failed      1.89%
+ 202  ACC61638.1_rhodopsin_partial_Myoxocephalus_quadricornis                                                                                    69.78%    passed     17.99%
+ 203  XP_030633011.1_rhodopsin_deep-sea_form_Chanos_chanos                                                                                       30.62%    passed     17.21%
+ 204  GCB61068.1_hypothetical_protein_scyTo_0011245_Scyliorhinus_torazame                                                                        74.16%    passed     28.17%
+ 205  sp|P79863.1|OPSD_LEUER_RecName_Full_Rhodopsin                                                                                              30.62%    failed      4.56%
+ 206  NP_001279181.1_rhodopsin_Callorhinchus_milii                                                                                               30.62%    failed      2.84%
+ 207  XP_027022686.1_rhodopsin_Tachysurus_fulvidraco                                                                                             30.62%    passed     46.49%
+ 208  JAQ47206.1_Rhodopsin_partial_Fundulus_heteroclitus                                                                                         78.13%    passed     45.79%
+ 209  XP_012694208.2_rhodopsin_Clupea_harengus                                                                                                   30.42%    passed      7.93%
+ 210  XP_024230839.1_rhodopsin-like_isoform_X1_Oncorhynchus_tshawytscha                                                                          32.21%    passed     45.28%
+ 211  JAQ57560.1_Rhodopsin-like_protein_Fundulus_heteroclitus                                                                                    78.13%    passed     14.80%
+ 212  AAZ79907.1_RH1_Uta_stansburiana                                                                                                            31.01%    passed     39.82%
+ 213  ANV21057.1_rhodopsin_Eptatretus_cirrhatus                                                                                                  30.82%    failed      3.51%
+ 214  tr|A0A452V4W5|A0A452V4W5_URSMA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Ursus_maritimus_OX_29073_GN_LOC103679666_PE_3_SV_1        31.21%    passed     41.80%
+ 215  AAP13018.1_long-wavelength_sensitive_cone_opsin_partial_Phoca_groenlandica                                                                 31.81%    passed     78.15%
+ 216  XP_015398181.1_PREDICTED_LOW_QUALITY_PROTEIN_long-wave-sensitive_opsin_1-like_Panthera_tigris_altaica                                      47.12%    passed     34.27%
+ 217  XP_006877292.1_PREDICTED_LOW_QUALITY_PROTEIN_long-wave-sensitive_opsin_1_Chrysochloris_asiatica                                            37.57%    passed     93.04%
+ 218  TFJ96583.1_transmembrane_protein_121-like_protein_Platysternon_megacephalum                                                                34.79%    passed     32.51%
+ 219  XP_028567189.1_long-wave-sensitive_opsin_1_isoform_X1_Podarcis_muralis                                                                     39.96%    passed     14.42%
+ 220  XP_029103742.1_red-sensitive_opsin-like_Scleropages_formosus                                                                               32.80%    passed     32.57%
+ 221  ABB88724.1_red-sensitive_visual_pigment_LWS_synthetic_construct                                                                            31.61%    passed     12.92%
+ 222  XP_012710392.1_red-sensitive_opsin-like_Fundulus_heteroclitus                                                                              32.80%    passed     18.21%
+ 223  ALK02323.1_LWS-1_partial_Micropoecilia_picta                                                                                               71.57%    failed      3.01%
+ 224  tr|A0A4W5JMC7|A0A4W5JMC7_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Hucho_hucho_OX_62062_PE_3_SV_1                            40.16%    passed     10.87%
+ 225  CAB1353481.1_unnamed_protein_product_Coregonus_sp._balchen                                                                                 32.80%    passed     13.63%
+ 226  XP_018101203.1_PREDICTED_pinopsin-like_Xenopus_laevis                                                                                      32.01%    passed     63.35%
+ 227  XP_006016176.2_LOW_QUALITY_PROTEIN_pinopsin-like_Alligator_sinensis                                                                        32.41%    passed     54.72%
+ 228  XP_009944097.1_PREDICTED_LOW_QUALITY_PROTEIN_pinopsin-like_Opisthocomus_hoazin                                                             32.21%    passed     50.92%
+ 229  XP_032860787.1_LOW_QUALITY_PROTEIN_pinopsin-like_Tyto_alba_alba                                                                            34.39%    failed      0.47%
+ 230  TRZ24372.1_hypothetical_protein_HGM15179_002820_Zosterops_borbonicus                                                                       31.81%    passed      5.53%
+ 231  POI27305.1_hypothetical_protein_CIB84_008945_Bambusicola_thoracicus                                                                        37.18%    passed     37.71%
+ 232  XP_009901649.1_PREDICTED_pinopsin_Picoides_pubescens                                                                                       31.41%    passed     65.83%
+ 233  XP_009912851.1_PREDICTED_pinopsin-like_partial_Haliaeetus_albicilla                                                                        61.63%    passed     42.62%
+ 234  BAM28747.1_pinopsin_Iguana_iguana                                                                                                          31.81%    passed     45.95%
+ 235  AAZ79905.1_pinopsin_Uta_stansburiana                                                                                                       32.21%    passed     46.76%
+ 236  tr|A0A670KM80|A0A670KM80_PODMU_Uncharacterized_protein_OS_Podarcis_muralis_OX_64176_PE_4_SV_1                                              34.59%    passed     29.54%
+ 237  GCF45293.1_hypothetical_protein_parPi_0004802_Paroedura_picta                                                                              30.82%    passed     20.91%
+ 238  XP_009484675.1_PREDICTED_pinopsin-like_partial_Pelecanus_crispus                                                                           55.67%    failed      0.00%
+ 239  tr|A0A670YC86|A0A670YC86_PSETE_Uncharacterized_protein_OS_Pseudonaja_textilis_OX_8673_GN_LOC113442749_PE_4_SV_1                            34.59%    passed     85.83%
+ 240  tr|A0A670YLW8|A0A670YLW8_PSETE_Uncharacterized_protein_OS_Pseudonaja_textilis_OX_8673_GN_LOC113442749_PE_4_SV_1                            34.00%    passed     75.77%
+ 241  XP_023697691.1_vertebrate_ancient_opsin-like_Paramormyrops_kingsleyae                                                                      31.01%    passed     50.54%
+ 242  XP_026211499.1_vertebrate_ancient_long_opsin_a_Anabas_testudineus                                                                          31.41%    passed     64.08%
+ 243  XP_034537483.1_vertebrate_ancient_long_opsin_a_Notolabrus_celidotus                                                                        31.41%    passed     73.42%
+ 244  JAQ41277.1_5-hydroxytryptamine_receptor_1B_Fundulus_heteroclitus                                                                           52.88%    passed     34.28%
+ 245  tr|A0A667ZRB2|A0A667ZRB2_9TELE_Vertebrate_ancient_long_opsin_a_OS_Myripristis_murdjan_OX_586833_PE_4_SV_1                                  31.41%    passed     72.30%
+ 246  XP_030627104.1_opsin-VA-like_Chanos_chanos                                                                                                 30.82%    passed     57.14%
+ 247  XP_016341260.1_PREDICTED_opsin-VA_isoform_X1_Sinocyclocheilus_anshuiensis                                                                  31.81%    passed     68.24%
+ 248  XP_017338414.1_PREDICTED_vertebrate_ancient_opsin-like_Ictalurus_punctatus                                                                 31.01%    passed     98.07%
+ 249  XP_034165355.1_vertebrate_ancient_long_opsin_b_Pangasianodon_hypophthalmus                                                                 30.82%    passed     98.79%
+ 250  RXN09673.1_gamma-aminobutyric_acid_receptor_subunit_pi-like_protein_Labeo_rohita                                                           30.22%    passed     52.00%
+ 251  XP_014746151.1_PREDICTED_vertebrate_ancient_opsin-like_Sturnus_vulgaris                                                                    31.41%    passed     86.98%
+ 252  NWI56217.1_OPSO_protein_partial_Calyptomena_viridis                                                                                        40.76%    passed     87.74%
+ 253  OPJ80309.1_hypothetical_protein_AV530_008316_Patagioenas_fasciata_monilis                                                                  47.51%    passed     72.95%
+ 254  XP_009639328.1_PREDICTED_opsin-VA-like_Egretta_garzetta                                                                                    31.01%    passed     93.07%
+ 255  CAB1336047.1_unnamed_protein_product_Coregonus_sp._balchen                                                                                 45.73%    failed      0.12%
+ 256  KAF3860548.1_hypothetical_protein_F7725_000803_Dissostichus_mawsoni                                                                        39.76%    passed     39.10%
+ 257  tr|A0A3B5B8V0|A0A3B5B8V0_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Stegastes_partitus_OX_144197_PE_3_SV_1                    32.80%    passed      5.06%
+ 258  XP_015246196.1_PREDICTED_parapinopsin-like_Cyprinodon_variegatus                                                                           31.01%    passed     73.92%
+ 259  XP_027875103.1_LOW_QUALITY_PROTEIN_parapinopsin-like_Xiphophorus_couchianus                                                                53.48%    passed     22.29%
+ 260  tr|A0A3P9Q0Z9|A0A3P9Q0Z9_POERE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Poecilia_reticulata_OX_8081_PE_3_SV_1                     34.99%    passed     73.81%
+ 261  tr|A0A3B4G856|A0A3B4G856_9CICH_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Pundamilia_nyererei_OX_303518_PE_3_SV_1                   32.41%    failed      1.81%
+ 262  tr|A0A3Q3G0D6|A0A3Q3G0D6_9LABR_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Labrus_bergylta_OX_56723_PE_3_SV_1                        31.01%    passed     49.07%
+ 263  XP_029995214.1_parapinopsin-like_Sphaeramia_orbicularis                                                                                    32.21%    passed     31.01%
+ 264  tr|A0A671LJ67|A0A671LJ67_9TELE_Parapinopsin_a_OS_Sinocyclocheilus_anshuiensis_OX_1608454_PE_4_SV_1                                         33.40%    passed     86.39%
+ 265  XP_027023113.1_parapinopsin_Tachysurus_fulvidraco                                                                                          32.21%    passed     88.12%
+ 266  tr|A0A672G422|A0A672G422_SALFA_Uncharacterized_protein_OS_Salarias_fasciatus_OX_181472_GN_LOC115389090_PE_4_SV_1                           33.80%    passed     19.04%
+ 267  XP_015246089.1_PREDICTED_parapinopsin-like_Cyprinodon_variegatus                                                                           32.80%    passed     78.01%
+ 268  XP_028681071.1_parapinopsin-like_Erpetoichthys_calabaricus                                                                                 31.41%    passed     90.18%
+ 269  XP_018095854.1_PREDICTED_parapinopsin-like_Xenopus_laevis                                                                                  32.01%    passed      7.24%
+ 270  tr|A0A670I4G2|A0A670I4G2_PODMU_Uncharacterized_protein_OS_Podarcis_muralis_OX_64176_PE_4_SV_1                                              34.99%    passed     15.16%
+ 271  tr|G1KFV4|G1KFV4_ANOCA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Anolis_carolinensis_OX_28377_PE_3_SV_1                            40.16%    passed     48.50%
+ 272  BAM28746.1_parietopsin_Iguana_iguana                                                                                                       34.00%    passed      9.47%
+ 273  XP_029008486.1_parapinopsin-like_Betta_splendens                                                                                           33.80%    failed      2.93%
+ 274  XP_029379533.1_parapinopsin-like_Echeneis_naucrates                                                                                        33.80%    passed     70.34%
+ 275  tr|A0A3B5MVM8|A0A3B5MVM8_9TELE_Parietopsin_OS_Xiphophorus_couchianus_OX_32473_PE_3_SV_1                                                    42.74%    passed     44.16%
+ 276  tr|A0A3Q0SMY1|A0A3Q0SMY1_AMPCI_Parietopsin_OS_Amphilophus_citrinellus_OX_61819_PE_3_SV_1                                                   33.80%    passed     85.96%
+ 277  XP_030222244.1_vertebrate_ancient_opsin-like_Gadus_morhua                                                                                  31.61%    passed     15.94%
+ 278  XP_029909374.1_vertebrate_ancient_opsin-like_Myripristis_murdjan                                                                           33.40%    passed     85.46%
+ 279  XP_022096382.1_pinopsin-like_Acanthaster_planci                                                                                            32.60%    passed     62.70%
+ 280  DAniello2015_ops1_Leptosynapta_clarki                                                                                                      85.88%    passed     79.87%
+ 281  XP_030854248.1_pinopsin_Strongylocentrotus_purpuratus                                                                                      30.42%    passed     67.93%
+ 282  tr|G1SQD6|G1SQD6_RABIT_Retinal_G_protein_coupled_receptor_OS_Oryctolagus_cuniculus_OX_9986_GN_RGR_PE_3_SV_3                                42.15%    passed     13.57%
+ 283  XP_026701290.1_visual_pigment-like_receptor_peropsin_isoform_X2_Athene_cunicularia                                                         35.79%    passed     76.58%
+ 284  RDD42806.1_Growth_hormone_secretagogue_receptor_type_1_Trichoplax_sp._H2                                                                   31.41%    failed      3.01%
+ 285  tr|A0A2R7W0I4|A0A2R7W0I4_ONCFA_Arthropsin_OS_Oncopeltus_fasciatus_OX_7536_GN_OFAS_OFAS004989_PE_4_SV_1                                     59.44%    failed      1.54%
+ 286  JAB57557.1_putative_rhodopsin_6_Corethrella_appendiculata                                                                                  27.44%    passed     19.70%
+ 287  XP_022075704.1_opsin-5-like_Acanthochromis_polyacanthus                                                                                    27.04%    passed     11.30%
+ 288  XP_017287157.1_RPE-retinal_G_protein-coupled_receptor-like_Kryptolebias_marmoratus                                                         41.35%    passed     86.38%
+ 289  XP_013776779.1_D1-like_dopamine_receptor_Limulus_polyphemus                                                                                26.84%    passed     24.49%
+ 290  XP_003220699.1_PREDICTED_opsin-5_Anolis_carolinensis                                                                                       26.44%    passed     21.24%
+ 291  XP_033829025.1_hydroxycarboxylic_acid_receptor_2-like_Periophthalmus_magnuspinnatus                                                        38.97%    passed     49.15%
+ 292  XP_004205844.1_PREDICTED_opsin-3-like_Hydra_vulgaris                                                                                       38.57%    failed      0.03%
+ 293  XP_011479687.1_substance-P_receptor-like_isoform_X1_Oryzias_latipes                                                                        27.83%    passed     66.79%
+ 294  XP_023829677.1_opsin-5-like_Salvelinus_alpinus                                                                                             30.62%    passed     89.04%
+ 295  XP_031164551.1_melanopsin-A-like_Sander_lucioperca                                                                                         26.84%    passed     90.74%
+ 296  ACB70922.1_long_wavelength_rhodopsin_partial_Liosphex_varius                                                                               73.16%    passed     96.07%
+ 297  ALI30353.1_long_wavelength_rhodopsin_partial_Ephedrus_nacheri                                                                              64.02%    passed     19.79%
+ 298  ROT69150.1_rhodopsin_Penaeus_vannamei                                                                                                      69.38%    failed      2.29%
+ 299  ELU02401.1_hypothetical_protein_CAPTEDRAFT_226303_Capitella_teleta                                                                         42.94%    passed     60.42%
+ 300  tr|A0A4W5JMT0|A0A4W5JMT0_9TELE_Opsin_8_group_member_a_OS_Hucho_hucho_OX_62062_PE_4_SV_1                                                    35.39%    passed     50.37%
+ 301  tr|A0A3B1J7S1|A0A3B1J7S1_ASTMX_Arginine_vasopressin_receptor_2a_duplicate_b_OS_Astyanax_mexicanus_OX_7994_PE_3_SV_1                        30.42%    passed     45.24%
+ 302  XP_020911248.1_cholecystokinin_receptor_type_A_isoform_X1_Exaiptasia_diaphana                                                              30.22%    passed     15.87%
+ 303  TRY67584.1_hypothetical_protein_TCAL_08042_Tigriopus_californicus                                                                          32.80%    passed     34.17%
+ 304  TWW79052.1_G-protein_coupled_receptor_136_Takifugu_flavidus                                                                                28.43%    passed     63.32%
+ 305  XP_010294446.1_PREDICTED_olfactory_receptor_14J1-like_Phaethon_lepturus                                                                    41.15%    passed     17.68%
+ 306  AFD04951.1_long-wavelength_rhodopsin_partial_Pachycondyla_sp._Mal1                                                                         69.18%    passed     22.80%
+ 307  ABH10673.1_neuropeptide_Y_partial_Haliotis_discus_hannai                                                                                   34.39%    passed     17.65%
+ 308  XP_013816925.1_PREDICTED_LOW_QUALITY_PROTEIN_melanopsin_Apteryx_mantelli_mantelli                                                          44.33%    passed     81.46%
+ 309  JAM00972.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna                                                               37.38%    passed     98.76%
+ 310  tr|W4Y3N3|W4Y3N3_STRPU_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Strongylocentrotus_purpuratus_OX_7668_PE_4_SV_1                   31.81%    failed      0.00%
+ 311  XP_020630309.1_melanocyte-stimulating_hormone_receptor-like_Orbicella_faveolata                                                            42.35%    passed     54.24%
+ 312  EMP40797.1_Pro-epidermal_growth_factor_Chelonia_mydas                                                                                      21.67%    passed     23.26%
+ 313  ELT97785.1_hypothetical_protein_CAPTEDRAFT_63256_partial_Capitella_teleta                                                                  49.30%    passed     21.09%
+ 314  XP_027049417.1_melanopsin-like_Pocillopora_damicornis                                                                                      36.78%    passed     97.56%
+ 315  XP_020914907.2_rhodopsin_GQ-coupled_Exaiptasia_diaphana                                                                                    30.42%    passed     67.80%
+ 316  QDD55729.1_opsin_2_Parhyale_hawaiensis                                                                                                     28.23%    passed     73.51%
+ 317  KAB1262052.1_Opsin-5_Camelus_dromedarius                                                                                                   41.35%    passed     23.34%
+ 318  XP_015193329.1_PREDICTED_opsin-5-like_Lepisosteus_oculatus                                                                                 34.79%    failed      0.43%
+ 319  KTF81696.1_hypothetical_protein_cypCar_00024878_Cyprinus_carpio                                                                            49.90%    passed     19.56%
+ 320  RDD45440.1_Histamine_H2_receptor_Trichoplax_sp._H2                                                                                         36.98%    passed     13.15%
+ 321  ABK59120.1_long-wavelength_rhodopsin_partial_Cadeguala_occidentalis                                                                        51.29%    passed     71.69%
+ 322  XP_018603510.1_histamine_H3_receptor-like_Scleropages_formosus                                                                             32.01%    passed     69.67%
+ 323  XP_020680798.1_glycine-rich_protein_A3_Dendrobium_catenatum                                                                                70.58%    failed      0.00%
+ 324  Pseudopotamilla_reniformis_TRINITY_DN23271_c0_g1_i1|ORF3                                                                                   47.51%    passed     58.85%
+ 325  KYM80495.1_Opsin_ultraviolet-sensitive_Atta_colombica                                                                                      28.83%    passed     82.41%
+ 326  TNN68419.1_Melanopsin-A_Liparis_tanakae                                                                                                    52.88%    passed     44.92%
+ 327  ALG00001.1_endothelin_receptor_Ba_partial_Gasterosteus_aculeatus                                                                           29.42%    passed     46.07%
+ 328  TRY59257.1_hypothetical_protein_DNTS_034182_partial_Danionella_translucida                                                                 57.26%    passed     12.98%
+ 329  APY20669.1_long_wavelength_sensitive_opsin_partial_Stylops_melittae                                                                        53.48%    passed     51.48%
+ 330  XP_034435453.1_opsin_8_group_member_b_Hippoglossus_hippoglossus                                                                            32.60%    passed     77.96%
+ 331  tr|A0A3Q4HAF6|A0A3Q4HAF6_NEOBR_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Neolamprologus_brichardi_OX_32507_PE_3_SV_1               33.80%    passed     54.02%
+ 332  XP_026229808.1_chemokine_XC_receptor_1-like_Anabas_testudineus                                                                             34.79%    passed     46.48%
+ 333  XP_034786904.1_RPE-retinal_G_protein-coupled_receptor_isoform_X2_Pan_paniscus                                                              43.14%    failed      0.00%
+ 334  ABK54915.1_long_wavelength_rhodopsin_partial_Chalybion_californicum                                                                        69.78%    passed     28.69%
+ 335  ABW75570.1_long-wave_rhodopsin_partial_Macrotera_latior                                                                                    71.37%    passed     71.65%
+ 336  RDD36421.1_Tachykinin-like_peptides_receptor_86C_Trichoplax_sp._H2                                                                         33.00%    failed      1.96%
+ 337  RDD40399.1_Beta-1_adrenergic_receptor_Trichoplax_sp._H2                                                                                    43.14%    passed     14.33%
+ 338  tr|A0A3Q3DGC2|A0A3Q3DGC2_HIPCM_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Hippocampus_comes_OX_109280_PE_3_SV_1                     26.44%    passed     86.22%
+ 339  XP_013361807.1_PREDICTED_olfactory_receptor_4D11-like_Chinchilla_lanigera                                                                  41.55%    passed     41.93%
+ 340  XP_023446202.1_G-protein_coupled_receptor_161_isoform_X3_Dasypus_novemcinctus                                                              25.25%    passed     15.71%
+ 341  XP_034252753.1_relaxin_receptor_2-like_Thrips_palmi                                                                                        27.83%    failed      0.04%
+ 342  APY20496.1_long_wavelength_sensitive_opsin_Dryops_sp._CRS-2017                                                                             27.44%    passed     24.49%
+ 343  EDO42908.1_predicted_protein_partial_Nematostella_vectensis                                                                                77.14%    passed     75.84%
+ 344  ARM53511.1_long-wavelength_rhodopsin_partial_Chalepogenus_sp._1_AM-2017                                                                    67.40%    passed     85.98%
+ 345  XP_017446426.1_PREDICTED_visual_pigment-like_receptor_peropsin_isoform_X2_Rattus_norvegicus                                                41.55%    passed     27.05%
+ 346  XP_034761160.1_opsin-5-like_Acipenser_ruthenus                                                                                             31.61%    passed     58.40%
+ 347  KAE9541050.1_hypothetical_protein_AGLY_004295_Aphis_glycines                                                                               29.42%    passed     76.00%
+ 348  XP_031231335.1_visual_pigment-like_receptor_peropsin_Mastomys_coucha                                                                       34.19%    passed     67.17%
+ 349  tr|A0A673XVH3|A0A673XVH3_SALTR_Opsin_7_group_member_a_OS_Salmo_trutta_OX_8032_PE_4_SV_1                                                    37.77%    passed      9.73%
+ 350  TRY78349.1_hypothetical_protein_TCAL_01730_Tigriopus_californicus                                                                          32.01%    passed     27.74%
+ 351  XP_032404238.1_opsin-5-like_isoform_X1_Xiphophorus_hellerii                                                                                27.44%    passed     17.23%
+ 352  XP_016052375.1_PREDICTED_G-protein_coupled_receptor_1_Miniopterus_natalensis                                                               33.20%    failed      1.25%
+ 353  XP_009168093.1_hypothetical_protein_T265_13638_partial_Opisthorchis_viverrini                                                              25.05%    passed     69.48%
+ 354  XP_010742036.3_proteinase-activated_receptor_1_Larimichthys_crocea                                                                         30.02%    failed      2.31%
+ 355  RDD37895.1_Neuropeptide_Y_receptor_type_2_Trichoplax_sp._H2                                                                                35.19%    failed      0.09%
+ 356  tr|A0A671NMR0|A0A671NMR0_9TELE_Opsin_9_OS_Sinocyclocheilus_anshuiensis_OX_1608454_PE_4_SV_1                                                26.44%    failed      0.59%
+ 357  QDE09704.1_long-wavelength_opsin_partial_Niphargus_hvarensis                                                                               51.29%    passed     78.94%
+ 358  tr|A0A3B5KPX3|A0A3B5KPX3_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Xiphophorus_couchianus_OX_32473_PE_3_SV_1                 34.39%    passed     44.65%
+ 359  XP_022781109.1_D2_dopamine_receptor-like_Stylophora_pistillata                                                                             34.99%    passed     89.13%
+ 360  XP_034464338.1_LOW_QUALITY_PROTEIN_retinal_G_protein_coupled_receptor_a_Hippoglossus_hippoglossus                                          41.35%    passed     91.05%
+ 361  tr|W5NG63|W5NG63_LEPOC_Opsin_6_group_member_a_OS_Lepisosteus_oculatus_OX_7918_PE_4_SV_1                                                    27.63%    passed     68.55%
+ 362  RDD38498.1_G-protein_coupled_receptor_GRL101-like_protein_partial_Trichoplax_sp._H2                                                        32.60%    passed     21.30%
+ 363  BAQ54783.1_opsin_short-wavelength_sensitive_type_Macromia_amphigena                                                                        28.43%    passed     62.77%
+ 364  RDD46423.1_Dopamine_receptor_1_Trichoplax_sp._H2                                                                                           29.82%    failed      0.36%
+ 365  XP_014798809.1_PREDICTED_melanopsin-like_isoform_X2_Calidris_pugnax                                                                        25.84%    passed     95.07%
+ 366  DAniello2015_ops7.2_Patiria_miniata                                                                                                        41.15%    failed      0.12%
+ 367  XP_027226603.1_rhodopsin-like_Penaeus_vannamei                                                                                             68.99%    passed      6.92%
+ 368  AAL25619.1_orphan_G_protein-coupled_receptor_Ren_1_Renilla_koellikeri                                                                      35.79%    passed     20.21%
+ 369  TNN81247.1_Melanopsin-B_Liparis_tanakae                                                                                                    48.11%    passed     20.47%
+ 370  ACI32557.1_opsin_Rh2_partial_Neognathophausia_ingens                                                                                       37.97%    passed     11.78%
+ 371  tr|A0A663NAQ4|A0A663NAQ4_ATHCN_Platelet_activating_factor_receptor_OS_Athene_cunicularia_OX_194338_GN_PTAFR_PE_4_SV_1                      35.79%    passed     12.43%
+ 372  XP_028997923.1_opsin-5_isoform_X2_Betta_splendens                                                                                          42.54%    passed     81.71%
+ 373  Bispira_guinensis_TRINITY_DN25405_c0_g1_i1|ORF1                                                                                            35.59%    passed     50.43%
+ 374  tr|A0A3Q2TCU8|A0A3Q2TCU8_FUNHE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Fundulus_heteroclitus_OX_8078_PE_3_SV_1                   35.98%    passed      9.58%
+ 375  XP_008058289.1_melanopsin_isoform_X1_Carlito_syrichta                                                                                      24.85%    passed     69.05%
+ 376  XP_018523793.1_PREDICTED_melanopsin-A-like_isoform_X1_Lates_calcarifer                                                                     26.04%    passed     63.17%
+ 377  XP_006875839.1_PREDICTED_olfactory_receptor_9G4-like_Chrysochloris_asiatica                                                                41.35%    passed     75.09%
+ 378  XP_019273066.1_PREDICTED_visual_pigment-like_receptor_peropsin_isoform_X2_Panthera_pardus                                                  46.12%    failed      4.30%
+ 379  XP_026553643.1_melanopsin_Pseudonaja_textilis                                                                                              25.84%    passed     15.64%
+ 380  tr|A0A3Q3KNQ7|A0A3Q3KNQ7_MONAL_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Monopterus_albus_OX_43700_PE_3_SV_1                       28.03%    passed     17.65%
+ 381  XP_029281519.1_opsin-5-like_Cottoperca_gobio                                                                                               33.40%    passed     94.36%
+ 382  XP_034538267.1_opsin-5-like_Notolabrus_celidotus                                                                                           26.64%    passed     94.35%
+ 383  TNM89680.1_hypothetical_protein_fugu_003914_Takifugu_bimaculatus                                                                           26.64%    passed     95.27%
+ 384  ELU03019.1_hypothetical_protein_CAPTEDRAFT_54244_partial_Capitella_teleta                                                                  57.85%    passed     31.01%
+ 385  RDD37893.1_Neuropeptide_Y_receptor_Trichoplax_sp._H2                                                                                       31.81%    failed      0.00%
+ 386  XP_025099879.1_rhodopsin_GQ-coupled-like_Pomacea_canaliculata                                                                              31.81%    failed      0.08%
+ 387  XP_035278493.1_opsin_8_group_member_b_isoform_X1_Anguilla_anguilla                                                                         29.22%    failed      0.00%
+ 388  tr|A0A0F8AM67|A0A0F8AM67_LARCR_Melanopsin-A_OS_Larimichthys_crocea_OX_215358_GN_EH28_06591_PE_3_SV_1                                       23.86%    passed      5.95%
+ 389  HDB73223.1_TPA_melanopsin_isoform_1_Sus_scrofa                                                                                             33.00%    passed      6.77%
+ 390  APY20668.1_ultraviolet_sensitive_opsin_1_Steraspis_amplipennis                                                                             28.43%    passed     88.53%
+ 391  XP_009934732.1_PREDICTED_olfactory_receptor_14A16-like_Opisthocomus_hoazin                                                                 41.55%    passed     30.13%
+ 392  XP_006869681.1_PREDICTED_urotensin-2_receptor_Chrysochloris_asiatica                                                                       29.82%    failed      0.00%
+ 393  AAW80337.1_long-wavelength_opsin_partial_Ctenophthalmus_agyrtes                                                                            59.84%    passed     54.71%
+ 394  GCF40539.1_hypothetical_protein_parPi_0000830_Paroedura_picta                                                                              20.68%    passed     43.73%
+ 395  tr|A0A3B5AW62|A0A3B5AW62_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Stegastes_partitus_OX_144197_PE_4_SV_1                    28.23%    passed     46.89%
+ 396  tr|A0A671KFM4|A0A671KFM4_9TELE_Chemokine_C_motif_receptor_1b_duplicate_1_OS_Sinocyclocheilus_anshuiensis_OX_1608454_PE_4_SV_1              39.17%    passed     26.40%
+ 397  AIF73507.1_UV1_opsin_partial_Neogonodactylus_oerstedii                                                                                     31.01%    passed     81.19%
+ 398  XP_002116918.1_hypothetical_protein_TRIADDRAFT_31783_Trichoplax_adhaerens                                                                  35.79%    failed      0.02%
+ 399  XP_016063278.1_PREDICTED_G-protein_coupled_receptor_20_Miniopterus_natalensis                                                              35.19%    failed      0.00%
+ 400  XP_025094771.1_uncharacterized_protein_LOC112564286_isoform_X1_Pomacea_canaliculata                                                        21.87%    passed     62.13%
+ 401  XP_016891199.1_opsin-5-like_Cynoglossus_semilaevis                                                                                         28.43%    passed     50.80%
+ 402  XP_004698363.1_thyrotropin-releasing_hormone_receptor-like_Echinops_telfairi                                                               34.19%    failed      0.00%
+ 403  XP_008480351.1_tyramine_octopamine_receptor-like_partial_Diaphorina_citri                                                                  36.38%    failed      0.00%
+ 404  XP_014212026.1_rhodopsin_long-wavelength-like_Copidosoma_floridanum                                                                        27.44%    passed     41.42%
+ 405  VEL17460.1_unnamed_protein_product_Protopolystoma_xenopodis                                                                                78.53%    passed     40.31%
+ 406  KAA3672659.1_r-opsin_Paragonimus_westermani                                                                                                48.31%    passed     30.67%
+ 407  tr|A0A3Q4I0H1|A0A3Q4I0H1_NEOBR_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Neolamprologus_brichardi_OX_32507_PE_3_SV_1               36.98%    passed     69.04%
+ 408  XP_029985489.1_visual_pigment-like_receptor_peropsin_Sphaeramia_orbicularis                                                                34.79%    passed     24.20%
+ 409  XP_026690831.1_rhodopsin_GQ-coupled-like_isoform_X1_Ciona_intestinalis                                                                     32.60%    passed     48.87%
+ 410  XP_026685346.1_LOW_QUALITY_PROTEIN_opsin_Rh3-like_Diaphorina_citri                                                                         57.26%    passed     18.78%
+ 411  XP_017345853.1_PREDICTED_olfactory_receptor_2AT4-like_Ictalurus_punctatus                                                                  41.35%    passed     21.13%
+ 412  XP_031414719.1_melanopsin-B-like_isoform_X1_Clupea_harengus                                                                                25.45%    passed     68.36%
+ 413  AIA23660.1_long_wavelength_rhodopsin_partial_Labidus_praedator                                                                             69.78%    passed     14.86%
+ 414  XP_029534598.1_opsin-5-like_Oncorhynchus_nerka                                                                                             30.42%    passed     80.11%
+ 415  AKO71771.1_long_wavelength_rhodopsin_partial_Hypoponera_sp._MG27                                                                           86.48%    passed     92.21%
+ 416  XP_020635212.1_opsin-5-like_isoform_X1_Pogona_vitticeps                                                                                    26.44%    passed     25.11%
+ 417  RXN09622.1_melanopsin-A-like_protein_Labeo_rohita                                                                                          35.59%    passed     27.26%
+ 418  AXN75761.1_opsin_Sagartia_elegans                                                                                                          60.04%    passed     78.89%
+ 419  ACB70908.1_long_wavelength_rhodopsin_partial_Chyphotes_melaniceps                                                                          64.02%    passed     60.07%
+ 420  ANY60718.1_long_wavelength_rhodopsin_partial_Anochetus_subcoecus                                                                           69.38%    passed     15.05%
+ 421  XP_009557059.1_PREDICTED_opsin-5-like_Cuculus_canorus                                                                                      32.60%    failed      0.61%
+ 422  GCC26492.1_hypothetical_protein_chiPu_2000056_Chiloscyllium_punctatum                                                                      33.80%    passed     46.30%
+ 423  tr|A0A3P9IAJ8|A0A3P9IAJ8_ORYLA_Endothelin_receptor_type_Ab_OS_Oryzias_latipes_OX_8090_PE_3_SV_1                                            30.82%    passed     65.97%
+ 424  XP_033895562.2_gastrin_cholecystokinin_type_B_receptor-like_Acipenser_ruthenus                                                             28.03%    passed     15.53%
+ 425  XP_018351838.1_PREDICTED_rhodopsin-like_isoform_X1_Trachymyrmex_septentrionalis                                                            29.62%    passed      8.91%
+ 426  AIJ19313.1_long-wavelength_rhodopsin_partial_Epicharis_dejeanii                                                                            72.76%    passed     89.64%
+ 427  KAF4794099.1_Opsin-5_Turdus_rufiventris                                                                                                    31.21%    passed     23.51%
+ 428  XP_011457020.2_melatonin_receptor_type_1B_Crassostrea_gigas                                                                                35.39%    passed     20.81%
+ 429  XP_002114114.1_hypothetical_protein_TRIADDRAFT_58248_Trichoplax_adhaerens                                                                  31.41%    passed      5.84%
+ 430  XP_013409489.1_rhodopsin_GQ-coupled-like_Lingula_anatina                                                                                   31.81%    passed     64.97%
+ 431  tr|H9JRE4|H9JRE4_BOMMO_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Bombyx_mori_OX_7091_PE_3_SV_1                                     52.68%    passed     94.52%
+ 432  XP_034040855.1_G-protein_coupled_receptor_26-like_Thalassophryne_amazonica                                                                 31.41%    passed     22.46%
+ 433  NP_001292410.1_opsin-3_Plutella_xylostella                                                                                                 28.23%    passed     69.80%
+ 434  XP_004703517.1_visual_pigment-like_receptor_peropsin_Echinops_telfairi                                                                     57.26%    passed     57.43%
+ 435  tr|A0A671Q0S7|A0A671Q0S7_9TELE_Uncharacterized_protein_OS_Sinocyclocheilus_anshuiensis_OX_1608454_GN_LOC107687451_PE_4_SV_1                32.60%    passed      9.48%
+ 436  VDK42518.1_unnamed_protein_product_Dibothriocephalus_latus                                                                                 82.31%    passed     93.35%
+ 437  JAM32883.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop2_Daphnia_magna                                                               24.85%    failed      0.15%
+ 438  XP_030371421.1_opsin_Rh6_Scaptodrosophila_lebanonensis                                                                                     28.23%    passed      7.91%
+ 439  XP_029136310.1_P2Y_purinoceptor_1-like_Labrus_bergylta                                                                                     34.59%    failed      2.81%
+ 440  AXN75734.1_opsin_Exaiptasia_diaphana                                                                                                       37.77%    passed     92.57%
+ 441  XP_017495564.1_PREDICTED_olfactory_receptor_10C1-like_Manis_javanica                                                                       40.95%    passed     61.23%
+ 442  JAJ78223.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop2_partial_Daphnia_magna                                                       31.81%    passed     43.41%
+ 443  XP_007897494.1_PREDICTED_trace_amine-associated_receptor_4-like_Callorhinchus_milii                                                        34.99%    passed     20.20%
+ 444  QBP79225.1_ultraviolet_wavelength_sensitive_opsin_isoform_B_Biston_betularia                                                               42.74%    passed      8.85%
+ 445  XP_007259954.2_5-hydroxytryptamine_receptor_1E_Astyanax_mexicanus                                                                          35.19%    passed     54.92%
+ 446  BAJ14803.1_dopamine_receptor_D1_Hemicentrotus_pulcherrimus                                                                                 29.62%    passed      7.59%
+ 447  CDQ96743.1_unnamed_protein_product_Oncorhynchus_mykiss                                                                                     43.54%    passed     19.02%
+ 448  XP_009082705.1_PREDICTED_proteinase-activated_receptor_1_partial_Acanthisitta_chloris                                                      31.01%    passed     31.86%
+ 449  XP_002116618.1_hypothetical_protein_TRIADDRAFT_60578_Trichoplax_adhaerens                                                                  32.41%    passed     38.54%
+ 450  XP_015260361.1_PREDICTED_melanopsin-like_Cyprinodon_variegatus                                                                             24.65%    passed     26.14%
+ 451  XP_009045392.1_hypothetical_protein_LOTGIDRAFT_156508_Lottia_gigantea                                                                      32.21%    passed     30.88%
+ 452  CAG09534.1_unnamed_protein_product_Tetraodon_nigroviridis                                                                                  44.73%    passed     34.74%
+ 453  XP_026674767.1_RYamide_receptor-like_Ceratina_calcarata                                                                                    30.62%    passed     95.04%
+ 454  XP_020646623.1_opsin-5-like_Pogona_vitticeps                                                                                               26.44%    passed     35.34%
+ 455  DAC74080.1_TPA_exp_Amphiop6_Branchiostoma_belcheri                                                                                         37.38%    failed      0.01%
+ 456  ALC48770.1_CG34411_Drosophila_busckii                                                                                                      29.22%    failed      1.56%
+ 457  XP_034780741.1_glucose-dependent_insulinotropic_receptor-like_Acipenser_ruthenus                                                           43.54%    failed      2.38%
+ 458  XP_019757680.1_PREDICTED_rhodopsin-like_Dendroctonus_ponderosae                                                                            27.83%    passed     78.46%
+ 459  XP_024660981.1_opsin-5-like_Maylandia_zebra                                                                                                32.21%    passed     63.23%
+ 460  JAM80992.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna                                                               28.43%    passed     85.04%
+ 461  XP_022528332.1_opsin-5-like_Astyanax_mexicanus                                                                                             26.04%    passed     18.37%
+ 462  KXJ83314.1_hypothetical_protein_RP20_CCG007320_Aedes_albopictus                                                                            57.85%    passed     38.54%
+ 463  JAK38574.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna                                                               74.95%    failed      4.85%
+ 464  XP_025937000.1_arg8-vasotocin_receptor-like_isoform_X2_Apteryx_rowi                                                                        27.63%    passed     47.87%
+ 465  XP_017571277.1_PREDICTED_prostaglandin_E2_receptor_EP1_subtype-like_Pygocentrus_nattereri                                                  32.80%    failed      2.24%
+ 466  JAM17758.1_hypothetical_protein_Daphnia_magna                                                                                              71.57%    passed     65.32%
+ 467  XP_018413919.1_PREDICTED_RPE-retinal_G_protein-coupled_receptor_isoform_X3_Nanorana_parkeri                                                48.91%    passed     84.80%
+ 468  AAZ95190.1_long-wavelength_rhodopsin_partial_Melitturga_clavicornis                                                                        67.59%    passed     89.43%
+ 469  tr|A0A3Q3GPK7|A0A3Q3GPK7_9LABR_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Labrus_bergylta_OX_56723_PE_3_SV_1                        61.83%    passed     16.42%
+ 470  XP_023795910.1_opsin-5-like_Cyanistes_caeruleus                                                                                            28.63%    failed      0.00%
+ 471  JAM18043.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop2_partial_Daphnia_magna                                                       23.86%    failed      0.04%
+ 472  ROT69741.1_opsin_Penaeus_vannamei                                                                                                          27.44%    passed     74.49%
+ 473  XP_010876383.2_coagulation_factor_II_thrombin_receptor-like_1_tandem_duplicate_2_Esox_lucius                                               31.41%    passed     60.26%
+ 474  KAB5579619.1_hypothetical_protein_PHYPO_G00197040_Pangasianodon_hypophthalmus                                                              37.57%    passed     73.51%
+ 475  PKK31073.1_5-hydroxytryptamine_receptor_7-like_Columba_livia                                                                               60.44%    passed     84.02%
+ 476  XP_017889375.1_rhodopsin_long-wavelength_Ceratina_calcarata                                                                                27.24%    passed     60.47%
+ 477  DAniello2015_ops8_Patiria_miniata                                                                                                          52.49%    passed     90.27%
+ 478  VDO69487.1_unnamed_protein_product_Schistosoma_margrebowiei                                                                                29.42%    passed     83.93%
+ 479  JAM17924.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop2_partial_Daphnia_magna                                                       71.77%    passed     36.48%
+ 480  sp|P31356.2|OPSD_TODPA_RecName_Full_Rhodopsin                                                                                              27.44%    passed      6.06%
+ 481  TDG52996.1_hypothetical_protein_AWZ03_000539_Drosophila_navojoa                                                                            28.43%    passed     49.12%
+ 482  tr|A0A1A9Z9I0|A0A1A9Z9I0_GLOPL_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Glossina_pallidipes_OX_7398_PE_3_SV_1                     39.56%    passed     56.40%
+ 483  APB88020.1_retinochrome_Argopecten_irradians                                                                                               39.56%    passed     29.79%
+ 484  XP_017311053.1_PREDICTED_opsin-5-like_Ictalurus_punctatus                                                                                  31.21%    passed     98.68%
+ 485  TNN73273.1_Opsin-5_Liparis_tanakae                                                                                                         30.62%    passed     26.57%
+ 486  XP_010076909.1_PREDICTED_melanopsin-like_partial_Pterocles_gutturalis                                                                      73.16%    passed     38.38%
+ 487  KAF3702644.1_Opsin-5_G-protein_coupled_receptor_136_G-protein_coupled_receptor_PGR12_Neuropsin_Channa_argus                                32.01%    passed     62.22%
+ 488  XP_029213701.1_melanopsin-like_Acropora_millepora                                                                                          34.39%    passed     32.86%
+ 489  XP_020652501.1_RPE-retinal_G_protein-coupled_receptor_isoform_X1_Pogona_vitticeps                                                          41.35%    passed     86.85%
+ 490  EDL12232.1_retinal_pigment_epithelium_derived_rhodopsin_homolog_isoform_CRA_a_Mus_musculus                                                 53.48%    passed     33.18%
+ 491  RMX35033.1_hypothetical_protein_pdam_00019771_Pocillopora_damicornis                                                                       29.82%    passed     64.04%
+ 492  PVD25364.1_hypothetical_protein_C0Q70_15864_Pomacea_canaliculata                                                                           23.66%    passed     44.35%
+ 493  XP_015909137.1_gonadotropin-releasing_hormone_receptor-like_Parasteatoda_tepidariorum                                                      29.42%    failed      3.90%
+ 494  TNN40527.1_Opsin-5_Liparis_tanakae                                                                                                         44.14%    passed      7.24%
+ 495  tr|A0A4W5L138|A0A4W5L138_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Hucho_hucho_OX_62062_PE_4_SV_1                            35.19%    passed     73.47%
+ 496  XP_032230544.1_melanopsin-like_Nematostella_vectensis                                                                                      34.19%    passed     26.85%
+ 497  SHD60983.1_long-wavelength_rhodopsin_partial_Cerapachys_jovis                                                                              67.00%    passed     15.63%
+ 498  XP_029469313.1_kiSS-1_receptor_isoform_X1_Rhinatrema_bivittatum                                                                            30.42%    passed     76.99%
+ 499  TKS75903.1_G-protein_coupled_receptor_136_Collichthys_lucidus                                                                              44.73%    passed     95.05%
+ 500  tr|E2R8U6|E2R8U6_CANLF_Retinal_G_protein_coupled_receptor_OS_Canis_lupus_familiaris_OX_9615_GN_RGR_PE_3_SV_2                               49.70%    failed      1.17%
+ 501  JAL70028.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna                                                               30.42%    passed     93.17%
+ 502  KAF4522578.1_Long_wavelength_sensitive_opsin_2_Ephemera_danica                                                                             27.24%    passed     45.15%
+ 503  tr|A0A369RYF2|A0A369RYF2_9METZ_5-hydroxytryptamine_receptor_1D_OS_Trichoplax_sp._H2_OX_287889_GN_TrispH2_010326_PE_3_SV_1                  35.98%    failed      0.00%
+ 504  XP_018425444.1_PREDICTED_melanopsin-A-like_Nanorana_parkeri                                                                                24.85%    passed     35.10%
+ 505  XP_023441323.1_olfactory_receptor_4C12-like_partial_Dasypus_novemcinctus                                                                   74.35%    passed     88.07%
+ 506  JAI86756.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna                                                               62.23%    failed      0.04%
+ 507  XP_020893678.1_lysophosphatidic_acid_receptor_6-like_Exaiptasia_diaphana                                                                   39.76%    passed     14.29%
+ 508  XP_015217024.1_PREDICTED_olfactory_receptor_2AT4-like_Lepisosteus_oculatus                                                                 49.30%    passed     12.54%
+ 509  APY20518.1_ultraviolet_sensitive_opsin_1_partial_Thanasimus_formicarius                                                                    58.05%    passed     66.36%
+ 510  RDD39783.1_Somatostatin_receptor_type_1_Trichoplax_sp._H2                                                                                  33.60%    passed     32.63%
+ 511  tr|A0A665TGW5|A0A665TGW5_ECHNA_Uncharacterized_protein_OS_Echeneis_naucrates_OX_173247_GN_LOC115046681_PE_4_SV_1                           29.62%    passed      6.20%
+ 512  XP_029833293.1_ocellar_opsin_Ixodes_scapularis                                                                                             27.04%    failed      4.80%
+ 513  KMQ90461.1_short_wavelength-sensitive_opsin_Lasius_niger                                                                                   71.37%    passed     48.66%
+ 514  XP_007941596.1_PREDICTED_G-protein_coupled_receptor_35_Orycteropus_afer_afer                                                               39.17%    failed      0.00%
+ 515  XP_023341453.1_compound_eye_opsin_BCRH2-like_isoform_X1_Eurytemora_affinis                                                                 28.63%    passed     57.52%
+ 516  JAM82655.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop2_Daphnia_magna                                                               23.46%    passed     84.26%
+ 517  XP_029930795.1_opsin-5-like_Myripristis_murdjan                                                                                            25.65%    passed     91.22%
+ 518  XP_008312752.1_RPE-retinal_G_protein-coupled_receptor_Cynoglossus_semilaevis                                                               41.75%    passed     67.31%
+ 519  JAJ73703.1_putative_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna                                                      58.05%    passed     70.19%
+ 520  AOW70395.1_long_wavelength_rhodopsin_partial_Dolichoderus_imitator                                                                         71.57%    passed      7.56%
+ 521  tr|A0A5G3JHY2|A0A5G3JHY2_XENTR_MACRO_domain_containing_1_OS_Xenopus_tropicalis_OX_8364_GN_macrod1_PE_3_SV_1                                42.54%    passed      8.58%
+ 522  XP_019357637.1_PREDICTED_LOW_QUALITY_PROTEIN_melanopsin_Gavialis_gangeticus                                                                30.62%    passed     25.60%
+ 523  XP_026648025.1_opsin-5_isoform_X2_Zonotrichia_albicollis                                                                                   47.91%    passed     36.41%
+ 524  XP_029725873.1_opsin_ultraviolet-sensitive-like_Aedes_albopictus                                                                           28.63%    passed     51.42%
+ 525  tr|A0A673HEQ9|A0A673HEQ9_9TELE_Opsin_7_group_member_d_OS_Sinocyclocheilus_rhinocerous_OX_307959_PE_4_SV_1                                  39.56%    passed     71.40%
+ 526  ELV12080.1_Melanopsin_Tupaia_chinensis                                                                                                     26.64%    failed      4.52%
+ 527  BAQ54852.1_opsin_long-wavelength_sensitive_type_Anax_parthenope                                                                            28.03%    passed     65.58%
+ 528  GBP19858.1_Opsin-2_Eumeta_japonica                                                                                                         51.69%    passed     11.99%
+ 529  GAA51030.1_r-opsin_Clonorchis_sinensis                                                                                                     26.84%    passed     27.06%
+ 530  JAN88250.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop2_partial_Daphnia_magna                                                       77.14%    passed     24.55%
+ 531  XP_029026801.1_P2Y_purinoceptor_3-like_Betta_splendens                                                                                     38.97%    failed      4.04%
+ 532  XP_022669021.1_visual_pigment-like_receptor_peropsin_Varroa_destructor                                                                     58.45%    passed     22.75%
+ 533  Pdu-r-opsin7_Platynereis_dumerilii                                                                                                         34.99%    passed     47.70%
+ 534  tr|A0A3Q3JFT2|A0A3Q3JFT2_MONAL_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Monopterus_albus_OX_43700_PE_3_SV_1                       38.57%    passed     79.73%
+ 535  XP_004209180.1_PREDICTED_pinopsin-like_Hydra_vulgaris                                                                                      37.77%    failed      0.32%
+ 536  XP_023193763.1_melanopsin-B-like_isoform_X1_Xiphophorus_maculatus                                                                          25.45%    passed     77.02%
+ 537  tr|A0A674ILD0|A0A674ILD0_TERCA_Uncharacterized_protein_OS_Terrapene_carolina_triunguis_OX_2587831_PE_4_SV_1                                36.78%    passed     12.09%
+ 538  AGH15791.1_long_wavelength_sensitive_opsin_2_Ceratosolen_solmsi                                                                            27.83%    passed     43.21%
+ 539  XP_035263426.1_cysteinyl_leukotriene_receptor_1-like_isoform_X1_Anguilla_anguilla                                                          29.82%    passed     42.53%
+ 540  APY20566.1_long_wavelength_sensitive_opsin_2_Brassicogethes_aeneus                                                                         27.63%    passed     41.30%
+ 541  XP_015911002.1_ocellar_opsin_Parasteatoda_tepidariorum                                                                                     29.22%    passed     37.18%
+ 542  XP_015375898.1_PREDICTED_melanopsin-B-like_Diuraphis_noxia                                                                                 27.44%    passed      5.73%
+ 543  XP_034993740.1_melanopsin_isoform_X1_Zootoca_vivipara                                                                                      25.25%    passed     92.64%
+ 544  XP_021258498.1_probable_G-protein_coupled_receptor_132_Numida_meleagris                                                                    32.01%    passed     22.41%
+ 545  AIT99331.1_opsin_partial_Brachionus_koreanus                                                                                               81.91%    passed     58.31%
+ 546  Euchone_cf_gloenoi_TRINITY_DN26189_c0_g1_i1|ORF2                                                                                           68.79%    passed     75.83%
+ 547  XP_030225267.1_C3a_anaphylatoxin_chemotactic_receptor-like_Gadus_morhua                                                                    34.59%    passed     74.03%
+ 548  tr|M3YAY1|M3YAY1_MUSPF_Retinal_pigment_epithelium-derived_rhodopsin_homolog_OS_Mustela_putorius_furo_OX_9669_GN_RRH_PE_3_SV_1              34.19%    passed     10.68%
+ 549  XP_031171221.1_melanopsin-A-like_isoform_X2_Sander_lucioperca                                                                              25.65%    passed      6.16%
+ 550  RDD38730.1_Blue-sensitive_opsin_Trichoplax_sp._H2                                                                                          34.19%    passed      5.23%
+ 551  XP_024215512.1_tachykinin-like_peptides_receptor_99D_isoform_X1_Halyomorpha_halys                                                          29.62%    failed      1.10%
+ 552  XP_001635427.1_adenosine_receptor_A2a_Nematostella_vectensis                                                                               41.55%    failed      0.89%
+ 553  XP_022068897.1_probable_G-protein_coupled_receptor_34_Acanthochromis_polyacanthus                                                          30.62%    passed     11.87%
+ 554  XP_031549426.1_adenosine_receptor_A2b-like_Actinia_tenebrosa                                                                               36.58%    passed     49.84%
+ 555  XP_031760459.1_opsin-5-like_Xenopus_tropicalis                                                                                             26.04%    passed     63.90%
+ 556  tr|A0A3P9A472|A0A3P9A472_ESOLU_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Esox_lucius_OX_8010_PE_3_SV_1                             36.38%    failed      0.29%
+ 557  KTF87460.1_hypothetical_protein_cypCar_00010512_partial_Cyprinus_carpio                                                                    43.14%    passed     30.86%
+ 558  ROT66561.1_rhodopsin_Penaeus_vannamei                                                                                                      64.21%    failed      0.78%
+ 559  XP_026772972.2_sphingosine_1-phosphate_receptor_5a_Pangasianodon_hypophthalmus                                                             32.41%    passed     23.51%
+ 560  RDD42311.1_Beta-2_adrenergic_receptor_Trichoplax_sp._H2                                                                                    33.00%    failed      0.00%
+ 561  XP_034238347.1_rhodopsin-like_Thrips_palmi                                                                                                 27.83%    passed     38.32%
+ 562  XP_018938048.1_PREDICTED_probable_G-protein_coupled_receptor_83_Cyprinus_carpio                                                            48.71%    passed     30.89%
+ 563  XP_018409997.1_PREDICTED_melanopsin-B-like_Nanorana_parkeri                                                                                25.84%    passed     70.79%
+ 564  XP_022914402.1_visual_pigment-like_receptor_peropsin_Onthophagus_taurus                                                                    41.75%    passed     36.36%
+ 565  XP_011347596.1_opsin_blue-sensitive_isoform_X1_Ooceraea_biroi                                                                              28.83%    passed     22.98%
+ 566  KAA3676781.1_G0-opsin_Paragonimus_westermani                                                                                               36.18%    failed      3.09%
+ 567  XP_027048887.1_type-1_angiotensin_II_receptor_B-like_Pocillopora_damicornis                                                                34.99%    passed     16.11%
+ 568  XP_029155480.1_rhodopsin-like_isoform_X2_Nylanderia_fulva                                                                                  28.43%    failed      2.47%
+ 569  EFX83831.1_arthropsin5_Daphnia_pulex                                                                                                       24.06%    failed      2.62%
+ 570  JAN68825.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna                                                               26.84%    passed     52.09%
+ 571  XP_002115463.1_hypothetical_protein_TRIADDRAFT_29682_Trichoplax_adhaerens                                                                  37.57%    failed      0.00%
+ 572  JAT82037.1_hypothetical_protein_g.19690_partial_Pectinophora_gossypiella                                                                   73.76%    passed     28.50%
+ 573  KAF3861084.1_hypothetical_protein_F7725_001339_Dissostichus_mawsoni                                                                        35.39%    passed     54.33%
+ 574  KOC59207.1_Rhodopsin_Habropoda_laboriosa                                                                                                   33.00%    passed     33.07%
+ 575  XP_012562617.1_PREDICTED_opsin-3-like_Hydra_vulgaris                                                                                       40.36%    failed      0.33%
+ 576  XP_019962892.1_PREDICTED_C-C_chemokine_receptor_type_7-like_Paralichthys_olivaceus                                                         32.41%    failed      0.43%
+ 577  XP_033218633.1_opsin_ultraviolet-sensitive_Belonocnema_treatae                                                                             28.83%    passed     56.38%
+ 578  RDD39735.1_D5-like_dopamine_receptor_Trichoplax_sp._H2                                                                                     36.38%    passed     15.49%
+ 579  XP_028600254.1_neuropeptide_FF_receptor_2_Podarcis_muralis                                                                                 27.44%    passed     55.47%
+ 580  RDD40123.1_G-protein_coupled_receptor_GRL101-like_protein_Trichoplax_sp._H2                                                                27.83%    failed      0.68%
+ 581  XP_026229803.1_chemokine_XC_receptor_1-like_Anabas_testudineus                                                                             37.38%    passed     37.62%
+ 582  XP_029968010.1_trace_amine-associated_receptor_13c-like_Salarias_fasciatus                                                                 36.58%    failed      0.00%
+ 583  XP_012692867.2_urotensin-2_receptor-like_Clupea_harengus                                                                                   33.60%    failed      0.88%
+ 584  ACB70910.1_long_wavelength_rhodopsin_partial_Colocistis_castanea                                                                           64.02%    passed     77.01%
+ 585  XP_026221681.1_muscarinic_acetylcholine_receptor_M2-like_Anabas_testudineus                                                                35.39%    passed     91.94%
+ 586  XP_015764484.1_PREDICTED_rhodopsin-like_Acropora_digitifera                                                                                28.23%    passed     87.88%
+ 587  DAniello2015_ops4_Antedon_mediterranea                                                                                                     50.10%    failed      0.99%
+ 588  XP_019628052.1_PREDICTED_neuromedin-U_receptor_2-like_Branchiostoma_belcheri                                                               30.42%    passed     16.95%
+ 589  XP_033975768.1_melanopsin-A-like_Trematomus_bernacchii                                                                                     25.65%    passed     59.70%
+ 590  XP_012278726.1_rhodopsin_Orussus_abietinus                                                                                                 27.24%    passed     50.49%
+ 591  tr|A0A3B4ASE7|A0A3B4ASE7_9GOBI_Opsin_8_group_member_a_OS_Periophthalmus_magnuspinnatus_OX_409849_PE_3_SV_1                                 33.80%    passed     58.36%
+ 592  ANN75141.1_long_wavelength_rhodopsin_partial_Apomyrma_sp._CF01                                                                             69.78%    passed     80.97%
+ 593  XP_033863970.2_2-oxoglutarate_receptor_1-like_Acipenser_ruthenus                                                                           37.97%    passed     57.15%
+ 594  ELU10639.1_hypothetical_protein_CAPTEDRAFT_54000_partial_Capitella_teleta                                                                  43.74%    passed     37.96%
+ 595  XP_018393173.1_PREDICTED_neuropeptide_CCHamide-1_receptor-like_Cyphomyrmex_costatus                                                        26.84%    passed      5.45%
+ 596  XP_002586119.1_hypothetical_protein_BRAFLDRAFT_110002_Branchiostoma_floridae                                                               42.54%    passed     28.03%
+ 597  XP_010207713.1_PREDICTED_H_ACA_ribonucleoprotein_complex_subunit_1_partial_Colius_striatus                                                 81.51%    passed     39.88%
+ 598  ACB70906.1_long_wavelength_rhodopsin_partial_Campsomeris_cf._plumipes_EMP-2008                                                             72.56%    passed     92.09%
+ 599  Perkinsiana_anodina_TRINITY_DN37214_c0_g1_i1|ORF2                                                                                          41.55%    passed     87.79%
+ 600  tr|G1K924|G1K924_ANOCA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Anolis_carolinensis_OX_28377_PE_4_SV_1                            34.19%    passed     21.67%
+ 601  KTG44876.1_hypothetical_protein_cypCar_00006946_Cyprinus_carpio                                                                            46.92%    passed      6.81%
+ 602  XP_018608561.2_melanopsin-A-like_Scleropages_formosus                                                                                      25.45%    passed     48.61%
+ 603  XP_017164322.1_PREDICTED_melanopsin_Poecilia_reticulata                                                                                    27.24%    failed      2.81%
+ 604  XP_024946932.1_cardioacceleratory_peptide_receptor_isoform_X1_Cephus_cinctus                                                               25.84%    passed     17.98%
+ 605  ADX42275.1_rhodopsin_partial_Benthoctopus_sp._C_JMS-2011                                                                                   74.16%    failed      1.18%
+ 606  XP_002117715.1_hypothetical_protein_TRIADDRAFT_61720_Trichoplax_adhaerens                                                                  37.77%    passed      9.37%
+ 607  XP_023024923.1_opsin_ultraviolet-sensitive-like_Leptinotarsa_decemlineata                                                                  43.74%    failed      1.91%
+ 608  AAT48013.1_rhodopsin_partial_Cranchia_scabra                                                                                               58.65%    failed      0.72%
+ 609  JAI65771.1_hypothetical_protein_PF00001.17_Scylla_olivacea                                                                                 69.98%    passed     40.60%
+ 610  VDP03606.1_unnamed_protein_product_Heligmosomoides_polygyrus                                                                               31.81%    passed      8.97%
+ 611  PVD39445.1_hypothetical_protein_C0Q70_02076_Pomacea_canaliculata                                                                           35.79%    failed      1.24%
+ 612  ANN11838.1_ultraviolet_wavelength_sensitive_opsin_1_Sphenoptera_sp._NPL-2016                                                               28.23%    passed     97.42%
+ 613  ADX42280.1_rhodopsin_partial_Benthoctopus_eureka                                                                                           56.06%    failed      1.44%
+ 614  XP_015207099.1_PREDICTED_opsin-5-like_isoform_X2_Lepisosteus_oculatus                                                                      38.37%    passed     43.64%
+ 615  XP_004713097.1_RPE-retinal_G_protein-coupled_receptor_Echinops_telfairi                                                                    41.35%    failed      2.67%
+ 616  tr|A0A4W3I3A4|A0A4W3I3A4_CALMI_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Callorhinchus_milii_OX_7868_PE_4_SV_1                     37.77%    passed     63.54%
+ 617  JAM27909.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna                                                               33.20%    passed     86.62%
+ 618  AAQ84746.1_short-wavelength_rhodopsin_partial_Patanothrix_wilsoni                                                                          67.00%    passed     17.02%
+ 619  CAD20297.1_alpha_2B_adrenergic_receptor_partial_Anomalurus_sp.                                                                             51.49%    passed     24.07%
+ 620  ODM98000.1_Opsin-5_Orchesella_cincta                                                                                                       79.52%    passed     88.93%
+ 621  QBS47868.1_biogenic_amine-like_GPCR_Tripedalia_cystophora                                                                                  28.03%    passed     12.61%
+ 622  tr|H3ALJ1|H3ALJ1_LATCH_Opsin_7_group_member_a_OS_Latimeria_chalumnae_OX_7897_GN_LOC102349847_PE_3_SV_1                                     28.23%    passed     60.86%
+ 623  XP_002113685.1_hypothetical_protein_TRIADDRAFT_57365_Trichoplax_adhaerens                                                                  34.19%    passed     28.70%
+ 624  XP_020287744.1_opsin_blue-sensitive_Pseudomyrmex_gracilis                                                                                  29.03%    passed     21.20%
+ 625  ABM74400.1_opsin_Portunus_pelagicus                                                                                                        41.95%    passed     68.37%
+ 626  JAQ32374.1_hypothetical_protein_partial_Fundulus_heteroclitus                                                                              39.56%    failed      0.00%
+ 627  ABK54993.1_long_wavelength_rhodopsin_partial_Sapyga_pumila                                                                                 69.78%    passed     42.05%
+ 628  tr|A0A2R8QK88|A0A2R8QK88_DANRE_Neuropeptide_Y_receptor_Y1_OS_Danio_rerio_OX_7955_GN_npy1r_PE_3_SV_1                                        31.81%    failed      4.29%
+ 629  XP_025091427.1_rhodopsin_GQ-coupled-like_Pomacea_canaliculata                                                                              71.57%    passed     16.46%
+ 630  BAQ54914.1_opsin_long-wavelength_sensitive_type_Ischnura_asiatica                                                                          27.83%    passed     21.64%
+ 631  JAL33923.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna                                                               28.63%    passed     51.18%
+ 632  JAN36675.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna                                                               70.97%    passed     46.65%
+ 633  AFZ78084.1_acropsin_1_Acropora_palmata                                                                                                     32.41%    passed     29.14%
+ 634  APY20608.1_ultraviolet_sensitive_opsin_1_Gyrinus_marinus                                                                                   28.43%    passed     92.04%
+ 635  XP_034938625.1_rhodopsin-like_Chelonus_insularis                                                                                           28.43%    passed     17.19%
+ 636  tr|A0A673X2S2|A0A673X2S2_SALTR_Opsin_4b_OS_Salmo_trutta_OX_8032_PE_4_SV_1                                                                  26.24%    passed     10.75%
+ 637  tr|A0A1B0DF04|A0A1B0DF04_PHLPP_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Phlebotomus_papatasi_OX_29031_PE_3_SV_1                   67.00%    passed      9.20%
+ 638  Branchiomma_TRINITY_DN49110_c0_g1_i1|ORF1                                                                                                  70.58%    passed     75.81%
+ 639  RXM29788.1_Melanopsin-A_Acipenser_ruthenus                                                                                                 24.85%    passed     58.47%
+ 640  RDD39654.1_Prokineticin_receptor_2_Trichoplax_sp._H2                                                                                       38.37%    failed      0.16%
+ 641  XP_013984214.1_PREDICTED_melanopsin_isoform_X1_Salmo_salar                                                                                 25.65%    passed     67.60%
+ 642  XP_006561570.2_D2-like_dopamine_receptor_isoform_X4_Apis_mellifera                                                                         28.03%    failed      0.93%
+ 643  tr|A0A3Q4HP51|A0A3Q4HP51_NEOBR_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Neolamprologus_brichardi_OX_32507_PE_3_SV_1               24.65%    passed     11.75%
+ 644  XP_020610777.1_melanopsin-like_Orbicella_faveolata                                                                                         37.57%    passed     38.95%
+ 645  XP_020619652.1_rhodopsin-like_Orbicella_faveolata                                                                                          58.85%    passed     60.49%
+ 646  AFM75825.1_onychopsin_Epiperipatus_cf._isthmicola_LH-2012                                                                                  20.28%    passed     14.94%
+ 647  tr|A0A3Q4G530|A0A3Q4G530_NEOBR_Purinergic_receptor_P2Y13_OS_Neolamprologus_brichardi_OX_32507_GN_P2RY13_PE_3_SV_1                          36.98%    passed     30.33%
+ 648  CRK93701.1_CLUMA_CG007229_isoform_A_Clunio_marinus                                                                                         28.03%    passed     11.77%
+ 649  NWH40527.1_NPFF2_protein_partial_Chloropsis_hardwickii                                                                                     29.22%    passed     25.29%
+ 650  XP_021247801.1_opsin-5-like_isoform_X1_Numida_meleagris                                                                                    28.83%    passed     83.53%
+ 651  XP_021451289.1_neuromedin-K_receptor-like_Oncorhynchus_mykiss                                                                              31.61%    passed     38.35%
+ 652  TEA25955.1_hypothetical_protein_DBR06_SOUSAS5710087_Sousa_chinensis                                                                        26.24%    passed     18.48%
+ 653  XP_015195021.1_PREDICTED_opsin-5-like_isoform_X1_Lepisosteus_oculatus                                                                      26.84%    passed     24.81%
+ 654  KTF76227.1_hypothetical_protein_cypCar_00037916_Cyprinus_carpio                                                                            36.58%    failed      0.01%
+ 655  XP_012663513.1_C-X-C_chemokine_receptor_type_6_Otolemur_garnettii                                                                          35.19%    passed     12.51%
+ 656  XP_015776718.1_PREDICTED_opsin-3-like_Acropora_digitifera                                                                                  32.80%    failed      0.90%
+ 657  XP_023328775.1_rhodopsin_GQ-coupled-like_Eurytemora_affinis                                                                                58.85%    passed     40.85%
+ 658  tr|A0A182MPG0|A0A182MPG0_9DIPT_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Anopheles_culicifacies_OX_139723_PE_4_SV_1                29.42%    passed     25.69%
+ 659  XP_010868545.3_melanopsin-A_isoform_X1_Esox_lucius                                                                                         24.25%    passed      7.43%
+ 660  XP_002116142.1_expressed_hypothetical_protein_Trichoplax_adhaerens                                                                         29.62%    failed      0.21%
+ 661  XP_008295176.1_PREDICTED_trace_amine-associated_receptor_13c-like_Stegastes_partitus                                                       36.58%    failed      3.49%
+ 662  XP_029886893.1_melanopsin_isoform_X1_Aquila_chrysaetos_chrysaetos                                                                          26.64%    passed     76.85%
+ 663  AGH15790.1_long_wavelength_sensitive_opsin_1_Ceratosolen_solmsi                                                                            28.23%    passed     51.46%
+ 664  JAM48543.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna                                                               25.84%    passed     63.02%
+ 665  XP_033505125.1_opsin_8_group_member_a_Epinephelus_lanceolatus                                                                              33.00%    passed     53.11%
+ 666  XP_003218910.2_PREDICTED_gastrin-releasing_peptide_receptor_isoform_X1_Anolis_carolinensis                                                 28.43%    passed     68.44%
+ 667  AIJ19303.1_long-wavelength_rhodopsin_partial_Epicharis_maculata                                                                            88.07%    passed     17.92%
+ 668  tr|W4Z0Y8|W4Z0Y8_STRPU_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Strongylocentrotus_purpuratus_OX_7668_PE_4_SV_1                   34.79%    passed     16.41%
+ 669  SNX37469.1_U_sub_15__sub_-Deinotoxin-Dsu1a_1_Deinopis_subrufa                                                                              71.57%    passed     10.66%
+ 670  Bispira_brunnea_SOAP_k45_C1159428|ORF1                                                                                                     28.23%    passed     47.15%
+ 671  CDW36370.1_Gprotein_coupled_receptor_161like_Aplysia_californica_partial_Lepeophtheirus_salmonis                                           25.05%    failed      0.00%
+ 672  VDN08980.1_unnamed_protein_product_Dibothriocephalus_latus                                                                                 71.17%    passed     69.94%
+ 673  XP_020069971.1_hypothetical_protein_CYBJADRAFT_168016_Cyberlindnera_jadinii_NRRL_Y-1542                                                    63.02%    failed      0.00%
+ 674  XP_029443024.1_histamine_H3_receptor-like_Rhinatrema_bivittatum                                                                            38.77%    passed     22.77%
+ 675  QIW86030.1_opsin_M8_Neogonodactylus_oerstedii                                                                                              27.63%    passed     54.59%
+ 676  tr|A0A1A9VS39|A0A1A9VS39_GLOAU_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Glossina_austeni_OX_7395_PE_3_SV_1                        28.03%    passed     45.38%
+ 677  XP_002117836.1_hypothetical_protein_TRIADDRAFT_61883_Trichoplax_adhaerens                                                                  31.41%    failed      0.05%
+ 678  ANY60691.1_long_wavelength_rhodopsin_partial_Anochetus_graeffei                                                                            69.18%    passed     13.65%
+ 679  BAR90774.1_retinochrome1_Idiosepius_paradoxus                                                                                              40.56%    failed      0.15%
+ 680  KAF4097049.1_hypothetical_protein_G5714_023018_Onychostoma_macrolepis                                                                      26.24%    passed     84.96%
+ 681  KAF3702564.1_Opsin-5_G-protein_coupled_receptor_136_Channa_argus                                                                           31.81%    passed     55.89%
+ 682  JAJ08967.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop2_Daphnia_magna                                                               45.53%    passed     63.97%
+ 683  XP_021938909.1_opsin_ultraviolet-sensitive-like_isoform_X1_Zootermopsis_nevadensis                                                         27.83%    passed     89.80%
+ 684  ADZ24786.1_ciliary_opsin_Terebratalia_transversa                                                                                           24.25%    failed      1.81%
+ 685  FAA00407.1_TPA_opsin_Nematostella_vectensis                                                                                                36.58%    passed      8.68%
+ 686  XP_009045325.1_hypothetical_protein_LOTGIDRAFT_156440_Lottia_gigantea                                                                      34.79%    passed     59.23%
+ 687  RDD37978.1_Neuropeptide_FF_receptor_2_Trichoplax_sp._H2                                                                                    34.39%    failed      0.67%
+ 688  AAT47913.1_rhodopsin_partial_Joubiniteuthis_sp._JMS-2004                                                                                   57.65%    failed      4.51%
+ 689  PRD36569.1_5-hydroxytryptamine_receptor_Trichonephila_clavipes                                                                             63.62%    failed      2.36%
+ 690  XP_021422984.1_melanopsin-A-like_Oncorhynchus_mykiss                                                                                       67.59%    passed      7.96%
+ 691  XP_020282937.1_neuropeptides_capa_receptor-like_Pseudomyrmex_gracilis                                                                      28.43%    passed     32.88%
+ 692  CAB1344799.1_unnamed_protein_product_partial_Coregonus_sp._balchen                                                                         30.62%    passed     30.74%
+ 693  RDD47226.1_Octopamine_receptor_beta-1R_Trichoplax_sp._H2                                                                                   36.58%    failed      0.95%
+ 694  XP_026737245.1_opsin_ultraviolet-sensitive-like_Trichoplusia_ni                                                                            38.57%    passed     12.17%
+ 695  RDD42723.1_Rhodopsin_GQ-coupled_Trichoplax_sp._H2                                                                                          36.98%    failed      0.00%
+ 696  tr|A0A672J748|A0A672J748_SALFA_Si_dkey-96n2.3_OS_Salarias_fasciatus_OX_181472_PE_4_SV_1                                                    39.56%    passed     78.78%
+ 697  tr|A0A3B3RU42|A0A3B3RU42_9TELE_Opsin_7_group_member_d_OS_Paramormyrops_kingsleyae_OX_1676925_PE_3_SV_1                                     45.92%    failed      0.12%
+ 698  RDD43039.1_Beta-2_adrenergic_receptor_Trichoplax_sp._H2                                                                                    25.05%    failed      1.09%
+ 699  RMB95924.1_hypothetical_protein_DUI87_28038_Hirundo_rustica_rustica                                                                        82.11%    passed     14.00%
+ 700  XP_033799702.1_RPE-retinal_G_protein-coupled_receptor_Geotrypetes_seraphini                                                                41.35%    passed      6.96%
+ 701  TNM97636.1_hypothetical_protein_fugu_013882_Takifugu_bimaculatus                                                                           30.62%    failed      3.61%
+ 702  ABD18438.1_long-wavelength_rhodopsin_partial_Labidus_spininodis                                                                            70.18%    passed      7.24%
+ 703  XP_011859076.1_PREDICTED_opsin_ultraviolet-sensitive-like_isoform_X1_Vollenhovia_emeryi                                                    68.19%    passed     34.17%
+ 704  APY20679.1_long_wavelength_sensitive_opsin_2_Xanthostigma_xanthostigma                                                                     27.83%    passed     49.78%
+ 705  KAA3677104.1_uncharacterized_protein_DEA37_0009381_Paragonimus_westermani                                                                  30.22%    passed     39.75%
+ 706  AMP19652.1_opsin_6_Euphausia_superba                                                                                                       28.03%    passed     11.75%
+ 707  KTF89755.1_hypothetical_protein_cypCar_00034061_Cyprinus_carpio                                                                            26.24%    passed     55.02%
+ 708  XP_021444281.1_opsin-5-like_Oncorhynchus_mykiss                                                                                            72.96%    passed     24.23%
+ 709  XP_029927119.1_melanopsin_isoform_X1_Myripristis_murdjan                                                                                   24.25%    passed     55.63%
+ 710  XP_004605658.2_PREDICTED_relaxin-3_receptor_1_Sorex_araneus                                                                                27.63%    failed      0.70%
+ 711  XP_035290556.1_G-protein_coupled_receptor_151-like_Anguilla_anguilla                                                                       29.62%    failed      1.81%
+ 712  XP_012556969.1_PREDICTED_rhodopsin-like_Hydra_vulgaris                                                                                     43.74%    failed      0.15%
+ 713  APY20626.1_ultraviolet_sensitive_opsin_1_partial_Metrius_contractus                                                                        61.83%    passed     84.42%
+ 714  RDD37916.1_Neuropeptide_Y_receptor_type_1_Trichoplax_sp._H2                                                                                38.77%    failed      0.00%
+ 715  ALB48797.1_LW_opsin_partial_Photinus_ardens                                                                                                28.43%    passed     40.19%
+ 716  XP_019117643.2_opsin-5_Larimichthys_crocea                                                                                                 31.21%    passed     18.41%
+ 717  tr|A0A3B4HCM1|A0A3B4HCM1_9CICH_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Pundamilia_nyererei_OX_303518_PE_4_SV_1                   85.88%    passed     94.32%
+ 718  ACC77718.1_ultraviolet_wavelength-sensitive_opsin_Agraulis_vanillae                                                                        28.43%    passed     58.17%
+ 719  XP_018425298.1_PREDICTED_opsin-5-like_Nanorana_parkeri                                                                                     27.63%    passed     26.52%
+ 720  XP_034469761.1_opsin_7_group_member_a_Hippoglossus_hippoglossus                                                                            26.24%    passed     40.97%
+ 721  POS82316.1_hypothetical_protein_EPUL_005458_partial_Erysiphe_pulchra                                                                       73.96%    failed      0.00%
+ 722  XP_021916810.1_5-hydroxytryptamine_receptor-like_isoform_X1_Zootermopsis_nevadensis                                                        32.41%    passed     19.28%
+ 723  tr|A0A3P8WB69|A0A3P8WB69_CYNSE_Sphingosine-1-phosphate_receptor_5a_OS_Cynoglossus_semilaevis_OX_244447_PE_3_SV_1                           31.21%    passed     21.13%
+ 724  JAM07117.1_Gastrin-releasing_peptide_receptor_Daphnia_magna                                                                                33.00%    failed      1.90%
+ 725  AKC01674.1_UV_opsin_partial_Paroster_nigroadumbratus                                                                                       36.58%    passed     78.87%
+ 726  XP_018655262.1_Rhodopsin_Schistosoma_mansoni                                                                                               62.82%    passed     42.38%
+ 727  tr|A0A3Q1BAD3|A0A3Q1BAD3_AMPOC_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Amphiprion_ocellaris_OX_80972_PE_3_SV_1                   34.19%    failed      1.30%
+ 728  XP_028852432.1_melanopsin-B-like_isoform_X1_Denticeps_clupeoides                                                                           25.84%    passed     99.86%
+ 729  APY20511.1_long_wavelength_sensitive_opsin_Macrosiagon_limbatum                                                                            27.83%    passed     84.12%
+ 730  XP_033209504.1_rhodopsin-like_isoform_X1_Belonocnema_treatae                                                                               27.24%    passed     45.05%
+ 731  JAL81714.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_putative_Daphnia_magna                                                      52.88%    failed      2.28%
+ 732  AAT47921.1_rhodopsin_partial_Heteroteuthis_hawaiiensis                                                                                     56.86%    failed      1.36%
+ 733  JAM60745.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna                                                               37.97%    passed     67.48%
+ 734  TNN62646.1_Opsin-5_Liparis_tanakae                                                                                                         43.54%    passed     27.82%
+ 735  EFX84250.1_arthropsin6_Daphnia_pulex                                                                                                       23.26%    passed     88.55%
+ 736  XP_006875988.1_PREDICTED_melanopsin_Chrysochloris_asiatica                                                                                 24.85%    passed     31.14%
+ 737  Sabella_spallanzanii_SOAP_k35_C928312|ORF1                                                                                                 70.97%    passed      9.46%
+ 738  tr|A0A3B5M8F8|A0A3B5M8F8_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Xiphophorus_couchianus_OX_32473_PE_3_SV_1                 25.84%    passed     27.22%
+ 739  JAS11175.1_hypothetical_protein_g.7047_Clastoptera_arizonana                                                                               28.43%    passed     27.75%
+ 740  XP_015596498.1_QRFP-like_peptide_receptor_isoform_X1_Cephus_cinctus                                                                        27.44%    passed     37.53%
+ 741  XP_004603856.1_PREDICTED_atypical_chemokine_receptor_4_Sorex_araneus                                                                       36.18%    failed      2.15%
+ 742  XP_002118147.1_hypothetical_protein_TRIADDRAFT_3740_partial_Trichoplax_adhaerens                                                           47.12%    passed      8.26%
+ 743  AAY58298.1_long-wavelength_rhodopsin_partial_Tachytes_panzeri                                                                              71.37%    passed     94.51%
+ 744  XP_012561474.1_PREDICTED_opsin-3-like_Hydra_vulgaris                                                                                       45.13%    failed      2.58%
+ 745  tr|A0A3P8TU36|A0A3P8TU36_AMPPE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Amphiprion_percula_OX_161767_PE_3_SV_1                    42.74%    failed      0.05%
+ 746  RDD37284.1_Adenosine_receptor_A3_Trichoplax_sp._H2                                                                                         33.40%    failed      0.01%
+ 747  AIY31988.1_long-wavelength_opsin_2_Agrotis_ipsilon                                                                                         27.44%    passed     26.38%
+ 748  XP_029908955.1_D4_dopamine_receptor-like_isoform_X1_Myripristis_murdjan                                                                    39.17%    passed     16.50%
+ 749  KAF3858195.1_hypothetical_protein_F7725_011396_Dissostichus_mawsoni                                                                        25.65%    passed     82.61%
+ 750  XP_016151259.1_PREDICTED_opsin-5-like_Sinocyclocheilus_grahami                                                                             42.54%    passed     74.95%
+ 751  XP_031711386.1_LOW_QUALITY_PROTEIN_melanopsin-B-like_Anarrhichthys_ocellatus                                                               25.84%    passed     82.76%
+ 752  XP_021368658.1_rhodopsin-like_Mizuhopecten_yessoensis                                                                                      28.03%    passed     77.08%
+ 753  XP_029669064.1_rhodopsin-like_isoform_X1_Formica_exsecta                                                                                   28.63%    passed     17.24%
+ 754  XP_026830339.1_rhodopsin_Ooceraea_biroi                                                                                                    27.63%    passed     47.19%
+ 755  RDD40280.1_Trace_amine-associated_receptor_7h_Trichoplax_sp._H2                                                                            33.80%    passed     32.96%
+ 756  I37105.1_Sequence_118_from_patent_US_5612215                                                                                               95.43%    failed      0.00%
+ 757  XP_024860252.1_opsin-5-like_isoform_X1_Kryptolebias_marmoratus                                                                             26.24%    passed     11.40%
+ 758  JAL31218.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_partial_Daphnia_magna                                                       78.13%    passed     33.19%
+ 759  ROT68877.1_hypothetical_protein_C7M84_012939_Penaeus_vannamei                                                                              45.73%    failed      3.10%
+ 760  tr|A0A4W5Q9R1|A0A4W5Q9R1_9TELE_Uncharacterized_protein_OS_Hucho_hucho_OX_62062_PE_4_SV_1                                                   78.33%    passed     48.84%
+ 761  Bispira_guinensis_TRINITY_DN30775_c0_g1_i1|ORF9                                                                                            38.77%    failed      1.41%
+ 762  tr|A0A669BMP9|A0A669BMP9_ORENI_Uncharacterized_protein_OS_Oreochromis_niloticus_OX_8128_GN_LOC102081670_PE_4_SV_1                          31.01%    passed     31.64%
+ 763  APY20547.1_ultraviolet_sensitive_opsin_2_Adalia_bipunctata                                                                                 29.22%    passed     49.67%
+ 764  APY20570.1_ultraviolet_sensitive_opsin_2_Carabus_granulatus                                                                                27.63%    passed     90.13%
+ 765  JAJ09903.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_putative_partial_Daphnia_magna                                              46.52%    passed     88.78%
+ 766  XP_032877872.1_G-protein_coupled_receptor_6_Amblyraja_radiata                                                                              38.17%    passed     44.09%
+ 767  AKO70517.1_long_wavelength_rhodopsin_partial_Proceratium_sp._MG08                                                                          43.34%    passed     48.39%
+ 768  XP_020897790.2_rhodopsin_G0-coupled_Exaiptasia_diaphana                                                                                    25.05%    passed     15.89%
+ 769  APY20622.1_long_wavelength_sensitive_opsin_Meloe_violaceus                                                                                 27.44%    passed     85.55%
+ 770  AIZ50548.1_opsin_4.4_partial_Amphiura_filiformis                                                                                           49.90%    passed     14.89%
+ 771  tr|A0A369RXG2|A0A369RXG2_9METZ_G-protein_coupled_receptor_GRL101-like_protein_OS_Trichoplax_sp._H2_OX_287889_GN_TrispH2_010168_PE_4_SV_1   36.18%    failed      0.01%
+ 772  QIB85075.1_long_wavelength_rhodopsin_partial_Basiceros_militaris                                                                           86.88%    passed     57.44%
+ 773  XP_035210616.1_5-hydroxytryptamine_receptor_4-like_isoform_X2_Stegodyphus_dumicola                                                         38.97%    passed     25.62%
+ 774  XP_013917868.1_PREDICTED_opsin-5_Thamnophis_sirtalis                                                                                       48.71%    passed     10.42%
+ 775  XP_008308008.1_P2Y_purinoceptor_2_isoform_X1_Cynoglossus_semilaevis                                                                        33.00%    passed     17.19%
+ 776  XP_029430581.1_olfactory_receptor_1019-like_Rhinatrema_bivittatum                                                                          40.95%    passed     17.65%
+ 777  TSR87291.1_C-X-C_chemokine_receptor_type_5_Bagarius_yarrelli                                                                               33.60%    failed      0.06%
+ 778  XP_024591256.1_uncharacterized_protein_LOC112393335_Neophocaena_asiaeorientalis_asiaeorientalis                                            32.60%    failed      0.21%
+ 779  tr|G3PXG3|G3PXG3_GASAC_Opsin_4xa_OS_Gasterosteus_aculeatus_OX_69293_PE_3_SV_1                                                              36.18%    passed     57.41%
+ 780  CAB3363334.1_Hypothetical_predicted_protein_Cloeon_dipterum                                                                                28.63%    passed     67.59%
+ 781  XP_018086329.1_PREDICTED_opsin-5-like_Xenopus_laevis                                                                                       39.17%    passed     37.87%
+ 782  tr|A0A3P8Y5R8|A0A3P8Y5R8_ESOLU_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Esox_lucius_OX_8010_PE_4_SV_1                             42.94%    passed     39.74%
+ 783  tr|A0A369S4K9|A0A369S4K9_9METZ_Trace_amine-associated_receptor_4_OS_Trichoplax_sp._H2_OX_287889_GN_TrispH2_006960_PE_4_SV_1                35.39%    passed     37.51%
+ 784  TRY76801.1_hypothetical_protein_TCAL_10452_Tigriopus_californicus                                                                          28.63%    passed     58.30%
+ 785  BAF95835.1_opsin_Cladonema_radiatum                                                                                                        39.56%    passed     72.64%
+ 786  XP_002108749.1_hypothetical_protein_TRIADDRAFT_52023_Trichoplax_adhaerens                                                                  29.42%    failed      0.01%
+ 787  XP_023298604.1_opsin_ultraviolet-sensitive_Lucilia_cuprina                                                                                 28.83%    passed     50.46%
+ 788  CDQ63131.1_unnamed_protein_product_Oncorhynchus_mykiss                                                                                     37.77%    failed      4.94%
+ 789  RDD39896.1_Adenosine_receptor_A2b_Trichoplax_sp._H2                                                                                        35.19%    passed     19.91%
+ 790  XP_033182249.1_melanopsin-A-like_Anabas_testudineus                                                                                        24.06%    passed     26.55%
+ 791  tr|G3T3L1|G3T3L1_LOXAF_Retinal_pigment_epithelium-derived_rhodopsin_homolog_OS_Loxodonta_africana_OX_9785_GN_RRH_PE_3_SV_1                 34.19%    passed     61.29%
+ 792  ACB70917.1_long_wavelength_rhodopsin_partial_Eotilla_mickeli                                                                               66.40%    passed     95.00%
+ 793  KXJ68111.1_hypothetical_protein_RP20_CCG005632_Aedes_albopictus                                                                            26.24%    passed     32.19%
+ 794  XP_026685348.1_opsin_Rh4-like_partial_Diaphorina_citri                                                                                     67.79%    passed     30.97%
+ 795  TRY83881.1_hypothetical_protein_DNTS_030106_Danionella_translucida                                                                         25.25%    passed     30.81%
+ 796  RDD44200.1_Beta-2_adrenergic_receptor_Trichoplax_sp._H2                                                                                    38.77%    failed      0.07%
+ 797  RVE70751.1_hypothetical_protein_OJAV_G00066700_Oryzias_javanicus                                                                           26.24%    passed     33.09%
+ 798  XP_030217722.1_lysophosphatidic_acid_receptor_6-like_Gadus_morhua                                                                          37.77%    passed      5.17%
+ 799  XP_017889373.1_rhodopsin-like_Ceratina_calcarata                                                                                           28.43%    passed     55.25%
+ 800  RTG84828.1_uncharacterized_protein_DC041_0001021_Schistosoma_bovis                                                                         73.36%    failed      4.18%
+ 801  XP_020501930.1_melanopsin-A-like_Labrus_bergylta                                                                                           25.65%    passed      5.40%
+ 802  tr|A0A3B4BVJ3|A0A3B4BVJ3_PYGNA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Pygocentrus_nattereri_OX_42514_PE_3_SV_1                  32.21%    passed     16.59%
+ 803  TKY70195.1_Glycine-rich_protein_A3_Spatholobus_suberectus                                                                                  62.23%    failed      0.00%
+ 804  XP_007891558.1_PREDICTED_somatostatin_receptor_type_1_Callorhinchus_milii                                                                  30.82%    passed     33.46%
+ 805  XP_010175021.2_LOW_QUALITY_PROTEIN_growth_hormone_secretagogue_receptor_type_1-like_Antrostomus_carolinensis                               32.41%    passed     14.90%
+ 806  TSM28183.1_Melanopsin-B_Bagarius_yarrelli                                                                                                  26.44%    passed     85.02%
+ 807  EFX69629.1_hypothetical_protein_DAPPUDRAFT_328922_Daphnia_pulex                                                                            49.30%    passed     75.58%
+ 808  ABK54902.1_long_wavelength_rhodopsin_partial_Aporus_niger                                                                                  69.78%    passed     62.72%
+ 809  XP_015766841.1_PREDICTED_somatostatin_receptor_type_5-like_isoform_X2_Acropora_digitifera                                                  30.62%    passed     43.22%
+ 810  BAG14335.1_kumopsin3_Plexippus_paykulli                                                                                                    29.42%    passed     21.47%
+ 811  XP_003468046.1_visual_pigment-like_receptor_peropsin_Cavia_porcellus                                                                       34.19%    passed     12.99%
+ 812  KAA8583090.1_hypothetical_protein_FQN60_015636_partial_Etheostoma_spectabile                                                               22.66%    passed     67.25%
+ 813  AAD19664.1_orphan_G_protein-coupled_receptor_GPR54_Rattus_norvegicus                                                                       28.83%    failed      0.00%
+ 814  Pseudopotamilla_reniformis_TRINITY_DN25937_c0_g1_i1|ORF6                                                                                   60.04%    passed     10.99%
+ 815  XP_035255329.1_RPE-retinal_G_protein-coupled_receptor-like_Anguilla_anguilla                                                               41.55%    passed     95.18%
+ 816  tr|A0A182SBE7|A0A182SBE7_9DIPT_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Anopheles_maculatus_OX_74869_PE_3_SV_1                    27.63%    passed     31.38%
+ 817  ETN63380.1_ultraviolet-sensitive_opsin_Anopheles_darlingi                                                                                  30.42%    passed     18.85%
+ 818  XP_024870078.1_opsin_ultraviolet-sensitive-like_Temnothorax_curvispinosus                                                                  71.17%    passed     44.15%
+ 819  TKS77710.1_G-protein_coupled_receptor_136_Collichthys_lucidus                                                                              26.24%    passed      9.11%
+ 820  RDD36702.1_Neuromedin-U_receptor_2_Trichoplax_sp._H2                                                                                       36.98%    failed      0.42%
+ 821  tr|A0A3Q4BS70|A0A3Q4BS70_MOLML_Opsin_6_group_member_a_OS_Mola_mola_OX_94237_PE_4_SV_1                                                      26.24%    passed     30.43%
+ 822  RXN06778.1_visual_pigment-like_receptor_peropsin_Labeo_rohita                                                                              34.79%    passed      5.03%
+ 823  GBP63134.1_Opsin-3_Eumeta_japonica                                                                                                         45.73%    passed     29.71%
+ 824  XP_010874558.2_adenosine_A2a_receptor_a_Esox_lucius                                                                                        34.99%    passed     46.22%
+ 825  XP_013861390.1_PREDICTED_opsin-5-like_isoform_X1_Austrofundulus_limnaeus                                                                   27.83%    passed     91.03%
+ 826  TRY87606.1_hypothetical_protein_DNTS_005994_Danionella_translucida                                                                         35.39%    passed     63.37%
+ 827  XP_018577781.2_opsin_ultraviolet-sensitive-like_Anoplophora_glabripennis                                                                   28.23%    passed     67.93%
+ 828  KYM92165.1_Opsin_blue-sensitive_Atta_colombica                                                                                             25.65%    passed     26.53%
+ 829  JAM70557.1_putative_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna                                                      62.23%    failed      1.03%
+ 830  JAO32834.1_RGR_partial_Poeciliopsis_prolifica                                                                                              71.57%    passed     68.03%
+ 831  TSK82152.1_Melanopsin_Bagarius_yarrelli                                                                                                    24.65%    passed     86.32%
+ 832  ABV08882.1_long_wavelength_sensitive_opsin_partial_Limenitis_archippus_watsoni                                                             54.27%    passed     79.95%
+ 833  XP_029508072.1_growth_hormone_secretagogue_receptor_type_1-like_partial_Oncorhynchus_nerka                                                 30.62%    failed      0.03%
+ 834  XP_012553708.1_PREDICTED_visual_pigment-like_receptor_peropsin_partial_Hydra_vulgaris                                                      58.25%    failed      1.38%
+ 835  XP_024861503.1_opsin-5-like_isoform_X1_Kryptolebias_marmoratus                                                                             26.24%    passed     58.78%
+ 836  XP_020475936.1_opsin-5-like_Monopterus_albus                                                                                               26.64%    passed     35.70%
+ 837  TMW44031.1_hypothetical_protein_DOY81_010889_Sarcophaga_bullata                                                                            28.03%    passed     42.97%
+ 838  XP_012525371.1_gonadotropin-releasing_hormone_II_receptor_isoform_X1_Monomorium_pharaonis                                                  31.01%    failed      4.57%
+ 839  PWA15581.1_hypothetical_protein_CCH79_00020634_Gambusia_affinis                                                                            26.24%    passed     40.80%
+ 840  QDR50942.1_Rhodopsin_7_Heliconius_melpomene                                                                                                26.64%    passed     22.09%
+ 841  TKS86010.1_Melanopsin-A_Mammalian-like_melanopsin_Collichthys_lucidus                                                                      56.26%    passed     12.06%
+ 842  XP_026781740.2_trace_amine-associated_receptor_13c-like_Pangasianodon_hypophthalmus                                                        37.38%    passed     25.34%
+ 843  XP_010891229.2_opsin_6_group_member_b_Esox_lucius                                                                                          28.63%    passed     46.90%
+ 844  NP_001265799.1_isotocin_receptor-like_Oryzias_latipes                                                                                      28.63%    passed     36.36%
+ 845  XP_031561410.1_rhodopsin-like_Actinia_tenebrosa                                                                                            33.20%    passed     17.97%
+ 846  tr|A0A1L8FBB7|A0A1L8FBB7_XENLA_Olfactory_receptor_OS_Xenopus_laevis_OX_8355_GN_XELAEV_18040207mg_PE_3_SV_1                                 42.35%    failed      2.38%
+ 847  KAF4524343.1_Short_wavelentgh_sensitive_B_opsin_1_Ephemera_danica                                                                          28.83%    passed     42.37%
+ 848  OPJ72929.1_mu-type_opioid_receptor_Patagioenas_fasciata_monilis                                                                            34.99%    passed     26.40%
+ 849  XP_024909457.1_opsin-5-like_isoform_X1_Cynoglossus_semilaevis                                                                              33.60%    passed     89.77%
+ 850  XP_012946057.1_PREDICTED_medium-wave-sensitive_opsin_1-like_Aplysia_californica                                                            73.96%    failed      0.44%
+ 851  tr|A0A3P8XI36|A0A3P8XI36_ESOLU_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Esox_lucius_OX_8010_PE_3_SV_1                             34.19%    passed     52.41%
+ 852  NP_667317.1_olfactory_receptor_980_Mus_musculus                                                                                            41.55%    passed     24.90%
+ 853  XP_018594346.1_leukotriene_B4_receptor_1-like_Scleropages_formosus                                                                         35.39%    passed     24.24%
+ 854  BAM66997.1_violet-sensitive_opsin_1_partial_Catopsilia_pomona                                                                              57.26%    passed     87.04%
+ 855  tr|T1I2V4|T1I2V4_RHOPR_Rhodopsin_neither_inactivation_nor_afterpotential_E_OS_Rhodnius_prolixus_OX_13249_PE_3_SV_1                         27.63%    passed     37.39%
+ 856  JAM91983.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna                                                               28.03%    passed     51.80%
+ 857  XP_022908130.1_opsin-1-like_Onthophagus_taurus                                                                                             27.63%    passed     17.58%
+ 858  ABD64148.1_blue-sensitive_rhodopsin_Satyrium_behrii                                                                                        28.03%    passed     79.66%
+ 859  RDD42745.1_Melanopsin_Trichoplax_sp._H2                                                                                                    35.19%    failed      1.79%
+ 860  XP_018909954.1_PREDICTED_5-hydroxytryptamine_receptor-like_partial_Bemisia_tabaci                                                          41.75%    passed     19.16%
+ 861  XP_022081088.1_visual_pigment-like_receptor_peropsin_Acanthaster_planci                                                                    61.43%    passed     65.34%
+ 862  GAU91613.1_hypothetical_protein_RvY_03838-1_Ramazzottius_varieornatus                                                                      59.44%    passed     41.51%
+ 863  XP_002755296.2_olfactory_receptor_4X2_Callithrix_jacchus                                                                                   41.55%    passed     95.43%
+ 864  XP_017528699.1_PREDICTED_LOW_QUALITY_PROTEIN_melanopsin_Manis_javanica                                                                     24.85%    passed     52.91%
+ 865  XP_030594005.1_melanopsin-A-like_isoform_X3_Archocentrus_centrarchus                                                                       36.78%    passed     69.88%
+ 866  XP_013789125.2_somatostatin_receptor_type_2-like_partial_Limulus_polyphemus                                                                60.24%    passed     63.59%
+ 867  RDD39215.1_Beta-1_adrenergic_receptor_Trichoplax_sp._H2                                                                                    34.39%    failed      0.00%
+ 868  AFM43711.1_onychopsin_Eoperipatus_sp._LH-2012                                                                                              21.27%    passed      6.87%
+ 869  XP_016108825.1_PREDICTED_opsin-5-like_Sinocyclocheilus_grahami                                                                             26.24%    passed     24.21%
+ 870  CAB1334507.1_unnamed_protein_product_Coregonus_sp._balchen                                                                                 34.79%    passed      7.72%
+ 871  TNM95153.1_hypothetical_protein_fugu_017912_Takifugu_bimaculatus                                                                           29.42%    passed     60.41%
+ 872  CAB1343295.1_unnamed_protein_product_Coregonus_sp._balchen                                                                                 56.46%    failed      0.70%
+ 873  KAF3693232.1_Lysophosphatidic_acid_receptor_6_Channa_argus                                                                                 34.59%    passed      6.27%
+ 874  XP_029347952.1_opsin_ultraviolet-sensitive-like_partial_Acyrthosiphon_pisum                                                                55.07%    failed      3.30%
+ 875  JAR88791.1_putative_vasopressin_v1a_receptor_Ixodes_ricinus                                                                                33.80%    passed     12.45%
+ 876  XP_007960930.1_PREDICTED_RPE-retinal_G_protein-coupled_receptor_isoform_X2_Chlorocebus_sabaeus                                             45.13%    failed      1.45%
+ 877  CDJ97129.1_7TM_GPCR_domain_containing_protein_Haemonchus_contortus                                                                         37.18%    passed     44.68%
+ 878  NWH40579.1_DRD1C_protein_partial_Chloropsis_hardwickii                                                                                     41.35%    failed      1.86%
+ 879  ANN75179.1_long_wavelength_rhodopsin_partial_Stigmatomma_zwaluwenburgi                                                                     69.78%    passed     19.03%
+ 880  Stylomma_palmatum_TRINITY_DN32755_c0_g1_i1|ORF3                                                                                            34.00%    failed      2.36%
+ 881  RDD39107.1_Allatostatin-A_receptor_Trichoplax_sp._H2                                                                                       29.22%    passed      5.05%
+ 882  XP_023340528.1_opsin_ultraviolet-sensitive-like_Eurytemora_affinis                                                                         21.07%    failed      0.00%
+ 883  XP_028599832.1_melanopsin_isoform_X3_Podarcis_muralis                                                                                      39.17%    passed     47.70%
+ 884  AWP16904.1_putative_visual_pigment-like_receptor_peropsin_Scophthalmus_maximus                                                             37.97%    passed     32.31%
+ 885  BBI55008.1_melanopsin_Anguilla_japonica                                                                                                    47.12%    passed     97.92%
+ 886  AAP56249.1_deltamethrin_resistance-associated_NYD-OP3_Culex_pipiens_pallens                                                                27.83%    passed     35.54%
+ 887  XP_028347975.1_visual_pigment-like_receptor_peropsin_isoform_X1_Physeter_catodon                                                           39.96%    passed     43.75%
+ 888  RDD46331.1_Neuromedin-K_receptor_Trichoplax_sp._H2                                                                                         36.18%    failed      0.92%
+ 889  XP_034545716.1_5-hydroxytryptamine_receptor_4_isoform_X1_Notolabrus_celidotus                                                              26.84%    passed     44.62%
+ 890  KMQ87510.1_long_wave_opsin_Lasius_niger                                                                                                    27.83%    passed     77.55%
+ 891  XP_016865903.1_opsin-5_isoform_X5_Homo_sapiens                                                                                             57.65%    passed      6.85%
+ 892  CAB0005616.1_unnamed_protein_product_Nesidiocoris_tenuis                                                                                   31.21%    passed     55.76%
+ 893  XP_016124236.1_PREDICTED_inactive_ubiquitin_carboxyl-terminal_hydrolase_54-like_isoform_X1_Sinocyclocheilus_grahami                        24.65%    passed     26.52%
+ 894  BAU71685.1_long-wavelength_sensitive_opsin_Luciola_parvula                                                                                 27.63%    passed     83.60%
+ 895  ROT81263.1_Opsin-5_Penaeus_vannamei                                                                                                        38.77%    passed     42.22%
+ 896  JAK57752.1_putative_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna                                                      67.99%    passed     44.99%
+ 897  XP_011553316.1_PREDICTED_opsin-2-like_Plutella_xylostella                                                                                  28.23%    passed     32.83%
+ 898  DAC80517.1_TPA_inf_xenopsin_Dendrocoelum_lacteum                                                                                           52.68%    passed     16.67%
+ 899  XP_034537141.1_retinal_G_protein_coupled_receptor_a_isoform_X1_Notolabrus_celidotus                                                        41.35%    passed     92.48%
+ 900  APY20588.1_long_wavelength_sensitive_opsin_Conwentzia_psociformis                                                                          28.03%    passed     39.65%
+ 901  XP_033628165.1_histamine_H2_receptor-like_isoform_X1_Asterias_rubens                                                                       23.26%    passed     53.49%
+ 902  XP_034250430.1_opsin-3_Thrips_palmi                                                                                                        28.43%    failed      2.41%
+ 903  XP_020471991.1_somatostatin_receptor_type_5-like_Monopterus_albus                                                                          30.42%    passed     65.40%
+ 904  RDD42337.1_G-protein_coupled_receptor_GRL101-like_protein_Trichoplax_sp._H2                                                                30.02%    passed      5.25%
+ 905  VCX13301.1_unnamed_protein_product_Gulo_gulo                                                                                               26.04%    passed     34.11%
+ 906  XP_029193906.1_probable_G-protein_coupled_receptor_83_Acropora_millepora                                                                   35.19%    passed     69.47%
+ 907  XP_022094784.1_substance-K_receptor-like_Acanthaster_planci                                                                                40.36%    failed      3.01%
+ 908  XP_002107733.1_hypothetical_protein_TRIADDRAFT_51534_Trichoplax_adhaerens                                                                  37.38%    failed      0.12%
+ 909  JAK40073.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna                                                               34.39%    passed     45.92%
+ 910  XP_029993711.1_opsin-5-like_isoform_X1_Sphaeramia_orbicularis                                                                              26.04%    passed     18.32%
+ 911  XP_024149458.1_opsin-5-like_isoform_X1_Oryzias_melastigma                                                                                  26.24%    passed     10.30%
+ 912  Bispira_serrata_TRINITY_DN59578_c0_g1_i1|ORF6                                                                                              70.38%    passed     60.34%
+ 913  XP_010830038.1_PREDICTED_LOW_QUALITY_PROTEIN_olfactory_receptor_6C68-like_Bison_bison_bison                                                39.76%    failed      0.00%
+ 914  XP_032373867.1_opsin-5-like_Etheostoma_spectabile                                                                                          41.35%    passed     74.40%
+ 915  KTG34267.1_hypothetical_protein_cypCar_00048514_partial_Cyprinus_carpio                                                                    52.29%    passed     65.77%
+ 916  XP_029011689.1_opsin-5-like_Betta_splendens                                                                                                26.24%    failed      0.08%
+ 917  XP_013978747.1_PREDICTED_opsin-5-like_Salmo_salar                                                                                          36.98%    passed     36.11%
+ 918  XP_012680154.1_opsin-5-like_Clupea_harengus                                                                                                31.01%    passed     53.60%
+ 919  XP_030060842.1_LOW_QUALITY_PROTEIN_RPE-retinal_G_protein-coupled_receptor_Microcaecilia_unicolor                                           40.95%    failed      1.84%
+ 920  tr|A0A3B5A3Y7|A0A3B5A3Y7_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Stegastes_partitus_OX_144197_PE_4_SV_1                    26.84%    passed     16.38%
+ 921  KAF3689275.1_Thyrotropin-releasing_hormone_receptor_Channa_argus                                                                           29.22%    passed     77.27%
+ 922  tr|A0A4W4H325|A0A4W4H325_ELEEL_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Electrophorus_electricus_OX_8005_GN_rgr_PE_4_SV_1         44.73%    passed     27.24%
+ 923  XP_025913644.1_cyclic_nucleotide-gated_cation_channel_alpha-4_Apteryx_rowi                                                                 61.03%    passed     23.60%
+ 924  BAQ54709.1_opsin_short-wavelength_sensitive_type_Sympetrum_frequens                                                                        28.63%    passed     32.79%
+ 925  XP_010016932.1_PREDICTED_LOW_QUALITY_PROTEIN_opsin-5-like_partial_Nestor_notabilis                                                         53.48%    passed     26.13%
+ 926  NP_001303876.1_opsin_8_group_member_a_Danio_rerio                                                                                          35.19%    passed     95.31%
+ 927  XP_017291705.1_trace_amine-associated_receptor_1-like_Kryptolebias_marmoratus                                                              36.98%    passed      5.56%
+ 928  AKO70455.1_long_wavelength_rhodopsin_partial_Mystrium_barrybressleri                                                                       43.34%    passed     36.52%
+ 929  AFG30310.1_long_wavelength_rhodopsin_partial_Camponotus_clarithorax                                                                        69.98%    passed     10.88%
+ 930  XP_005156349.1_oxoeicosanoid_receptor_1_Danio_rerio                                                                                        39.96%    passed     16.34%
+ 931  XP_020491513.1_opsin-5-like_Labrus_bergylta                                                                                                25.84%    passed     32.48%
+ 932  RDD42761.1_Blue-sensitive_opsin_Trichoplax_sp._H2                                                                                          30.62%    failed      0.64%
+ 933  GAV07468.1_hypothetical_protein_RvY_17298-1_Ramazzottius_varieornatus                                                                      22.27%    passed     37.51%
+ 934  JAS22051.1_hypothetical_protein_g.16542_partial_Clastoptera_arizonana                                                                      28.83%    passed     39.39%
+ 935  XP_005094658.2_PREDICTED_neuropeptide_Y_receptor-like_Aplysia_californica                                                                  51.49%    failed      4.12%
+ 936  tr|A0A182NQW7|A0A182NQW7_9DIPT_Uncharacterized_protein_OS_Anopheles_dirus_OX_7168_PE_3_SV_1                                                21.47%    passed     13.78%
+ 937  XP_023149641.1_melanopsin-A-like_Amphiprion_ocellaris                                                                                      24.65%    passed     50.96%
+ 938  XP_028654801.1_trace_amine-associated_receptor_4-like_Erpetoichthys_calabaricus                                                            34.79%    passed     58.66%
+ 939  XP_011552091.1_PREDICTED_rhodopsin_GQ-coupled-like_isoform_X1_Plutella_xylostella                                                          39.36%    passed     33.86%
+ 940  tr|A0A4W5KH62|A0A4W5KH62_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Hucho_hucho_OX_62062_PE_3_SV_1                            40.36%    passed     87.43%
+ 941  AAS67106.1_rhodopsin_partial_Adelieledone_polymorpha                                                                                       55.86%    failed      0.37%
+ 942  XP_029701134.1_melanopsin-A-like_isoform_X3_Takifugu_rubripes                                                                              39.17%    passed     31.43%
+ 943  tr|A0A1B0CVX4|A0A1B0CVX4_LUTLO_Rhodopsin_GPRop3_OS_Lutzomyia_longipalpis_OX_7200_PE_3_SV_1                                                 39.36%    passed     72.73%
+ 944  AKS48308.1_rhabdomeric_opsin_2_Platynereis_dumerilii                                                                                       24.65%    passed     52.02%
+ 945  XP_029876124.1_melanopsin-like_isoform_X1_Aquila_chrysaetos_chrysaetos                                                                     25.84%    passed     85.83%
+ 946  BAF95828.1_opsin_Cladonema_radiatum                                                                                                        41.75%    failed      4.47%
+ 947  AAQ54661.1_long-wavelength_rhodopsin_partial_Clesthentia_sp._NCSU-99061021                                                                 70.58%    passed     38.10%
+ 948  XP_012787928.1_PREDICTED_melanopsin_Sorex_araneus                                                                                          24.85%    passed     23.54%
+ 949  XP_023932190.1_opsin-5-like_Lingula_anatina                                                                                                36.58%    passed     99.62%
+ 950  CBY33106.1_unnamed_protein_product_Oikopleura_dioica                                                                                       59.44%    passed     15.44%
+ 951  AAY16538.2_ultraviolet-sensitive_visual_pigment_Heliconius_erato                                                                           28.43%    passed     25.16%
+ 952  AMP19650.1_opsin_4_Euphausia_superba                                                                                                       27.44%    passed     11.89%
+ 953  Pseudobranchiomma_cf_schizogenica_TRINITY_DN54603_c0_g1_i1|ORF1                                                                            54.47%    passed     99.88%
+ 954  XP_027047438.1_D2_dopamine_receptor-like_Pocillopora_damicornis                                                                            40.16%    passed     14.39%
+ 955  XP_006819815.1_PREDICTED_allatostatin-A_receptor-like_Saccoglossus_kowalevskii                                                             38.77%    passed     39.51%
+ 956  KAF5307326.1_hypothetical_protein_FQR65_LT07042_Abscondita_terminalis                                                                      32.41%    passed     36.18%
+ 957  THD28001.1_hypothetical_protein_D915_000926_Fasciola_hepatica                                                                              39.56%    passed     40.28%
+ 958  RDD37420.1_D5-like_dopamine_receptor_Trichoplax_sp._H2                                                                                     33.40%    failed      0.08%
+ 959  CAB1340012.1_unnamed_protein_product_partial_Coregonus_sp._balchen                                                                         55.07%    passed     91.38%
+ 960  XP_027221987.1_visual_pigment-like_receptor_peropsin_Penaeus_vannamei                                                                      61.03%    passed      6.23%
+ 961  ACC77721.1_ultraviolet_wavelength-sensitive_opsin_Neominois_ridingsii                                                                      29.03%    passed     77.53%
+ 962  ACU00234.1_opsin_partial_Odontodactylus_scyllarus                                                                                          49.30%    passed     73.54%
+ 963  QIW86028.1_opsin_M1_Neogonodactylus_oerstedii                                                                                              29.03%    passed     70.71%
+ 964  RDD44798.1_Neuropeptide_FF_receptor_2_Trichoplax_sp._H2                                                                                    33.20%    failed      0.48%
+ 965  XP_007960929.1_PREDICTED_RPE-retinal_G_protein-coupled_receptor_isoform_X1_Chlorocebus_sabaeus                                             45.92%    failed      0.00%
+ 966  XP_002115586.1_hypothetical_protein_TRIADDRAFT_59454_Trichoplax_adhaerens                                                                  31.01%    failed      0.02%
+ 967  RDD40945.1_Neuropeptide_SIFamide_receptor_Trichoplax_sp._H2                                                                                39.56%    passed     20.23%
+ 968  tr|A0A1S4H6T7|A0A1S4H6T7_ANOGA_Putative_serotonin_5HT-1b_receptor_OS_Anopheles_gambiae_OX_7165_PE_3_SV_1                                   32.80%    failed      1.79%
+ 969  XP_026146098.1_opsin-5-like_Carassius_auratus                                                                                              34.00%    passed     72.11%
+ 970  tr|A0A665VXK6|A0A665VXK6_ECHNA_Uncharacterized_protein_OS_Echeneis_naucrates_OX_173247_PE_4_SV_1                                           29.22%    passed     19.28%
+ 971  XP_033728836.1_cardioacceleratory_peptide_receptor-like_Pecten_maximus                                                                     31.21%    passed     12.39%
+ 972  tr|A0A3Q2QHS2|A0A3Q2QHS2_FUNHE_Opsin_6_group_member_a_OS_Fundulus_heteroclitus_OX_8078_PE_4_SV_1                                           49.70%    passed     13.92%
+ 973  ABX10833.1_melanopsin_2_isoform_S_Gallus_gallus                                                                                            25.25%    passed     75.18%
+ 974  ROT69166.1_rhodopsin_Penaeus_vannamei                                                                                                      74.75%    passed      9.99%
+ 975  JAK10970.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_partial_Daphnia_magna                                                       30.42%    passed     17.53%
+ 976  XP_033805650.1_P2Y_purinoceptor_8-like_isoform_X1_Geotrypetes_seraphini                                                                    33.80%    passed     47.46%
+ 977  XP_022102668.1_thyrotropin-releasing_hormone_receptor-like_Acanthaster_planci                                                              31.01%    passed     37.45%
+ 978  tr|G1MNF7|G1MNF7_AILME_Olfactory_receptor_OS_Ailuropoda_melanoleuca_OX_9646_GN_OR13C3_PE_3_SV_1                                            40.36%    passed     28.41%
+ 979  XP_034551598.1_opsin_7_group_member_d_Notolabrus_celidotus                                                                                 26.24%    passed     26.15%
+ 980  EFX83619.1_arthropsin3_Daphnia_pulex                                                                                                       21.87%    passed      8.03%
+ 981  XP_021003173.1_neuropeptide_Y_receptor_type_5-like_Parasteatoda_tepidariorum                                                               28.83%    failed      4.41%
+ 982  XP_018425975.1_PREDICTED_thromboxane_A2_receptor_Nanorana_parkeri                                                                          47.51%    passed     41.47%
+ 983  tr|A0A673YYW7|A0A673YYW7_SALTR_Uncharacterized_protein_OS_Salmo_trutta_OX_8032_PE_4_SV_1                                                   32.60%    passed     94.11%
+ 984  ABG34894.1_long-wavelength_rhodopsin_partial_Alphomelon_sp._JCB-2006                                                                       93.04%    passed     22.89%
+ 985  XP_033861096.2_opsin-5-like_Acipenser_ruthenus                                                                                             32.41%    passed     31.06%
+WARNING: 196 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                                                                                                                                      39.96%  192 sequences failed composition chi2 test (p-value<5%; df=19)
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 1.974 seconds
+Perform fast likelihood tree search using LG+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -409793.780
+Optimal log-likelihood: -409793.018
+Gamma shape alpha: 1.626
+Parameters optimization took 1 rounds (1.695 sec)
+Time for fast ML tree search: 35.221 seconds
+
+NOTE: ModelFinder requires 320 MB RAM!
+ModelFinder will test up to 84 protein models (sample size: 503) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  LG            421487.238   1967 846908.476   8589020.476  855210.377
+  2  LG+G4         409792.922   1968 823521.845   8573505.845  831827.966
+  4  LG+F+G4       408310.304   1987 820594.609   8720906.609  828980.921
+  6  WAG+G4        411348.187   1968 826632.373   8576616.373  834938.495
+  8  WAG+F+G4      408468.550   1987 820911.100   8721223.100  829297.412
+ 10  JTT+G4        410723.913   1968 825383.825   8575367.825  833689.947
+ 12  JTT+F+G4      408913.615   1987 821801.229   8722113.229  830187.542
+ 14  JTTDCMut+G4   410873.561   1968 825683.123   8575667.123  833989.244
+ 16  JTTDCMut+F+G4 409006.688   1987 821987.377   8722299.377  830373.689
+ 18  DCMut+G4      417549.018   1968 839034.036   8589018.036  847340.158
+ 20  DCMut+F+G4    412612.231   1987 829198.463   8729510.463  837584.775
+ 22  VT+G4         410406.472   1968 824748.945   8574732.945  833055.066
+ 24  VT+F+G4       408012.130   1987 819998.260   8720310.260  828384.573
+ 26  PMB+G4        411084.724   1968 826105.449   8576089.449  834411.570
+ 28  PMB+F+G4      410761.272   1987 825496.543   8725808.543  833882.856
+ 30  Blosum62+G4   412066.058   1968 828068.116   8578052.116  836374.238
+ 32  Blosum62+F+G4 410586.881   1987 825147.763   8725459.763  833534.075
+ 34  Dayhoff+G4    417565.759   1968 839067.518   8589051.518  847373.639
+ 36  Dayhoff+F+G4  412620.032   1987 829214.064   8729526.064  837600.376
+ 38  mtREV+G4      425901.862   1968 855739.724   8605723.724  864045.845
+ 40  mtREV+F+G4    415898.875   1987 835771.751   8736083.751  844158.064
+ 42  mtART+G4      428685.558   1968 861307.117   8611291.117  869613.238
+ 44  mtART+F+G4    421550.945   1987 847075.889   8747387.889  855462.202
+ 46  mtZOA+G4      418424.090   1968 840784.181   8590768.181  849090.302
+ 48  mtZOA+F+G4    414533.155   1987 833040.310   8733352.310  841426.623
+ 50  mtMet+G4      421413.733   1968 846763.467   8596747.467  855069.588
+ 52  mtMet+F+G4    413143.422   1987 830260.845   8730572.845  838647.158
+ 54  mtVer+G4      427969.316   1968 859874.633   8609858.633  868180.754
+ 56  mtVer+F+G4    418476.822   1987 840927.644   8741239.644  849313.957
+ 58  mtInv+G4      422363.010   1968 848662.019   8598646.019  856968.141
+ 60  mtInv+F+G4    410400.981   1987 824775.962   8725087.962  833162.275
+ 62  mtMAM+G4      435887.803   1968 875711.606   8625695.606  884017.728
+ 64  mtMAM+F+G4    426022.388   1987 856018.775   8756330.775  864405.088
+ 66  HIVb+G4       419682.094   1968 843300.187   8593284.187  851606.309
+ 68  HIVb+F+G4     417105.696   1987 838185.391   8738497.391  846571.704
+ 70  HIVw+G4       437183.675   1968 878303.349   8628287.349  886609.471
+ 72  HIVw+F+G4     426423.678   1987 856821.357   8757133.357  865207.670
+ 74  FLU+G4        420035.053   1968 844006.106   8593990.106  852312.227
+ 76  FLU+F+G4      416360.390   1987 836694.781   8737006.781  845081.093
+ 78  rtREV+G4      415671.136   1968 835278.272   8585262.272  843584.393
+ 80  rtREV+F+G4    411512.219   1987 826998.437   8727310.437  835384.750
+ 82  cpREV+G4      412420.079   1968 828776.158   8578760.158  837082.280
+ 84  cpREV+F+G4    410226.958   1987 824427.917   8724739.917  832814.229
+Akaike Information Criterion:           VT+F+G4
+Corrected Akaike Information Criterion: LG+G4
+Bayesian Information Criterion:         VT+F+G4
+Best-fit model: VT+F+G4 chosen according to BIC
+
+All model information printed to /work/oa20474/PhylogenyPipeline/Opsins/Alignments/PASTA.2xIterLimit/RogueIter_0/SequencesOfInterestShuffled.part_008.alignment.PASTA.fasta.raxml.reduced.phy.model.gz
+CPU time for ModelFinder: 4286.337 seconds (1h:11m:26s)
+Wall-clock time for ModelFinder: 544.269 seconds (0h:9m:4s)
+Generating 1000 samples for ultrafast bootstrap (seed: 776782)...
+
+NOTE: 320 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -408012.130
+Optimal log-likelihood: -408012.118
+Gamma shape alpha: 1.947
+Parameters optimization took 1 rounds (1.733 sec)
+Computing ML distances based on estimated model parameters... 256.757 sec
+WARNING: Some pairwise ML distances are too long (saturated)
+Computing BIONJ tree...
+3.826 seconds
+Log-likelihood of BIONJ tree: -414591.742
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 216.026 second
+Computing log-likelihood of 98 initial trees ... 77.109 seconds
+Current best score: -408012.118
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -407897.303
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -407880.815
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 3: -407869.816
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 4: -407863.246
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 6: -407827.386
+Iteration 10 / LogL: -407970.479 / Time: 0h:13m:17s
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 20: -407765.232
+Iteration 20 / LogL: -407765.232 / Time: 0h:22m:7s
+Finish initializing candidate tree set (20)
+Current best tree score: -407765.232 / CPU time: 1270.185
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 23: -407700.809
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 24: -407631.230
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 25: -407620.137
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 27: -407595.671
+Iteration 30 / LogL: -407598.290 / Time: 0h:26m:4s (1h:27m:13s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 31: -407568.300
+Iteration 40 / LogL: -407598.316 / Time: 0h:29m:22s (1h:8m:33s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 42: -407505.400
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 46: -407492.165
+Iteration 50 / LogL: -407573.349 / Time: 0h:32m:48s (1h:4m:16s left)
+Log-likelihood cutoff on original alignment: -407667.169
+UFBoot trees printed to /work/oa20474/PhylogenyPipeline/Opsins/Alignments/PASTA.2xIterLimit/RogueIter_0/SequencesOfInterestShuffled.part_008.alignment.PASTA.fasta.raxml.reduced.phy.ufboot
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 54: -407469.786
+Iteration 60 / LogL: -407491.945 / Time: 0h:36m:14s (0h:57m:44s left)
+Iteration 70 / LogL: -407473.240 / Time: 0h:39m:29s (0h:48m:4s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 74: -407461.507
+Iteration 80 / LogL: -407537.029 / Time: 0h:42m:42s (0h:50m:49s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 88: -407452.789
+Iteration 90 / LogL: -407461.946 / Time: 0h:45m:51s (0h:50m:29s left)
+Iteration 100 / LogL: -407524.366 / Time: 0h:48m:29s (0h:43m:6s left)
+Log-likelihood cutoff on original alignment: -407623.999
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.950
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+UFBoot trees printed to /work/oa20474/PhylogenyPipeline/Opsins/Alignments/PASTA.2xIterLimit/RogueIter_0/SequencesOfInterestShuffled.part_008.alignment.PASTA.fasta.raxml.reduced.phy.ufboot
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 109: -407443.221
+Iteration 110 / LogL: -407482.263 / Time: 0h:51m:33s (0h:46m:49s left)
+Iteration 120 / LogL: -407483.988 / Time: 0h:54m:15s (0h:40m:34s left)
+Iteration 130 / LogL: -407475.380 / Time: 0h:56m:37s (0h:34m:40s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 135: -407427.534
+Iteration 140 / LogL: -407504.166 / Time: 0h:58m:51s (0h:40m:13s left)
+Iteration 150 / LogL: -407448.480 / Time: 1h:0m:49s (0h:34m:41s left)
+Log-likelihood cutoff on original alignment: -407619.553
+UFBoot trees printed to /work/oa20474/PhylogenyPipeline/Opsins/Alignments/PASTA.2xIterLimit/RogueIter_0/SequencesOfInterestShuffled.part_008.alignment.PASTA.fasta.raxml.reduced.phy.ufboot
+Iteration 160 / LogL: -407484.237 / Time: 1h:2m:55s (0h:29m:40s left)
+Iteration 170 / LogL: -407452.692 / Time: 1h:4m:55s (0h:24m:58s left)
+Iteration 180 / LogL: -407465.491 / Time: 1h:6m:57s (0h:20m:34s left)
+Iteration 190 / LogL: -407523.845 / Time: 1h:8m:54s (0h:16m:24s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 192: -407420.613
+Iteration 200 / LogL: -407441.867 / Time: 1h:11m:0s (0h:32m:49s left)
+Log-likelihood cutoff on original alignment: -407619.553
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.972
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+UFBoot trees printed to /work/oa20474/PhylogenyPipeline/Opsins/Alignments/PASTA.2xIterLimit/RogueIter_0/SequencesOfInterestShuffled.part_008.alignment.PASTA.fasta.raxml.reduced.phy.ufboot
+Iteration 210 / LogL: -407442.665 / Time: 1h:13m:7s (0h:31m:29s left)
+Iteration 220 / LogL: -407425.930 / Time: 1h:15m:13s (0h:27m:28s left)
+Iteration 230 / LogL: -407484.393 / Time: 1h:17m:12s (0h:23m:35s left)
+Iteration 240 / LogL: -407446.892 / Time: 1h:19m:12s (0h:19m:53s left)
+Iteration 250 / LogL: -407425.383 / Time: 1h:21m:14s (0h:16m:18s left)
+Log-likelihood cutoff on original alignment: -407610.104
+UFBoot trees printed to /work/oa20474/PhylogenyPipeline/Opsins/Alignments/PASTA.2xIterLimit/RogueIter_0/SequencesOfInterestShuffled.part_008.alignment.PASTA.fasta.raxml.reduced.phy.ufboot
+Iteration 260 / LogL: -407460.249 / Time: 1h:23m:26s (0h:12m:53s left)
+Iteration 270 / LogL: -407472.161 / Time: 1h:25m:30s (0h:9m:32s left)
+Iteration 280 / LogL: -407444.909 / Time: 1h:27m:30s (0h:6m:16s left)
+Iteration 290 / LogL: -407483.997 / Time: 1h:29m:35s (0h:3m:6s left)
+Iteration 300 / LogL: -407472.921 / Time: 1h:31m:45s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -407610.104
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.993
+UFBoot trees printed to /work/oa20474/PhylogenyPipeline/Opsins/Alignments/PASTA.2xIterLimit/RogueIter_0/SequencesOfInterestShuffled.part_008.alignment.PASTA.fasta.raxml.reduced.phy.ufboot
+TREE SEARCH COMPLETED AFTER 300 ITERATIONS / Time: 1h:31m:53s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -407420.613
+Optimal log-likelihood: -407420.605
+Gamma shape alpha: 1.958
+Parameters optimization took 1 rounds (1.323 sec)
+BEST SCORE FOUND : -407420.605
+
+Testing tree branches by SH-like aLRT with 1000 replicates...
+Testing tree branches by aBayes parametric test...
+Alternative NNI shows better log-likelihood -407420.332 > -407420.605
+Alternative NNI shows better log-likelihood -407420.462 > -407420.605
+Alternative NNI shows better log-likelihood -407420.491 > -407420.605
+Alternative NNI shows better log-likelihood -407420.507 > -407420.605
+Alternative NNI shows better log-likelihood -407420.312 > -407420.605
+2.729 sec.
+Creating bootstrap support values...
+Split supports printed to NEXUS file /work/oa20474/PhylogenyPipeline/Opsins/Alignments/PASTA.2xIterLimit/RogueIter_0/SequencesOfInterestShuffled.part_008.alignment.PASTA.fasta.raxml.reduced.phy.splits.nex
+Total tree length: 524.235
+
+Total number of iterations: 300
+CPU time used for tree search: 40985.224 sec (11h:23m:5s)
+Wall-clock time used for tree search: 5455.537 sec (1h:30m:55s)
+Total CPU time used: 41442.160 sec (11h:30m:42s)
+Total wall-clock time used: 5522.387 sec (1h:32m:2s)
+UFBoot trees printed to /work/oa20474/PhylogenyPipeline/Opsins/Alignments/PASTA.2xIterLimit/RogueIter_0/SequencesOfInterestShuffled.part_008.alignment.PASTA.fasta.raxml.reduced.phy.ufboot
+
+Computing bootstrap consensus tree...
+Reading input file /work/oa20474/PhylogenyPipeline/Opsins/Alignments/PASTA.2xIterLimit/RogueIter_0/SequencesOfInterestShuffled.part_008.alignment.PASTA.fasta.raxml.reduced.phy.splits.nex...
+985 taxa and 4229 splits.
+Consensus tree written to /work/oa20474/PhylogenyPipeline/Opsins/Alignments/PASTA.2xIterLimit/RogueIter_0/SequencesOfInterestShuffled.part_008.alignment.PASTA.fasta.raxml.reduced.phy.contree
+Reading input trees file /work/oa20474/PhylogenyPipeline/Opsins/Alignments/PASTA.2xIterLimit/RogueIter_0/SequencesOfInterestShuffled.part_008.alignment.PASTA.fasta.raxml.reduced.phy.contree
+Log-likelihood of consensus tree: -407415.348
+
+Analysis results written to: 
+  IQ-TREE report:                /work/oa20474/PhylogenyPipeline/Opsins/Alignments/PASTA.2xIterLimit/RogueIter_0/SequencesOfInterestShuffled.part_008.alignment.PASTA.fasta.raxml.reduced.phy.iqtree
+  Maximum-likelihood tree:       /work/oa20474/PhylogenyPipeline/Opsins/Alignments/PASTA.2xIterLimit/RogueIter_0/SequencesOfInterestShuffled.part_008.alignment.PASTA.fasta.raxml.reduced.phy.treefile
+  Likelihood distances:          /work/oa20474/PhylogenyPipeline/Opsins/Alignments/PASTA.2xIterLimit/RogueIter_0/SequencesOfInterestShuffled.part_008.alignment.PASTA.fasta.raxml.reduced.phy.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          /work/oa20474/PhylogenyPipeline/Opsins/Alignments/PASTA.2xIterLimit/RogueIter_0/SequencesOfInterestShuffled.part_008.alignment.PASTA.fasta.raxml.reduced.phy.splits.nex
+  Consensus tree:                /work/oa20474/PhylogenyPipeline/Opsins/Alignments/PASTA.2xIterLimit/RogueIter_0/SequencesOfInterestShuffled.part_008.alignment.PASTA.fasta.raxml.reduced.phy.contree
+  UFBoot trees:                  /work/oa20474/PhylogenyPipeline/Opsins/Alignments/PASTA.2xIterLimit/RogueIter_0/SequencesOfInterestShuffled.part_008.alignment.PASTA.fasta.raxml.reduced.phy.ufboot
+  Screen log file:               /work/oa20474/PhylogenyPipeline/Opsins/Alignments/PASTA.2xIterLimit/RogueIter_0/SequencesOfInterestShuffled.part_008.alignment.PASTA.fasta.raxml.reduced.phy.log
+
+Date and Time: Wed Jul  7 14:03:58 2021

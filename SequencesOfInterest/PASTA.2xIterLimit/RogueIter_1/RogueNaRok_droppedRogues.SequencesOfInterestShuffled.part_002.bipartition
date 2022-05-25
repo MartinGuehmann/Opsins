@@ -1,0 +1,7 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.968432
+1	668	XP_022092780.1_visual_pigment-like_receptor_peropsin_Acanthaster_planci	1.000000	0.969450
+2	895	tr|A0A3Q3J6X8|A0A3Q3J6X8_MONAL_Parietopsin_OS_Monopterus_albus_OX_43700_PE_4_SV_1	1.000000	0.970468
+3	761	AEO00700.1_SWS2B_opsin_partial_Abudefduf_sexfasciatus	1.000000	0.971487
+4	789	BAM72013.1_green_opsin_Engraulis_japonicus	1.000000	0.972505
+5	197	XP_011670210.2_G-protein_coupled_receptor_52-like_Strongylocentrotus_purpuratus	1.000000	0.973523

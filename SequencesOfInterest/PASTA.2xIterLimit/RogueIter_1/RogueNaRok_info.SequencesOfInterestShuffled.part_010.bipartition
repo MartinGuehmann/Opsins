@@ -1,0 +1,40 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.426222] initialisation done (initScore = 0.963340, numBip=4272)
+[0.027788] sorting bipartition profile
+[0.158875] computed / updated events
+[0.057306] combined events
+[0.007763] calculated per dropset improvement
+[0.008949] executed the merging events 
+>607	MPC37709.1_Ocellar_opsin_Portunus_trituberculatus	2.000000	0.965377
+[0.004759] sorting bipartition profile
+[0.001738] computed / updated events
+[0.058118] combined events
+[0.006557] calculated per dropset improvement
+[0.009902] executed the merging events 
+>392	Branchiomma_TRINITY_DN56132_c0_g1_i1|ORF2	1.000000	0.966395
+[0.004934] sorting bipartition profile
+[0.004156] computed / updated events
+[0.066440] combined events
+[0.007185] calculated per dropset improvement
+[0.010048] executed the merging events 
+>919	tr|A0A2G9UXU3|A0A2G9UXU3_TELCI_XYPPX_repeat_protein_OS_Teladorsagia_circumcincta_OX_45464_GN_TELCIR_02915_PE_4_SV_1	1.000000	0.967413
+[0.005085] sorting bipartition profile
+[0.003114] computed / updated events
+[0.065616] combined events
+[0.007108] calculated per dropset improvement
+[0.009347] executed the merging events 
+>604	XP_034231936.1_opsin_ultraviolet-sensitive-like_Thrips_palmi	1.000000	0.968432
+[0.004915] sorting bipartition profile
+[0.002003] computed / updated events
+[0.063325] combined events
+[0.006834] calculated per dropset improvement
+[0.010824] executed the merging events 
+>491,425	XP_027039232.1_melanopsin-like_Pocillopora_damicornis,Bispira_guinensis_TRINITY_DN34101_c2_g1_i1|ORF7	1.000000	0.969450
+[0.006668] sorting bipartition profile
+[0.003912] computed / updated events
+[0.061926] combined events
+[0.008202] calculated per dropset improvement
+total time elapsed: 2.120597

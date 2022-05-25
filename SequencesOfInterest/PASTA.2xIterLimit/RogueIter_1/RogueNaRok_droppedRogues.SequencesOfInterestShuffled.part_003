@@ -1,0 +1,16 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.906577
+1	497	KPI93338.1_Opsin-1_Papilio_xuthus	1.083000	0.907680
+2	160	XP_031467723.1_red-sensitive_opsin-like_partial_Phasianus_colchicus	1.035000	0.908734
+3	599	JAL83509.1_hypothetical_protein_Daphnia_magna	0.947000	0.909699
+4	227	CCA29935.1_rhodopsin_partial_Macruronus_novaezelandiae	0.910000	0.910625
+5	798	XP_022670895.1_visual_pigment-like_receptor_peropsin_Varroa_destructor	0.831000	0.911471
+6	403	XP_023045121.1_G-protein_coupled_receptor_176_Piliocolobus_tephrosceles	0.757000	0.912242
+7	36	Spirobranchus_corniculatus_Contig2815|ORF9	0.373000	0.912622
+8	469	XP_018965251.1_PREDICTED_sphingosine_1-phosphate_receptor_3-like_Cyprinus_carpio	0.181000	0.912807
+9	806	DAB27260.1_TPA_inf_G0-opsin_partial_Lineus_longissimus	0.170000	0.912980
+10	837	KZS03018.1_Uncharacterized_protein_APZ42_034443_Daphnia_magna	0.112000	0.913094
+11	423	RIB28107.1_hypothetical_protein_C2G38_1592903_Gigaspora_rosea	0.096000	0.913191
+12	827	XP_784266.3_visual_pigment-like_receptor_peropsin_Strongylocentrotus_purpuratus	0.046000	0.913238
+13	460	XP_008830406.1_olfactory_receptor_5AN1-like_Nannospalax_galili	0.029000	0.913268
+14	604	JAL40088.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna	0.005000	0.913273

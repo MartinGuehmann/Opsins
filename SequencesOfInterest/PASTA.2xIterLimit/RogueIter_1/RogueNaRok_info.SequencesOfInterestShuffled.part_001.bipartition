@@ -1,0 +1,52 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.484200] initialisation done (initScore = 0.963377, numBip=3741)
+[0.013662] sorting bipartition profile
+[0.128876] computed / updated events
+[0.041581] combined events
+[0.008099] calculated per dropset improvement
+[0.011319] executed the merging events 
+>632	XP_028809020.1_G-protein_coupled_receptor_176_Denticeps_clupeoides	3.000000	0.966429
+[0.004511] sorting bipartition profile
+[0.002153] computed / updated events
+[0.043720] combined events
+[0.007383] calculated per dropset improvement
+[0.011369] executed the merging events 
+>447	tr|A0A4W5KZ34|A0A4W5KZ34_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Hucho_hucho_OX_62062_PE_3_SV_1	2.000000	0.968464
+[0.004870] sorting bipartition profile
+[0.001862] computed / updated events
+[0.044850] combined events
+[0.005441] calculated per dropset improvement
+[0.007949] executed the merging events 
+>668	Chone_infundibiliformis_SOAP_k35_C421641|ORF1	2.000000	0.970498
+[0.004318] sorting bipartition profile
+[0.002742] computed / updated events
+[0.041830] combined events
+[0.005304] calculated per dropset improvement
+[0.007871] executed the merging events 
+>499	tr|A0A3Q0R5Q2|A0A3Q0R5Q2_AMPCI_Histamine_receptor_H2a_OS_Amphilophus_citrinellus_OX_61819_PE_3_SV_1	1.000000	0.971516
+[0.005245] sorting bipartition profile
+[0.002458] computed / updated events
+[0.042880] combined events
+[0.005650] calculated per dropset improvement
+[0.008263] executed the merging events 
+>164	BAA96828.1_cone_pigment_Lithobates_catesbeianus	1.000000	0.972533
+[0.004922] sorting bipartition profile
+[0.001232] computed / updated events
+[0.041363] combined events
+[0.006231] calculated per dropset improvement
+[0.012928] executed the merging events 
+>462,332	XP_009051533.1_hypothetical_protein_LOTGIDRAFT_152765_Lottia_gigantea,QFQ66903.1_RRH-like_protein_Hofstenia_miamia	2.000000	0.974568
+[0.007656] sorting bipartition profile
+[0.003255] computed / updated events
+[0.045892] combined events
+[0.006483] calculated per dropset improvement
+[0.011585] executed the merging events 
+>426	TNN44880.1_Opsin-5_Liparis_tanakae	1.000000	0.975585
+[0.005428] sorting bipartition profile
+[0.001699] computed / updated events
+[0.044834] combined events
+[0.007163] calculated per dropset improvement
+total time elapsed: 2.150136
