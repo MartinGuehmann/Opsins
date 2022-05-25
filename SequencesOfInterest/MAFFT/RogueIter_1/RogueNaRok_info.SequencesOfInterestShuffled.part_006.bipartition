@@ -1,0 +1,58 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.226998] initialisation done (initScore = 0.941955, numBip=4255)
+[0.013586] sorting bipartition profile
+[0.080615] computed / updated events
+[0.032559] combined events
+[0.004225] calculated per dropset improvement
+[0.005868] executed the merging events 
+>643	Parasabella_TRINITY_DN38834_c0_g1_i1|ORF3	2.000000	0.943992
+[0.003804] sorting bipartition profile
+[0.001131] computed / updated events
+[0.032491] combined events
+[0.003637] calculated per dropset improvement
+[0.005800] executed the merging events 
+>333	KAE8299158.1_Opsin-3_Encephalopsin_Panopsin_Larimichthys_crocea	2.000000	0.946029
+[0.003813] sorting bipartition profile
+[0.001363] computed / updated events
+[0.033056] combined events
+[0.003479] calculated per dropset improvement
+[0.005631] executed the merging events 
+>221	XP_034048746.1_opsin_4xa_Thalassophryne_amazonica	2.000000	0.948065
+[0.003529] sorting bipartition profile
+[0.001663] computed / updated events
+[0.033567] combined events
+[0.003602] calculated per dropset improvement
+[0.005666] executed the merging events 
+>453	AJD38787.1_short-wavelength_sensitive_opsin_2A_Lota_lota	1.000000	0.949084
+[0.003853] sorting bipartition profile
+[0.001042] computed / updated events
+[0.034024] combined events
+[0.003838] calculated per dropset improvement
+[0.005764] executed the merging events 
+>917	XP_006825397.1_PREDICTED_bombesin_receptor_subtype-3-like_Saccoglossus_kowalevskii	1.000000	0.950102
+[0.003725] sorting bipartition profile
+[0.001935] computed / updated events
+[0.033262] combined events
+[0.003794] calculated per dropset improvement
+[0.005660] executed the merging events 
+>546	JAJ00944.1_hypothetical_protein_partial_Daphnia_magna	1.000000	0.951120
+[0.003711] sorting bipartition profile
+[0.001763] computed / updated events
+[0.033124] combined events
+[0.003797] calculated per dropset improvement
+[0.005726] executed the merging events 
+>287,190	DAB27259.1_TPA_inf_xenopsinB_partial_Stylochus_ellipticus,KAA0194610.1_hypothetical_protein_HAZT_HAZT008742_Hyalella_azteca	1.000000	0.952138
+[0.004734] sorting bipartition profile
+[0.001927] computed / updated events
+[0.030705] combined events
+[0.003532] calculated per dropset improvement
+[0.005524] executed the merging events 
+>276,193	XP_019641551.1_PREDICTED_LOW_QUALITY_PROTEIN_chitinase_domain-containing_protein_1-like_Branchiostoma_belcheri,GCC35160.1_hypothetical_protein_chiPu_0013642_Chiloscyllium_punctatum	2.000000	0.954175
+[0.004920] sorting bipartition profile
+[0.001734] computed / updated events
+[0.029880] combined events
+[0.003533] calculated per dropset improvement
+total time elapsed: 1.738298

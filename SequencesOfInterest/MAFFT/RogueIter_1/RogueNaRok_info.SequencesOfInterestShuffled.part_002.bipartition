@@ -1,0 +1,46 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.190141] initialisation done (initScore = 0.972505, numBip=4535)
+[0.013807] sorting bipartition profile
+[0.080628] computed / updated events
+[0.033124] combined events
+[0.004251] calculated per dropset improvement
+[0.005924] executed the merging events 
+>358	VDP69616.1_unnamed_protein_product_Echinostoma_caproni	2.000000	0.974542
+[0.004020] sorting bipartition profile
+[0.002140] computed / updated events
+[0.033999] combined events
+[0.003765] calculated per dropset improvement
+[0.005612] executed the merging events 
+>250	tr|A0A182N8A1|A0A182N8A1_9DIPT_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Anopheles_dirus_OX_7168_PE_4_SV_1	1.000000	0.975560
+[0.004313] sorting bipartition profile
+[0.001551] computed / updated events
+[0.033820] combined events
+[0.003886] calculated per dropset improvement
+[0.005605] executed the merging events 
+>142	ABK54994.1_long_wavelength_rhodopsin_partial_Scolia_verticalis	1.000000	0.976578
+[0.004148] sorting bipartition profile
+[0.001791] computed / updated events
+[0.033371] combined events
+[0.003743] calculated per dropset improvement
+[0.005670] executed the merging events 
+>688	DAniello2015_ops2_Eucidaris_tribuloides	1.000000	0.977597
+[0.004108] sorting bipartition profile
+[0.001406] computed / updated events
+[0.033101] combined events
+[0.003726] calculated per dropset improvement
+[0.005619] executed the merging events 
+>32	XP_026207403.1_melanopsin-A-like_Anabas_testudineus	1.000000	0.978615
+[0.004064] sorting bipartition profile
+[0.001659] computed / updated events
+[0.033092] combined events
+[0.003869] calculated per dropset improvement
+[0.005518] executed the merging events 
+>664	AXN75755.1_opsin_Renilla_koellikeri	1.000000	0.979633
+[0.004004] sorting bipartition profile
+[0.001483] computed / updated events
+[0.033300] combined events
+[0.004217] calculated per dropset improvement
+total time elapsed: 1.615375

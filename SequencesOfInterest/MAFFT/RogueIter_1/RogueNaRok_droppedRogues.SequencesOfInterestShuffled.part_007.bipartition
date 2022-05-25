@@ -1,0 +1,12 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.954175
+1	327	AAQ74148.1_long-wavelength_opsin_partial_Aylax_papaveris	2.000000	0.956212
+2	328	ACB70945.1_long_wavelength_rhodopsin_partial_Typhoctes_peculiaris	2.000000	0.958248
+3	813	QJT41735.1_long_wavelength_opsin_2_1_Piabucina_panamensis	1.000000	0.959267
+4	391	XP_033840920.1_melanopsin-A-like_Periophthalmus_magnuspinnatus	1.000000	0.960285
+5	512	XP_033103259.1_kappa-type_opioid_receptor-like_Anneissia_japonica	1.000000	0.961303
+6	871	JAO05021.1_OPN4A_Poeciliopsis_prolifica	1.000000	0.962322
+7	657,656	tr|T1HCC3|T1HCC3_RHOPR_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Rhodnius_prolixus_OX_13249_PE_4_SV_1,XP_016322542.1_PREDICTED_prostaglandin_E2_receptor_EP3_subtype-like_Sinocyclocheilus_anshuiensis	2.000000	0.964358
+8	521	RDD37211.1_Melanopsin-B_Trichoplax_sp._H2	1.000000	0.965377
+9	745,741	tr|A0A671WXA2|A0A671WXA2_SPAAU_Uncharacterized_protein_OS_Sparus_aurata_OX_8175_PE_4_SV_1,AEX10153.1_rhodopsin_partial_Ictalurus_punctatus	1.000000	0.966395
+10	752	sp|P79914.1|OPSD_SARXA_RecName_Full_Rhodopsin	1.000000	0.967413

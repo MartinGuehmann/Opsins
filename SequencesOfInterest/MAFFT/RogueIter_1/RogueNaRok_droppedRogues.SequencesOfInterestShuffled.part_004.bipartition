@@ -1,0 +1,10 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.953157
+1	944	ADN93815.1_long-wavelength_rhodopsin_partial_Ancyloscelis_sp._1_JS-2010	1.000000	0.954175
+2	526	XP_028309328.1_opsin-5-like_Gouania_willdenowi	1.000000	0.955193
+3	931	ABD18418.1_long-wavelength_rhodopsin_partial_Heteroponera_microps	1.000000	0.956212
+4	628	S56162.1_Homo_sapiens_TCR_alpha_chain_TCRalpha_gene_TCRalpha-V_alpha19.1_J_alpha_new_allele_partial_cds	1.000000	0.957230
+5	347	XP_027059768.1_dopamine_receptor_2-like_Pocillopora_damicornis	1.000000	0.958248
+6	964	ACU00208.1_opsin_partial_Gonodactylus_smithii	1.000000	0.959267
+7	808	OWA54109.1_hypothetical_protein_BV898_18526_Hypsibius_dujardini	1.000000	0.960285
+8	125	AKC94668.1_rhodopsin_partial_Cheilotrema_saturnum	1.000000	0.961303

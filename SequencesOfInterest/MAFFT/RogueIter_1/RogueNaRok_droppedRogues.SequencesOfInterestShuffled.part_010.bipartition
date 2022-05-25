@@ -1,0 +1,12 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.950102
+1	270	tr|A0A3Q1IJ86|A0A3Q1IJ86_ANATE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Anabas_testudineus_OX_64144_PE_3_SV_1	3.000000	0.953157
+2	300	GAU95013.1_hypothetical_protein_RvY_06702_Ramazzottius_varieornatus	2.000000	0.955193
+3	707,702	TNN47126.1_Pineal_opsin_Liparis_tanakae,TNN47129.1_Parapinopsin_Liparis_tanakae	3.000000	0.958248
+4	850	XP_013928099.1_PREDICTED_visual_pigment-like_receptor_peropsin_Thamnophis_sirtalis	1.000000	0.959267
+5	596	XP_025002001.1_LOW_QUALITY_PROTEIN_blue-sensitive_opsin-like_Gallus_gallus	1.000000	0.960285
+6	837	XP_007534554.1_PREDICTED_visual_pigment-like_receptor_peropsin_Erinaceus_europaeus	1.000000	0.961303
+7	534,512	JAN75404.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_partial_Daphnia_magna,DAC80519.1_TPA_inf_xenopsin_2_partial_Pterosagitta_draco	2.000000	0.963340
+8	513	T29877.1_EST98579_Human_Thyroid_gland_Homo_sapiens_cDNA_5_end_similar_to_elastase_inhibitor_monocyte/neutrophil_HT_3771__mRNA_sequence	1.000000	0.964358
+9	661	EMP42162.1_Opsin-VA_Chelonia_mydas	1.000000	0.965377
+10	25,22	APY20495.1_ultraviolet_sensitive_opsin_2_partial_Dryops_sp._CRS-2017,APY20502.1_ultraviolet_sensitive_opsin_partial_Hypocaccus_fitchi	1.000000	0.966395

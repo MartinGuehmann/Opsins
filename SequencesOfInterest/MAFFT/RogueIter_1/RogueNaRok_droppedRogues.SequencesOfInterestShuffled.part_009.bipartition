@@ -1,0 +1,7 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.959267
+1	746	RVE48790.1_hypothetical_protein_evm_006564_Chilo_suppressalis	2.000000	0.961303
+2	904,877	PAA68506.1_hypothetical_protein_BOX15_Mlig005910g2_Macrostomum_lignano,XP_020613126.1_neuropeptide_Y_receptor_type_6-like_Orbicella_faveolata	2.000000	0.963340
+3	648	OWA52064.1_Melanopsin_Hypsibius_dujardini	1.000000	0.964358
+4	872	XP_012657364.2_probable_G-protein_coupled_receptor_83_Otolemur_garnettii	1.000000	0.965377
+5	724,458	GAU95015.1_hypothetical_protein_RvY_06704_Ramazzottius_varieornatus,QHA94766.1_r-opsin_2_partial_Sepia_officinalis	1.000000	0.966395

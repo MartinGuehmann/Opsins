@@ -1,0 +1,40 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.170279] initialisation done (initScore = 0.949135, numBip=4603)
+[0.013575] sorting bipartition profile
+[0.093562] computed / updated events
+[0.037019] combined events
+[0.004446] calculated per dropset improvement
+[0.006268] executed the merging events 
+>777	AAY82565.1_rhodopsin_partial_Dyscophus_antongilii	4.000000	0.953204
+[0.004200] sorting bipartition profile
+[0.002478] computed / updated events
+[0.037522] combined events
+[0.003985] calculated per dropset improvement
+[0.006262] executed the merging events 
+>843,842	XP_015220748.1_PREDICTED_sphingosine_1-phosphate_receptor_4-like_Lepisosteus_oculatus,XP_005333781.1_free_fatty_acid_receptor_4_Ictidomys_tridecemlineatus	4.000000	0.957274
+[0.005380] sorting bipartition profile
+[0.003514] computed / updated events
+[0.034990] combined events
+[0.003877] calculated per dropset improvement
+[0.005946] executed the merging events 
+>317	AHM92639.1_rhodopsin_partial_Gadiculus_argenteus	1.000000	0.958291
+[0.003944] sorting bipartition profile
+[0.003085] computed / updated events
+[0.035275] combined events
+[0.003848] calculated per dropset improvement
+[0.005919] executed the merging events 
+>376	XP_032622417.1_short-wave-sensitive_opsin_1-like_partial_Chelonoidis_abingdonii	1.000000	0.959308
+[0.004204] sorting bipartition profile
+[0.002032] computed / updated events
+[0.035472] combined events
+[0.003883] calculated per dropset improvement
+[0.005983] executed the merging events 
+>205	AFK83789.1_opsin_2_Mnemiopsis_leidyi	1.000000	0.960326
+[0.004033] sorting bipartition profile
+[0.002397] computed / updated events
+[0.032231] combined events
+[0.003760] calculated per dropset improvement
+total time elapsed: 1.580096

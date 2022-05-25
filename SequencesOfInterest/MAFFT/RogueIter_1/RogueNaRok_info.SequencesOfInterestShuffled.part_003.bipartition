@@ -1,0 +1,58 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.161827] initialisation done (initScore = 0.948065, numBip=3998)
+[0.013219] sorting bipartition profile
+[0.069720] computed / updated events
+[0.027029] combined events
+[0.003627] calculated per dropset improvement
+[0.005072] executed the merging events 
+>683	Bispira_guinensis_SOAP_k55_C501590|ORF2	13.000000	0.961303
+[0.003833] sorting bipartition profile
+[0.002024] computed / updated events
+[0.026676] combined events
+[0.003244] calculated per dropset improvement
+[0.004864] executed the merging events 
+>25	ALP92257.1_long_wavelength_rhodopsin_partial_Hemipepsis_australasiae	3.000000	0.964358
+[0.004056] sorting bipartition profile
+[0.001638] computed / updated events
+[0.025874] combined events
+[0.003272] calculated per dropset improvement
+[0.004874] executed the merging events 
+>391	XP_022296101.1_neuropeptide_S_receptor-like_Crassostrea_virginica	2.000000	0.966395
+[0.004074] sorting bipartition profile
+[0.001803] computed / updated events
+[0.025653] combined events
+[0.003229] calculated per dropset improvement
+[0.004918] executed the merging events 
+>241	NOV37829.1_putative_g-protein_coupled_receptor_Rhipicephalus_microplus	2.000000	0.968432
+[0.003736] sorting bipartition profile
+[0.001040] computed / updated events
+[0.025906] combined events
+[0.003206] calculated per dropset improvement
+[0.004828] executed the merging events 
+>776	tr|A0A672ZT17|A0A672ZT17_9TELE_Teleost_multiple_tissue_opsin_3b_OS_Sphaeramia_orbicularis_OX_375764_PE_4_SV_1	1.000000	0.969450
+[0.003549] sorting bipartition profile
+[0.001201] computed / updated events
+[0.025842] combined events
+[0.003143] calculated per dropset improvement
+[0.004736] executed the merging events 
+>403	XP_023807810.1_prolactin-releasing_peptide_receptor-like_isoform_X1_Oryzias_latipes	1.000000	0.970468
+[0.003823] sorting bipartition profile
+[0.002087] computed / updated events
+[0.025122] combined events
+[0.003220] calculated per dropset improvement
+[0.004574] executed the merging events 
+>123	XP_026688631.1_opsin_Rh3-like_partial_Diaphorina_citri	1.000000	0.971487
+[0.003696] sorting bipartition profile
+[0.001020] computed / updated events
+[0.025230] combined events
+[0.003207] calculated per dropset improvement
+[0.004900] executed the merging events 
+>461,441	GAU94431.1_hypothetical_protein_RvY_06206_Ramazzottius_varieornatus,Notalux_sp1_SOAP_k35_C1081339|ORF3	1.000000	0.972505
+[0.004977] sorting bipartition profile
+[0.001875] computed / updated events
+[0.023530] combined events
+[0.003029] calculated per dropset improvement
+total time elapsed: 1.588612

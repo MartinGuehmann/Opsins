@@ -1,0 +1,8 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.972505
+1	358	VDP69616.1_unnamed_protein_product_Echinostoma_caproni	2.000000	0.974542
+2	250	tr|A0A182N8A1|A0A182N8A1_9DIPT_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Anopheles_dirus_OX_7168_PE_4_SV_1	1.000000	0.975560
+3	142	ABK54994.1_long_wavelength_rhodopsin_partial_Scolia_verticalis	1.000000	0.976578
+4	688	DAniello2015_ops2_Eucidaris_tribuloides	1.000000	0.977597
+5	32	XP_026207403.1_melanopsin-A-like_Anabas_testudineus	1.000000	0.978615
+6	664	AXN75755.1_opsin_Renilla_koellikeri	1.000000	0.979633

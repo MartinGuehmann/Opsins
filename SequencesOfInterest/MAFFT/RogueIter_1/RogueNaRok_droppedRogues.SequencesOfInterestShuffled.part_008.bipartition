@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.967413
+1	15	Euchone_cf_gloenoi_TRINITY_DN26189_c0_g1_i1|ORF2	2.000000	0.969450
+2	439,226	XP_026690831.1_rhodopsin_GQ-coupled-like_isoform_X1_Ciona_intestinalis,XP_015776718.1_PREDICTED_opsin-3-like_Acropora_digitifera	2.000000	0.971487
+3	694	EDO42908.1_predicted_protein_partial_Nematostella_vectensis	1.000000	0.972505

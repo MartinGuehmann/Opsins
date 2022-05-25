@@ -1,0 +1,7 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.949135
+1	777	AAY82565.1_rhodopsin_partial_Dyscophus_antongilii	4.000000	0.953204
+2	843,842	XP_015220748.1_PREDICTED_sphingosine_1-phosphate_receptor_4-like_Lepisosteus_oculatus,XP_005333781.1_free_fatty_acid_receptor_4_Ictidomys_tridecemlineatus	4.000000	0.957274
+3	317	AHM92639.1_rhodopsin_partial_Gadiculus_argenteus	1.000000	0.958291
+4	376	XP_032622417.1_short-wave-sensitive_opsin_1-like_partial_Chelonoidis_abingdonii	1.000000	0.959308
+5	205	AFK83789.1_opsin_2_Mnemiopsis_leidyi	1.000000	0.960326

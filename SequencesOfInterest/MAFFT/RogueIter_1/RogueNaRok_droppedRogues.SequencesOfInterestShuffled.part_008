@@ -1,0 +1,16 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.893145
+1	439	XP_026690831.1_rhodopsin_GQ-coupled-like_isoform_X1_Ciona_intestinalis	1.651000	0.894826
+2	15	Euchone_cf_gloenoi_TRINITY_DN26189_c0_g1_i1|ORF2	1.402000	0.896254
+3	694	EDO42908.1_predicted_protein_partial_Nematostella_vectensis	1.355000	0.897633
+4	226	XP_015776718.1_PREDICTED_opsin-3-like_Acropora_digitifera	0.754000	0.898401
+5	78	XP_018594346.1_leukotriene_B4_receptor_1-like_Scleropages_formosus	0.753000	0.899168
+6	311	APY20588.1_long_wavelength_sensitive_opsin_Conwentzia_psociformis	0.207000	0.899379
+7	728	XP_009484675.1_PREDICTED_pinopsin-like_partial_Pelecanus_crispus	0.193000	0.899575
+8	983,980	XP_029385195.1_pinopsin-like_Echeneis_naucrates,tr|A0A3Q3M3P3|A0A3Q3M3P3_9TELE_Teleost_multiple_tissue_opsin_b_OS_Mastacembelus_armatus_OX_205130_PE_3_SV_1	0.258000	0.899838
+9	596	tr|A0A665VXK6|A0A665VXK6_ECHNA_Uncharacterized_protein_OS_Echeneis_naucrates_OX_173247_PE_4_SV_1	0.117000	0.899957
+10	765	JAQ57560.1_Rhodopsin-like_protein_Fundulus_heteroclitus	0.075000	0.900034
+11	178	GAU91613.1_hypothetical_protein_RvY_03838-1_Ramazzottius_varieornatus	0.041000	0.900075
+12	725	XP_009944097.1_PREDICTED_LOW_QUALITY_PROTEIN_pinopsin-like_Opisthocomus_hoazin	0.039000	0.900115
+13	267	ABW75570.1_long-wave_rhodopsin_partial_Macrotera_latior	0.024000	0.900140
+14	486	tr|A0A3B4BVJ3|A0A3B4BVJ3_PYGNA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Pygocentrus_nattereri_OX_42514_PE_3_SV_1	0.001000	0.900141

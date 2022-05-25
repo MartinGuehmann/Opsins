@@ -1,0 +1,10 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.948065
+1	683	Bispira_guinensis_SOAP_k55_C501590|ORF2	13.000000	0.961303
+2	25	ALP92257.1_long_wavelength_rhodopsin_partial_Hemipepsis_australasiae	3.000000	0.964358
+3	391	XP_022296101.1_neuropeptide_S_receptor-like_Crassostrea_virginica	2.000000	0.966395
+4	241	NOV37829.1_putative_g-protein_coupled_receptor_Rhipicephalus_microplus	2.000000	0.968432
+5	776	tr|A0A672ZT17|A0A672ZT17_9TELE_Teleost_multiple_tissue_opsin_3b_OS_Sphaeramia_orbicularis_OX_375764_PE_4_SV_1	1.000000	0.969450
+6	403	XP_023807810.1_prolactin-releasing_peptide_receptor-like_isoform_X1_Oryzias_latipes	1.000000	0.970468
+7	123	XP_026688631.1_opsin_Rh3-like_partial_Diaphorina_citri	1.000000	0.971487
+8	461,441	GAU94431.1_hypothetical_protein_RvY_06206_Ramazzottius_varieornatus,Notalux_sp1_SOAP_k35_C1081339|ORF3	1.000000	0.972505

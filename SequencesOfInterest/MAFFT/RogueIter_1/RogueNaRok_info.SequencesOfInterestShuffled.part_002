@@ -1,0 +1,94 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.340954] initialisation done (initScore = 0.901381, numBip=4535)
+[0.013587] sorting bipartition profile
+[0.074716] computed / updated events
+[0.029711] combined events
+[0.004104] calculated per dropset improvement
+[0.006031] executed the merging events 
+>358	VDP69616.1_unnamed_protein_product_Echinostoma_caproni	1.607000	0.903017
+[0.004310] sorting bipartition profile
+[0.002254] computed / updated events
+[0.030890] combined events
+[0.003717] calculated per dropset improvement
+[0.005861] executed the merging events 
+>142	ABK54994.1_long_wavelength_rhodopsin_partial_Scolia_verticalis	1.126000	0.904164
+[0.004331] sorting bipartition profile
+[0.001636] computed / updated events
+[0.030824] combined events
+[0.003692] calculated per dropset improvement
+[0.005768] executed the merging events 
+>688	DAniello2015_ops2_Eucidaris_tribuloides	1.088000	0.905272
+[0.004262] sorting bipartition profile
+[0.001038] computed / updated events
+[0.031324] combined events
+[0.003767] calculated per dropset improvement
+[0.010816] executed the merging events 
+>250	tr|A0A182N8A1|A0A182N8A1_9DIPT_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Anopheles_dirus_OX_7168_PE_4_SV_1	0.953000	0.906242
+[0.005245] sorting bipartition profile
+[0.001566] computed / updated events
+[0.032744] combined events
+[0.004813] calculated per dropset improvement
+[0.010542] executed the merging events 
+>157	ALQ26934.1_long_wavelength_rhodopsin_partial_Tetraponera_extenuata	0.676000	0.906931
+[0.004941] sorting bipartition profile
+[0.001889] computed / updated events
+[0.032787] combined events
+[0.003874] calculated per dropset improvement
+[0.006177] executed the merging events 
+>32	XP_026207403.1_melanopsin-A-like_Anabas_testudineus	0.665000	0.907608
+[0.004378] sorting bipartition profile
+[0.001760] computed / updated events
+[0.032526] combined events
+[0.004133] calculated per dropset improvement
+[0.006177] executed the merging events 
+>664	AXN75755.1_opsin_Renilla_koellikeri	0.598000	0.908217
+[0.004358] sorting bipartition profile
+[0.001393] computed / updated events
+[0.032052] combined events
+[0.003910] calculated per dropset improvement
+[0.006228] executed the merging events 
+>843	tr|A0A3Q4I6U6|A0A3Q4I6U6_NEOBR_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Neolamprologus_brichardi_OX_32507_PE_3_SV_1	0.421000	0.908646
+[0.004161] sorting bipartition profile
+[0.002726] computed / updated events
+[0.032645] combined events
+[0.004062] calculated per dropset improvement
+[0.006343] executed the merging events 
+>216,117	MPC89965.1_rhodopsin_Portunus_trituberculatus,OON16212.1_hypothetical_protein_X801_07977_partial_Opisthorchis_viverrini	0.438000	0.909092
+[0.005961] sorting bipartition profile
+[0.001685] computed / updated events
+[0.029933] combined events
+[0.003728] calculated per dropset improvement
+[0.006003] executed the merging events 
+>486	RDD37742.1_Pinopsin_Trichoplax_sp._H2	0.128000	0.909222
+[0.004947] sorting bipartition profile
+[0.001882] computed / updated events
+[0.030290] combined events
+[0.003998] calculated per dropset improvement
+[0.005895] executed the merging events 
+>740	ANV21074.1_opsin-3_Geotria_australis	0.089000	0.909313
+[0.004457] sorting bipartition profile
+[0.001201] computed / updated events
+[0.030673] combined events
+[0.003732] calculated per dropset improvement
+[0.005947] executed the merging events 
+>28	tr|A0A3Q3IZK6|A0A3Q3IZK6_MONAL_Opsin_4b_OS_Monopterus_albus_OX_43700_PE_3_SV_1	0.026000	0.909339
+[0.004385] sorting bipartition profile
+[0.001181] computed / updated events
+[0.029200] combined events
+[0.003750] calculated per dropset improvement
+[0.005914] executed the merging events 
+>495	XP_002114698.1_hypothetical_protein_TRIADDRAFT_58780_Trichoplax_adhaerens	0.015000	0.909354
+[0.004323] sorting bipartition profile
+[0.001527] computed / updated events
+[0.028710] combined events
+[0.003628] calculated per dropset improvement
+[0.005940] executed the merging events 
+>156	SHD60990.1_long-wavelength_rhodopsin_partial_Myrmica_ruginodis	0.006000	0.909360
+[0.003840] sorting bipartition profile
+[0.001580] computed / updated events
+[0.027560] combined events
+[0.003590] calculated per dropset improvement
+total time elapsed: 2.131291

@@ -1,0 +1,70 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.218837] initialisation done (initScore = 0.954175, numBip=4935)
+[0.013360] sorting bipartition profile
+[0.081549] computed / updated events
+[0.034631] combined events
+[0.004378] calculated per dropset improvement
+[0.006574] executed the merging events 
+>327	AAQ74148.1_long-wavelength_opsin_partial_Aylax_papaveris	2.000000	0.956212
+[0.003606] sorting bipartition profile
+[0.003052] computed / updated events
+[0.040014] combined events
+[0.004676] calculated per dropset improvement
+[0.007206] executed the merging events 
+>328	ACB70945.1_long_wavelength_rhodopsin_partial_Typhoctes_peculiaris	2.000000	0.958248
+[0.002830] sorting bipartition profile
+[0.001965] computed / updated events
+[0.037990] combined events
+[0.003951] calculated per dropset improvement
+[0.006359] executed the merging events 
+>813	QJT41735.1_long_wavelength_opsin_2_1_Piabucina_panamensis	1.000000	0.959267
+[0.002825] sorting bipartition profile
+[0.001636] computed / updated events
+[0.038507] combined events
+[0.003938] calculated per dropset improvement
+[0.006672] executed the merging events 
+>391	XP_033840920.1_melanopsin-A-like_Periophthalmus_magnuspinnatus	1.000000	0.960285
+[0.002637] sorting bipartition profile
+[0.001614] computed / updated events
+[0.036930] combined events
+[0.003868] calculated per dropset improvement
+[0.006721] executed the merging events 
+>512	XP_033103259.1_kappa-type_opioid_receptor-like_Anneissia_japonica	1.000000	0.961303
+[0.002741] sorting bipartition profile
+[0.002243] computed / updated events
+[0.036328] combined events
+[0.004243] calculated per dropset improvement
+[0.006645] executed the merging events 
+>871	JAO05021.1_OPN4A_Poeciliopsis_prolifica	1.000000	0.962322
+[0.002713] sorting bipartition profile
+[0.001694] computed / updated events
+[0.036733] combined events
+[0.004469] calculated per dropset improvement
+[0.006784] executed the merging events 
+>657,656	tr|T1HCC3|T1HCC3_RHOPR_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Rhodnius_prolixus_OX_13249_PE_4_SV_1,XP_016322542.1_PREDICTED_prostaglandin_E2_receptor_EP3_subtype-like_Sinocyclocheilus_anshuiensis	2.000000	0.964358
+[0.003628] sorting bipartition profile
+[0.002404] computed / updated events
+[0.035041] combined events
+[0.003844] calculated per dropset improvement
+[0.006908] executed the merging events 
+>521	RDD37211.1_Melanopsin-B_Trichoplax_sp._H2	1.000000	0.965377
+[0.002821] sorting bipartition profile
+[0.002194] computed / updated events
+[0.033734] combined events
+[0.003810] calculated per dropset improvement
+[0.006505] executed the merging events 
+>745,741	tr|A0A671WXA2|A0A671WXA2_SPAAU_Uncharacterized_protein_OS_Sparus_aurata_OX_8175_PE_4_SV_1,AEX10153.1_rhodopsin_partial_Ictalurus_punctatus	1.000000	0.966395
+[0.003711] sorting bipartition profile
+[0.002210] computed / updated events
+[0.033630] combined events
+[0.003768] calculated per dropset improvement
+[0.006482] executed the merging events 
+>752	sp|P79914.1|OPSD_SARXA_RecName_Full_Rhodopsin	1.000000	0.967413
+[0.002737] sorting bipartition profile
+[0.001443] computed / updated events
+[0.033743] combined events
+[0.003766] calculated per dropset improvement
+total time elapsed: 1.873822

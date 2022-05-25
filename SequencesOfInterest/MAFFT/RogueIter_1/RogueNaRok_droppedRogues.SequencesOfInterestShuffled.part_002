@@ -1,0 +1,16 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.901381
+1	358	VDP69616.1_unnamed_protein_product_Echinostoma_caproni	1.607000	0.903017
+2	142	ABK54994.1_long_wavelength_rhodopsin_partial_Scolia_verticalis	1.126000	0.904164
+3	688	DAniello2015_ops2_Eucidaris_tribuloides	1.088000	0.905272
+4	250	tr|A0A182N8A1|A0A182N8A1_9DIPT_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Anopheles_dirus_OX_7168_PE_4_SV_1	0.953000	0.906242
+5	157	ALQ26934.1_long_wavelength_rhodopsin_partial_Tetraponera_extenuata	0.676000	0.906931
+6	32	XP_026207403.1_melanopsin-A-like_Anabas_testudineus	0.665000	0.907608
+7	664	AXN75755.1_opsin_Renilla_koellikeri	0.598000	0.908217
+8	843	tr|A0A3Q4I6U6|A0A3Q4I6U6_NEOBR_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Neolamprologus_brichardi_OX_32507_PE_3_SV_1	0.421000	0.908646
+9	216,117	MPC89965.1_rhodopsin_Portunus_trituberculatus,OON16212.1_hypothetical_protein_X801_07977_partial_Opisthorchis_viverrini	0.438000	0.909092
+10	486	RDD37742.1_Pinopsin_Trichoplax_sp._H2	0.128000	0.909222
+11	740	ANV21074.1_opsin-3_Geotria_australis	0.089000	0.909313
+12	28	tr|A0A3Q3IZK6|A0A3Q3IZK6_MONAL_Opsin_4b_OS_Monopterus_albus_OX_43700_PE_3_SV_1	0.026000	0.909339
+13	495	XP_002114698.1_hypothetical_protein_TRIADDRAFT_58780_Trichoplax_adhaerens	0.015000	0.909354
+14	156	SHD60990.1_long-wavelength_rhodopsin_partial_Myrmica_ruginodis	0.006000	0.909360

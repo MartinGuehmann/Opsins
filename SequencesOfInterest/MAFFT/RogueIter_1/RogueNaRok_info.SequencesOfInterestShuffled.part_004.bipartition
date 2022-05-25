@@ -1,0 +1,58 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.212653] initialisation done (initScore = 0.953157, numBip=4441)
+[0.014241] sorting bipartition profile
+[0.090637] computed / updated events
+[0.033546] combined events
+[0.004268] calculated per dropset improvement
+[0.006194] executed the merging events 
+>944	ADN93815.1_long-wavelength_rhodopsin_partial_Ancyloscelis_sp._1_JS-2010	1.000000	0.954175
+[0.004129] sorting bipartition profile
+[0.002037] computed / updated events
+[0.035348] combined events
+[0.003757] calculated per dropset improvement
+[0.005932] executed the merging events 
+>526	XP_028309328.1_opsin-5-like_Gouania_willdenowi	1.000000	0.955193
+[0.003921] sorting bipartition profile
+[0.001551] computed / updated events
+[0.035334] combined events
+[0.003861] calculated per dropset improvement
+[0.005947] executed the merging events 
+>931	ABD18418.1_long-wavelength_rhodopsin_partial_Heteroponera_microps	1.000000	0.956212
+[0.004284] sorting bipartition profile
+[0.002805] computed / updated events
+[0.035487] combined events
+[0.003827] calculated per dropset improvement
+[0.005816] executed the merging events 
+>628	S56162.1_Homo_sapiens_TCR_alpha_chain_TCRalpha_gene_TCRalpha-V_alpha19.1_J_alpha_new_allele_partial_cds	1.000000	0.957230
+[0.004015] sorting bipartition profile
+[0.001875] computed / updated events
+[0.035392] combined events
+[0.003790] calculated per dropset improvement
+[0.005961] executed the merging events 
+>347	XP_027059768.1_dopamine_receptor_2-like_Pocillopora_damicornis	1.000000	0.958248
+[0.004034] sorting bipartition profile
+[0.002828] computed / updated events
+[0.034064] combined events
+[0.003874] calculated per dropset improvement
+[0.005872] executed the merging events 
+>964	ACU00208.1_opsin_partial_Gonodactylus_smithii	1.000000	0.959267
+[0.004072] sorting bipartition profile
+[0.001528] computed / updated events
+[0.035246] combined events
+[0.003793] calculated per dropset improvement
+[0.005800] executed the merging events 
+>808	OWA54109.1_hypothetical_protein_BV898_18526_Hypsibius_dujardini	1.000000	0.960285
+[0.003957] sorting bipartition profile
+[0.000988] computed / updated events
+[0.034384] combined events
+[0.003731] calculated per dropset improvement
+[0.005849] executed the merging events 
+>125	AKC94668.1_rhodopsin_partial_Cheilotrema_saturnum	1.000000	0.961303
+[0.004074] sorting bipartition profile
+[0.001734] computed / updated events
+[0.035312] combined events
+[0.004300] calculated per dropset improvement
+total time elapsed: 1.762924

@@ -1,0 +1,40 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.231122] initialisation done (initScore = 0.959267, numBip=4151)
+[0.013358] sorting bipartition profile
+[0.069381] computed / updated events
+[0.024499] combined events
+[0.003637] calculated per dropset improvement
+[0.005381] executed the merging events 
+>746	RVE48790.1_hypothetical_protein_evm_006564_Chilo_suppressalis	2.000000	0.961303
+[0.003882] sorting bipartition profile
+[0.001553] computed / updated events
+[0.025338] combined events
+[0.003388] calculated per dropset improvement
+[0.005535] executed the merging events 
+>904,877	PAA68506.1_hypothetical_protein_BOX15_Mlig005910g2_Macrostomum_lignano,XP_020613126.1_neuropeptide_Y_receptor_type_6-like_Orbicella_faveolata	2.000000	0.963340
+[0.005683] sorting bipartition profile
+[0.002292] computed / updated events
+[0.025776] combined events
+[0.003573] calculated per dropset improvement
+[0.005221] executed the merging events 
+>648	OWA52064.1_Melanopsin_Hypsibius_dujardini	1.000000	0.964358
+[0.003836] sorting bipartition profile
+[0.001181] computed / updated events
+[0.022334] combined events
+[0.003384] calculated per dropset improvement
+[0.009412] executed the merging events 
+>872	XP_012657364.2_probable_G-protein_coupled_receptor_83_Otolemur_garnettii	1.000000	0.965377
+[0.004301] sorting bipartition profile
+[0.001469] computed / updated events
+[0.023315] combined events
+[0.003345] calculated per dropset improvement
+[0.005424] executed the merging events 
+>724,458	GAU95015.1_hypothetical_protein_RvY_06704_Ramazzottius_varieornatus,QHA94766.1_r-opsin_2_partial_Sepia_officinalis	1.000000	0.966395
+[0.005042] sorting bipartition profile
+[0.001429] computed / updated events
+[0.022185] combined events
+[0.003920] calculated per dropset improvement
+total time elapsed: 1.541051

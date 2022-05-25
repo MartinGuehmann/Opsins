@@ -1,0 +1,10 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.941955
+1	643	Parasabella_TRINITY_DN38834_c0_g1_i1|ORF3	2.000000	0.943992
+2	333	KAE8299158.1_Opsin-3_Encephalopsin_Panopsin_Larimichthys_crocea	2.000000	0.946029
+3	221	XP_034048746.1_opsin_4xa_Thalassophryne_amazonica	2.000000	0.948065
+4	453	AJD38787.1_short-wavelength_sensitive_opsin_2A_Lota_lota	1.000000	0.949084
+5	917	XP_006825397.1_PREDICTED_bombesin_receptor_subtype-3-like_Saccoglossus_kowalevskii	1.000000	0.950102
+6	546	JAJ00944.1_hypothetical_protein_partial_Daphnia_magna	1.000000	0.951120
+7	287,190	DAB27259.1_TPA_inf_xenopsinB_partial_Stylochus_ellipticus,KAA0194610.1_hypothetical_protein_HAZT_HAZT008742_Hyalella_azteca	1.000000	0.952138
+8	276,193	XP_019641551.1_PREDICTED_LOW_QUALITY_PROTEIN_chitinase_domain-containing_protein_1-like_Branchiostoma_belcheri,GCC35160.1_hypothetical_protein_chiPu_0013642_Chiloscyllium_punctatum	2.000000	0.954175

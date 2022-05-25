@@ -1,0 +1,7 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.964358
+1	183,165	DAB27258.1_TPA_inf_xenopsinB2_partial_Prostheceraeus_vittatus,JAN75393.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna	3.000000	0.967413
+2	716	tr|A0A0A7KUV6|A0A0A7KUV6_9ECHI_Opsin_1_Fragment_OS_Amphiura_filiformis_OX_82378_PE_4_SV_1	1.000000	0.968432
+3	747	AIA23661.1_long_wavelength_rhodopsin_partial_Leptanilloides_femoralis	1.000000	0.969450
+4	126	XP_022318047.1_visual_pigment-like_receptor_peropsin_Crassostrea_virginica	1.000000	0.970468
+5	342	RDD39264.1_Alpha-1A_adrenergic_receptor_Trichoplax_sp._H2	1.000000	0.971487

@@ -1,0 +1,40 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.196951] initialisation done (initScore = 0.964358, numBip=4477)
+[0.013123] sorting bipartition profile
+[0.073591] computed / updated events
+[0.032891] combined events
+[0.004431] calculated per dropset improvement
+[0.006446] executed the merging events 
+>183,165	DAB27258.1_TPA_inf_xenopsinB2_partial_Prostheceraeus_vittatus,JAN75393.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna	3.000000	0.967413
+[0.005510] sorting bipartition profile
+[0.001568] computed / updated events
+[0.035264] combined events
+[0.004004] calculated per dropset improvement
+[0.006259] executed the merging events 
+>716	tr|A0A0A7KUV6|A0A0A7KUV6_9ECHI_Opsin_1_Fragment_OS_Amphiura_filiformis_OX_82378_PE_4_SV_1	1.000000	0.968432
+[0.004362] sorting bipartition profile
+[0.001938] computed / updated events
+[0.033782] combined events
+[0.004064] calculated per dropset improvement
+[0.006274] executed the merging events 
+>747	AIA23661.1_long_wavelength_rhodopsin_partial_Leptanilloides_femoralis	1.000000	0.969450
+[0.004042] sorting bipartition profile
+[0.002858] computed / updated events
+[0.032858] combined events
+[0.004107] calculated per dropset improvement
+[0.011263] executed the merging events 
+>126	XP_022318047.1_visual_pigment-like_receptor_peropsin_Crassostrea_virginica	1.000000	0.970468
+[0.004738] sorting bipartition profile
+[0.001388] computed / updated events
+[0.036716] combined events
+[0.004075] calculated per dropset improvement
+[0.005798] executed the merging events 
+>342	RDD39264.1_Alpha-1A_adrenergic_receptor_Trichoplax_sp._H2	1.000000	0.971487
+[0.003637] sorting bipartition profile
+[0.001861] computed / updated events
+[0.034503] combined events
+[0.003789] calculated per dropset improvement
+total time elapsed: 1.582780

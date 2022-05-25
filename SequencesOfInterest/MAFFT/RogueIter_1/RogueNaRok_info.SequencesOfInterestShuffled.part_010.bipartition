@@ -1,0 +1,70 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.275772] initialisation done (initScore = 0.950102, numBip=4123)
+[0.013321] sorting bipartition profile
+[0.070824] computed / updated events
+[0.024282] combined events
+[0.004043] calculated per dropset improvement
+[0.005688] executed the merging events 
+>270	tr|A0A3Q1IJ86|A0A3Q1IJ86_ANATE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Anabas_testudineus_OX_64144_PE_3_SV_1	3.000000	0.953157
+[0.004060] sorting bipartition profile
+[0.001548] computed / updated events
+[0.025603] combined events
+[0.003498] calculated per dropset improvement
+[0.005525] executed the merging events 
+>300	GAU95013.1_hypothetical_protein_RvY_06702_Ramazzottius_varieornatus	2.000000	0.955193
+[0.003820] sorting bipartition profile
+[0.000870] computed / updated events
+[0.025353] combined events
+[0.003358] calculated per dropset improvement
+[0.005442] executed the merging events 
+>707,702	TNN47126.1_Pineal_opsin_Liparis_tanakae,TNN47129.1_Parapinopsin_Liparis_tanakae	3.000000	0.958248
+[0.004984] sorting bipartition profile
+[0.001610] computed / updated events
+[0.025173] combined events
+[0.003817] calculated per dropset improvement
+[0.005351] executed the merging events 
+>850	XP_013928099.1_PREDICTED_visual_pigment-like_receptor_peropsin_Thamnophis_sirtalis	1.000000	0.959267
+[0.003941] sorting bipartition profile
+[0.001228] computed / updated events
+[0.025442] combined events
+[0.003506] calculated per dropset improvement
+[0.005492] executed the merging events 
+>596	XP_025002001.1_LOW_QUALITY_PROTEIN_blue-sensitive_opsin-like_Gallus_gallus	1.000000	0.960285
+[0.003801] sorting bipartition profile
+[0.001211] computed / updated events
+[0.025410] combined events
+[0.003402] calculated per dropset improvement
+[0.005318] executed the merging events 
+>837	XP_007534554.1_PREDICTED_visual_pigment-like_receptor_peropsin_Erinaceus_europaeus	1.000000	0.961303
+[0.003824] sorting bipartition profile
+[0.001466] computed / updated events
+[0.025416] combined events
+[0.003489] calculated per dropset improvement
+[0.005604] executed the merging events 
+>534,512	JAN75404.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_partial_Daphnia_magna,DAC80519.1_TPA_inf_xenopsin_2_partial_Pterosagitta_draco	2.000000	0.963340
+[0.005159] sorting bipartition profile
+[0.002256] computed / updated events
+[0.023508] combined events
+[0.003271] calculated per dropset improvement
+[0.005246] executed the merging events 
+>513	T29877.1_EST98579_Human_Thyroid_gland_Homo_sapiens_cDNA_5_end_similar_to_elastase_inhibitor_monocyte/neutrophil_HT_3771__mRNA_sequence	1.000000	0.964358
+[0.004079] sorting bipartition profile
+[0.001783] computed / updated events
+[0.022937] combined events
+[0.003277] calculated per dropset improvement
+[0.004988] executed the merging events 
+>661	EMP42162.1_Opsin-VA_Chelonia_mydas	1.000000	0.965377
+[0.003899] sorting bipartition profile
+[0.001218] computed / updated events
+[0.023413] combined events
+[0.003187] calculated per dropset improvement
+[0.004969] executed the merging events 
+>25,22	APY20495.1_ultraviolet_sensitive_opsin_2_partial_Dryops_sp._CRS-2017,APY20502.1_ultraviolet_sensitive_opsin_partial_Hypocaccus_fitchi	1.000000	0.966395
+[0.005140] sorting bipartition profile
+[0.001405] computed / updated events
+[0.023037] combined events
+[0.003338] calculated per dropset improvement
+total time elapsed: 1.779276
