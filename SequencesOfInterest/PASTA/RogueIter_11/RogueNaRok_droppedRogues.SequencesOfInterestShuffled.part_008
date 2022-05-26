@@ -1,0 +1,13 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.924058
+1	825	GBN01298.1_hypothetical_protein_AVEN_201319_1_Araneus_ventricosus	2.185000	0.926494
+2	36	XP_023193763.1_melanopsin-B-like_isoform_X1_Xiphophorus_maculatus	1.069000	0.927686
+3	834	tr|A0A3Q3FSE0|A0A3Q3FSE0_9LABR_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Labrus_bergylta_OX_56723_GN_QRFPR_PE_3_SV_1	0.518000	0.928263
+4	807	XP_020609821.1_histamine_H2_receptor-like_Orbicella_faveolata	0.471000	0.928788
+5	373	XP_006784886.1_PREDICTED_LOW_QUALITY_PROTEIN_blue-sensitive_opsin-like_Neolamprologus_brichardi	0.245000	0.929061
+6	899	XP_022781109.1_D2_dopamine_receptor-like_Stylophora_pistillata	0.215000	0.929301
+7	197	ANN75188.1_long_wavelength_rhodopsin_partial_Martialis_heureka	0.175000	0.929496
+8	54	KQK84932.1_hypothetical_protein_AAES_44286_Amazona_aestiva	0.146000	0.929659
+9	743	Chone_infundibiliformis_SOAP_k35_C421641|ORF1	0.071000	0.929738
+10	731	XP_022092780.1_visual_pigment-like_receptor_peropsin_Acanthaster_planci	0.055000	0.929799
+11	292	XP_006861173.1_PREDICTED_LOW_QUALITY_PROTEIN_short-wave-sensitive_opsin_1_Chrysochloris_asiatica	0.017000	0.929818

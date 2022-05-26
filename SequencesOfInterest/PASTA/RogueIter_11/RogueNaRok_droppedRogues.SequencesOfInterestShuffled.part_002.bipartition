@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.974359
+1	765	AFD04908.1_long-wavelength_rhodopsin_partial_Centromyrmex_brachycola	2.000000	0.976589
+2	771,764	APY20532.1_long_wavelength_sensitive_opsin_1_Leptopilina_clavipes,AIA23661.1_long_wavelength_rhodopsin_partial_Leptanilloides_femoralis	2.000000	0.978818
+3	658	BAG71429.1_UV-opsin_precursor_Dianemobius_nigrofasciatus	1.000000	0.979933

@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.981048
+1	825	GBN01298.1_hypothetical_protein_AVEN_201319_1_Araneus_ventricosus	2.000000	0.983278
+2	834	tr|A0A3Q3FSE0|A0A3Q3FSE0_9LABR_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Labrus_bergylta_OX_56723_GN_QRFPR_PE_3_SV_1	1.000000	0.984392
+3	29	tr|A0A674NB93|A0A674NB93_TAKRU_Uncharacterized_protein_OS_Takifugu_rubripes_OX_31033_GN_LOC101080046_PE_4_SV_1	1.000000	0.985507

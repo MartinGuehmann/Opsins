@@ -1,0 +1,8 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.972129
+1	404	AWT62495.1_long-wavelength_sensitive_opsin_partial_Gymnarchus_niloticus	2.000000	0.974359
+2	260	tr|A0A673CCB2|A0A673CCB2_9TELE_Parietopsin_OS_Sphaeramia_orbicularis_OX_375764_PE_4_SV_1	1.000000	0.975474
+3	98	BAQ54863.1_opsin_long-wavelength_sensitive_type_Anax_parthenope	1.000000	0.976589
+4	550	VVC32480.1_G_protein-coupled_receptor_rhodopsin-likeGPCR_rhodopsin-like_7TM_Cinara_cedri	1.000000	0.977703
+5	45	tr|A0A671YVU0|A0A671YVU0_SPAAU_Uncharacterized_protein_OS_Sparus_aurata_OX_8175_GN_LOC115570955_PE_4_SV_1	1.000000	0.978818
+6	132,130	GBP63235.1_Opsin-1_Eumeta_japonica,AAQ54663.1_long-wavelength_rhodopsin_partial_Hoplosathe_frauenfeldi	1.000000	0.979933

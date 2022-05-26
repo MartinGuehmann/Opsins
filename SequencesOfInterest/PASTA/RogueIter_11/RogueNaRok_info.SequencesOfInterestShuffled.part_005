@@ -1,0 +1,70 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.182517] initialisation done (initScore = 0.916763, numBip=2870)
+[0.014367] sorting bipartition profile
+[0.083250] computed / updated events
+[0.022048] combined events
+[0.007668] calculated per dropset improvement
+[0.005574] executed the merging events 
+>642	JAG09689.1_Opsin_ultraviolet-sensitive_Lygus_hesperus	0.688000	0.917530
+[0.007003] sorting bipartition profile
+[0.001272] computed / updated events
+[0.023095] combined events
+[0.003763] calculated per dropset improvement
+[0.003932] executed the merging events 
+>353	PVD33043.1_hypothetical_protein_C0Q70_08491_Pomacea_canaliculata	0.665000	0.918271
+[0.007163] sorting bipartition profile
+[0.006241] computed / updated events
+[0.022092] combined events
+[0.004235] calculated per dropset improvement
+[0.006968] executed the merging events 
+>630	XP_026685348.1_opsin_Rh4-like_partial_Diaphorina_citri	0.498000	0.918826
+[0.006962] sorting bipartition profile
+[0.001371] computed / updated events
+[0.025713] combined events
+[0.004105] calculated per dropset improvement
+[0.004925] executed the merging events 
+>643	CAB3363334.1_Hypothetical_predicted_protein_Cloeon_dipterum	0.380000	0.919250
+[0.004527] sorting bipartition profile
+[0.002049] computed / updated events
+[0.021784] combined events
+[0.004012] calculated per dropset improvement
+[0.004982] executed the merging events 
+>178	RDD38202.1_Tachykinin-like_peptides_receptor_99D_Trichoplax_sp._H2	0.151000	0.919418
+[0.004184] sorting bipartition profile
+[0.001316] computed / updated events
+[0.022120] combined events
+[0.004024] calculated per dropset improvement
+[0.004618] executed the merging events 
+>101	XP_022303231.1_opsin-VA-like_Crassostrea_virginica	0.140000	0.919574
+[0.008182] sorting bipartition profile
+[0.002189] computed / updated events
+[0.022206] combined events
+[0.004420] calculated per dropset improvement
+[0.003927] executed the merging events 
+>775,773	ACD85829.1_short-wave-sensitive_retinal_2_opsin_Tachyglossus_aculeatus,XP_008102120.1_PREDICTED_blue-sensitive_opsin_isoform_X1_Anolis_carolinensis	0.175000	0.919769
+[0.010152] sorting bipartition profile
+[0.001339] computed / updated events
+[0.022268] combined events
+[0.003850] calculated per dropset improvement
+[0.004738] executed the merging events 
+>709	QHA94766.1_r-opsin_2_partial_Sepia_officinalis	0.051000	0.919826
+[0.009417] sorting bipartition profile
+[0.001312] computed / updated events
+[0.022765] combined events
+[0.005335] calculated per dropset improvement
+[0.005309] executed the merging events 
+>442	NP_001027640.1_retinal_G-protein-coupled_receptor_Ciona_intestinalis	0.046000	0.919877
+[0.004029] sorting bipartition profile
+[0.001349] computed / updated events
+[0.020698] combined events
+[0.004444] calculated per dropset improvement
+[0.007856] executed the merging events 
+>211	tr|A0A452ST86|A0A452ST86_URSAM_Adrenoceptor_alpha_2A_OS_Ursus_americanus_OX_9643_GN_ADRA2A_PE_3_SV_1	0.006000	0.919884
+[0.008878] sorting bipartition profile
+[0.004444] computed / updated events
+[0.024057] combined events
+[0.004527] calculated per dropset improvement
+total time elapsed: 1.728246

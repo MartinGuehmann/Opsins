@@ -1,0 +1,9 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.932702
+1	423	XP_013406759.1_visual_pigment-like_receptor_peropsin_Lingula_anatina	0.927000	0.933736
+2	365	tr|A0A674NS94|A0A674NS94_TAKRU_Uncharacterized_protein_OS_Takifugu_rubripes_OX_31033_GN_LOC101068856_PE_4_SV_1	0.918000	0.934759
+3	373	KPP79518.1_hypothetical_protein_Z043_100893_Scleropages_formosus	0.458000	0.935270
+4	440	AEW44022.1_rhodopsin_partial_Coryphaenoides_carapinus	0.118000	0.935401
+5	165	AIA23625.1_long_wavelength_rhodopsin_partial_Cerapachys_sp._CM02	0.106000	0.935520
+6	211	APY20556.1_ultraviolet_sensitive_opsin_Aleochara_curtula	0.048000	0.935573
+7	209	KRT86616.1_G_protein-coupled_receptor_Oryctes_borbonicus	0.024000	0.935600

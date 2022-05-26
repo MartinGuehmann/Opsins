@@ -1,0 +1,52 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.103326] initialisation done (initScore = 0.932702, numBip=2660)
+[0.013832] sorting bipartition profile
+[0.076744] computed / updated events
+[0.018111] combined events
+[0.004225] calculated per dropset improvement
+[0.004431] executed the merging events 
+>423	XP_013406759.1_visual_pigment-like_receptor_peropsin_Lingula_anatina	0.927000	0.933736
+[0.006680] sorting bipartition profile
+[0.001590] computed / updated events
+[0.018943] combined events
+[0.003998] calculated per dropset improvement
+[0.007761] executed the merging events 
+>365	tr|A0A674NS94|A0A674NS94_TAKRU_Uncharacterized_protein_OS_Takifugu_rubripes_OX_31033_GN_LOC101068856_PE_4_SV_1	0.918000	0.934759
+[0.004699] sorting bipartition profile
+[0.001733] computed / updated events
+[0.018995] combined events
+[0.003966] calculated per dropset improvement
+[0.004839] executed the merging events 
+>373	KPP79518.1_hypothetical_protein_Z043_100893_Scleropages_formosus	0.458000	0.935270
+[0.005305] sorting bipartition profile
+[0.002580] computed / updated events
+[0.019392] combined events
+[0.004304] calculated per dropset improvement
+[0.004833] executed the merging events 
+>440	AEW44022.1_rhodopsin_partial_Coryphaenoides_carapinus	0.118000	0.935401
+[0.015562] sorting bipartition profile
+[0.002285] computed / updated events
+[0.018751] combined events
+[0.003860] calculated per dropset improvement
+[0.007731] executed the merging events 
+>165	AIA23625.1_long_wavelength_rhodopsin_partial_Cerapachys_sp._CM02	0.106000	0.935520
+[0.005771] sorting bipartition profile
+[0.003410] computed / updated events
+[0.018465] combined events
+[0.006273] calculated per dropset improvement
+[0.004736] executed the merging events 
+>211	APY20556.1_ultraviolet_sensitive_opsin_Aleochara_curtula	0.048000	0.935573
+[0.004546] sorting bipartition profile
+[0.002089] computed / updated events
+[0.018671] combined events
+[0.008051] calculated per dropset improvement
+[0.006676] executed the merging events 
+>209	KRT86616.1_G_protein-coupled_receptor_Oryctes_borbonicus	0.024000	0.935600
+[0.006793] sorting bipartition profile
+[0.001761] computed / updated events
+[0.018232] combined events
+[0.003802] calculated per dropset improvement
+total time elapsed: 1.488645

@@ -1,0 +1,12 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.916763
+1	642	JAG09689.1_Opsin_ultraviolet-sensitive_Lygus_hesperus	0.688000	0.917530
+2	353	PVD33043.1_hypothetical_protein_C0Q70_08491_Pomacea_canaliculata	0.665000	0.918271
+3	630	XP_026685348.1_opsin_Rh4-like_partial_Diaphorina_citri	0.498000	0.918826
+4	643	CAB3363334.1_Hypothetical_predicted_protein_Cloeon_dipterum	0.380000	0.919250
+5	178	RDD38202.1_Tachykinin-like_peptides_receptor_99D_Trichoplax_sp._H2	0.151000	0.919418
+6	101	XP_022303231.1_opsin-VA-like_Crassostrea_virginica	0.140000	0.919574
+7	775,773	ACD85829.1_short-wave-sensitive_retinal_2_opsin_Tachyglossus_aculeatus,XP_008102120.1_PREDICTED_blue-sensitive_opsin_isoform_X1_Anolis_carolinensis	0.175000	0.919769
+8	709	QHA94766.1_r-opsin_2_partial_Sepia_officinalis	0.051000	0.919826
+9	442	NP_001027640.1_retinal_G-protein-coupled_receptor_Ciona_intestinalis	0.046000	0.919877
+10	211	tr|A0A452ST86|A0A452ST86_URSAM_Adrenoceptor_alpha_2A_OS_Ursus_americanus_OX_9643_GN_ADRA2A_PE_3_SV_1	0.006000	0.919884

@@ -1,0 +1,16 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.908855
+1	553	RDD44227.1_Substance-K_receptor_Trichoplax_sp._H2	1.949000	0.911028
+2	733	PIO37006.1_hypothetical_protein_AB205_0136660_partial_Lithobates_catesbeianus	1.470000	0.912667
+3	442	ACB70922.1_long_wavelength_rhodopsin_partial_Liosphex_varius	0.959000	0.913736
+4	608	XP_010341898.1_PREDICTED_galanin_receptor_type_3_Saimiri_boliviensis_boliviensis	0.911000	0.914751
+5	208	tr|A0A3B3YJF3|A0A3B3YJF3_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Poecilia_mexicana_OX_48701_PE_3_SV_1	0.764000	0.915603
+6	640	KAA3677104.1_uncharacterized_protein_DEA37_0009381_Paragonimus_westermani	0.709000	0.916394
+7	856	XP_030248238.1_visual_pigment-like_receptor_peropsin_Sparus_aurata	0.517000	0.916970
+8	230	XP_035195876.1_violet-sensitive_opsin-like_Oxyura_jamaicensis	0.198000	0.917191
+9	532	GBN71709.1_hypothetical_protein_AVEN_50268_1_Araneus_ventricosus	0.137000	0.917343
+10	448	ALA20709.1_long-wavelength_rhodopsin_partial_Stigmatomma_sp._mg01	0.091000	0.917445
+11	249	XP_009867018.1_PREDICTED_LOW_QUALITY_PROTEIN_pinopsin-like_partial_Apaloderma_vittatum	0.069000	0.917522
+12	610	ABH10615.1_endothelin_receptor_type_A_isoform_C13_Rattus_norvegicus	0.067000	0.917596
+13	473	XP_034130230.1_opsin_Rh6_Drosophila_guanche	0.037000	0.917638
+14	185	QIH97386.1_rhodopsin_partial_Cerastes_cerastes	0.005000	0.917643

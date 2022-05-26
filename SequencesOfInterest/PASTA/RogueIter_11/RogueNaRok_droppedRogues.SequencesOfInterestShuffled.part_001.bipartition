@@ -1,0 +1,4 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.989967
+1	365	tr|A0A674NS94|A0A674NS94_TAKRU_Uncharacterized_protein_OS_Takifugu_rubripes_OX_31033_GN_LOC101068856_PE_4_SV_1	1.000000	0.991081
+2	423	XP_013406759.1_visual_pigment-like_receptor_peropsin_Lingula_anatina	1.000000	0.992196

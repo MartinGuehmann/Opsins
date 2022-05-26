@@ -1,0 +1,46 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.049503] initialisation done (initScore = 0.967670, numBip=2428)
+[0.014291] sorting bipartition profile
+[0.070176] computed / updated events
+[0.014894] combined events
+[0.003683] calculated per dropset improvement
+[0.003610] executed the merging events 
+>132	AMB42849.1_long_wavelength_sensitive_opsin_Bodianus_mesothorax	2.000000	0.969900
+[0.005787] sorting bipartition profile
+[0.003507] computed / updated events
+[0.016979] combined events
+[0.003345] calculated per dropset improvement
+[0.003558] executed the merging events 
+>184	AEW67050.1_rod_opsin_partial_Chauliodus_danae	1.000000	0.971014
+[0.004518] sorting bipartition profile
+[0.001174] computed / updated events
+[0.016332] combined events
+[0.003514] calculated per dropset improvement
+[0.003589] executed the merging events 
+>711	XP_032896147.1_QRFP-like_peptide_receptor_Amblyraja_radiata	1.000000	0.972129
+[0.004637] sorting bipartition profile
+[0.001385] computed / updated events
+[0.016122] combined events
+[0.003471] calculated per dropset improvement
+[0.003442] executed the merging events 
+>277	JAN41548.1_Gpcr_rhodopsin_family_Daphnia_magna	1.000000	0.973244
+[0.008615] sorting bipartition profile
+[0.001253] computed / updated events
+[0.016134] combined events
+[0.003466] calculated per dropset improvement
+[0.003492] executed the merging events 
+>736	tr|A0A3Q2QQJ4|A0A3Q2QQJ4_FUNHE_Opsin_5_OS_Fundulus_heteroclitus_OX_8078_PE_3_SV_1	1.000000	0.974359
+[0.005273] sorting bipartition profile
+[0.003424] computed / updated events
+[0.016150] combined events
+[0.003212] calculated per dropset improvement
+[0.003510] executed the merging events 
+>832	XP_004703517.1_visual_pigment-like_receptor_peropsin_Echinops_telfairi	1.000000	0.975474
+[0.005524] sorting bipartition profile
+[0.002714] computed / updated events
+[0.015948] combined events
+[0.005965] calculated per dropset improvement
+total time elapsed: 1.345821

@@ -1,0 +1,11 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.920919
+1	618	XP_002126848.1_growth_hormone_secretagogue_receptor_type_1-like_Ciona_intestinalis	1.316000	0.922386
+2	41	APY20608.1_ultraviolet_sensitive_opsin_1_Gyrinus_marinus	0.716000	0.923184
+3	30	Pseudobranchiomma_cf_schizogenica_TRINITY_DN54603_c0_g1_i1|ORF1	0.633000	0.923890
+4	43	APY20634.1_ultraviolet_sensitive_opsin_Nicrophorus_vespilloides	0.349000	0.924279
+5	869	XP_034735732.1_parietopsin_Etheostoma_cragini	0.315000	0.924630
+6	782	AAX83002.1_opsin_partial_Thalasseus_sandvicensis	0.303000	0.924968
+7	761	XP_031728434.1_blue-sensitive_opsin-like_Anarrhichthys_ocellatus	0.176000	0.925164
+8	650,649	XP_028290404.1_pinopsin-like_Gouania_willdenowi,XP_015246133.1_PREDICTED_vertebrate_ancient_opsin-like_Cyprinodon_variegatus	0.291000	0.925488
+9	319,318	XP_024912596.1_opsin-5-like_Cynoglossus_semilaevis,XP_033847238.1_opsin_8_group_member_c_Periophthalmus_magnuspinnatus	0.018000	0.925508

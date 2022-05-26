@@ -1,0 +1,14 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.907627
+1	404	AWT62495.1_long-wavelength_sensitive_opsin_partial_Gymnarchus_niloticus	1.839000	0.909677
+2	99	BAQ54702.1_opsin_long-wavelength_sensitive_type_Sympetrum_frequens	0.981000	0.910770
+3	130	AAQ54663.1_long-wavelength_rhodopsin_partial_Hoplosathe_frauenfeldi	0.808000	0.911671
+4	45	tr|A0A671YVU0|A0A671YVU0_SPAAU_Uncharacterized_protein_OS_Sparus_aurata_OX_8175_GN_LOC115570955_PE_4_SV_1	0.751000	0.912508
+5	260	tr|A0A673CCB2|A0A673CCB2_9TELE_Parietopsin_OS_Sphaeramia_orbicularis_OX_375764_PE_4_SV_1	0.622000	0.913202
+6	132	GBP63235.1_Opsin-1_Eumeta_japonica	0.575000	0.913843
+7	550	VVC32480.1_G_protein-coupled_receptor_rhodopsin-likeGPCR_rhodopsin-like_7TM_Cinara_cedri	0.556000	0.914463
+8	247	ELU03019.1_hypothetical_protein_CAPTEDRAFT_54244_partial_Capitella_teleta	0.426000	0.914938
+9	888,577	XP_012946057.1_PREDICTED_medium-wave-sensitive_opsin_1-like_Aplysia_californica,Bispira_guinensis_TRINITY_DN83662_c0_g1_i1|ORF1	0.740000	0.915763
+10	149	XP_034238347.1_rhodopsin-like_Thrips_palmi	0.136000	0.915914
+11	788	XP_015765236.1_PREDICTED_uncharacterized_protein_LOC107344136_Acropora_digitifera	0.068000	0.915990
+12	410	RLV61823.1_hypothetical_protein_DV515_00020002_partial_Erythrura_gouldiae	0.012000	0.916003

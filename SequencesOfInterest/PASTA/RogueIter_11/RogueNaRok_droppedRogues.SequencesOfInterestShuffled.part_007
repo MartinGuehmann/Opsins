@@ -1,0 +1,8 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.929417
+1	357	XP_021119090.1_D3_dopamine_receptor_isoform_X3_Heterocephalus_glaber	0.529000	0.930007
+2	735	APY20613.1_long_wavelength_sensitive_opsin_Inocellia_crassicornis	0.227000	0.930260
+3	495	XP_018539992.1_PREDICTED_parapinopsin-like_Lates_calcarifer	0.129000	0.930404
+4	499,494	XP_030282535.1_vertebrate_ancient_opsin-like_Sparus_aurata,CAG08706.1_unnamed_protein_product_Tetraodon_nigroviridis	0.208000	0.930635
+5	311	XP_006819844.1_PREDICTED_galanin_receptor_type_1-like_Saccoglossus_kowalevskii	0.063000	0.930706
+6	742	XP_017481577.1_PREDICTED_opsin_Rh1-like_Rhagoletis_zephyria	0.060000	0.930773

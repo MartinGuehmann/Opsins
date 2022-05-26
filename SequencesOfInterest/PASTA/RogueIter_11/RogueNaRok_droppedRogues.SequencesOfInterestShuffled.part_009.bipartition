@@ -1,0 +1,6 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.976589
+1	553	RDD44227.1_Substance-K_receptor_Trichoplax_sp._H2	1.000000	0.977703
+2	856	XP_030248238.1_visual_pigment-like_receptor_peropsin_Sparus_aurata	1.000000	0.978818
+3	640	KAA3677104.1_uncharacterized_protein_DEA37_0009381_Paragonimus_westermani	1.000000	0.979933
+4	208	tr|A0A3B3YJF3|A0A3B3YJF3_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Poecilia_mexicana_OX_48701_PE_3_SV_1	1.000000	0.981048
