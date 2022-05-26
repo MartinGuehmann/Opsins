@@ -1,0 +1,8 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.964874
+1	799	LAA15347.1_ocellar_opsin_partial_Parasteatoda_tepidariorum	4.000000	0.969265
+2	162	XP_002108861.1_hypothetical_protein_TRIADDRAFT_19440_Trichoplax_adhaerens	2.000000	0.971460
+3	882	XP_025834990.1_opsin_ultraviolet-sensitive_Agrilus_planipennis	2.000000	0.973655
+4	468	AAF65693.1_rhodopsin_partial_Sclerophrys_regularis	2.000000	0.975851
+5	755	AFD04965.1_long-wavelength_rhodopsin_partial_Simopelta_sp._Ecu1	1.000000	0.976948
+6	811	JAJ58701.1_putative_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna	1.000000	0.978046

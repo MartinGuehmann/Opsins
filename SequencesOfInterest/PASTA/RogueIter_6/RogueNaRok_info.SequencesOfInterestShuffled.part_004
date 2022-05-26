@@ -1,0 +1,94 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.251322] initialisation done (initScore = 0.921805, numBip=2617)
+[0.013528] sorting bipartition profile
+[0.071475] computed / updated events
+[0.016880] combined events
+[0.003891] calculated per dropset improvement
+[0.003801] executed the merging events 
+>898	XP_027055334.1_beta-1_adrenergic_receptor-like_Pocillopora_damicornis	2.339000	0.924204
+[0.004958] sorting bipartition profile
+[0.001581] computed / updated events
+[0.017710] combined events
+[0.003653] calculated per dropset improvement
+[0.004967] executed the merging events 
+>342	AEW67070.1_rod_opsin_partial_Alepocephalus_bairdii	1.915000	0.926168
+[0.005285] sorting bipartition profile
+[0.002109] computed / updated events
+[0.017253] combined events
+[0.004418] calculated per dropset improvement
+[0.004055] executed the merging events 
+>216	Pdu-Peropsin2_Platynereis_dumerilii	1.171000	0.927369
+[0.004096] sorting bipartition profile
+[0.001855] computed / updated events
+[0.017045] combined events
+[0.003387] calculated per dropset improvement
+[0.003883] executed the merging events 
+>775	XP_013411648.1_rhodopsin_GQ-coupled-like_Lingula_anatina	0.677000	0.928064
+[0.006226] sorting bipartition profile
+[0.001320] computed / updated events
+[0.017248] combined events
+[0.004654] calculated per dropset improvement
+[0.004262] executed the merging events 
+>11	XP_002113374.1_hypothetical_protein_TRIADDRAFT_57467_Trichoplax_adhaerens	0.613000	0.928692
+[0.005592] sorting bipartition profile
+[0.001006] computed / updated events
+[0.017839] combined events
+[0.003512] calculated per dropset improvement
+[0.004411] executed the merging events 
+>119	XP_026188825.1_opsin-5-like_Mastacembelus_armatus	0.511000	0.929216
+[0.004031] sorting bipartition profile
+[0.001359] computed / updated events
+[0.020202] combined events
+[0.003723] calculated per dropset improvement
+[0.004228] executed the merging events 
+>742	XP_009900025.1_PREDICTED_melanopsin_Picoides_pubescens	0.439000	0.929667
+[0.004425] sorting bipartition profile
+[0.002088] computed / updated events
+[0.017956] combined events
+[0.003783] calculated per dropset improvement
+[0.003935] executed the merging events 
+>937	EYC27263.1_hypothetical_protein_Y032_0009g617_Ancylostoma_ceylanicum	0.370000	0.930046
+[0.006577] sorting bipartition profile
+[0.001101] computed / updated events
+[0.017211] combined events
+[0.004146] calculated per dropset improvement
+[0.004536] executed the merging events 
+>931	XP_028305871.1_neuropeptide_FF_receptor_2-like_Gouania_willdenowi	0.237000	0.930289
+[0.004161] sorting bipartition profile
+[0.001239] computed / updated events
+[0.017121] combined events
+[0.004685] calculated per dropset improvement
+[0.003886] executed the merging events 
+>827	KXJ29501.1_Red-sensitive_opsin-2_Exaiptasia_diaphana	0.200000	0.930494
+[0.005446] sorting bipartition profile
+[0.001238] computed / updated events
+[0.017157] combined events
+[0.003589] calculated per dropset improvement
+[0.003886] executed the merging events 
+>720	TSK22600.1_Melanopsin-A_Bagarius_yarrelli	0.166000	0.930665
+[0.004800] sorting bipartition profile
+[0.001203] computed / updated events
+[0.019363] combined events
+[0.005143] calculated per dropset improvement
+[0.003817] executed the merging events 
+>493	AGE89245.1_opsin-2_Pleurobrachia_bachei	0.142000	0.930810
+[0.009930] sorting bipartition profile
+[0.001441] computed / updated events
+[0.021375] combined events
+[0.003541] calculated per dropset improvement
+[0.003875] executed the merging events 
+>890	tr|A0A2R7WHI8|A0A2R7WHI8_ONCFA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Oncopeltus_fasciatus_OX_7536_GN_OFAS_OFAS010354_PE_4_SV_1	0.029000	0.930840
+[0.005968] sorting bipartition profile
+[0.001063] computed / updated events
+[0.019974] combined events
+[0.003488] calculated per dropset improvement
+[0.003975] executed the merging events 
+>584	QBA97739.1_long-wavelength_rhodopsin_partial_Lanthanomelissa_betinae	0.012000	0.930852
+[0.006861] sorting bipartition profile
+[0.001991] computed / updated events
+[0.016738] combined events
+[0.003330] calculated per dropset improvement
+total time elapsed: 1.823609

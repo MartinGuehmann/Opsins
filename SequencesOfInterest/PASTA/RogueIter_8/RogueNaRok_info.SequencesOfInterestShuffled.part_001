@@ -1,0 +1,94 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.232958] initialisation done (initScore = 0.915256, numBip=2935)
+[0.013285] sorting bipartition profile
+[0.087719] computed / updated events
+[0.023086] combined events
+[0.004012] calculated per dropset improvement
+[0.004222] executed the merging events 
+>482	XP_008284355.1_PREDICTED_adenosine_receptor_A1-like_Stegastes_partitus	2.258000	0.917650
+[0.003530] sorting bipartition profile
+[0.001936] computed / updated events
+[0.023959] combined events
+[0.003755] calculated per dropset improvement
+[0.003823] executed the merging events 
+>590	KAF3839233.1_hypothetical_protein_F7725_017950_Dissostichus_mawsoni	1.240000	0.918965
+[0.003899] sorting bipartition profile
+[0.001233] computed / updated events
+[0.023842] combined events
+[0.003589] calculated per dropset improvement
+[0.003850] executed the merging events 
+>388	XP_028513018.1_substance-P_receptor-like_Exaiptasia_diaphana	0.971000	0.919995
+[0.003308] sorting bipartition profile
+[0.002150] computed / updated events
+[0.022757] combined events
+[0.004121] calculated per dropset improvement
+[0.003986] executed the merging events 
+>703	XP_012887533.1_PREDICTED_RPE-retinal_G_protein-coupled_receptor_isoform_X1_Dipodomys_ordii	0.852000	0.920898
+[0.003257] sorting bipartition profile
+[0.000985] computed / updated events
+[0.022697] combined events
+[0.003490] calculated per dropset improvement
+[0.003958] executed the merging events 
+>331	XP_011859076.1_PREDICTED_opsin_ultraviolet-sensitive-like_isoform_X1_Vollenhovia_emeryi	0.471000	0.921398
+[0.003264] sorting bipartition profile
+[0.001554] computed / updated events
+[0.022602] combined events
+[0.003674] calculated per dropset improvement
+[0.003998] executed the merging events 
+>564	XP_032230866.1_rhodopsin_G0-coupled_Nematostella_vectensis	0.329000	0.921747
+[0.003367] sorting bipartition profile
+[0.000889] computed / updated events
+[0.022786] combined events
+[0.003599] calculated per dropset improvement
+[0.003866] executed the merging events 
+>882	AWU59274.1_short-wavelength_sensitive_1_opsin_Chitala_ornata	0.328000	0.922094
+[0.003379] sorting bipartition profile
+[0.000848] computed / updated events
+[0.022328] combined events
+[0.003475] calculated per dropset improvement
+[0.003934] executed the merging events 
+>538	RDD43461.1_Melatonin_receptor_type_1A_Trichoplax_sp._H2	0.296000	0.922408
+[0.003160] sorting bipartition profile
+[0.001128] computed / updated events
+[0.022618] combined events
+[0.003542] calculated per dropset improvement
+[0.003875] executed the merging events 
+>542,485	PKU36688.1_melanopsin-like_Limosa_lapponica_baueri,XP_027039232.1_melanopsin-like_Pocillopora_damicornis	0.589000	0.923033
+[0.004081] sorting bipartition profile
+[0.001601] computed / updated events
+[0.023885] combined events
+[0.003907] calculated per dropset improvement
+[0.004306] executed the merging events 
+>817	ACD42774.1_rhodopsin_partial_Discoglossus_pictus	0.163000	0.923206
+[0.003609] sorting bipartition profile
+[0.001244] computed / updated events
+[0.020401] combined events
+[0.003685] calculated per dropset improvement
+[0.004586] executed the merging events 
+>637	RMB95924.1_hypothetical_protein_DUI87_28038_Hirundo_rustica_rustica	0.156000	0.923371
+[0.003701] sorting bipartition profile
+[0.001709] computed / updated events
+[0.020326] combined events
+[0.003877] calculated per dropset improvement
+[0.004312] executed the merging events 
+>872	XP_032622417.1_short-wave-sensitive_opsin_1-like_partial_Chelonoidis_abingdonii	0.148000	0.923528
+[0.003625] sorting bipartition profile
+[0.001749] computed / updated events
+[0.020142] combined events
+[0.003875] calculated per dropset improvement
+[0.004275] executed the merging events 
+>891	XP_019678887.1_long-wave-sensitive_opsin_1_isoform_X1_Felis_catus	0.094000	0.923628
+[0.003647] sorting bipartition profile
+[0.001046] computed / updated events
+[0.020408] combined events
+[0.003697] calculated per dropset improvement
+[0.004122] executed the merging events 
+>834	QCB20389.1_medium-wavelength_sensitive_opsin_partial_Cheilodipterus_quinquelineatus	0.006000	0.923634
+[0.003556] sorting bipartition profile
+[0.001134] computed / updated events
+[0.020088] combined events
+[0.003793] calculated per dropset improvement
+total time elapsed: 1.848375

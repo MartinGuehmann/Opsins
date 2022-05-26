@@ -1,0 +1,17 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.908152
+1	369	XP_028633404.1_membrane-spanning_4-domains_subfamily_A_member_14_Grammomys_surdaster	1.303000	0.909581
+2	683	ABK54902.1_long_wavelength_rhodopsin_partial_Aporus_niger	1.140000	0.910831
+3	103	AAD14407.1_S-cone_pigment_gene_opsin_partial_Otolemur_crassicaudatus	0.678000	0.911575
+4	337	XP_013884184.1_PREDICTED_opsin-5-like_Austrofundulus_limnaeus	0.577000	0.912207
+5	169	QJT41797.1_rhodopsin_1_2_Cyphocharax_magdalenae	0.337000	0.912577
+6	386	XP_013077497.1_PREDICTED_uncharacterized_protein_LOC106063629_Biomphalaria_glabrata	0.324000	0.912932
+7	731	MPC33972.1_Compound_eye_opsin_BCRH1_Portunus_trituberculatus	0.199000	0.913150
+8	623	XP_006866380.1_PREDICTED_5-hydroxytryptamine_receptor_6_Chrysochloris_asiatica	0.135000	0.913298
+9	536	tr|A0A1A9Z9I0|A0A1A9Z9I0_GLOPL_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Glossina_pallidipes_OX_7398_PE_3_SV_1	0.118000	0.913428
+10	574	XP_011405490.2_PREDICTED_G-protein_coupled_receptor_161-like_Amphimedon_queenslandica	0.032000	0.913463
+11	573,567	XP_023295388.1_neuropeptide_FF_receptor_2_Lucilia_cuprina,RDD36130.1_G-protein_coupled_receptor_183_Trichoplax_sp._H2	0.207000	0.913690
+12	513,512	tr|A0A674PCA1|A0A674PCA1_TAKRU_Uncharacterized_protein_OS_Takifugu_rubripes_OX_31033_GN_LOC101072181_PE_4_SV_1,TDG40112.1_hypothetical_protein_AWZ03_013467_Drosophila_navojoa	0.348000	0.914071
+13	180	ABF65867.1_rhodopsin_partial_Patagonotothen_ramsayi	0.030000	0.914104
+14	627	AAL25619.1_orphan_G_protein-coupled_receptor_Ren_1_Renilla_koellikeri	0.026000	0.914133
+15	851	XP_031435026.1_melanopsin_Clupea_harengus	0.007000	0.914140

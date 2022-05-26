@@ -1,0 +1,8 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.925947
+1	567	ACB70918.1_long_wavelength_rhodopsin_partial_Ephuta_grisea	1.384000	0.927467
+2	552	AEX28022.1_long-wavelength_rhodopsin_partial_Lasioglossum_seductum	1.359000	0.928958
+3	753	XP_005094658.2_PREDICTED_neuropeptide_Y_receptor-like_Aplysia_californica	0.229000	0.929210
+4	10,7	tr|H2YR13|H2YR13_CIOSA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Ciona_savignyi_OX_51511_PE_4_SV_1,XP_030847502.1_gastrin_cholecystokinin_type_B_receptor-like_Strongylocentrotus_purpuratus	0.130000	0.929352
+5	421	XP_009058695.1_hypothetical_protein_LOTGIDRAFT_123097_partial_Lottia_gigantea	0.045000	0.929402
+6	555	AIA23675.1_long_wavelength_rhodopsin_partial_Vicinopone_conciliatrix	0.003000	0.929405

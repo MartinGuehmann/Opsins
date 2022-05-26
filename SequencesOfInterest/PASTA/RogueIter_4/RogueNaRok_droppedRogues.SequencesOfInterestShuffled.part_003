@@ -1,0 +1,16 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.910480
+1	237	Branchiomma_TRINITY_DN49110_c0_g1_i1|ORF1	1.267000	0.911870
+2	884	XP_017770834.1_PREDICTED_neuropeptide_Y_receptor-like_Nicrophorus_vespilloides	1.197000	0.913182
+3	287	DAniello2015_ops6_Patiria_miniata	0.954000	0.914228
+4	311	CAG13313.1_unnamed_protein_product_Tetraodon_nigroviridis	0.544000	0.914825
+5	794	XP_023170013.2_histamine_H2_receptor_Drosophila_hydei	0.542000	0.915419
+6	464	XP_009902364.1_PREDICTED_LOW_QUALITY_PROTEIN_rhodopsin_Picoides_pubescens	0.199000	0.915637
+7	684	XP_026117956.1_opsin-3-like_Carassius_auratus	0.082000	0.915727
+8	668	XP_029105799.1_pinopsin-like_Scleropages_formosus	0.063000	0.915796
+9	352,350	XP_028652098.1_opsin-5-like_Erpetoichthys_calabaricus,XP_004915005.1_opsin-5_Xenopus_tropicalis	0.097000	0.915902
+10	601	XP_026202837.1_parapinopsin-like_Anabas_testudineus	0.015000	0.915919
+11	817	Bispira_guinensis_TRINITY_DN34101_c2_g1_i1|ORF7	0.013000	0.915933
+12	872	XP_020345799.1_proteinase-activated_receptor_1-like_Oncorhynchus_kisutch	0.011000	0.915945
+13	914	XP_022079996.1_alpha-1B_adrenergic_receptor-like_Acanthaster_planci	0.005000	0.915951
+14	685	XP_028809960.1_opsin-3-like_Denticeps_clupeoides	0.001000	0.915952

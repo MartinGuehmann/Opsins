@@ -1,0 +1,7 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.963816
+1	501	XP_001635427.1_adenosine_receptor_A2a_Nematostella_vectensis	4.000000	0.968202
+2	102,100	XP_006806955.1_PREDICTED_melanopsin-A-like_Neolamprologus_brichardi,AWP14654.1_Melanopsin_1_Scophthalmus_maximus	2.000000	0.970395
+3	871	AEX10153.1_rhodopsin_partial_Ictalurus_punctatus	1.000000	0.971491
+4	329	XP_020893678.1_lysophosphatidic_acid_receptor_6-like_Exaiptasia_diaphana	1.000000	0.972588
+5	881,879	ACC61638.1_rhodopsin_partial_Myoxocephalus_quadricornis,ACB45450.1_rhodopsin_Lepidopus_fitchi	1.000000	0.973684

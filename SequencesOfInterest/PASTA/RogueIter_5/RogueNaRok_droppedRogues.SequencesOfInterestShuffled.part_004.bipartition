@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.976861
+1	949	KXJ28235.1_ESF1-like_Exaiptasia_diaphana	2.000000	0.978873
+2	784	XP_033630861.1_beta-2_adrenergic_receptor-like_Asterias_rubens	1.000000	0.979879
+3	811	XP_015926534.1_substance-K_receptor_isoform_X3_Parasteatoda_tepidariorum	1.000000	0.980885

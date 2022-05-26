@@ -1,0 +1,17 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.907885
+1	928	XP_014589513.1_melanopsin_isoform_X1_Equus_caballus	0.862000	0.908769
+2	211	XP_033830711.1_opsin-5-like_Periophthalmus_magnuspinnatus	0.617000	0.909402
+3	70	MPC68960.1_Opsin-5_Portunus_trituberculatus	0.590000	0.910007
+4	518	XP_020893220.2_histamine_H2_receptor-like_Exaiptasia_diaphana	0.557000	0.910578
+5	808	QIW86023.1_opsin_L16_Neogonodactylus_oerstedii	0.554000	0.911147
+6	240	XP_033335790.1_pinopsin-like_Megalopta_genalis	0.519000	0.911679
+7	364	QGA87726.1_rhodopsin_partial_Cynoglossus_feldmanni	0.504000	0.912196
+8	575,574	RVE73907.1_hypothetical_protein_OJAV_G00035880_Oryzias_javanicus,XP_029443024.1_histamine_H3_receptor-like_Rhinatrema_bivittatum	0.510000	0.912719
+9	370	AQW41288.1_rhodopsin_partial_Hypsolebias_longignatus	0.023000	0.912743
+10	678	XP_015602064.1_orexin_receptor_type_1_isoform_X3_Cephus_cinctus	0.020000	0.912763
+11	167	KAF3849490.1_hypothetical_protein_F7725_019209_Dissostichus_mawsoni	0.012000	0.912775
+12	798	ABD18396.1_long-wavelength_rhodopsin_partial_Acropyga_epedana	0.010000	0.912786
+13	535	XP_031954097.1_olfactory_receptor_14J1-like_Corvus_moneduloides	0.006000	0.912792
+14	377	AFK84136.1_rhodopsin_partial_Coilia_dussumieri	0.005000	0.912797
+15	584	XP_025134440.1_beta-3_adrenergic_receptor_isoform_X1_Bubalus_bubalis	0.004000	0.912801

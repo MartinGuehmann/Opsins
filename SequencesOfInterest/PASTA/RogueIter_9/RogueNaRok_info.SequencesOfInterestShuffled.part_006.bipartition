@@ -1,0 +1,34 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.131571] initialisation done (initScore = 0.971953, numBip=2346)
+[0.012800] sorting bipartition profile
+[0.061054] computed / updated events
+[0.012726] combined events
+[0.003028] calculated per dropset improvement
+[0.002620] executed the merging events 
+>906	XP_004611213.1_PREDICTED_hydroxycarboxylic_acid_receptor_2_Sorex_araneus	2.000000	0.974110
+[0.006914] sorting bipartition profile
+[0.002697] computed / updated events
+[0.014862] combined events
+[0.002765] calculated per dropset improvement
+[0.002742] executed the merging events 
+>399,398	tr|A0A3Q2XL46|A0A3Q2XL46_HIPCM_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Hippocampus_comes_OX_109280_PE_3_SV_1,XP_029103742.1_red-sensitive_opsin-like_Scleropages_formosus	2.000000	0.976268
+[0.005543] sorting bipartition profile
+[0.001459] computed / updated events
+[0.013290] combined events
+[0.003849] calculated per dropset improvement
+[0.002716] executed the merging events 
+>191	XP_030371421.1_opsin_Rh6_Scaptodrosophila_lebanonensis	1.000000	0.977346
+[0.007273] sorting bipartition profile
+[0.000935] computed / updated events
+[0.014216] combined events
+[0.002796] calculated per dropset improvement
+[0.002771] executed the merging events 
+>334	AHM92625.1_rhodopsin_partial_Gaidropsarus_biscayensis	1.000000	0.978425
+[0.004768] sorting bipartition profile
+[0.001332] computed / updated events
+[0.013947] combined events
+[0.002931] calculated per dropset improvement
+total time elapsed: 1.332491

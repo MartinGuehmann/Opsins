@@ -1,0 +1,12 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.907413
+1	805	GAV07468.1_hypothetical_protein_RvY_17298-1_Ramazzottius_varieornatus	0.663000	0.908142
+2	390	TFK00067.1_dynein_heavy_chain_9_axonemal_Platysternon_megacephalum	0.587000	0.908787
+3	43	XP_018425659.1_PREDICTED_parapinopsin-like_partial_Nanorana_parkeri	0.503000	0.909340
+4	178	AJD38755.1_short-wavelength_sensitive_opsin_2B_Helostoma_temminkii	0.408000	0.909788
+5	853	tr|A0A3Q2ZTB7|A0A3Q2ZTB7_KRYMA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Kryptolebias_marmoratus_OX_37003_PE_3_SV_1	0.398000	0.910225
+6	611	XP_012562195.1_PREDICTED_beta-2_adrenergic_receptor-like_Hydra_vulgaris	0.127000	0.910365
+7	617,616	RDD46860.1_Alpha-1A_adrenergic_receptor_Trichoplax_sp._H2,RDD39214.1_Opsin_ultraviolet-sensitive_Trichoplax_sp._H2	0.311000	0.910707
+8	664	BAQ54855.1_opsin_long-wavelength_sensitive_type_Anax_parthenope	0.011000	0.910719
+9	394	OPJ75725.1_visual_pigment-like_receptor_peropsin_Patagioenas_fasciata_monilis	0.009000	0.910729
+10	855	tr|A0A673BRN3|A0A673BRN3_9TELE_Uncharacterized_protein_OS_Sphaeramia_orbicularis_OX_375764_PE_4_SV_1	0.008000	0.910737

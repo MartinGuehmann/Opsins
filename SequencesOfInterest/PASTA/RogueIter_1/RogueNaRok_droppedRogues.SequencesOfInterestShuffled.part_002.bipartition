@@ -1,0 +1,12 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.952138
+1	445	Bispira_guinensis_SOAP_k55_C544374|ORF3	2.000000	0.954175
+2	629	tr|A0A3M6ULF7|A0A3M6ULF7_9CNID_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Pocillopora_damicornis_OX_46731_GN_pdam_00021663_PE_4_SV_1	2.000000	0.956212
+3	447	OON16212.1_hypothetical_protein_X801_07977_partial_Opisthorchis_viverrini	1.000000	0.957230
+4	340	JAK92950.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna	1.000000	0.958248
+5	288	APY20606.1_long_wavelength_sensitive_opsin_1_Gyrinus_marinus	1.000000	0.959267
+6	863	AJD38810.1_short-wavelength_sensitive_opsin_2B_Lampris_guttatus	1.000000	0.960285
+7	121	Pdu-Neuropsin2_Platynereis_dumerilii	1.000000	0.961303
+8	938	BAM72013.1_green_opsin_Engraulis_japonicus	1.000000	0.962322
+9	735	tr|A0A4W4EP46|A0A4W4EP46_ELEEL_Uncharacterized_protein_OS_Electrophorus_electricus_OX_8005_PE_4_SV_1	1.000000	0.963340
+10	54	ROT69935.1_peropsin_Penaeus_vannamei	1.000000	0.964358

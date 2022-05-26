@@ -1,0 +1,10 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.959267
+1	955	tr|A0A4W5R260|A0A4W5R260_9TELE_Rhodopsin_N_domain-containing_protein_OS_Hucho_hucho_OX_62062_PE_4_SV_1	2.000000	0.961303
+2	30	XP_026214193.1_teleost_multiple_tissue_opsin_3a_Anabas_testudineus	1.000000	0.962322
+3	114	XP_022805232.1_G_protein-coupled_receptor_161-like_Stylophora_pistillata	1.000000	0.963340
+4	75	KAF5294265.1_hypothetical_protein_FQR65_LT10851_Abscondita_terminalis	1.000000	0.964358
+5	475	AAU12760.1_long-wavelength_rhodopsin_partial_Typhlomyrmex_rogenhoferi	1.000000	0.965377
+6	865	ALQ32699.1_short_wavelength-sensitive_opsin_1_partial_Hydrochoerus_hydrochaeris	1.000000	0.966395
+7	754	XP_005448550.1_opsin-5_isoform_X1_Oreochromis_niloticus	1.000000	0.967413
+8	461	AGG40159.1_long-wavelength_rhodopsin_partial_Sphecodes_sp._17_JH-2013	1.000000	0.968432

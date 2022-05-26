@@ -1,0 +1,16 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.910814
+1	228	PRD22354.1_Opsin-5_Trichonephila_clavipes	2.247000	0.913166
+2	162	QFQ66903.1_RRH-like_protein_Hofstenia_miamia	1.398000	0.914630
+3	840	tr|A0A672NS33|A0A672NS33_SINGR_Uncharacterized_protein_OS_Sinocyclocheilus_grahami_OX_75366_GN_LOC107599241_PE_4_SV_1	1.341000	0.916035
+4	438	XP_020474274.1_melanopsin-B-like_isoform_X1_Monopterus_albus	1.296000	0.917392
+5	131	LAA13894.1_ocellar_opsin_partial_Parasteatoda_tepidariorum	0.912000	0.918347
+6	828	BAA96828.1_cone_pigment_Lithobates_catesbeianus	0.620000	0.918996
+7	850	XP_029288360.1_blue-sensitive_opsin-like_Cottoperca_gobio	0.415000	0.919430
+8	802	XP_020780219.1_red-sensitive_opsin-like_Boleophthalmus_pectinirostris	0.410000	0.919860
+9	932	TNN34934.1_Opsin-VA_Liparis_tanakae	0.363000	0.920240
+10	609	OQV20362.1_putative_Melanopsin_Hypsibius_dujardini	0.224000	0.920474
+11	845	AJD38782.1_short-wavelength_sensitive_opsin_2B_Cyttopsis_rosea	0.203000	0.920687
+12	880	AEJ09054.1_rhodopsin_partial_Chologaster_cornuta	0.161000	0.920855
+13	747	TFJ97674.1_complement_receptor_type_2-like_Platysternon_megacephalum	0.161000	0.921024
+14	525	XP_017889289.1_muscarinic_acetylcholine_receptor_M3_Ceratina_calcarata	0.137000	0.921168

@@ -1,0 +1,6 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.971953
+1	853	AFK84158.1_rhodopsin_partial_Galaxias_maculatus	2.000000	0.974110
+2	897	AMB42855.1_long_wavelength_sensitive_opsin_Epibulus_insidiator	2.000000	0.976268
+3	171	DAniello2015_ops6_Paracentrotus_lividus	1.000000	0.977346
+4	477	PFX14768.1_NACHT_LRR_and_PYD_domains-containing_protein_12_Stylophora_pistillata	1.000000	0.978425

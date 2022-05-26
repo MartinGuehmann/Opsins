@@ -1,0 +1,12 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.923700
+1	788	GAV01297.1_hypothetical_protein_RvY_12034_Ramazzottius_varieornatus	1.847000	0.925626
+2	874	CAB3252041.1_orexin_receptor_type_1_Phallusia_mammillata	1.367000	0.927051
+3	200	XP_010879352.1_green-sensitive_opsin_Esox_lucius	0.809000	0.927895
+4	924	XP_031575323.1_histamine_H2_receptor-like_Actinia_tenebrosa	0.609000	0.928530
+5	160	ABI15842.1_rhodopsin_partial_Ruvettus_pretiosus	0.590000	0.929145
+6	871	XP_029207951.1_neuropeptide_SIFamide_receptor-like_Acropora_millepora	0.315000	0.929473
+7	138	AAN62586.1_543nm_X-linked_opsin_partial_Callithrix_jacchus	0.074000	0.929551
+8	335	tr|A0A5F8HJB7|A0A5F8HJB7_MONDO_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Monodelphis_domestica_OX_13616_PE_4_SV_1	0.060000	0.929613
+9	712	BAQ54879.1_opsin_ultraviolet_sensitive_type_Anax_parthenope	0.052000	0.929667
+10	606	AAQ74151.1_long-wavelength_opsin_partial_Pediaspis_aceris	0.044000	0.929713

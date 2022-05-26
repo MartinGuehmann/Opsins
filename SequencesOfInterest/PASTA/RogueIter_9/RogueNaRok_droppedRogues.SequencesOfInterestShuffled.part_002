@@ -1,0 +1,13 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.925728
+1	235	tr|A0A4W5JMC7|A0A4W5JMC7_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Hucho_hucho_OX_62062_PE_3_SV_1	1.689000	0.927550
+2	464	XP_032235762.1_orexin_receptor_type_2_Nematostella_vectensis	1.673000	0.929355
+3	596	ACB70919.1_long_wavelength_rhodopsin_partial_Gynecaptera_namibiana	0.804000	0.930222
+4	285	tr|A0A3Q2PX65|A0A3Q2PX65_FUNHE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Fundulus_heteroclitus_OX_8078_PE_3_SV_1	0.382000	0.930634
+5	89	QGW08880.1_teleost_multiple_tissue_opsin_1_partial_Glaucostegus_typus	0.346000	0.931008
+6	889	OWK52826.1_Opsin-5_Lonchura_striata_domestica	0.278000	0.931307
+7	617	LAA16339.1_ocellar_opsin_partial_Parasteatoda_tepidariorum	0.252000	0.931579
+8	920	XP_027605706.1_LOW_QUALITY_PROTEIN_opsin-5-like_Pipra_filicauda	0.245000	0.931844
+9	76	CAB1325778.1_unnamed_protein_product_Coregonus_sp._balchen	0.110000	0.931962
+10	277	QGW08871.1_vertebrate_ancient_long_opsin_partial_Glaucostegus_typus	0.107000	0.932078
+11	597	CAD33865.1_long-wavelength_opsin_partial_Eulachnus_rileyi	0.038000	0.932119

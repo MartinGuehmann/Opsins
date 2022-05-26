@@ -1,0 +1,40 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[2.440634] initialisation done (initScore = 0.960209, numBip=3730)
+[0.024740] sorting bipartition profile
+[0.096718] computed / updated events
+[0.038513] combined events
+[0.005283] calculated per dropset improvement
+[0.008866] executed the merging events 
+>850	XP_020016837.1_probable_G-protein_coupled_receptor_34_Castor_canadensis	2.000000	0.962304
+[0.005010] sorting bipartition profile
+[0.002684] computed / updated events
+[0.040516] combined events
+[0.005573] calculated per dropset improvement
+[0.008955] executed the merging events 
+>315	BAS66935.1_mammalian-like_melanopsin_Lethenteron_camtschaticum	1.000000	0.963351
+[0.004830] sorting bipartition profile
+[0.001572] computed / updated events
+[0.041279] combined events
+[0.005539] calculated per dropset improvement
+[0.008821] executed the merging events 
+>105	JAQ41277.1_5-hydroxytryptamine_receptor_1B_Fundulus_heteroclitus	1.000000	0.964398
+[0.004994] sorting bipartition profile
+[0.002077] computed / updated events
+[0.041647] combined events
+[0.005796] calculated per dropset improvement
+[0.008719] executed the merging events 
+>688	KZS03018.1_Uncharacterized_protein_APZ42_034443_Daphnia_magna	1.000000	0.965445
+[0.006763] sorting bipartition profile
+[0.002396] computed / updated events
+[0.040855] combined events
+[0.005175] calculated per dropset improvement
+[0.006957] executed the merging events 
+>686,685	XP_015889164.1_glycine-rich_protein_A3-like_Ziziphus_jujuba,OMJ69489.1_hypothetical_protein_SteCoe_32782_Stentor_coeruleus	1.000000	0.966492
+[0.005778] sorting bipartition profile
+[0.002192] computed / updated events
+[0.040342] combined events
+[0.005075] calculated per dropset improvement
+total time elapsed: 2.919353

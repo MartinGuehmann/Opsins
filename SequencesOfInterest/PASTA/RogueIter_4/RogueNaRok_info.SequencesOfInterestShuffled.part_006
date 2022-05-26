@@ -1,0 +1,76 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.483715] initialisation done (initScore = 0.910569, numBip=3069)
+[0.016535] sorting bipartition profile
+[0.082499] computed / updated events
+[0.025236] combined events
+[0.003722] calculated per dropset improvement
+[0.004507] executed the merging events 
+>726	ALK02323.1_LWS-1_partial_Micropoecilia_picta	2.562000	0.913378
+[0.003126] sorting bipartition profile
+[0.001527] computed / updated events
+[0.023374] combined events
+[0.003594] calculated per dropset improvement
+[0.006013] executed the merging events 
+>124	RDD40463.1_Neuropeptide_Y_receptor_Trichoplax_sp._H2	1.165000	0.914656
+[0.003798] sorting bipartition profile
+[0.001847] computed / updated events
+[0.023243] combined events
+[0.003487] calculated per dropset improvement
+[0.004828] executed the merging events 
+>361	DAniello2015_ops3.1.A_Heliocidaris_erythrogramma	0.575000	0.915286
+[0.003673] sorting bipartition profile
+[0.001452] computed / updated events
+[0.023092] combined events
+[0.003428] calculated per dropset improvement
+[0.004730] executed the merging events 
+>882	XP_026870808.1_LOW_QUALITY_PROTEIN_parapinopsin-like_Electrophorus_electricus	0.512000	0.915848
+[0.003689] sorting bipartition profile
+[0.001384] computed / updated events
+[0.022786] combined events
+[0.003208] calculated per dropset improvement
+[0.004669] executed the merging events 
+>185	XP_020489744.1_relaxin-3_receptor_1-like_Labrus_bergylta	0.264000	0.916137
+[0.003269] sorting bipartition profile
+[0.001415] computed / updated events
+[0.020862] combined events
+[0.003035] calculated per dropset improvement
+[0.004426] executed the merging events 
+>152	XP_005400109.1_PREDICTED_free_fatty_acid_receptor_2_Chinchilla_lanigera	0.214000	0.916372
+[0.003483] sorting bipartition profile
+[0.001222] computed / updated events
+[0.019973] combined events
+[0.002969] calculated per dropset improvement
+[0.003875] executed the merging events 
+>202	XP_006910619.1_prosaposin_receptor_GPR37_Pteropus_alecto	0.210000	0.916602
+[0.003032] sorting bipartition profile
+[0.001045] computed / updated events
+[0.019705] combined events
+[0.002961] calculated per dropset improvement
+[0.003868] executed the merging events 
+>527	AWX49453.1_long_wavelength_rhodopsin_partial_Cryptopone_hartwigi	0.029000	0.916634
+[0.003076] sorting bipartition profile
+[0.001112] computed / updated events
+[0.020058] combined events
+[0.003033] calculated per dropset improvement
+[0.003796] executed the merging events 
+>577	BAQ54942.1_opsin_long-wavelength_sensitive_type_Indolestes_peregrinus	0.014000	0.916649
+[0.003094] sorting bipartition profile
+[0.001052] computed / updated events
+[0.019078] combined events
+[0.003228] calculated per dropset improvement
+[0.005032] executed the merging events 
+>502	XP_030598633.1_LOW_QUALITY_PROTEIN_melanopsin-B-like_Archocentrus_centrarchus	0.005000	0.916655
+[0.003554] sorting bipartition profile
+[0.001219] computed / updated events
+[0.018688] combined events
+[0.003078] calculated per dropset improvement
+[0.004981] executed the merging events 
+>153	XP_009977270.1_PREDICTED_probable_G-protein_coupled_receptor_132_Tauraco_erythrolophus	0.002000	0.916657
+[0.003652] sorting bipartition profile
+[0.001142] computed / updated events
+[0.018975] combined events
+[0.003166] calculated per dropset improvement
+total time elapsed: 1.979889

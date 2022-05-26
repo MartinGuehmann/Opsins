@@ -1,0 +1,100 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.248286] initialisation done (initScore = 0.907885, numBip=3278)
+[0.013392] sorting bipartition profile
+[0.106530] computed / updated events
+[0.030812] combined events
+[0.004597] calculated per dropset improvement
+[0.004334] executed the merging events 
+>928	XP_014589513.1_melanopsin_isoform_X1_Equus_caballus	0.862000	0.908769
+[0.003793] sorting bipartition profile
+[0.001671] computed / updated events
+[0.030990] combined events
+[0.004355] calculated per dropset improvement
+[0.006338] executed the merging events 
+>211	XP_033830711.1_opsin-5-like_Periophthalmus_magnuspinnatus	0.617000	0.909402
+[0.004774] sorting bipartition profile
+[0.001593] computed / updated events
+[0.031693] combined events
+[0.005351] calculated per dropset improvement
+[0.004776] executed the merging events 
+>70	MPC68960.1_Opsin-5_Portunus_trituberculatus	0.590000	0.910007
+[0.008057] sorting bipartition profile
+[0.001161] computed / updated events
+[0.030999] combined events
+[0.005060] calculated per dropset improvement
+[0.005074] executed the merging events 
+>518	XP_020893220.2_histamine_H2_receptor-like_Exaiptasia_diaphana	0.557000	0.910578
+[0.005754] sorting bipartition profile
+[0.003682] computed / updated events
+[0.029509] combined events
+[0.004283] calculated per dropset improvement
+[0.004683] executed the merging events 
+>808	QIW86023.1_opsin_L16_Neogonodactylus_oerstedii	0.554000	0.911147
+[0.005403] sorting bipartition profile
+[0.001217] computed / updated events
+[0.030168] combined events
+[0.004298] calculated per dropset improvement
+[0.005226] executed the merging events 
+>240	XP_033335790.1_pinopsin-like_Megalopta_genalis	0.519000	0.911679
+[0.007225] sorting bipartition profile
+[0.003352] computed / updated events
+[0.030940] combined events
+[0.005209] calculated per dropset improvement
+[0.007833] executed the merging events 
+>364	QGA87726.1_rhodopsin_partial_Cynoglossus_feldmanni	0.504000	0.912196
+[0.008412] sorting bipartition profile
+[0.002201] computed / updated events
+[0.033220] combined events
+[0.004549] calculated per dropset improvement
+[0.004609] executed the merging events 
+>575,574	RVE73907.1_hypothetical_protein_OJAV_G00035880_Oryzias_javanicus,XP_029443024.1_histamine_H3_receptor-like_Rhinatrema_bivittatum	0.510000	0.912719
+[0.005407] sorting bipartition profile
+[0.001189] computed / updated events
+[0.030022] combined events
+[0.005037] calculated per dropset improvement
+[0.004486] executed the merging events 
+>370	AQW41288.1_rhodopsin_partial_Hypsolebias_longignatus	0.023000	0.912743
+[0.005778] sorting bipartition profile
+[0.001654] computed / updated events
+[0.029820] combined events
+[0.004560] calculated per dropset improvement
+[0.005176] executed the merging events 
+>678	XP_015602064.1_orexin_receptor_type_1_isoform_X3_Cephus_cinctus	0.020000	0.912763
+[0.009073] sorting bipartition profile
+[0.003305] computed / updated events
+[0.029008] combined events
+[0.004192] calculated per dropset improvement
+[0.004618] executed the merging events 
+>167	KAF3849490.1_hypothetical_protein_F7725_019209_Dissostichus_mawsoni	0.012000	0.912775
+[0.004211] sorting bipartition profile
+[0.001217] computed / updated events
+[0.028454] combined events
+[0.004089] calculated per dropset improvement
+[0.005671] executed the merging events 
+>798	ABD18396.1_long-wavelength_rhodopsin_partial_Acropyga_epedana	0.010000	0.912786
+[0.004957] sorting bipartition profile
+[0.001502] computed / updated events
+[0.030744] combined events
+[0.004182] calculated per dropset improvement
+[0.004568] executed the merging events 
+>535	XP_031954097.1_olfactory_receptor_14J1-like_Corvus_moneduloides	0.006000	0.912792
+[0.007811] sorting bipartition profile
+[0.001440] computed / updated events
+[0.029055] combined events
+[0.005731] calculated per dropset improvement
+[0.004547] executed the merging events 
+>377	AFK84136.1_rhodopsin_partial_Coilia_dussumieri	0.005000	0.912797
+[0.007412] sorting bipartition profile
+[0.005455] computed / updated events
+[0.029610] combined events
+[0.004695] calculated per dropset improvement
+[0.006662] executed the merging events 
+>584	XP_025134440.1_beta-3_adrenergic_receptor_isoform_X1_Bubalus_bubalis	0.004000	0.912801
+[0.004944] sorting bipartition profile
+[0.001272] computed / updated events
+[0.028291] combined events
+[0.004108] calculated per dropset improvement
+total time elapsed: 2.130176

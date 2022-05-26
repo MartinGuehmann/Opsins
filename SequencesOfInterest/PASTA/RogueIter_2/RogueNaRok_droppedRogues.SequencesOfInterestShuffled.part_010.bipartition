@@ -1,0 +1,7 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.968553
+1	600	RXN08980.1_disks_large_-like_protein_Labeo_rohita	2.000000	0.970650
+2	391	AIZ50552.1_opsin_7.1_partial_Amphiura_filiformis	2.000000	0.972746
+3	54	XP_012781861.1_PREDICTED_melanopsin_Ochotona_princeps	1.000000	0.973795
+4	669	tr|A0A674E3J0|A0A674E3J0_SALTR_Rhodopsin_like_OS_Salmo_trutta_OX_8032_PE_4_SV_1	1.000000	0.974843
+5	116	AAW59483.1_rhodopsin_partial_Neivamyrmex_nigrescens	1.000000	0.975891

@@ -1,0 +1,13 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.910011
+1	906	XP_004611213.1_PREDICTED_hydroxycarboxylic_acid_receptor_2_Sorex_araneus	1.341000	0.911457
+2	398	XP_029103742.1_red-sensitive_opsin-like_Scleropages_formosus	1.277000	0.912835
+3	334	AHM92625.1_rhodopsin_partial_Gaidropsarus_biscayensis	0.874000	0.913778
+4	191	XP_030371421.1_opsin_Rh6_Scaptodrosophila_lebanonensis	0.786000	0.914626
+5	399	tr|A0A3Q2XL46|A0A3Q2XL46_HIPCM_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Hippocampus_comes_OX_109280_PE_3_SV_1	0.654000	0.915331
+6	375	AJD38799.1_short-wavelength_sensitive_opsin_2B_Symphodus_melops	0.468000	0.915836
+7	230	AAU12749.1_long-wavelength_rhodopsin_partial_Chyphotes_mellipes	0.428000	0.916298
+8	598	XP_020786880.1_opsin-5-like_Boleophthalmus_pectinirostris	0.372000	0.916699
+9	397	AMB42852.1_long_wavelength_sensitive_opsin_Chlorurus_sordidus	0.152000	0.916863
+10	447,443	XP_015246089.1_PREDICTED_parapinopsin-like_Cyprinodon_variegatus,XP_033483424.1_parapinopsin-like_Epinephelus_lanceolatus	0.261000	0.917145
+11	150	XP_014244894.1_opsin_ultraviolet-sensitive-like_isoform_X1_Cimex_lectularius	0.052000	0.917201

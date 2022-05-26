@@ -1,0 +1,4 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.981972
+1	482	XP_008284355.1_PREDICTED_adenosine_receptor_A1-like_Stegastes_partitus	3.000000	0.985154
+2	703	XP_012887533.1_PREDICTED_RPE-retinal_G_protein-coupled_receptor_isoform_X1_Dipodomys_ordii	1.000000	0.986214

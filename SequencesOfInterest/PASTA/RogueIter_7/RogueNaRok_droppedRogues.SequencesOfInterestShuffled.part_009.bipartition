@@ -1,0 +1,8 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.970772
+1	837	JAL00943.1_putative_Opsin-5_partial_Daphnia_magna	1.000000	0.971816
+2	369	XP_015522778.1_PREDICTED_orexin_receptor_type_2-like_Neodiprion_lecontei	1.000000	0.972860
+3	16	RNA33310.1_arthropsin_Brachionus_plicatilis	1.000000	0.973904
+4	294	XP_013405920.1_rhodopsin_GQ-coupled-like_Lingula_anatina	1.000000	0.974948
+5	371	XP_022252797.1_substance-P_receptor-like_Limulus_polyphemus	1.000000	0.975992
+6	419	XP_004687555.2_PREDICTED_olfactory_receptor_4F3_4F16_4F29-like_Condylura_cristata	1.000000	0.977035

@@ -1,0 +1,46 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.292564] initialisation done (initScore = 0.967807, numBip=3552)
+[0.014374] sorting bipartition profile
+[0.109009] computed / updated events
+[0.037629] combined events
+[0.004744] calculated per dropset improvement
+[0.003916] executed the merging events 
+>805	DAniello2015_ops5_Patiria_miniata	1.000000	0.968813
+[0.003053] sorting bipartition profile
+[0.001251] computed / updated events
+[0.036844] combined events
+[0.004459] calculated per dropset improvement
+[0.004020] executed the merging events 
+>225	ACT83788.1_long-wavelength_sensitive_opsin_partial_Encarsia_pergandiella	1.000000	0.969819
+[0.004448] sorting bipartition profile
+[0.002771] computed / updated events
+[0.041774] combined events
+[0.004833] calculated per dropset improvement
+[0.004273] executed the merging events 
+>188	AKO70455.1_long_wavelength_rhodopsin_partial_Mystrium_barrybressleri	1.000000	0.970825
+[0.004117] sorting bipartition profile
+[0.002284] computed / updated events
+[0.038909] combined events
+[0.004800] calculated per dropset improvement
+[0.006821] executed the merging events 
+>444	RDD46424.1_Histamine_H2_receptor_Trichoplax_sp._H2	1.000000	0.971831
+[0.004242] sorting bipartition profile
+[0.001411] computed / updated events
+[0.037272] combined events
+[0.004654] calculated per dropset improvement
+[0.004513] executed the merging events 
+>902	XP_020789905.1_green-sensitive_opsin-like_Boleophthalmus_pectinirostris	1.000000	0.972837
+[0.003476] sorting bipartition profile
+[0.002737] computed / updated events
+[0.036075] combined events
+[0.004569] calculated per dropset improvement
+[0.004499] executed the merging events 
+>935	AXC43895.1_rhodopsin_partial_Anolis_trinitatis	1.000000	0.973843
+[0.004088] sorting bipartition profile
+[0.001723] computed / updated events
+[0.035362] combined events
+[0.004534] calculated per dropset improvement
+total time elapsed: 1.776672

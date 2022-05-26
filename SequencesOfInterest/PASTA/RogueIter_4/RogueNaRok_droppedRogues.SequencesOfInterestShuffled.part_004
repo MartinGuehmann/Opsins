@@ -1,0 +1,9 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.923761
+1	441	LAA16522.1_rhodopsin_2_partial_Parasteatoda_tepidariorum	2.072000	0.926033
+2	649	tr|A0A3B3HBK8|A0A3B3HBK8_ORYLA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Oryzias_latipes_OX_8090_PE_3_SV_1	0.393000	0.926464
+3	105,104	OXB50954.1_hypothetical_protein_ASZ78_014597_partial_Callipepla_squamata,XP_015496276.1_rhodopsin_isoform_X1_Parus_major	0.727000	0.927261
+4	152	AAP23945.2_SWS1_cone_opsin_partial_Anas_platyrhynchos	0.211000	0.927492
+5	400	ABX83830.1_long_wavelength_rhodopsin_partial_Myrmecocystus_nr._kennedyi_BCOM-2007	0.142000	0.927648
+6	74	tr|A0A672PD72|A0A672PD72_SINGR_Uncharacterized_protein_OS_Sinocyclocheilus_grahami_OX_75366_PE_4_SV_1	0.112000	0.927771
+7	387	ACF71381.1_long-wavelength_rhodopsin_partial_Stenosmia_minima	0.051000	0.927827

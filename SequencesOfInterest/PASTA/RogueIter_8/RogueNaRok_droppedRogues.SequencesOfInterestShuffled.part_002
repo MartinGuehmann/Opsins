@@ -1,0 +1,17 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.919227
+1	753	AIT99333.1_melanopsin_3_partial_Brachionus_koreanus	2.584000	0.921967
+2	627	XP_029984814.1_opsin-5-like_Sphaeramia_orbicularis	0.531000	0.922530
+3	464	XP_010001686.1_PREDICTED_rhodopsin_Chaetura_pelagica	0.523000	0.923085
+4	85	AKO71814.1_long_wavelength_rhodopsin_partial_Simopone_dignita	0.310000	0.923414
+5	289	XP_025831774.1_pinopsin_isoform_X1_Agrilus_planipennis	0.188000	0.923613
+6	127	AFP59838.1_7_transmembrane_receptor_rhodopsin_family_Musca_domestica	0.142000	0.923764
+7	283	tr|A0A182QT73|A0A182QT73_9DIPT_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Anopheles_farauti_OX_69004_PE_4_SV_1	0.132000	0.923903
+8	193	AAL37514.1_opsin_partial_Skogsbergia_lerneri	0.057000	0.923964
+9	828	XP_002107793.1_hypothetical_protein_TRIADDRAFT_51667_Trichoplax_adhaerens	0.037000	0.924003
+10	606	PKU29157.1_visual_pigment-like_receptor_hypothetical_protein_Limosa_lapponica_baueri	0.032000	0.924037
+11	537	tr|H2PX78|H2PX78_PONAB_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Pongo_abelii_OX_9601_PE_3_SV_1	0.031000	0.924070
+12	457	XP_016118524.1_PREDICTED_rhodopsin-like_Sinocyclocheilus_grahami	0.012000	0.924083
+13	208	ANN11843.1_ultraviolet_wavelength_sensitive_opsin_2_Steraspis_amplipennis	0.004000	0.924087
+14	486	QGW08853.1_green-sensitive_opsin_Amia_calva	0.003000	0.924090
+15	619	XP_029464046.1_visual_pigment-like_receptor_peropsin_Rhinatrema_bivittatum	0.001000	0.924091

@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.977867
+1	69	KAF5168426.1_hypothetical_protein_HST_G00076130_Hippoglossus_stenolepis	2.000000	0.979879
+2	459	XP_023657941.1_G-protein_coupled_receptor_176_isoform_X1_Paramormyrops_kingsleyae	1.000000	0.980885
+3	540	XP_026223028.1_opsin_7_group_member_d_Anabas_testudineus	1.000000	0.981891

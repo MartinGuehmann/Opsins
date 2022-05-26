@@ -1,0 +1,64 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[2.436693] initialisation done (initScore = 0.958115, numBip=3752)
+[0.018338] sorting bipartition profile
+[0.093566] computed / updated events
+[0.036174] combined events
+[0.005798] calculated per dropset improvement
+[0.007635] executed the merging events 
+>179	tr|A0A1X7TAF4|A0A1X7TAF4_AMPQE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Amphimedon_queenslandica_OX_400682_PE_4_SV_1	2.000000	0.960209
+[0.003963] sorting bipartition profile
+[0.001721] computed / updated events
+[0.037697] combined events
+[0.005040] calculated per dropset improvement
+[0.007240] executed the merging events 
+>759	AJD38848.1_long-wavelength_sensitive_opsin_partial_Beryx_splendens	1.000000	0.961257
+[0.003964] sorting bipartition profile
+[0.002058] computed / updated events
+[0.036852] combined events
+[0.006201] calculated per dropset improvement
+[0.008346] executed the merging events 
+>943,603	DAB27258.1_TPA_inf_xenopsinB2_partial_Prostheceraeus_vittatus,tr|A0A1I8IGJ3|A0A1I8IGJ3_9PLAT_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Macrostomum_lignano_OX_282301_PE_3_SV_1	2.000000	0.963351
+[0.005614] sorting bipartition profile
+[0.002663] computed / updated events
+[0.034264] combined events
+[0.004950] calculated per dropset improvement
+[0.008074] executed the merging events 
+>754	ALK02376.1_LWS-1_partial_Poecilia_reticulata	1.000000	0.964398
+[0.004278] sorting bipartition profile
+[0.003319] computed / updated events
+[0.035459] combined events
+[0.004957] calculated per dropset improvement
+[0.007890] executed the merging events 
+>323	XP_002731808.1_PREDICTED_tachykinin-like_peptides_receptor_86C-like_Saccoglossus_kowalevskii	1.000000	0.965445
+[0.004356] sorting bipartition profile
+[0.002319] computed / updated events
+[0.034665] combined events
+[0.005013] calculated per dropset improvement
+[0.007772] executed the merging events 
+>210	XP_027046262.1_alpha-1A_adrenergic_receptor-like_Pocillopora_damicornis	1.000000	0.966492
+[0.004219] sorting bipartition profile
+[0.001721] computed / updated events
+[0.035810] combined events
+[0.006862] calculated per dropset improvement
+[0.007013] executed the merging events 
+>532	XP_023018922.1_opsin-2-like_Leptinotarsa_decemlineata	1.000000	0.967539
+[0.004014] sorting bipartition profile
+[0.001495] computed / updated events
+[0.037057] combined events
+[0.004825] calculated per dropset improvement
+[0.006819] executed the merging events 
+>45	Notalux_sp1_SOAP_k35_C1081339|ORF3	1.000000	0.968586
+[0.004274] sorting bipartition profile
+[0.002845] computed / updated events
+[0.033249] combined events
+[0.004824] calculated per dropset improvement
+[0.007112] executed the merging events 
+>128	tr|W4XZS8|W4XZS8_STRPU_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Strongylocentrotus_purpuratus_OX_7668_PE_4_SV_1	1.000000	0.969634
+[0.004346] sorting bipartition profile
+[0.001913] computed / updated events
+[0.032999] combined events
+[0.004824] calculated per dropset improvement
+total time elapsed: 3.084278

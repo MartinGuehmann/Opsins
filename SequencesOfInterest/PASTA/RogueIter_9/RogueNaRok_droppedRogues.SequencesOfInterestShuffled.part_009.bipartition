@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.977346
+1	879	RDD40953.1_Opsin-5_Trichoplax_sp._H2	1.000000	0.978425
+2	260	DAB27255.1_TPA_inf_xenopsinA_Stylochus_ellipticus	1.000000	0.979504
+3	141	AEW67067.1_rod_opsin_partial_Bassozetus_compressus	1.000000	0.980583

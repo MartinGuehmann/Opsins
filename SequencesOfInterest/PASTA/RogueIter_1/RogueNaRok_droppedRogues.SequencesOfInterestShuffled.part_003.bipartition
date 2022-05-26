@@ -1,0 +1,10 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.953157
+1	517	AAG49773.1_rhodopsin_partial_Hyperolius_sp._FB-2000	3.000000	0.956212
+2	882	JAN15471.1_putative_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna	2.000000	0.958248
+3	353	TMS37451.1_hypothetical_protein_L596_004380_Steinernema_carpocapsae	2.000000	0.960285
+4	5	XP_029931763.1_cholecystokinin_receptor_type_A_Myripristis_murdjan	2.000000	0.962322
+5	120	VDO81246.1_unnamed_protein_product_Haemonchus_placei	1.000000	0.963340
+6	94	XP_014236211.1_delta-type_opioid_receptor-like_Trichogramma_pretiosum	1.000000	0.964358
+7	318	DAB27260.1_TPA_inf_G0-opsin_partial_Lineus_longissimus	1.000000	0.965377
+8	842	LAA16445.1_ocellar_opsin_partial_Parasteatoda_tepidariorum	1.000000	0.966395

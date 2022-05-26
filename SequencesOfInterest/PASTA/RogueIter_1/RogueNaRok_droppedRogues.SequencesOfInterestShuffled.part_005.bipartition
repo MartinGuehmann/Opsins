@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.983707
+1	213	tr|A0A443R3Q1|A0A443R3Q1_9ACAR_Gastrin_cholecystokinin_type_B_receptor-like_protein_OS_Dinothrombium_tinctorium_OX_1965070_GN_B4U79_03569_PE_4_SV_1	1.000000	0.984725
+2	936	AGL13299.1_long-wavelength_sensitive_cone_opsin_partial_Berardius_bairdii	1.000000	0.985743
+3	627	CAB1340201.1_unnamed_protein_product_partial_Coregonus_sp._balchen	1.000000	0.986762

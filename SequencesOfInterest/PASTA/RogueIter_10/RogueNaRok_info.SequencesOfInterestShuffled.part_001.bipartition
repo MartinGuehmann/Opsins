@@ -1,0 +1,40 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.555942] initialisation done (initScore = 0.973655, numBip=2635)
+[0.095505] sorting bipartition profile
+[0.154103] computed / updated events
+[0.076969] combined events
+[0.004282] calculated per dropset improvement
+[0.003262] executed the merging events 
+>7	XP_033847484.1_pinopsin-like_Periophthalmus_magnuspinnatus	2.000000	0.975851
+[0.003218] sorting bipartition profile
+[0.001011] computed / updated events
+[0.024283] combined events
+[0.006319] calculated per dropset improvement
+[0.006390] executed the merging events 
+>574	DAniello2015_ops3_Eucidaris_tribuloides	1.000000	0.976948
+[0.004047] sorting bipartition profile
+[0.001959] computed / updated events
+[0.023827] combined events
+[0.004561] calculated per dropset improvement
+[0.005089] executed the merging events 
+>487	XP_015201739.1_PREDICTED_pyroglutamylated_RFamide_peptide_receptor_isoform_X2_Lepisosteus_oculatus	1.000000	0.978046
+[0.004046] sorting bipartition profile
+[0.001718] computed / updated events
+[0.024635] combined events
+[0.005375] calculated per dropset improvement
+[0.006308] executed the merging events 
+>605	XP_034041350.1_retinal_G_protein_coupled_receptor_a_Thalassophryne_amazonica	1.000000	0.979144
+[0.004131] sorting bipartition profile
+[0.001631] computed / updated events
+[0.024379] combined events
+[0.005166] calculated per dropset improvement
+[0.004599] executed the merging events 
+>486,485	XP_015596498.1_QRFP-like_peptide_receptor_isoform_X1_Cephus_cinctus,XP_011257684.1_QRFP-like_peptide_receptor_Camponotus_floridanus	1.000000	0.980241
+[0.006225] sorting bipartition profile
+[0.001613] computed / updated events
+[0.023624] combined events
+[0.004515] calculated per dropset improvement
+total time elapsed: 2.089493

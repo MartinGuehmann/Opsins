@@ -1,0 +1,52 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[2.165458] initialisation done (initScore = 0.958248, numBip=3902)
+[0.027813] sorting bipartition profile
+[0.130919] computed / updated events
+[0.054824] combined events
+[0.008713] calculated per dropset improvement
+[0.006607] executed the merging events 
+>475	KAF3704253.1_Melanopsin-A_Mammalian-like_melanopsin_Melanopsin-M_Opsin-4-A_Opsin-4M_Channa_argus	2.000000	0.960285
+[0.006236] sorting bipartition profile
+[0.003337] computed / updated events
+[0.056726] combined events
+[0.007682] calculated per dropset improvement
+[0.009345] executed the merging events 
+>838	RXM30246.1_Chloride_intracellular_channel_protein_5_Acipenser_ruthenus	1.000000	0.961303
+[0.006886] sorting bipartition profile
+[0.004214] computed / updated events
+[0.055012] combined events
+[0.009945] calculated per dropset improvement
+[0.007174] executed the merging events 
+>494	XP_034158954.1_melanopsin-A_isoform_X1_Pangasianodon_hypophthalmus	1.000000	0.962322
+[0.008371] sorting bipartition profile
+[0.003685] computed / updated events
+[0.052672] combined events
+[0.006902] calculated per dropset improvement
+[0.007971] executed the merging events 
+>651	RNA39387.1_prolactin-releasing_peptide_receptor-like_Brachionus_plicatilis	1.000000	0.963340
+[0.006006] sorting bipartition profile
+[0.004521] computed / updated events
+[0.050765] combined events
+[0.008299] calculated per dropset improvement
+[0.007081] executed the merging events 
+>72	JAO05021.1_OPN4A_Poeciliopsis_prolifica	1.000000	0.964358
+[0.007579] sorting bipartition profile
+[0.003134] computed / updated events
+[0.057266] combined events
+[0.008975] calculated per dropset improvement
+[0.008868] executed the merging events 
+>319	ACB70945.1_long_wavelength_rhodopsin_partial_Typhoctes_peculiaris	1.000000	0.965377
+[0.006648] sorting bipartition profile
+[0.003104] computed / updated events
+[0.055694] combined events
+[0.007392] calculated per dropset improvement
+[0.006401] executed the merging events 
+>163,160	AOL02370.1_rhodopsin_partial_Dischistodus_prosopotaenia,tr|A0A671WXA2|A0A671WXA2_SPAAU_Uncharacterized_protein_OS_Sparus_aurata_OX_8175_PE_4_SV_1	1.000000	0.966395
+[0.014331] sorting bipartition profile
+[0.004228] computed / updated events
+[0.050791] combined events
+[0.007901] calculated per dropset improvement
+total time elapsed: 2.960307

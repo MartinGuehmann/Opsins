@@ -1,0 +1,17 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.904409
+1	181	JAT82037.1_hypothetical_protein_g.19690_partial_Pectinophora_gossypiella	2.155000	0.906619
+2	62	XP_023655348.1_adenosine_receptor_A1-like_Paramormyrops_kingsleyae	1.357000	0.908011
+3	359	AJE31447.1_long-wavelength_rhodopsin_partial_Polyrhachis_proxima	1.189000	0.909231
+4	69	XP_029193398.1_G-protein_coupled_receptor_15-like_Acropora_millepora	0.967000	0.910223
+5	166	XP_020910728.1_neuropeptide_Y_receptor_type_6_Exaiptasia_diaphana	0.576000	0.910813
+6	68	XP_020609096.1_neuromedin-U_receptor_2-like_Orbicella_faveolata	0.260000	0.911080
+7	415	JAL40088.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna	0.088000	0.911170
+8	94	XP_002114760.1_hypothetical_protein_TRIADDRAFT_58576_Trichoplax_adhaerens	0.034000	0.911205
+9	427	KAF0306802.1_Compound_eye_opsin_BCRH2_Amphibalanus_amphitrite	0.022000	0.911228
+10	711	XP_034998782.1_sickle_tail_protein_homolog_isoform_X16_Hippoglossus_stenolepis	0.018000	0.911246
+11	65	RDD44200.1_Beta-2_adrenergic_receptor_Trichoplax_sp._H2	0.007000	0.911253
+12	588	tr|A0A3P9KM47|A0A3P9KM47_ORYLA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Oryzias_latipes_OX_8090_PE_3_SV_1	0.004000	0.911257
+13	140	GCB71189.1_hypothetical_protein_scyTo_0010946_Scyliorhinus_torazame	0.003000	0.911261
+14	139	KAB0390125.1_hypothetical_protein_E2I00_012973_Balaenoptera_physalus	0.002000	0.911263
+15	372	CAB3366682.1_Hypothetical_predicted_protein_Cloeon_dipterum	0.001000	0.911264

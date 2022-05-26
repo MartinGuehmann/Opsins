@@ -1,0 +1,11 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.964440
+1	164	APY20508.1_long_wavelength_sensitive_opsin_2_partial_Larinus_minutus	2.000000	0.966595
+2	111	APY20657.1_long_wavelength_sensitive_opsin_Pseudomallada_prasinus	1.000000	0.967672
+3	503	KAE8296127.1_Pineal_opsin_Pineal_gland-specific_opsin_Larimichthys_crocea	1.000000	0.968750
+4	840	ODM97996.1_Opsin-5_Orchesella_cincta	1.000000	0.969828
+5	119	AFD04915.1_long-wavelength_rhodopsin_partial_Emeryopone_buttelreepeni	1.000000	0.970905
+6	628	TKR82891.1_hypothetical_protein_L596_016563_Steinernema_carpocapsae	1.000000	0.971983
+7	588	XP_030832300.1_melatonin_receptor_type_1B-B-like_Strongylocentrotus_purpuratus	1.000000	0.973060
+8	20	XP_034402824.1_opsin_4xa_Cyclopterus_lumpus	1.000000	0.974138
+9	590,589	RDD42467.1_Rhodopsin_GQ-coupled_Trichoplax_sp._H2,RDD45711.1_Melatonin_receptor_type_1A-A_Trichoplax_sp._H2	1.000000	0.975216

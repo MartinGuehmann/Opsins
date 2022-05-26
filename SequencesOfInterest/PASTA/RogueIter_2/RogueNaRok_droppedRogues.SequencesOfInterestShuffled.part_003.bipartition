@@ -1,0 +1,7 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.960209
+1	850	XP_020016837.1_probable_G-protein_coupled_receptor_34_Castor_canadensis	2.000000	0.962304
+2	315	BAS66935.1_mammalian-like_melanopsin_Lethenteron_camtschaticum	1.000000	0.963351
+3	105	JAQ41277.1_5-hydroxytryptamine_receptor_1B_Fundulus_heteroclitus	1.000000	0.964398
+4	688	KZS03018.1_Uncharacterized_protein_APZ42_034443_Daphnia_magna	1.000000	0.965445
+5	686,685	XP_015889164.1_glycine-rich_protein_A3-like_Ziziphus_jujuba,OMJ69489.1_hypothetical_protein_SteCoe_32782_Stentor_coeruleus	1.000000	0.966492

@@ -1,0 +1,16 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.911236
+1	869	XP_002113728.1_hypothetical_protein_TRIADDRAFT_57447_Trichoplax_adhaerens	1.188000	0.912540
+2	887	XP_024508313.1_Melanopsin_Strongyloides_ratti	0.957000	0.913591
+3	342	XP_005326631.1_opsin-3_isoform_X1_Ictidomys_tridecemlineatus	0.879000	0.914555
+4	377	AQP31383.1_rhodopsin_partial_Parabrotula_tanseimaru	0.652000	0.915271
+5	372	sp|O42604.1|OPSD_ZEUFA_RecName_Full_Rhodopsin	0.611000	0.915942
+6	765	CAB3249990.1_unnamed_protein_product_Arctia_plantaginis	0.562000	0.916559
+7	723,722	tr|A0A3B4HCM1|A0A3B4HCM1_9CICH_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Pundamilia_nyererei_OX_303518_PE_4_SV_1,TWW71595.1_Gap_junction_alpha-10_protein_Takifugu_flavidus	0.731000	0.917361
+8	327	XP_023955559.1_pinopsin-like_isoform_X1_Chrysemys_picta_bellii	0.317000	0.917709
+9	834	XP_025891912.1_adenosine_receptor_A3-like_Nothoprocta_perdicaria	0.151000	0.917875
+10	91	JAK38573.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna	0.141000	0.918030
+11	829	XP_032235541.1_adenosine_receptor_A2a-like_Nematostella_vectensis	0.123000	0.918165
+12	633	XP_002594196.1_hypothetical_protein_BRAFLDRAFT_65045_Branchiostoma_floridae	0.103000	0.918278
+13	114	AAZ08078.1_long-wavelength_rhodopsin_partial_Euagathis_sp._CXX-2005	0.024000	0.918304
+14	112	ACB70893.1_long_wavelength_rhodopsin_partial_Pristocera_sp._1_EMP-2008	0.010000	0.918315

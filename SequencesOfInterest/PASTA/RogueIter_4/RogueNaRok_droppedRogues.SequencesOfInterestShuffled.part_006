@@ -1,0 +1,13 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.910569
+1	726	ALK02323.1_LWS-1_partial_Micropoecilia_picta	2.562000	0.913378
+2	124	RDD40463.1_Neuropeptide_Y_receptor_Trichoplax_sp._H2	1.165000	0.914656
+3	361	DAniello2015_ops3.1.A_Heliocidaris_erythrogramma	0.575000	0.915286
+4	882	XP_026870808.1_LOW_QUALITY_PROTEIN_parapinopsin-like_Electrophorus_electricus	0.512000	0.915848
+5	185	XP_020489744.1_relaxin-3_receptor_1-like_Labrus_bergylta	0.264000	0.916137
+6	152	XP_005400109.1_PREDICTED_free_fatty_acid_receptor_2_Chinchilla_lanigera	0.214000	0.916372
+7	202	XP_006910619.1_prosaposin_receptor_GPR37_Pteropus_alecto	0.210000	0.916602
+8	527	AWX49453.1_long_wavelength_rhodopsin_partial_Cryptopone_hartwigi	0.029000	0.916634
+9	577	BAQ54942.1_opsin_long-wavelength_sensitive_type_Indolestes_peregrinus	0.014000	0.916649
+10	502	XP_030598633.1_LOW_QUALITY_PROTEIN_melanopsin-B-like_Archocentrus_centrarchus	0.005000	0.916655
+11	153	XP_009977270.1_PREDICTED_probable_G-protein_coupled_receptor_132_Tauraco_erythrolophus	0.002000	0.916657

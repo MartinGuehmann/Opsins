@@ -1,0 +1,14 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.905624
+1	325	tr|A0A182MPG0|A0A182MPG0_9DIPT_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Anopheles_culicifacies_OX_139723_PE_4_SV_1	1.365000	0.907049
+2	172	XP_027144623.1_opsin-5_isoform_X1_Larimichthys_crocea	0.600000	0.907675
+3	408	XP_008480351.1_tyramine_octopamine_receptor-like_partial_Diaphorina_citri	0.502000	0.908199
+4	755	XP_034170421.1_teleost_multiple_tissue_opsin_a_isoform_X2_Pangasianodon_hypophthalmus	0.300000	0.908513
+5	959,958	DAniello2015_ops1.2_Patiria_miniata,GAU95738.1_hypothetical_protein_RvY_07308-1_Ramazzottius_varieornatus	0.554000	0.909091
+6	5,4	DAniello2015_ops1.3_Patiria_miniata,DAniello2015_ops1_Holothuria_forskali	0.569000	0.909685
+7	277	XP_020798083.1_RYamide_receptor_Drosophila_serrata	0.260000	0.909956
+8	136	AIZ50551.1_opsin_5_Amphiura_filiformis	0.181000	0.910145
+9	431	Perkinsiana_anodina_TRINITY_DN37214_c0_g1_i1|ORF2	0.120000	0.910270
+10	487	CRK97770.1_CLUMA_CG011149_isoform_A_Clunio_marinus	0.057000	0.910330
+11	920	XP_011943382.1_PREDICTED_short-wave-sensitive_opsin_1_isoform_X1_Cercocebus_atys	0.014000	0.910344
+12	371	XP_021464850.1_adenosine_receptor_A1-like_Oncorhynchus_mykiss	0.005000	0.910350

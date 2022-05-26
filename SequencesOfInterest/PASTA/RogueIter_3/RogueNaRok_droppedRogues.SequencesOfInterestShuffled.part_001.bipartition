@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.976420
+1	858	XP_031575035.1_galanin_receptor_type_1-like_Actinia_tenebrosa	1.000000	0.977492
+2	924	XP_027729843.1_prostaglandin_F2-alpha_receptor_Vombatus_ursinus	1.000000	0.978564
+3	518	XP_027546702.1_pinopsin_isoform_X1_Neopelma_chrysocephalum	1.000000	0.979636

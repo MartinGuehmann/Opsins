@@ -1,0 +1,40 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[2.216836] initialisation done (initScore = 0.968553, numBip=3392)
+[0.026627] sorting bipartition profile
+[0.072483] computed / updated events
+[0.028779] combined events
+[0.004779] calculated per dropset improvement
+[0.007443] executed the merging events 
+>600	RXN08980.1_disks_large_-like_protein_Labeo_rohita	2.000000	0.970650
+[0.004706] sorting bipartition profile
+[0.002079] computed / updated events
+[0.027564] combined events
+[0.004552] calculated per dropset improvement
+[0.007030] executed the merging events 
+>391	AIZ50552.1_opsin_7.1_partial_Amphiura_filiformis	2.000000	0.972746
+[0.004581] sorting bipartition profile
+[0.001131] computed / updated events
+[0.027491] combined events
+[0.004569] calculated per dropset improvement
+[0.006815] executed the merging events 
+>54	XP_012781861.1_PREDICTED_melanopsin_Ochotona_princeps	1.000000	0.973795
+[0.004544] sorting bipartition profile
+[0.001176] computed / updated events
+[0.026719] combined events
+[0.004513] calculated per dropset improvement
+[0.007051] executed the merging events 
+>669	tr|A0A674E3J0|A0A674E3J0_SALTR_Rhodopsin_like_OS_Salmo_trutta_OX_8032_PE_4_SV_1	1.000000	0.974843
+[0.004623] sorting bipartition profile
+[0.001732] computed / updated events
+[0.026698] combined events
+[0.004495] calculated per dropset improvement
+[0.006748] executed the merging events 
+>116	AAW59483.1_rhodopsin_partial_Neivamyrmex_nigrescens	1.000000	0.975891
+[0.004682] sorting bipartition profile
+[0.001621] computed / updated events
+[0.025831] combined events
+[0.006502] calculated per dropset improvement
+total time elapsed: 2.575299

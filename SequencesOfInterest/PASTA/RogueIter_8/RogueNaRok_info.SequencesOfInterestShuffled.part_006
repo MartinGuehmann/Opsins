@@ -1,0 +1,82 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.251459] initialisation done (initScore = 0.912428, numBip=2761)
+[0.013201] sorting bipartition profile
+[0.081395] computed / updated events
+[0.018222] combined events
+[0.003335] calculated per dropset improvement
+[0.002940] executed the merging events 
+>365	AIZ50555.1_opsin_8.2_partial_Amphiura_filiformis	1.773000	0.914310
+[0.002924] sorting bipartition profile
+[0.000992] computed / updated events
+[0.019210] combined events
+[0.003068] calculated per dropset improvement
+[0.003075] executed the merging events 
+>910,765	XP_029212730.1_melanocyte-stimulating_hormone_receptor-like_Acropora_millepora,CDW36370.1_Gprotein_coupled_receptor_161like_Aplysia_californica_partial_Lepeophtheirus_salmonis	2.561000	0.917029
+[0.003660] sorting bipartition profile
+[0.001422] computed / updated events
+[0.017909] combined events
+[0.003155] calculated per dropset improvement
+[0.003095] executed the merging events 
+>30	XP_033966374.1_teleost_multiple_tissue_opsin_2b_Pseudochaenichthys_georgianus	0.581000	0.917645
+[0.002808] sorting bipartition profile
+[0.000771] computed / updated events
+[0.018212] combined events
+[0.003279] calculated per dropset improvement
+[0.003337] executed the merging events 
+>212	XP_017507709.1_PREDICTED_LOW_QUALITY_PROTEIN_short-wave-sensitive_opsin_1_Manis_javanica	0.484000	0.918159
+[0.002992] sorting bipartition profile
+[0.000967] computed / updated events
+[0.018132] combined events
+[0.003353] calculated per dropset improvement
+[0.003163] executed the merging events 
+>45	tr|A0A3B4Z1F2|A0A3B4Z1F2_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Stegastes_partitus_OX_144197_PE_4_SV_1	0.465000	0.918653
+[0.002911] sorting bipartition profile
+[0.000980] computed / updated events
+[0.021001] combined events
+[0.004109] calculated per dropset improvement
+[0.004640] executed the merging events 
+>129	tr|G3W5I8|G3W5I8_SARHA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Sarcophilus_harrisii_OX_9305_GN_LOC100921555_PE_3_SV_1	0.450000	0.919131
+[0.003700] sorting bipartition profile
+[0.000940] computed / updated events
+[0.019555] combined events
+[0.003402] calculated per dropset improvement
+[0.003577] executed the merging events 
+>909	XP_006008391.1_PREDICTED_G-protein_coupled_bile_acid_receptor_1_Latimeria_chalumnae	0.245000	0.919391
+[0.003382] sorting bipartition profile
+[0.000978] computed / updated events
+[0.018491] combined events
+[0.003594] calculated per dropset improvement
+[0.003573] executed the merging events 
+>584	XP_008484398.1_opsin-2-like_partial_Diaphorina_citri	0.202000	0.919605
+[0.003550] sorting bipartition profile
+[0.000901] computed / updated events
+[0.018616] combined events
+[0.003357] calculated per dropset improvement
+[0.003660] executed the merging events 
+>18	TRZ15950.1_hypothetical_protein_HGM15179_011149_Zosterops_borbonicus	0.174000	0.919790
+[0.003338] sorting bipartition profile
+[0.000639] computed / updated events
+[0.018398] combined events
+[0.003631] calculated per dropset improvement
+[0.004028] executed the merging events 
+>871	XP_017548441.1_PREDICTED_sphingosine_1-phosphate_receptor_1-like_Pygocentrus_nattereri	0.023000	0.919814
+[0.003654] sorting bipartition profile
+[0.001178] computed / updated events
+[0.018598] combined events
+[0.003499] calculated per dropset improvement
+[0.003971] executed the merging events 
+>516	AAW80337.1_long-wavelength_opsin_partial_Ctenophthalmus_agyrtes	0.017000	0.919832
+[0.003406] sorting bipartition profile
+[0.001109] computed / updated events
+[0.018451] combined events
+[0.003468] calculated per dropset improvement
+[0.003858] executed the merging events 
+>904	KMQ97680.1_g-protein_coupled_receptor_Lasius_niger	0.001000	0.919833
+[0.003586] sorting bipartition profile
+[0.000953] computed / updated events
+[0.018229] combined events
+[0.003520] calculated per dropset improvement
+total time elapsed: 1.729280

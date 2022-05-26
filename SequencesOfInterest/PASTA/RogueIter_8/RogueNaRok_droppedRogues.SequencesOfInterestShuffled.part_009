@@ -1,0 +1,15 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.906693
+1	579	XP_029188316.1_melanopsin-like_Acropora_millepora	2.750000	0.909613
+2	325	XP_017482166.1_PREDICTED_opsin_Rh3-like_Rhagoletis_zephyria	2.267000	0.912019
+3	153	XP_028997097.1_opsin-5-like_isoform_X1_Betta_splendens	0.780000	0.912847
+4	414	JAK36590.1_hypothetical_protein_Daphnia_magna	0.750000	0.913643
+5	105	XP_029476898.1_opsin-5-like_Oncorhynchus_nerka	0.390000	0.914057
+6	233	TWW82301.1_Melanopsin-A_Mammalian-like_melanopsin_Takifugu_flavidus	0.378000	0.914459
+7	406	APY20681.1_long_wavelength_sensitive_opsin_1_Xenos_vesparum	0.238000	0.914711
+8	487	XP_024609156.1_histamine_H2_receptor_Neophocaena_asiaeorientalis_asiaeorientalis	0.160000	0.914881
+9	385	AAW59484.1_rhodopsin_partial_Simopone_marleyi	0.146000	0.915036
+10	230	tr|A0A3Q1CAX3|A0A3Q1CAX3_AMPOC_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Amphiprion_ocellaris_OX_80972_PE_3_SV_1	0.036000	0.915074
+11	125	XP_029966152.1_opsin-5-like_Salarias_fasciatus	0.028000	0.915104
+12	602	TPX71645.1_hypothetical_protein_CcCBS67573_g06095_Chytriomyces_confervae	0.028000	0.915134
+13	394	tr|A0A182PR95|A0A182PR95_9DIPT_Uncharacterized_protein_OS_Anopheles_epiroticus_OX_199890_PE_3_SV_1	0.001000	0.915135

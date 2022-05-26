@@ -1,0 +1,52 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.182970] initialisation done (initScore = 0.967091, numBip=3045)
+[0.013069] sorting bipartition profile
+[0.099537] computed / updated events
+[0.025722] combined events
+[0.004273] calculated per dropset improvement
+[0.004014] executed the merging events 
+>924	XP_025091427.1_rhodopsin_GQ-coupled-like_Pomacea_canaliculata	2.000000	0.969214
+[0.003253] sorting bipartition profile
+[0.000916] computed / updated events
+[0.026109] combined events
+[0.003606] calculated per dropset improvement
+[0.003885] executed the merging events 
+>181	ELT88599.1_hypothetical_protein_CAPTEDRAFT_109079_Capitella_teleta	2.000000	0.971338
+[0.003041] sorting bipartition profile
+[0.000698] computed / updated events
+[0.025037] combined events
+[0.003702] calculated per dropset improvement
+[0.003877] executed the merging events 
+>401	ACH56536.1_putative_long_wavelength_opsin_Thermonectus_marmoratus	2.000000	0.973461
+[0.002743] sorting bipartition profile
+[0.001070] computed / updated events
+[0.024494] combined events
+[0.003602] calculated per dropset improvement
+[0.003576] executed the merging events 
+>621	tr|A0A3Q2PEQ6|A0A3Q2PEQ6_FUNHE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Fundulus_heteroclitus_OX_8078_PE_3_SV_1	1.000000	0.974522
+[0.002677] sorting bipartition profile
+[0.000960] computed / updated events
+[0.024890] combined events
+[0.003305] calculated per dropset improvement
+[0.003743] executed the merging events 
+>640	XP_010147386.1_PREDICTED_pinopsin-like_partial_Eurypyga_helias	1.000000	0.975584
+[0.003024] sorting bipartition profile
+[0.001475] computed / updated events
+[0.024803] combined events
+[0.003731] calculated per dropset improvement
+[0.003789] executed the merging events 
+>294	APY20682.1_ultraviolet_sensitive_opsin_1_Xenos_vesparum	1.000000	0.976645
+[0.002845] sorting bipartition profile
+[0.002440] computed / updated events
+[0.024389] combined events
+[0.003635] calculated per dropset improvement
+[0.003890] executed the merging events 
+>404	JAL11538.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_partial_Daphnia_magna	1.000000	0.977707
+[0.003053] sorting bipartition profile
+[0.001113] computed / updated events
+[0.024344] combined events
+[0.003763] calculated per dropset improvement
+total time elapsed: 1.581676

@@ -1,0 +1,70 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.125720] initialisation done (initScore = 0.921436, numBip=2608)
+[0.012783] sorting bipartition profile
+[0.067695] computed / updated events
+[0.017573] combined events
+[0.005057] calculated per dropset improvement
+[0.004029] executed the merging events 
+>251	GAV04561.1_hypothetical_protein_RvY_14828_Ramazzottius_varieornatus	1.349000	0.922891
+[0.004443] sorting bipartition profile
+[0.002040] computed / updated events
+[0.018889] combined events
+[0.003017] calculated per dropset improvement
+[0.003166] executed the merging events 
+>141	AEW67067.1_rod_opsin_partial_Bassozetus_compressus	1.173000	0.924156
+[0.005854] sorting bipartition profile
+[0.000946] computed / updated events
+[0.018578] combined events
+[0.002984] calculated per dropset improvement
+[0.002966] executed the merging events 
+>879	RDD40953.1_Opsin-5_Trichoplax_sp._H2	0.554000	0.924754
+[0.004078] sorting bipartition profile
+[0.000827] computed / updated events
+[0.020359] combined events
+[0.004060] calculated per dropset improvement
+[0.002995] executed the merging events 
+>468	AAZ95193.1_long-wavelength_rhodopsin_partial_Stigmus_fulvipes	0.385000	0.925169
+[0.004556] sorting bipartition profile
+[0.001444] computed / updated events
+[0.018078] combined events
+[0.003026] calculated per dropset improvement
+[0.004445] executed the merging events 
+>722	XP_034168609.1_opsin_4xa_isoform_X1_Pangasianodon_hypophthalmus	0.272000	0.925463
+[0.005462] sorting bipartition profile
+[0.000881] computed / updated events
+[0.018819] combined events
+[0.003196] calculated per dropset improvement
+[0.003437] executed the merging events 
+>590	JAK04677.1_putative_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna	0.164000	0.925640
+[0.008503] sorting bipartition profile
+[0.000935] computed / updated events
+[0.018818] combined events
+[0.003190] calculated per dropset improvement
+[0.002957] executed the merging events 
+>665,664	tr|A0A665UAY8|A0A665UAY8_ECHNA_Uncharacterized_protein_OS_Echeneis_naucrates_OX_173247_PE_4_SV_1,tr|A0A3Q1CR93|A0A3Q1CR93_AMPOC_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Amphiprion_ocellaris_OX_80972_PE_3_SV_1	0.086000	0.925732
+[0.008688] sorting bipartition profile
+[0.002736] computed / updated events
+[0.018749] combined events
+[0.003024] calculated per dropset improvement
+[0.002991] executed the merging events 
+>804	RDD40478.1_Neuropeptide_FF_receptor_2_Trichoplax_sp._H2	0.041000	0.925777
+[0.007822] sorting bipartition profile
+[0.001849] computed / updated events
+[0.018614] combined events
+[0.004615] calculated per dropset improvement
+[0.002981] executed the merging events 
+>814	XP_032231320.1_neuromedin-K_receptor_isoform_X1_Nematostella_vectensis	0.021000	0.925799
+[0.003611] sorting bipartition profile
+[0.000979] computed / updated events
+[0.018030] combined events
+[0.003199] calculated per dropset improvement
+[0.002879] executed the merging events 
+>437	KAE9423913.1_hypothetical_protein_GE061_00964_Apolygus_lucorum	0.013000	0.925813
+[0.004655] sorting bipartition profile
+[0.001027] computed / updated events
+[0.018002] combined events
+[0.002888] calculated per dropset improvement
+total time elapsed: 1.553896

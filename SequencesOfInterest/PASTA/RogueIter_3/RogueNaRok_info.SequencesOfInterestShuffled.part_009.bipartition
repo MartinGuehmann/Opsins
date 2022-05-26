@@ -1,0 +1,40 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.138515] initialisation done (initScore = 0.963519, numBip=3755)
+[0.013594] sorting bipartition profile
+[0.076209] computed / updated events
+[0.025838] combined events
+[0.003562] calculated per dropset improvement
+[0.005116] executed the merging events 
+>931	XP_013081644.1_PREDICTED_olfactory_receptor_5K2-like_Biomphalaria_glabrata	5.000000	0.968884
+[0.002970] sorting bipartition profile
+[0.001362] computed / updated events
+[0.025232] combined events
+[0.003050] calculated per dropset improvement
+[0.004894] executed the merging events 
+>558	miTrinity_TR6370|c0_g1_i1|ORF4	1.000000	0.969957
+[0.002890] sorting bipartition profile
+[0.000775] computed / updated events
+[0.024511] combined events
+[0.003339] calculated per dropset improvement
+[0.004659] executed the merging events 
+>455	AAQ02799.1_blue-sensitive_pigment_Gadus_morhua	1.000000	0.971030
+[0.002919] sorting bipartition profile
+[0.001032] computed / updated events
+[0.024398] combined events
+[0.003103] calculated per dropset improvement
+[0.004900] executed the merging events 
+>733	RUS71358.1_hypothetical_protein_EGW08_020877_partial_Elysia_chlorotica	1.000000	0.972103
+[0.003157] sorting bipartition profile
+[0.002105] computed / updated events
+[0.023852] combined events
+[0.003532] calculated per dropset improvement
+[0.004615] executed the merging events 
+>137	ABD18438.1_long-wavelength_rhodopsin_partial_Labidus_spininodis	1.000000	0.973176
+[0.003793] sorting bipartition profile
+[0.001379] computed / updated events
+[0.023391] combined events
+[0.003199] calculated per dropset improvement
+total time elapsed: 1.442459

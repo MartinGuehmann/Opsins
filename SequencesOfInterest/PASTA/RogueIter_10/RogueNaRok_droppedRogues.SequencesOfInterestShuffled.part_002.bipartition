@@ -1,0 +1,6 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.969265
+1	551	XP_029645345.1_cholecystokinin_receptor-like_Octopus_vulgaris	2.000000	0.971460
+2	311	XP_019713432.1_PREDICTED_opsin-5-like_isoform_X1_Hippocampus_comes	1.000000	0.972558
+3	505	tr|E9IBW2|E9IBW2_SOLIN_G_PROTEIN_RECEP_F1_2_domain-containing_protein_Fragment_OS_Solenopsis_invicta_OX_13686_GN_SINV_09915_PE_3_SV_1	1.000000	0.973655
+4	883	tr|H3DEE0|H3DEE0_TETNG_Opsin_4xb_OS_Tetraodon_nigroviridis_OX_99883_PE_3_SV_1	1.000000	0.974753

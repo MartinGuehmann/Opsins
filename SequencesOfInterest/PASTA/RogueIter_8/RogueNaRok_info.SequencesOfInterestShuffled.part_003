@@ -1,0 +1,58 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.238448] initialisation done (initScore = 0.922984, numBip=2841)
+[0.013386] sorting bipartition profile
+[0.075881] computed / updated events
+[0.020489] combined events
+[0.004028] calculated per dropset improvement
+[0.003405] executed the merging events 
+>758	RDD39603.1_rhodopsin_partial_Trichoplax_sp._H2	1.880000	0.924980
+[0.003685] sorting bipartition profile
+[0.001304] computed / updated events
+[0.020902] combined events
+[0.003605] calculated per dropset improvement
+[0.003503] executed the merging events 
+>775	XP_002121313.1_beta-4C_adrenergic_receptor-like_Ciona_intestinalis	1.066000	0.926111
+[0.003815] sorting bipartition profile
+[0.001398] computed / updated events
+[0.020751] combined events
+[0.003673] calculated per dropset improvement
+[0.003360] executed the merging events 
+>158	Pseudopotamilla_reniformisII_TRINITY_DN54556_c0_g1_i1|ORF1	0.740000	0.926897
+[0.003554] sorting bipartition profile
+[0.000890] computed / updated events
+[0.020310] combined events
+[0.003360] calculated per dropset improvement
+[0.003347] executed the merging events 
+>37	AXF38096.1_OPN7b_Paralichthys_olivaceus	0.647000	0.927584
+[0.003786] sorting bipartition profile
+[0.001344] computed / updated events
+[0.019864] combined events
+[0.003361] calculated per dropset improvement
+[0.003309] executed the merging events 
+>273	AEE80680.1_long-wavelength_rhodopsin_partial_Fideliopsis_ornata	0.597000	0.928218
+[0.003481] sorting bipartition profile
+[0.001581] computed / updated events
+[0.020567] combined events
+[0.003587] calculated per dropset improvement
+[0.006252] executed the merging events 
+>609	ADP06865.1_rhodopsin-like_photopigment_Danio_roseus	0.207000	0.928437
+[0.005016] sorting bipartition profile
+[0.001763] computed / updated events
+[0.025139] combined events
+[0.004178] calculated per dropset improvement
+[0.004716] executed the merging events 
+>269	AAZ95194.1_long-wavelength_rhodopsin_partial_Tachysphex_yolo	0.197000	0.928646
+[0.004226] sorting bipartition profile
+[0.001940] computed / updated events
+[0.022569] combined events
+[0.003807] calculated per dropset improvement
+[0.003874] executed the merging events 
+>212	tr|A0A182LZL7|A0A182LZL7_9DIPT_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Anopheles_culicifacies_OX_139723_PE_4_SV_1	0.134000	0.928789
+[0.003798] sorting bipartition profile
+[0.001143] computed / updated events
+[0.021722] combined events
+[0.003874] calculated per dropset improvement
+total time elapsed: 1.628823

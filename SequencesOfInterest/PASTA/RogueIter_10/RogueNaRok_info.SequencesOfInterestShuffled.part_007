@@ -1,0 +1,70 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.199776] initialisation done (initScore = 0.907413, numBip=2672)
+[0.013485] sorting bipartition profile
+[0.076224] computed / updated events
+[0.019432] combined events
+[0.003913] calculated per dropset improvement
+[0.003154] executed the merging events 
+>805	GAV07468.1_hypothetical_protein_RvY_17298-1_Ramazzottius_varieornatus	0.663000	0.908142
+[0.003949] sorting bipartition profile
+[0.000934] computed / updated events
+[0.019777] combined events
+[0.003487] calculated per dropset improvement
+[0.003359] executed the merging events 
+>390	TFK00067.1_dynein_heavy_chain_9_axonemal_Platysternon_megacephalum	0.587000	0.908787
+[0.004402] sorting bipartition profile
+[0.001241] computed / updated events
+[0.020133] combined events
+[0.003738] calculated per dropset improvement
+[0.003875] executed the merging events 
+>43	XP_018425659.1_PREDICTED_parapinopsin-like_partial_Nanorana_parkeri	0.503000	0.909340
+[0.004408] sorting bipartition profile
+[0.000856] computed / updated events
+[0.019669] combined events
+[0.003431] calculated per dropset improvement
+[0.003956] executed the merging events 
+>178	AJD38755.1_short-wavelength_sensitive_opsin_2B_Helostoma_temminkii	0.408000	0.909788
+[0.003899] sorting bipartition profile
+[0.001619] computed / updated events
+[0.019785] combined events
+[0.003612] calculated per dropset improvement
+[0.003763] executed the merging events 
+>853	tr|A0A3Q2ZTB7|A0A3Q2ZTB7_KRYMA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Kryptolebias_marmoratus_OX_37003_PE_3_SV_1	0.398000	0.910225
+[0.004143] sorting bipartition profile
+[0.001960] computed / updated events
+[0.019814] combined events
+[0.003225] calculated per dropset improvement
+[0.003258] executed the merging events 
+>611	XP_012562195.1_PREDICTED_beta-2_adrenergic_receptor-like_Hydra_vulgaris	0.127000	0.910365
+[0.003778] sorting bipartition profile
+[0.001638] computed / updated events
+[0.018358] combined events
+[0.003229] calculated per dropset improvement
+[0.003500] executed the merging events 
+>617,616	RDD46860.1_Alpha-1A_adrenergic_receptor_Trichoplax_sp._H2,RDD39214.1_Opsin_ultraviolet-sensitive_Trichoplax_sp._H2	0.311000	0.910707
+[0.005161] sorting bipartition profile
+[0.001470] computed / updated events
+[0.018599] combined events
+[0.003461] calculated per dropset improvement
+[0.003680] executed the merging events 
+>664	BAQ54855.1_opsin_long-wavelength_sensitive_type_Anax_parthenope	0.011000	0.910719
+[0.004189] sorting bipartition profile
+[0.001679] computed / updated events
+[0.018281] combined events
+[0.003322] calculated per dropset improvement
+[0.003505] executed the merging events 
+>394	OPJ75725.1_visual_pigment-like_receptor_peropsin_Patagioenas_fasciata_monilis	0.009000	0.910729
+[0.003752] sorting bipartition profile
+[0.001079] computed / updated events
+[0.018282] combined events
+[0.003372] calculated per dropset improvement
+[0.003303] executed the merging events 
+>855	tr|A0A673BRN3|A0A673BRN3_9TELE_Uncharacterized_protein_OS_Sphaeramia_orbicularis_OX_375764_PE_4_SV_1	0.008000	0.910737
+[0.003729] sorting bipartition profile
+[0.001221] computed / updated events
+[0.018166] combined events
+[0.003184] calculated per dropset improvement
+total time elapsed: 1.628868

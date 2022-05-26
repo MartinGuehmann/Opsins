@@ -1,0 +1,15 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.910687
+1	66	XP_020910324.1_melatonin_receptor_type_1B-B-like_Exaiptasia_diaphana	1.505000	0.912311
+2	431	AXN75738.1_opsin_partial_Exaiptasia_diaphana	0.847000	0.913224
+3	922	tr|F6R2C0|F6R2C0_MONDO_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Monodelphis_domestica_OX_13616_PE_3_SV_2	0.569000	0.913838
+4	0	NP_001027636.1_G-protein_coupled_receptor_like_protein_Ciona_intestinalis	0.311000	0.914174
+5	454	XP_031159553.1_LOW_QUALITY_PROTEIN_melanopsin-A-like_Sander_lucioperca	0.239000	0.914431
+6	500	XP_024918546.1_melanopsin-B-like_Cynoglossus_semilaevis	0.209000	0.914657
+7	720,706	RNA18117.1_hypothetical_protein_BpHYR1_022494_Brachionus_plicatilis,XP_013083242.1_PREDICTED_melanopsin-like_partial_Biomphalaria_glabrata	0.343000	0.915027
+8	755	XP_034555731.1_opsin-5-like_Notolabrus_celidotus	0.143000	0.915181
+9	413	CAB3360284.1_Hypothetical_predicted_protein_Cloeon_dipterum	0.091000	0.915279
+10	67	TMS23148.1_Carboxypeptidase_Z_Larimichthys_crocea	0.068000	0.915353
+11	5	XP_030289598.1_trafficking_protein_particle_complex_subunit_8_Sparus_aurata	0.055000	0.915412
+12	534	AIJ19301.1_long-wavelength_rhodopsin_partial_Centris_agameta	0.036000	0.915451
+13	535	AAZ32417.1_long-wavelength_rhodopsin_partial_Megandrena_enceliae	0.022000	0.915475

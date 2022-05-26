@@ -1,0 +1,6 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.971491
+1	287	DAniello2015_ops6_Patiria_miniata	2.000000	0.973684
+2	884	XP_017770834.1_PREDICTED_neuropeptide_Y_receptor-like_Nicrophorus_vespilloides	2.000000	0.975877
+3	237	Branchiomma_TRINITY_DN49110_c0_g1_i1|ORF1	1.000000	0.976974
+4	311	CAG13313.1_unnamed_protein_product_Tetraodon_nigroviridis	1.000000	0.978070

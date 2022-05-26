@@ -1,0 +1,6 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.962264
+1	190	Euchone_cf_gloenoi_TRINITY_DN26189_c0_g1_i1|ORF2	3.000000	0.965409
+2	173	CAF94914.1_unnamed_protein_product_Tetraodon_nigroviridis	3.000000	0.968553
+3	87	XP_004550479.1_opsin-5_Maylandia_zebra	1.000000	0.969602
+4	373	tr|H2LLM3|H2LLM3_ORYLA_Opsin_4xb_OS_Oryzias_latipes_OX_8090_GN_LOC101173945_PE_3_SV_2	1.000000	0.970650

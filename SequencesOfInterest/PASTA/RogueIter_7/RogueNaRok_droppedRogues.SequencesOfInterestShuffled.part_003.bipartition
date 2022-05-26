@@ -1,0 +1,8 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.967641
+1	888	XP_011501190.1_PREDICTED_orexin_receptor_type_2-like_Ceratosolen_solmsi_marchali	4.000000	0.971816
+2	434	KAF3844406.1_hypothetical_protein_F7725_007569_Dissostichus_mawsoni	2.000000	0.973904
+3	34	XP_006639390.1_PREDICTED_5-hydroxytryptamine_receptor_2A_isoform_X1_Lepisosteus_oculatus	1.000000	0.974948
+4	496	XP_019951494.1_PREDICTED_opsin-5-like_Paralichthys_olivaceus	1.000000	0.975992
+5	65,64	KAF4012416.1_hypothetical_protein_G4228_004180_Cervus_hanglu_yarkandensis,AAA19001.1_adenosine_receptor_subtype_Mus_musculus	2.000000	0.978079
+6	387	RUS72711.1_hypothetical_protein_EGW08_019532_Elysia_chlorotica	1.000000	0.979123

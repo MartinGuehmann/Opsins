@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.974753
+1	377	AQP31383.1_rhodopsin_partial_Parabrotula_tanseimaru	1.000000	0.975851
+2	372	sp|O42604.1|OPSD_ZEUFA_RecName_Full_Rhodopsin	1.000000	0.976948
+3	869	XP_002113728.1_hypothetical_protein_TRIADDRAFT_57447_Trichoplax_adhaerens	1.000000	0.978046

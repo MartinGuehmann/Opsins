@@ -1,0 +1,100 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.238743] initialisation done (initScore = 0.904409, numBip=3125)
+[0.013264] sorting bipartition profile
+[0.097557] computed / updated events
+[0.023977] combined events
+[0.004772] calculated per dropset improvement
+[0.003944] executed the merging events 
+>181	JAT82037.1_hypothetical_protein_g.19690_partial_Pectinophora_gossypiella	2.155000	0.906619
+[0.004415] sorting bipartition profile
+[0.002849] computed / updated events
+[0.026087] combined events
+[0.003838] calculated per dropset improvement
+[0.004114] executed the merging events 
+>62	XP_023655348.1_adenosine_receptor_A1-like_Paramormyrops_kingsleyae	1.357000	0.908011
+[0.007717] sorting bipartition profile
+[0.002061] computed / updated events
+[0.023753] combined events
+[0.003869] calculated per dropset improvement
+[0.008157] executed the merging events 
+>359	AJE31447.1_long-wavelength_rhodopsin_partial_Polyrhachis_proxima	1.189000	0.909231
+[0.009496] sorting bipartition profile
+[0.002572] computed / updated events
+[0.028153] combined events
+[0.004704] calculated per dropset improvement
+[0.004900] executed the merging events 
+>69	XP_029193398.1_G-protein_coupled_receptor_15-like_Acropora_millepora	0.967000	0.910223
+[0.005731] sorting bipartition profile
+[0.002466] computed / updated events
+[0.025042] combined events
+[0.004226] calculated per dropset improvement
+[0.005403] executed the merging events 
+>166	XP_020910728.1_neuropeptide_Y_receptor_type_6_Exaiptasia_diaphana	0.576000	0.910813
+[0.004732] sorting bipartition profile
+[0.003775] computed / updated events
+[0.024378] combined events
+[0.004051] calculated per dropset improvement
+[0.004751] executed the merging events 
+>68	XP_020609096.1_neuromedin-U_receptor_2-like_Orbicella_faveolata	0.260000	0.911080
+[0.004201] sorting bipartition profile
+[0.001809] computed / updated events
+[0.024489] combined events
+[0.004071] calculated per dropset improvement
+[0.004862] executed the merging events 
+>415	JAL40088.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna	0.088000	0.911170
+[0.009426] sorting bipartition profile
+[0.003412] computed / updated events
+[0.025081] combined events
+[0.004294] calculated per dropset improvement
+[0.004813] executed the merging events 
+>94	XP_002114760.1_hypothetical_protein_TRIADDRAFT_58576_Trichoplax_adhaerens	0.034000	0.911205
+[0.006888] sorting bipartition profile
+[0.001343] computed / updated events
+[0.023102] combined events
+[0.003956] calculated per dropset improvement
+[0.004897] executed the merging events 
+>427	KAF0306802.1_Compound_eye_opsin_BCRH2_Amphibalanus_amphitrite	0.022000	0.911228
+[0.006209] sorting bipartition profile
+[0.001235] computed / updated events
+[0.023148] combined events
+[0.004867] calculated per dropset improvement
+[0.004723] executed the merging events 
+>711	XP_034998782.1_sickle_tail_protein_homolog_isoform_X16_Hippoglossus_stenolepis	0.018000	0.911246
+[0.006317] sorting bipartition profile
+[0.001048] computed / updated events
+[0.024813] combined events
+[0.005334] calculated per dropset improvement
+[0.004457] executed the merging events 
+>65	RDD44200.1_Beta-2_adrenergic_receptor_Trichoplax_sp._H2	0.007000	0.911253
+[0.006847] sorting bipartition profile
+[0.001759] computed / updated events
+[0.023013] combined events
+[0.003985] calculated per dropset improvement
+[0.004632] executed the merging events 
+>588	tr|A0A3P9KM47|A0A3P9KM47_ORYLA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Oryzias_latipes_OX_8090_PE_3_SV_1	0.004000	0.911257
+[0.012287] sorting bipartition profile
+[0.001942] computed / updated events
+[0.023711] combined events
+[0.004173] calculated per dropset improvement
+[0.004536] executed the merging events 
+>140	GCB71189.1_hypothetical_protein_scyTo_0010946_Scyliorhinus_torazame	0.003000	0.911261
+[0.004796] sorting bipartition profile
+[0.001101] computed / updated events
+[0.022316] combined events
+[0.004039] calculated per dropset improvement
+[0.004495] executed the merging events 
+>139	KAB0390125.1_hypothetical_protein_E2I00_012973_Balaenoptera_physalus	0.002000	0.911263
+[0.004372] sorting bipartition profile
+[0.004319] computed / updated events
+[0.023318] combined events
+[0.003991] calculated per dropset improvement
+[0.004339] executed the merging events 
+>372	CAB3366682.1_Hypothetical_predicted_protein_Cloeon_dipterum	0.001000	0.911264
+[0.004867] sorting bipartition profile
+[0.001221] computed / updated events
+[0.021834] combined events
+[0.003839] calculated per dropset improvement
+total time elapsed: 2.008867

@@ -1,0 +1,64 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.255832] initialisation done (initScore = 0.931703, numBip=2854)
+[0.013329] sorting bipartition profile
+[0.058164] computed / updated events
+[0.015758] combined events
+[0.003279] calculated per dropset improvement
+[0.002721] executed the merging events 
+>723	DAC74050.1_TPA_exp_neuropsin_Branchiostoma_floridae	1.864000	0.933648
+[0.004040] sorting bipartition profile
+[0.000920] computed / updated events
+[0.015967] combined events
+[0.003045] calculated per dropset improvement
+[0.002717] executed the merging events 
+>216	XP_016106129.1_PREDICTED_rhodopsin-like_Sinocyclocheilus_grahami	0.831000	0.934516
+[0.004128] sorting bipartition profile
+[0.001301] computed / updated events
+[0.015264] combined events
+[0.002885] calculated per dropset improvement
+[0.002764] executed the merging events 
+>485	XP_012278726.1_rhodopsin_Orussus_abietinus	0.803000	0.935354
+[0.004037] sorting bipartition profile
+[0.001374] computed / updated events
+[0.015373] combined events
+[0.002954] calculated per dropset improvement
+[0.002728] executed the merging events 
+>868	XP_010790953.1_PREDICTED_relaxin-3_receptor_1-like_Notothenia_coriiceps	0.342000	0.935711
+[0.003878] sorting bipartition profile
+[0.001097] computed / updated events
+[0.015152] combined events
+[0.003195] calculated per dropset improvement
+[0.002987] executed the merging events 
+>282	AXS77679.1_short_wavelength_sensitive_type_1_opsin_partial_Trogon_melanurus	0.336000	0.936062
+[0.004084] sorting bipartition profile
+[0.001132] computed / updated events
+[0.015160] combined events
+[0.003145] calculated per dropset improvement
+[0.002966] executed the merging events 
+>713	AWP19626.1_putative_CD2-associated_protein_Scophthalmus_maximus	0.250000	0.936323
+[0.004105] sorting bipartition profile
+[0.001547] computed / updated events
+[0.015076] combined events
+[0.002992] calculated per dropset improvement
+[0.002936] executed the merging events 
+>256	AJD38899.1_short-wavelength_sensitive_opsin_2A_beta_Ostorhinchus_cyanosoma	0.064000	0.936389
+[0.004136] sorting bipartition profile
+[0.001413] computed / updated events
+[0.015057] combined events
+[0.003021] calculated per dropset improvement
+[0.002920] executed the merging events 
+>827	XP_020604810.1_5-hydroxytryptamine_receptor_1F-like_Orbicella_faveolata	0.028000	0.936419
+[0.003946] sorting bipartition profile
+[0.001474] computed / updated events
+[0.014769] combined events
+[0.002995] calculated per dropset improvement
+[0.002736] executed the merging events 
+>330	DAniello2015_ops4_Holothuria_glaberrima	0.017000	0.936436
+[0.003909] sorting bipartition profile
+[0.001315] computed / updated events
+[0.014677] combined events
+[0.002849] calculated per dropset improvement
+total time elapsed: 1.583940

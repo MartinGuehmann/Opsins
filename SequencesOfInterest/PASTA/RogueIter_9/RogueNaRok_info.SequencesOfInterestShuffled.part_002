@@ -1,0 +1,76 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.174623] initialisation done (initScore = 0.925728, numBip=2627)
+[0.012832] sorting bipartition profile
+[0.070440] computed / updated events
+[0.014961] combined events
+[0.004102] calculated per dropset improvement
+[0.002910] executed the merging events 
+>235	tr|A0A4W5JMC7|A0A4W5JMC7_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Hucho_hucho_OX_62062_PE_3_SV_1	1.689000	0.927550
+[0.013432] sorting bipartition profile
+[0.001120] computed / updated events
+[0.018112] combined events
+[0.002996] calculated per dropset improvement
+[0.002963] executed the merging events 
+>464	XP_032235762.1_orexin_receptor_type_2_Nematostella_vectensis	1.673000	0.929355
+[0.004418] sorting bipartition profile
+[0.001458] computed / updated events
+[0.017252] combined events
+[0.002912] calculated per dropset improvement
+[0.002862] executed the merging events 
+>596	ACB70919.1_long_wavelength_rhodopsin_partial_Gynecaptera_namibiana	0.804000	0.930222
+[0.005396] sorting bipartition profile
+[0.003997] computed / updated events
+[0.016047] combined events
+[0.002872] calculated per dropset improvement
+[0.003203] executed the merging events 
+>285	tr|A0A3Q2PX65|A0A3Q2PX65_FUNHE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Fundulus_heteroclitus_OX_8078_PE_3_SV_1	0.382000	0.930634
+[0.004469] sorting bipartition profile
+[0.001332] computed / updated events
+[0.020154] combined events
+[0.002947] calculated per dropset improvement
+[0.002704] executed the merging events 
+>89	QGW08880.1_teleost_multiple_tissue_opsin_1_partial_Glaucostegus_typus	0.346000	0.931008
+[0.007258] sorting bipartition profile
+[0.000748] computed / updated events
+[0.017971] combined events
+[0.002817] calculated per dropset improvement
+[0.002830] executed the merging events 
+>889	OWK52826.1_Opsin-5_Lonchura_striata_domestica	0.278000	0.931307
+[0.004919] sorting bipartition profile
+[0.001383] computed / updated events
+[0.015745] combined events
+[0.002818] calculated per dropset improvement
+[0.002848] executed the merging events 
+>617	LAA16339.1_ocellar_opsin_partial_Parasteatoda_tepidariorum	0.252000	0.931579
+[0.003936] sorting bipartition profile
+[0.001409] computed / updated events
+[0.015108] combined events
+[0.002974] calculated per dropset improvement
+[0.004186] executed the merging events 
+>920	XP_027605706.1_LOW_QUALITY_PROTEIN_opsin-5-like_Pipra_filicauda	0.245000	0.931844
+[0.006669] sorting bipartition profile
+[0.000925] computed / updated events
+[0.015273] combined events
+[0.002788] calculated per dropset improvement
+[0.004853] executed the merging events 
+>76	CAB1325778.1_unnamed_protein_product_Coregonus_sp._balchen	0.110000	0.931962
+[0.008114] sorting bipartition profile
+[0.000936] computed / updated events
+[0.015221] combined events
+[0.002845] calculated per dropset improvement
+[0.002804] executed the merging events 
+>277	QGW08871.1_vertebrate_ancient_long_opsin_partial_Glaucostegus_typus	0.107000	0.932078
+[0.004442] sorting bipartition profile
+[0.000899] computed / updated events
+[0.014858] combined events
+[0.002763] calculated per dropset improvement
+[0.002895] executed the merging events 
+>597	CAD33865.1_long-wavelength_opsin_partial_Eulachnus_rileyi	0.038000	0.932119
+[0.010006] sorting bipartition profile
+[0.001184] computed / updated events
+[0.015310] combined events
+[0.002800] calculated per dropset improvement
+total time elapsed: 1.613932

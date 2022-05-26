@@ -1,0 +1,82 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.240764] initialisation done (initScore = 0.905624, numBip=2944)
+[0.013277] sorting bipartition profile
+[0.058314] computed / updated events
+[0.017878] combined events
+[0.003490] calculated per dropset improvement
+[0.003017] executed the merging events 
+>325	tr|A0A182MPG0|A0A182MPG0_9DIPT_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Anopheles_culicifacies_OX_139723_PE_4_SV_1	1.365000	0.907049
+[0.004312] sorting bipartition profile
+[0.000963] computed / updated events
+[0.017410] combined events
+[0.003069] calculated per dropset improvement
+[0.002853] executed the merging events 
+>172	XP_027144623.1_opsin-5_isoform_X1_Larimichthys_crocea	0.600000	0.907675
+[0.004108] sorting bipartition profile
+[0.000897] computed / updated events
+[0.017297] combined events
+[0.002990] calculated per dropset improvement
+[0.002852] executed the merging events 
+>408	XP_008480351.1_tyramine_octopamine_receptor-like_partial_Diaphorina_citri	0.502000	0.908199
+[0.003807] sorting bipartition profile
+[0.000686] computed / updated events
+[0.017112] combined events
+[0.003080] calculated per dropset improvement
+[0.002847] executed the merging events 
+>755	XP_034170421.1_teleost_multiple_tissue_opsin_a_isoform_X2_Pangasianodon_hypophthalmus	0.300000	0.908513
+[0.003885] sorting bipartition profile
+[0.000877] computed / updated events
+[0.016931] combined events
+[0.003047] calculated per dropset improvement
+[0.002856] executed the merging events 
+>959,958	DAniello2015_ops1.2_Patiria_miniata,GAU95738.1_hypothetical_protein_RvY_07308-1_Ramazzottius_varieornatus	0.554000	0.909091
+[0.005160] sorting bipartition profile
+[0.001071] computed / updated events
+[0.016447] combined events
+[0.003246] calculated per dropset improvement
+[0.003328] executed the merging events 
+>5,4	DAniello2015_ops1.3_Patiria_miniata,DAniello2015_ops1_Holothuria_forskali	0.569000	0.909685
+[0.005287] sorting bipartition profile
+[0.001051] computed / updated events
+[0.016319] combined events
+[0.003133] calculated per dropset improvement
+[0.002931] executed the merging events 
+>277	XP_020798083.1_RYamide_receptor_Drosophila_serrata	0.260000	0.909956
+[0.003949] sorting bipartition profile
+[0.001067] computed / updated events
+[0.016186] combined events
+[0.003270] calculated per dropset improvement
+[0.003241] executed the merging events 
+>136	AIZ50551.1_opsin_5_Amphiura_filiformis	0.181000	0.910145
+[0.004301] sorting bipartition profile
+[0.000879] computed / updated events
+[0.016025] combined events
+[0.003120] calculated per dropset improvement
+[0.002862] executed the merging events 
+>431	Perkinsiana_anodina_TRINITY_DN37214_c0_g1_i1|ORF2	0.120000	0.910270
+[0.003916] sorting bipartition profile
+[0.000884] computed / updated events
+[0.016502] combined events
+[0.003377] calculated per dropset improvement
+[0.003215] executed the merging events 
+>487	CRK97770.1_CLUMA_CG011149_isoform_A_Clunio_marinus	0.057000	0.910330
+[0.004103] sorting bipartition profile
+[0.001344] computed / updated events
+[0.016802] combined events
+[0.003438] calculated per dropset improvement
+[0.003242] executed the merging events 
+>920	XP_011943382.1_PREDICTED_short-wave-sensitive_opsin_1_isoform_X1_Cercocebus_atys	0.014000	0.910344
+[0.004537] sorting bipartition profile
+[0.001293] computed / updated events
+[0.016921] combined events
+[0.003466] calculated per dropset improvement
+[0.003292] executed the merging events 
+>371	XP_021464850.1_adenosine_receptor_A1-like_Oncorhynchus_mykiss	0.005000	0.910350
+[0.004291] sorting bipartition profile
+[0.000741] computed / updated events
+[0.016542] combined events
+[0.003583] calculated per dropset improvement
+total time elapsed: 1.673859

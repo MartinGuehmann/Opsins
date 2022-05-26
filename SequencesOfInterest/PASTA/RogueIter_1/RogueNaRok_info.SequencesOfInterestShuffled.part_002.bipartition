@@ -1,0 +1,70 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[2.418863] initialisation done (initScore = 0.952138, numBip=3820)
+[0.022544] sorting bipartition profile
+[0.113160] computed / updated events
+[0.053758] combined events
+[0.007383] calculated per dropset improvement
+[0.006742] executed the merging events 
+>445	Bispira_guinensis_SOAP_k55_C544374|ORF3	2.000000	0.954175
+[0.014385] sorting bipartition profile
+[0.002462] computed / updated events
+[0.044913] combined events
+[0.007510] calculated per dropset improvement
+[0.010431] executed the merging events 
+>629	tr|A0A3M6ULF7|A0A3M6ULF7_9CNID_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Pocillopora_damicornis_OX_46731_GN_pdam_00021663_PE_4_SV_1	2.000000	0.956212
+[0.009718] sorting bipartition profile
+[0.004135] computed / updated events
+[0.045740] combined events
+[0.010078] calculated per dropset improvement
+[0.007914] executed the merging events 
+>447	OON16212.1_hypothetical_protein_X801_07977_partial_Opisthorchis_viverrini	1.000000	0.957230
+[0.004237] sorting bipartition profile
+[0.001563] computed / updated events
+[0.042616] combined events
+[0.008002] calculated per dropset improvement
+[0.007138] executed the merging events 
+>340	JAK92950.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna	1.000000	0.958248
+[0.005935] sorting bipartition profile
+[0.002109] computed / updated events
+[0.046575] combined events
+[0.009340] calculated per dropset improvement
+[0.007921] executed the merging events 
+>288	APY20606.1_long_wavelength_sensitive_opsin_1_Gyrinus_marinus	1.000000	0.959267
+[0.005523] sorting bipartition profile
+[0.001859] computed / updated events
+[0.053314] combined events
+[0.008146] calculated per dropset improvement
+[0.007562] executed the merging events 
+>863	AJD38810.1_short-wavelength_sensitive_opsin_2B_Lampris_guttatus	1.000000	0.960285
+[0.006467] sorting bipartition profile
+[0.002449] computed / updated events
+[0.045914] combined events
+[0.006318] calculated per dropset improvement
+[0.006547] executed the merging events 
+>121	Pdu-Neuropsin2_Platynereis_dumerilii	1.000000	0.961303
+[0.009733] sorting bipartition profile
+[0.002303] computed / updated events
+[0.043326] combined events
+[0.006625] calculated per dropset improvement
+[0.005751] executed the merging events 
+>938	BAM72013.1_green_opsin_Engraulis_japonicus	1.000000	0.962322
+[0.005111] sorting bipartition profile
+[0.001286] computed / updated events
+[0.045879] combined events
+[0.007106] calculated per dropset improvement
+[0.005915] executed the merging events 
+>735	tr|A0A4W4EP46|A0A4W4EP46_ELEEL_Uncharacterized_protein_OS_Electrophorus_electricus_OX_8005_PE_4_SV_1	1.000000	0.963340
+[0.011678] sorting bipartition profile
+[0.001925] computed / updated events
+[0.041818] combined events
+[0.006616] calculated per dropset improvement
+[0.006516] executed the merging events 
+>54	ROT69935.1_peropsin_Penaeus_vannamei	1.000000	0.964358
+[0.006540] sorting bipartition profile
+[0.003013] computed / updated events
+[0.041464] combined events
+[0.009118] calculated per dropset improvement
+total time elapsed: 3.322756

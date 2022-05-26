@@ -1,0 +1,7 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.964630
+1	112	RDD44228.1_Substance-K_receptor_Trichoplax_sp._H2	4.000000	0.968917
+2	506	tr|A0A3B3U270|A0A3B3U270_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Poecilia_latipinna_OX_48699_PE_3_SV_1	1.000000	0.969989
+3	156	XP_002114593.1_hypothetical_protein_TRIADDRAFT_951_partial_Trichoplax_adhaerens	1.000000	0.971061
+4	576	XP_007182677.1_LOW_QUALITY_PROTEIN_opsin-3_Balaenoptera_acutorostrata_scammoni	1.000000	0.972133
+5	578	tr|A0A2K6GKY4|A0A2K6GKY4_PROCO_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Propithecus_coquereli_OX_379532_GN_OPN3_PE_4_SV_1	1.000000	0.973205

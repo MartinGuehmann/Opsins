@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.969957
+1	69	XP_028277845.1_pinopsin-like_Parambassis_ranga	1.000000	0.971030
+2	406	AWU78798.1_neuropsin_partial_Branchiostoma_lanceolatum	1.000000	0.972103
+3	283,282	AFK83788.1_opsin_1_Mnemiopsis_leidyi,AFK83789.1_opsin_2_Mnemiopsis_leidyi	1.000000	0.973176

@@ -1,0 +1,11 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.958115
+1	179	tr|A0A1X7TAF4|A0A1X7TAF4_AMPQE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Amphimedon_queenslandica_OX_400682_PE_4_SV_1	2.000000	0.960209
+2	759	AJD38848.1_long-wavelength_sensitive_opsin_partial_Beryx_splendens	1.000000	0.961257
+3	943,603	DAB27258.1_TPA_inf_xenopsinB2_partial_Prostheceraeus_vittatus,tr|A0A1I8IGJ3|A0A1I8IGJ3_9PLAT_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Macrostomum_lignano_OX_282301_PE_3_SV_1	2.000000	0.963351
+4	754	ALK02376.1_LWS-1_partial_Poecilia_reticulata	1.000000	0.964398
+5	323	XP_002731808.1_PREDICTED_tachykinin-like_peptides_receptor_86C-like_Saccoglossus_kowalevskii	1.000000	0.965445
+6	210	XP_027046262.1_alpha-1A_adrenergic_receptor-like_Pocillopora_damicornis	1.000000	0.966492
+7	532	XP_023018922.1_opsin-2-like_Leptinotarsa_decemlineata	1.000000	0.967539
+8	45	Notalux_sp1_SOAP_k35_C1081339|ORF3	1.000000	0.968586
+9	128	tr|W4XZS8|W4XZS8_STRPU_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Strongylocentrotus_purpuratus_OX_7668_PE_4_SV_1	1.000000	0.969634

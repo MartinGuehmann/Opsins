@@ -1,0 +1,17 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.911656
+1	306	XP_013413103.1_rhodopsin_G0-coupled-like_Lingula_anatina	0.831000	0.912509
+2	509	tr|A0A3B3T6P5|A0A3B3T6P5_9TELE_Uncharacterized_protein_OS_Paramormyrops_kingsleyae_OX_1676925_PE_4_SV_1	0.734000	0.913262
+3	177	DAniello2015_ops6.2_Holothuria_glaberrima	0.667000	0.913946
+4	275	JAJ75370.1_Opsin-5_partial_Daphnia_magna	0.546000	0.914506
+5	783	OWA54109.1_hypothetical_protein_BV898_18526_Hypsibius_dujardini	1.287000	0.915826
+6	591,590	XP_014669290.1_PREDICTED_adenosine_receptor_A2a-like_Priapulus_caudatus,tr|G1TZT3|G1TZT3_RABIT_Lysophosphatidic_acid_receptor_3_OS_Oryctolagus_cuniculus_OX_9986_GN_LPAR3_PE_3_SV_3	0.936000	0.916786
+7	880	CDL18609.1_rod_opsin_partial_Anguilla_anguilla_x_Anguilla_rostrata	0.344000	0.917138
+8	790	tr|H3DB18|H3DB18_TETNG_Parapinopsin_b_OS_Tetraodon_nigroviridis_OX_99883_PE_3_SV_1	0.316000	0.917463
+9	224	KAF3850026.1_hypothetical_protein_F7725_019745_Dissostichus_mawsoni	0.174000	0.917641
+10	737	RDD46452.1_Mu-type_opioid_receptor_Trichoplax_sp._H2	0.145000	0.917790
+11	524	POI26757.1_hypothetical_protein_CIB84_009493_Bambusicola_thoracicus	0.132000	0.917925
+12	784	XP_013410035.1_visual_pigment-like_receptor_peropsin_Lingula_anatina	0.107000	0.918035
+13	716	XP_027048887.1_type-1_angiotensin_II_receptor_B-like_Pocillopora_damicornis	0.099000	0.918136
+14	705	RDD37537.1_Tachykinin-like_peptides_receptor_86C_Trichoplax_sp._H2	0.081000	0.918219
+15	166	tr|G3T3L1|G3T3L1_LOXAF_Retinal_pigment_epithelium-derived_rhodopsin_homolog_OS_Loxodonta_africana_OX_9785_GN_RRH_PE_3_SV_1	0.004000	0.918224

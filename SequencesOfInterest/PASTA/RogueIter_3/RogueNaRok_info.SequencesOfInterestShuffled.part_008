@@ -1,0 +1,106 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.166999] initialisation done (initScore = 0.901762, numBip=3247)
+[0.013034] sorting bipartition profile
+[0.055838] computed / updated events
+[0.017313] combined events
+[0.003136] calculated per dropset improvement
+[0.004963] executed the merging events 
+>311	tr|A0A1D1VX88|A0A1D1VX88_RAMVA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Ramazzottius_varieornatus_OX_947166_GN_RvY_16096-1_PE_4_SV_1	1.606000	0.903485
+[0.003697] sorting bipartition profile
+[0.001350] computed / updated events
+[0.017031] combined events
+[0.002777] calculated per dropset improvement
+[0.004316] executed the merging events 
+>376	RDD42800.1_Tachykinin-like_peptides_receptor_86C_Trichoplax_sp._H2	1.409000	0.904997
+[0.004751] sorting bipartition profile
+[0.001520] computed / updated events
+[0.016545] combined events
+[0.002673] calculated per dropset improvement
+[0.004003] executed the merging events 
+>719	tr|A0A182UL45|A0A182UL45_9DIPT_Uncharacterized_protein_OS_Anopheles_melas_OX_34690_PE_4_SV_1	1.157000	0.906238
+[0.003597] sorting bipartition profile
+[0.001005] computed / updated events
+[0.016543] combined events
+[0.002770] calculated per dropset improvement
+[0.004057] executed the merging events 
+>489	XP_033103259.1_kappa-type_opioid_receptor-like_Anneissia_japonica	1.097000	0.907415
+[0.003919] sorting bipartition profile
+[0.001628] computed / updated events
+[0.016187] combined events
+[0.002738] calculated per dropset improvement
+[0.004570] executed the merging events 
+>135	ADN93910.1_long-wavelength_rhodopsin_partial_Xylocopa_muscaria	0.985000	0.908472
+[0.003220] sorting bipartition profile
+[0.001422] computed / updated events
+[0.015957] combined events
+[0.002802] calculated per dropset improvement
+[0.005173] executed the merging events 
+>60,52	TRY72079.1_hypothetical_protein_TCAL_17105_Tigriopus_californicus,GAU94431.1_hypothetical_protein_RvY_06206_Ramazzottius_varieornatus	1.299000	0.909866
+[0.006934] sorting bipartition profile
+[0.001320] computed / updated events
+[0.017046] combined events
+[0.002817] calculated per dropset improvement
+[0.003995] executed the merging events 
+>216	JAL31218.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_partial_Daphnia_magna	0.632000	0.910544
+[0.003517] sorting bipartition profile
+[0.002018] computed / updated events
+[0.015612] combined events
+[0.002810] calculated per dropset improvement
+[0.004065] executed the merging events 
+>151	KYQ47299.1_Rhodopsin_Trachymyrmex_zeteki	0.599000	0.911187
+[0.004837] sorting bipartition profile
+[0.001394] computed / updated events
+[0.015711] combined events
+[0.002722] calculated per dropset improvement
+[0.003932] executed the merging events 
+>799	JAO05463.1_OPSD_partial_Poeciliopsis_prolifica	0.508000	0.911732
+[0.003421] sorting bipartition profile
+[0.001198] computed / updated events
+[0.015661] combined events
+[0.002649] calculated per dropset improvement
+[0.003840] executed the merging events 
+>297	XP_026689509.1_opsin_Rh1-like_Ciona_intestinalis	0.433000	0.912196
+[0.005769] sorting bipartition profile
+[0.002208] computed / updated events
+[0.015524] combined events
+[0.002664] calculated per dropset improvement
+[0.003879] executed the merging events 
+>17	Branchiomma_TRINITY_DN87585_c0_g1_i1|ORF1	0.357000	0.912579
+[0.004614] sorting bipartition profile
+[0.001348] computed / updated events
+[0.015424] combined events
+[0.002584] calculated per dropset improvement
+[0.003689] executed the merging events 
+>393	Stylomma_palmatum_TRINITY_DN15754_c0_g1_i1|ORF2	0.252000	0.912850
+[0.003997] sorting bipartition profile
+[0.001063] computed / updated events
+[0.014880] combined events
+[0.002712] calculated per dropset improvement
+[0.003697] executed the merging events 
+>837	GCF62121.1_hypothetical_protein_parPi_0028014_partial_Paroedura_picta	0.066000	0.912921
+[0.005188] sorting bipartition profile
+[0.001085] computed / updated events
+[0.015300] combined events
+[0.002661] calculated per dropset improvement
+[0.003835] executed the merging events 
+>46	XP_002586119.1_hypothetical_protein_BRAFLDRAFT_110002_Branchiostoma_floridae	0.055000	0.912980
+[0.004308] sorting bipartition profile
+[0.000739] computed / updated events
+[0.016477] combined events
+[0.003328] calculated per dropset improvement
+[0.004551] executed the merging events 
+>405	RDD36768.1_Pinopsin_Trichoplax_sp._H2	0.053000	0.913036
+[0.005340] sorting bipartition profile
+[0.001076] computed / updated events
+[0.015813] combined events
+[0.003068] calculated per dropset improvement
+[0.004439] executed the merging events 
+>53	RNA24474.1_arthropsin_type_Brachionus_plicatilis	0.028000	0.913067
+[0.004598] sorting bipartition profile
+[0.000738] computed / updated events
+[0.014226] combined events
+[0.002651] calculated per dropset improvement
+total time elapsed: 1.715166

@@ -1,0 +1,11 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.908934
+1	571	ANN75179.1_long_wavelength_rhodopsin_partial_Stigmatomma_zwaluwenburgi	2.203000	0.911352
+2	763	Paradialychone_ambigua_TRINITY_DN7651_c0_g1_i2|ORF2	1.679000	0.913195
+3	896	DAniello2015_ops3.1.A_Lytechinus_variegatus	0.839000	0.914116
+4	351	KPP64178.1_leukotriene_B4_receptor_1-like_Scleropages_formosus	0.314000	0.914461
+5	451,361	XP_027225295.1_beta-3_adrenergic_receptor-like_Penaeus_vannamei,RDD37726.1_Melatonin_receptor_type_1A_Trichoplax_sp._H2	0.318000	0.914810
+6	347	TRZ21238.1_hypothetical_protein_HGM15179_005868_Zosterops_borbonicus	0.121000	0.914943
+7	82	TDH06271.1_hypothetical_protein_EPR50_G00129310_Perca_flavescens	0.048000	0.914996
+8	745	XP_029466510.1_RPE-retinal_G_protein-coupled_receptor_isoform_X2_Rhinatrema_bivittatum	0.014000	0.915011
+9	73	XP_035288766.1_pinopsin-like_Anguilla_anguilla	0.010000	0.915022

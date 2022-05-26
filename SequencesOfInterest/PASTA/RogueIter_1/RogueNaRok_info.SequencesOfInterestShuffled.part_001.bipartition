@@ -1,0 +1,58 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[2.068619] initialisation done (initScore = 0.954222, numBip=3830)
+[0.025312] sorting bipartition profile
+[0.157666] computed / updated events
+[0.072962] combined events
+[0.009289] calculated per dropset improvement
+[0.008976] executed the merging events 
+>914	AAT47997.1_rhodopsin_partial_Sepioloidea_lineolata	4.000000	0.958291
+[0.004684] sorting bipartition profile
+[0.007063] computed / updated events
+[0.069939] combined events
+[0.012887] calculated per dropset improvement
+[0.010576] executed the merging events 
+>484	tr|A0A1I8HV67|A0A1I8HV67_9PLAT_Uncharacterized_protein_OS_Macrostomum_lignano_OX_282301_PE_4_SV_1	3.000000	0.961343
+[0.009480] sorting bipartition profile
+[0.002950] computed / updated events
+[0.067276] combined events
+[0.008932] calculated per dropset improvement
+[0.011145] executed the merging events 
+>159	XP_020906451.1_putative_neuropeptide_Y_receptor_type_6_Exaiptasia_diaphana	1.000000	0.962360
+[0.009255] sorting bipartition profile
+[0.003594] computed / updated events
+[0.065635] combined events
+[0.011777] calculated per dropset improvement
+[0.009121] executed the merging events 
+>152	XP_028809020.1_G-protein_coupled_receptor_176_Denticeps_clupeoides	1.000000	0.963377
+[0.012496] sorting bipartition profile
+[0.002919] computed / updated events
+[0.064411] combined events
+[0.010225] calculated per dropset improvement
+[0.013834] executed the merging events 
+>146	tr|A0A671QV14|A0A671QV14_9TELE_Pyroglutamylated_RFamide_peptide_receptor_4_OS_Sinocyclocheilus_anshuiensis_OX_1608454_PE_4_SV_1	1.000000	0.964395
+[0.007707] sorting bipartition profile
+[0.006733] computed / updated events
+[0.063885] combined events
+[0.007372] calculated per dropset improvement
+[0.008217] executed the merging events 
+>476	MOS07693.1_serine_arginine_repetitive_matrix_protein_2_Strongylocentrotus_purpuratus	1.000000	0.965412
+[0.006779] sorting bipartition profile
+[0.004065] computed / updated events
+[0.057352] combined events
+[0.008334] calculated per dropset improvement
+[0.010033] executed the merging events 
+>920	ETN63374.1_hypothetical_protein_AND_004908_Anopheles_darlingi	1.000000	0.966429
+[0.011664] sorting bipartition profile
+[0.006377] computed / updated events
+[0.057029] combined events
+[0.006830] calculated per dropset improvement
+[0.007868] executed the merging events 
+>175,71	XP_013385401.1_orexin_receptor_type_2-like_Lingula_anatina,ELU13478.1_hypothetical_protein_CAPTEDRAFT_216204_Capitella_teleta	1.000000	0.967447
+[0.010244] sorting bipartition profile
+[0.003228] computed / updated events
+[0.047471] combined events
+[0.010984] calculated per dropset improvement
+total time elapsed: 3.094727

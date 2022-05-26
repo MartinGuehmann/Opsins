@@ -1,0 +1,15 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.926114
+1	714	tr|A0A673AST8|A0A673AST8_9TELE_Opsin_4b_OS_Sphaeramia_orbicularis_OX_375764_PE_4_SV_1	0.605000	0.926767
+2	563	JAN36674.1_hypothetical_protein_Daphnia_magna	0.603000	0.927417
+3	484	KTF92571.1_hypothetical_protein_cypCar_00010916_partial_Cyprinus_carpio	0.476000	0.927931
+4	637	XP_034249735.1_opsin_ultraviolet-sensitive_isoform_X2_Thrips_palmi	0.432000	0.928397
+5	24	DAC74065.1_TPA_exp_C-type_opsin_Branchiostoma_belcheri	0.311000	0.928732
+6	528,526	ANN75167.1_long_wavelength_rhodopsin_partial_Stigmatomma_sp._MM02,ALR74301.1_long_wavelength_rhodopsin_partial_Santschiella_kohli	0.560000	0.929337
+7	861	EPB78577.1_7_transmembrane_receptor_Ancylostoma_ceylanicum	0.254000	0.929611
+8	571	ODM94681.1_Opsin_ultraviolet-sensitive_Orchesella_cincta	0.218000	0.929846
+9	754	AIT99331.1_opsin_partial_Brachionus_koreanus	0.216000	0.930079
+10	865	tr|A0A673C751|A0A673C751_9TELE_Bradykinin_receptor_B2_OS_Sphaeramia_orbicularis_OX_375764_GN_BDKRB2_PE_4_SV_1	0.204000	0.930299
+11	74	XP_033841781.1_pinopsin-like_Periophthalmus_magnuspinnatus	0.149000	0.930460
+12	903	tr|A0A670Y187|A0A670Y187_PSETE_Uncharacterized_protein_OS_Pseudonaja_textilis_OX_8673_GN_LOC113437255_PE_4_SV_1	0.111000	0.930579
+13	121,120	AFM85195.1_rodopsin_partial_Benthosema_glaciale,AFM85197.1_rodopsin_partial_Benthosema_panamense	0.034000	0.930616

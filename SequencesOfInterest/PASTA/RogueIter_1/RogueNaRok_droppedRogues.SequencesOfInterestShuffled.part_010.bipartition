@@ -1,0 +1,12 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.942974
+1	679	Branchiomma_TRINITY_DN56132_c0_g1_i1|ORF2	3.000000	0.946029
+2	939,820	XP_012553542.1_PREDICTED_visual_pigment-like_receptor_peropsin_Hydra_vulgaris,XP_017491876.1_PREDICTED_delta-type_opioid_receptor-like_partial_Rhagoletis_zephyria	4.000000	0.950102
+3	141	TNN32019.1_Opsin-3_Liparis_tanakae	2.000000	0.952138
+4	21	DAC80519.1_TPA_inf_xenopsin_2_partial_Pterosagitta_draco	1.000000	0.953157
+5	445	AIM43139.1_long-wavelength_rhodopsin_partial_Apterogyna_sp._za01	1.000000	0.954175
+6	941,940	DAniello2015_ops8.2_Saccoglossus_kowalevskii,DAniello2015_ops8.5_Saccoglossus_kowalevskii	2.000000	0.956212
+7	478	CRK97769.1_CLUMA_CG011148_isoform_B_Clunio_marinus	1.000000	0.957230
+8	574	XP_034231936.1_opsin_ultraviolet-sensitive-like_Thrips_palmi	1.000000	0.958248
+9	808,793	XP_019643807.1_PREDICTED_cannabinoid_receptor_2-like_Branchiostoma_belcheri,XP_034317583.1_galanin_receptor_type_1-like_Crassostrea_gigas	1.000000	0.959267
+10	101,100	CAB1341039.1_unnamed_protein_product_Coregonus_sp._balchen,TNN47126.1_Pineal_opsin_Liparis_tanakae	1.000000	0.960285

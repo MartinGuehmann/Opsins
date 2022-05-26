@@ -1,0 +1,15 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.908928
+1	333	Branchiomma_SOAP_k35_C686026|ORF1	4.935000	0.914345
+2	630	ABW97639.1_longwave_rhodopsin_partial_Callibracon_limbatus	1.042000	0.915488
+3	824	RDD38565.1_Melanopsin-B_Trichoplax_sp._H2	0.785000	0.916350
+4	876	RDD41443.1_Neuropeptide_FF_receptor_2_Trichoplax_sp._H2	0.598000	0.917007
+5	606	APY20680.1_long_wavelength_sensitive_opsin_5_partial_Xenos_vesparum	0.512000	0.917569
+6	331	AIZ50543.1_opsin_2_partial_Amphiura_filiformis	0.341000	0.917943
+7	306	XP_020903466.2_rhodopsin-like_Exaiptasia_diaphana	0.200000	0.918162
+8	736	VDN16792.1_unnamed_protein_product_Dibothriocephalus_latus	0.118000	0.918292
+9	877	XP_020915684.1_galanin_receptor_type_1_isoform_X1_Exaiptasia_diaphana	0.063000	0.918361
+10	484	JAN78261.1_Opsin-5_Daphnia_magna	0.051000	0.918417
+11	356	XP_007896571.1_PREDICTED_RPE-retinal_G_protein-coupled_receptor_Callorhinchus_milii	0.031000	0.918451
+12	690	tr|T1GUX3|T1GUX3_MEGSC_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Megaselia_scalaris_OX_36166_PE_3_SV_1	0.017000	0.918470
+13	742	XP_033644408.1_rhodopsin_GQ-coupled-like_Asterias_rubens	0.017000	0.918488

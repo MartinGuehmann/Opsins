@@ -1,0 +1,40 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[2.141266] initialisation done (initScore = 0.978010, numBip=3561)
+[0.029128] sorting bipartition profile
+[0.087280] computed / updated events
+[0.031917] combined events
+[0.009562] calculated per dropset improvement
+[0.009192] executed the merging events 
+>228	PRD22354.1_Opsin-5_Trichonephila_clavipes	2.000000	0.980105
+[0.004955] sorting bipartition profile
+[0.001491] computed / updated events
+[0.033121] combined events
+[0.005563] calculated per dropset improvement
+[0.010364] executed the merging events 
+>438	XP_020474274.1_melanopsin-B-like_isoform_X1_Monopterus_albus	2.000000	0.982199
+[0.005439] sorting bipartition profile
+[0.002378] computed / updated events
+[0.034298] combined events
+[0.007270] calculated per dropset improvement
+[0.008485] executed the merging events 
+>840	tr|A0A672NS33|A0A672NS33_SINGR_Uncharacterized_protein_OS_Sinocyclocheilus_grahami_OX_75366_GN_LOC107599241_PE_4_SV_1	1.000000	0.983246
+[0.004782] sorting bipartition profile
+[0.002021] computed / updated events
+[0.033853] combined events
+[0.005267] calculated per dropset improvement
+[0.008494] executed the merging events 
+>162	QFQ66903.1_RRH-like_protein_Hofstenia_miamia	1.000000	0.984293
+[0.006020] sorting bipartition profile
+[0.001617] computed / updated events
+[0.030906] combined events
+[0.005268] calculated per dropset improvement
+[0.010187] executed the merging events 
+>828	BAA96828.1_cone_pigment_Lithobates_catesbeianus	1.000000	0.985340
+[0.005077] sorting bipartition profile
+[0.002135] computed / updated events
+[0.031234] combined events
+[0.005107] calculated per dropset improvement
+total time elapsed: 2.574662

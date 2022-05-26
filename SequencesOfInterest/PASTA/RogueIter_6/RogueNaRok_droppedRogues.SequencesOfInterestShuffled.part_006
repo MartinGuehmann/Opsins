@@ -1,0 +1,11 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.924493
+1	246	KTF80430.1_hypothetical_protein_cypCar_00039742_Cyprinus_carpio	0.700000	0.925211
+2	420,419	KAF0025105.1_hypothetical_protein_F2P81_021986_partial_Scophthalmus_maximus,tr|A0A3P8TFN6|A0A3P8TFN6_AMPPE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Amphiprion_percula_OX_161767_PE_3_SV_1	0.958000	0.926194
+3	323	XP_006561570.2_D2-like_dopamine_receptor_isoform_X4_Apis_mellifera	0.479000	0.926685
+4	716	TWW53052.1_Melanopsin-A_Mammalian-like_melanopsin_Takifugu_flavidus	0.290000	0.926983
+5	468	XP_006817369.1_PREDICTED_neuropeptide_Y_receptor_type_5-like_Saccoglossus_kowalevskii	0.263000	0.927252
+6	894	tr|T1H6W2|T1H6W2_MEGSC_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Megaselia_scalaris_OX_36166_PE_3_SV_1	0.146000	0.927402
+7	332	tr|A0A1S4G4P9|A0A1S4G4P9_AEDAE_GPCR_Octopamine_Tyramine_Family_OS_Aedes_aegypti_OX_7159_PE_3_SV_1	0.035000	0.927438
+8	594	DAniello2015_ops6_Saccoglossus_kowalevskii	0.027000	0.927466
+9	585	Pdu-Peropsin3_Platynereis_dumerilii	0.002000	0.927468

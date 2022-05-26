@@ -1,0 +1,7 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.978010
+1	228	PRD22354.1_Opsin-5_Trichonephila_clavipes	2.000000	0.980105
+2	438	XP_020474274.1_melanopsin-B-like_isoform_X1_Monopterus_albus	2.000000	0.982199
+3	840	tr|A0A672NS33|A0A672NS33_SINGR_Uncharacterized_protein_OS_Sinocyclocheilus_grahami_OX_75366_GN_LOC107599241_PE_4_SV_1	1.000000	0.983246
+4	162	QFQ66903.1_RRH-like_protein_Hofstenia_miamia	1.000000	0.984293
+5	828	BAA96828.1_cone_pigment_Lithobates_catesbeianus	1.000000	0.985340

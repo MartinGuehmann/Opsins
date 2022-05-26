@@ -1,0 +1,6 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.971953
+1	906	XP_004611213.1_PREDICTED_hydroxycarboxylic_acid_receptor_2_Sorex_araneus	2.000000	0.974110
+2	399,398	tr|A0A3Q2XL46|A0A3Q2XL46_HIPCM_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Hippocampus_comes_OX_109280_PE_3_SV_1,XP_029103742.1_red-sensitive_opsin-like_Scleropages_formosus	2.000000	0.976268
+3	191	XP_030371421.1_opsin_Rh6_Scaptodrosophila_lebanonensis	1.000000	0.977346
+4	334	AHM92625.1_rhodopsin_partial_Gaidropsarus_biscayensis	1.000000	0.978425

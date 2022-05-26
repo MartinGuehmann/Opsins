@@ -1,0 +1,11 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.931703
+1	723	DAC74050.1_TPA_exp_neuropsin_Branchiostoma_floridae	1.864000	0.933648
+2	216	XP_016106129.1_PREDICTED_rhodopsin-like_Sinocyclocheilus_grahami	0.831000	0.934516
+3	485	XP_012278726.1_rhodopsin_Orussus_abietinus	0.803000	0.935354
+4	868	XP_010790953.1_PREDICTED_relaxin-3_receptor_1-like_Notothenia_coriiceps	0.342000	0.935711
+5	282	AXS77679.1_short_wavelength_sensitive_type_1_opsin_partial_Trogon_melanurus	0.336000	0.936062
+6	713	AWP19626.1_putative_CD2-associated_protein_Scophthalmus_maximus	0.250000	0.936323
+7	256	AJD38899.1_short-wavelength_sensitive_opsin_2A_beta_Ostorhinchus_cyanosoma	0.064000	0.936389
+8	827	XP_020604810.1_5-hydroxytryptamine_receptor_1F-like_Orbicella_faveolata	0.028000	0.936419
+9	330	DAniello2015_ops4_Holothuria_glaberrima	0.017000	0.936436

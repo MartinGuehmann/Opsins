@@ -1,0 +1,130 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.154429] initialisation done (initScore = 0.892000, numBip=3341)
+[0.013302] sorting bipartition profile
+[0.065413] computed / updated events
+[0.016720] combined events
+[0.003015] calculated per dropset improvement
+[0.004031] executed the merging events 
+>665	RVE47662.1_hypothetical_protein_evm_007651_Chilo_suppressalis	1.696000	0.893818
+[0.003214] sorting bipartition profile
+[0.001592] computed / updated events
+[0.017919] combined events
+[0.002569] calculated per dropset improvement
+[0.004207] executed the merging events 
+>392	AEJ09051.1_rhodopsin_partial_Amblyopsis_rosae	1.670000	0.895608
+[0.005362] sorting bipartition profile
+[0.001395] computed / updated events
+[0.017471] combined events
+[0.002684] calculated per dropset improvement
+[0.004451] executed the merging events 
+>739	ABW75570.1_long-wave_rhodopsin_partial_Macrotera_latior	1.349000	0.897054
+[0.003080] sorting bipartition profile
+[0.002518] computed / updated events
+[0.017003] combined events
+[0.002889] calculated per dropset improvement
+[0.003909] executed the merging events 
+>765	ALI30353.1_long_wavelength_rhodopsin_partial_Ephedrus_nacheri	1.090000	0.898222
+[0.004566] sorting bipartition profile
+[0.001083] computed / updated events
+[0.017430] combined events
+[0.003581] calculated per dropset improvement
+[0.003847] executed the merging events 
+>550	AAS67095.1_rhodopsin_partial_Stauroteuthis_gilchristi	1.034000	0.899330
+[0.003445] sorting bipartition profile
+[0.001297] computed / updated events
+[0.016802] combined events
+[0.002871] calculated per dropset improvement
+[0.003679] executed the merging events 
+>582	XP_020767645.1_LOW_QUALITY_PROTEIN_opsin-3_Odocoileus_virginianus_texanus	0.943000	0.900341
+[0.002874] sorting bipartition profile
+[0.000759] computed / updated events
+[0.017254] combined events
+[0.002622] calculated per dropset improvement
+[0.003663] executed the merging events 
+>30	AXB38866.1_n-opsin1_Capitella_teleta	0.647000	0.901034
+[0.003174] sorting bipartition profile
+[0.001922] computed / updated events
+[0.017412] combined events
+[0.002554] calculated per dropset improvement
+[0.003623] executed the merging events 
+>22	PIK35078.1_putative_opsin-5_Apostichopus_japonicus	0.506000	0.901577
+[0.004837] sorting bipartition profile
+[0.001492] computed / updated events
+[0.018478] combined events
+[0.002702] calculated per dropset improvement
+[0.003737] executed the merging events 
+>780	XP_026285526.1_rhodopsin_Frankliniella_occidentalis	0.504000	0.902117
+[0.003577] sorting bipartition profile
+[0.001425] computed / updated events
+[0.017315] combined events
+[0.002563] calculated per dropset improvement
+[0.003678] executed the merging events 
+>152	XP_021500560.1_RPE-retinal_G_protein-coupled_receptor_isoform_X1_Meriones_unguiculatus	0.485000	0.902637
+[0.002989] sorting bipartition profile
+[0.001969] computed / updated events
+[0.017529] combined events
+[0.002594] calculated per dropset improvement
+[0.003840] executed the merging events 
+>742	AWX49457.1_long_wavelength_rhodopsin_partial_Discothyrea_sp._SC03	0.084000	0.902727
+[0.003243] sorting bipartition profile
+[0.001622] computed / updated events
+[0.016267] combined events
+[0.002615] calculated per dropset improvement
+[0.003672] executed the merging events 
+>422	AJD38788.1_short-wavelength_sensitive_opsin_2B_Lota_lota	0.063000	0.902794
+[0.004059] sorting bipartition profile
+[0.000848] computed / updated events
+[0.016543] combined events
+[0.002549] calculated per dropset improvement
+[0.003638] executed the merging events 
+>749	ANY60691.1_long_wavelength_rhodopsin_partial_Anochetus_graeffei	0.044000	0.902841
+[0.003486] sorting bipartition profile
+[0.001473] computed / updated events
+[0.016335] combined events
+[0.002414] calculated per dropset improvement
+[0.003730] executed the merging events 
+>220,219	tr|A0A369RSG6|A0A369RSG6_9METZ_Neuropeptide_SIFamide_receptor_OS_Trichoplax_sp._H2_OX_287889_GN_TrispH2_010399_PE_3_SV_1,XP_027058019.1_substance-P_receptor-like_Pocillopora_damicornis	0.066000	0.902912
+[0.004223] sorting bipartition profile
+[0.001260] computed / updated events
+[0.015364] combined events
+[0.002462] calculated per dropset improvement
+[0.003553] executed the merging events 
+>119	AWU78802.1_Go_opsin_Branchiostoma_lanceolatum	0.011000	0.902924
+[0.002788] sorting bipartition profile
+[0.001172] computed / updated events
+[0.015359] combined events
+[0.002389] calculated per dropset improvement
+[0.003614] executed the merging events 
+>789	XP_026467355.1_rhodopsin-like_Ctenocephalides_felis	0.004000	0.902928
+[0.003031] sorting bipartition profile
+[0.000705] computed / updated events
+[0.015523] combined events
+[0.002450] calculated per dropset improvement
+[0.004160] executed the merging events 
+>667	AAT91642.1_ultraviolet-sensitive_rhodopsin_Apodemia_mormo	0.003000	0.902931
+[0.004167] sorting bipartition profile
+[0.001508] computed / updated events
+[0.015156] combined events
+[0.002514] calculated per dropset improvement
+[0.004163] executed the merging events 
+>732	AIJ19328.1_long-wavelength_rhodopsin_partial_Centris_moerens	0.002000	0.902934
+[0.004289] sorting bipartition profile
+[0.001965] computed / updated events
+[0.014974] combined events
+[0.002458] calculated per dropset improvement
+[0.003610] executed the merging events 
+>548	tr|A0A4W3I6L3|A0A4W3I6L3_CALMI_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Callorhinchus_milii_OX_7868_PE_3_SV_1	0.002000	0.902936
+[0.003854] sorting bipartition profile
+[0.000696] computed / updated events
+[0.015029] combined events
+[0.002450] calculated per dropset improvement
+[0.003589] executed the merging events 
+>418	EOB06848.1_Rhodopsin_partial_Anas_platyrhynchos	0.001000	0.902937
+[0.003771] sorting bipartition profile
+[0.000788] computed / updated events
+[0.014926] combined events
+[0.002630] calculated per dropset improvement
+total time elapsed: 1.814076

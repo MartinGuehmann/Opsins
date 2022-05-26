@@ -1,0 +1,94 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[2.080032] initialisation done (initScore = 0.912202, numBip=2635)
+[0.021776] sorting bipartition profile
+[0.082329] computed / updated events
+[0.025099] combined events
+[0.005965] calculated per dropset improvement
+[0.005933] executed the merging events 
+>7	XP_033847484.1_pinopsin-like_Periophthalmus_magnuspinnatus	1.484000	0.913831
+[0.004044] sorting bipartition profile
+[0.001338] computed / updated events
+[0.026338] combined events
+[0.005045] calculated per dropset improvement
+[0.006223] executed the merging events 
+>574	DAniello2015_ops3_Eucidaris_tribuloides	1.412000	0.915381
+[0.004465] sorting bipartition profile
+[0.001783] computed / updated events
+[0.024862] combined events
+[0.005284] calculated per dropset improvement
+[0.006269] executed the merging events 
+>69	tr|A0A0N5BDB9|A0A0N5BDB9_STREA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Strongyloides_papillosus_OX_174720_PE_4_SV_1	1.068000	0.916553
+[0.004328] sorting bipartition profile
+[0.001230] computed / updated events
+[0.024763] combined events
+[0.004819] calculated per dropset improvement
+[0.005551] executed the merging events 
+>398	XP_033110598.1_adenosine_receptor_A2b-like_Anneissia_japonica	0.969000	0.917617
+[0.004015] sorting bipartition profile
+[0.001484] computed / updated events
+[0.023664] combined events
+[0.005743] calculated per dropset improvement
+[0.008562] executed the merging events 
+>486,485	XP_015596498.1_QRFP-like_peptide_receptor_isoform_X1_Cephus_cinctus,XP_011257684.1_QRFP-like_peptide_receptor_Camponotus_floridanus	1.507000	0.919271
+[0.006359] sorting bipartition profile
+[0.002235] computed / updated events
+[0.027349] combined events
+[0.005124] calculated per dropset improvement
+[0.007662] executed the merging events 
+>605	XP_034041350.1_retinal_G_protein_coupled_receptor_a_Thalassophryne_amazonica	0.657000	0.919992
+[0.005466] sorting bipartition profile
+[0.002093] computed / updated events
+[0.026707] combined events
+[0.005112] calculated per dropset improvement
+[0.005919] executed the merging events 
+>376	XP_018080245.1_PREDICTED_melanopsin-A_Xenopus_laevis	0.185000	0.920195
+[0.004302] sorting bipartition profile
+[0.001193] computed / updated events
+[0.027918] combined events
+[0.004510] calculated per dropset improvement
+[0.004808] executed the merging events 
+>590	EDO41487.1_predicted_protein_Nematostella_vectensis	0.107000	0.920313
+[0.003690] sorting bipartition profile
+[0.001346] computed / updated events
+[0.025959] combined events
+[0.005630] calculated per dropset improvement
+[0.005401] executed the merging events 
+>580	PVD38369.1_hypothetical_protein_C0Q70_00983_Pomacea_canaliculata	0.088000	0.920409
+[0.003882] sorting bipartition profile
+[0.001654] computed / updated events
+[0.027760] combined events
+[0.005514] calculated per dropset improvement
+[0.012530] executed the merging events 
+>200	JAN74910.1_putative_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna	0.076000	0.920493
+[0.004381] sorting bipartition profile
+[0.001418] computed / updated events
+[0.029263] combined events
+[0.005587] calculated per dropset improvement
+[0.005242] executed the merging events 
+>487	XP_015201739.1_PREDICTED_pyroglutamylated_RFamide_peptide_receptor_isoform_X2_Lepisosteus_oculatus	0.027000	0.920523
+[0.004364] sorting bipartition profile
+[0.002560] computed / updated events
+[0.028321] combined events
+[0.004807] calculated per dropset improvement
+[0.005799] executed the merging events 
+>776	BCF80159.1_short-wave-sensitive_opsin_1_partial_Emydocephalus_ijimae	0.017000	0.920541
+[0.003798] sorting bipartition profile
+[0.001119] computed / updated events
+[0.025778] combined events
+[0.004358] calculated per dropset improvement
+[0.004337] executed the merging events 
+>454	XP_029207714.1_5-hydroxytryptamine_receptor_1A-like_Acropora_millepora	0.008000	0.920550
+[0.004017] sorting bipartition profile
+[0.001419] computed / updated events
+[0.028631] combined events
+[0.006502] calculated per dropset improvement
+[0.006568] executed the merging events 
+>10	XP_032359334.1_pinopsin-like_Etheostoma_spectabile	0.006000	0.920557
+[0.004763] sorting bipartition profile
+[0.001329] computed / updated events
+[0.027833] combined events
+[0.005567] calculated per dropset improvement
+total time elapsed: 2.839624

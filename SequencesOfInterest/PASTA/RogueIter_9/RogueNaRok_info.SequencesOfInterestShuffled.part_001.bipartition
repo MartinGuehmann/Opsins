@@ -1,0 +1,64 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.140389] initialisation done (initScore = 0.964440, numBip=2854)
+[0.012769] sorting bipartition profile
+[0.090701] computed / updated events
+[0.019309] combined events
+[0.003549] calculated per dropset improvement
+[0.003122] executed the merging events 
+>164	APY20508.1_long_wavelength_sensitive_opsin_2_partial_Larinus_minutus	2.000000	0.966595
+[0.004703] sorting bipartition profile
+[0.002191] computed / updated events
+[0.021124] combined events
+[0.003246] calculated per dropset improvement
+[0.003471] executed the merging events 
+>111	APY20657.1_long_wavelength_sensitive_opsin_Pseudomallada_prasinus	1.000000	0.967672
+[0.004070] sorting bipartition profile
+[0.002506] computed / updated events
+[0.020499] combined events
+[0.003284] calculated per dropset improvement
+[0.003262] executed the merging events 
+>503	KAE8296127.1_Pineal_opsin_Pineal_gland-specific_opsin_Larimichthys_crocea	1.000000	0.968750
+[0.004525] sorting bipartition profile
+[0.001549] computed / updated events
+[0.020391] combined events
+[0.003131] calculated per dropset improvement
+[0.004375] executed the merging events 
+>840	ODM97996.1_Opsin-5_Orchesella_cincta	1.000000	0.969828
+[0.003435] sorting bipartition profile
+[0.001370] computed / updated events
+[0.020433] combined events
+[0.003211] calculated per dropset improvement
+[0.003254] executed the merging events 
+>119	AFD04915.1_long-wavelength_rhodopsin_partial_Emeryopone_buttelreepeni	1.000000	0.970905
+[0.003844] sorting bipartition profile
+[0.001859] computed / updated events
+[0.020090] combined events
+[0.003454] calculated per dropset improvement
+[0.003279] executed the merging events 
+>628	TKR82891.1_hypothetical_protein_L596_016563_Steinernema_carpocapsae	1.000000	0.971983
+[0.005622] sorting bipartition profile
+[0.001060] computed / updated events
+[0.020796] combined events
+[0.003509] calculated per dropset improvement
+[0.003277] executed the merging events 
+>588	XP_030832300.1_melatonin_receptor_type_1B-B-like_Strongylocentrotus_purpuratus	1.000000	0.973060
+[0.004969] sorting bipartition profile
+[0.002288] computed / updated events
+[0.020393] combined events
+[0.003141] calculated per dropset improvement
+[0.003187] executed the merging events 
+>20	XP_034402824.1_opsin_4xa_Cyclopterus_lumpus	1.000000	0.974138
+[0.004536] sorting bipartition profile
+[0.001179] computed / updated events
+[0.023253] combined events
+[0.003946] calculated per dropset improvement
+[0.003701] executed the merging events 
+>590,589	RDD42467.1_Rhodopsin_GQ-coupled_Trichoplax_sp._H2,RDD45711.1_Melatonin_receptor_type_1A-A_Trichoplax_sp._H2	1.000000	0.975216
+[0.004791] sorting bipartition profile
+[0.002097] computed / updated events
+[0.020274] combined events
+[0.003117] calculated per dropset improvement
+total time elapsed: 1.572288

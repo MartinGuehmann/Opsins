@@ -1,0 +1,94 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.299805] initialisation done (initScore = 0.897982, numBip=3052)
+[0.013085] sorting bipartition profile
+[0.065115] computed / updated events
+[0.019838] combined events
+[0.003901] calculated per dropset improvement
+[0.003236] executed the merging events 
+>960	Myxicola_SOAP_k35_C716618|ORF1	0.698000	0.898711
+[0.004006] sorting bipartition profile
+[0.001196] computed / updated events
+[0.019821] combined events
+[0.003309] calculated per dropset improvement
+[0.002938] executed the merging events 
+>907	ALH22345.1_UV-sensitive_opsin_Microphotus_sp._GJM-2015	0.678000	0.899419
+[0.004208] sorting bipartition profile
+[0.001339] computed / updated events
+[0.019802] combined events
+[0.003498] calculated per dropset improvement
+[0.003517] executed the merging events 
+>323	BispiraSerrataCDS_TRINITY_DN74567_c0_g1_i1|ORF1	0.657000	0.900104
+[0.004077] sorting bipartition profile
+[0.001383] computed / updated events
+[0.018963] combined events
+[0.003505] calculated per dropset improvement
+[0.003438] executed the merging events 
+>720	tr|A0A3Q3M3P3|A0A3Q3M3P3_9TELE_Teleost_multiple_tissue_opsin_b_OS_Mastacembelus_armatus_OX_205130_PE_3_SV_1	0.647000	0.900780
+[0.004290] sorting bipartition profile
+[0.001600] computed / updated events
+[0.019226] combined events
+[0.003190] calculated per dropset improvement
+[0.003025] executed the merging events 
+>282	XP_029927052.1_hydroxycarboxylic_acid_receptor_2-like_Myripristis_murdjan	0.633000	0.901441
+[0.004116] sorting bipartition profile
+[0.001563] computed / updated events
+[0.019065] combined events
+[0.003526] calculated per dropset improvement
+[0.003397] executed the merging events 
+>737	XP_026978280.1_LOW_QUALITY_PROTEIN_opsin-3_Lagenorhynchus_obliquidens	0.401000	0.901859
+[0.004240] sorting bipartition profile
+[0.001531] computed / updated events
+[0.019007] combined events
+[0.003137] calculated per dropset improvement
+[0.002974] executed the merging events 
+>280	KFV98695.1_Cysteinyl_leukotriene_receptor_2_partial_Eurypyga_helias	0.290000	0.902162
+[0.004176] sorting bipartition profile
+[0.001211] computed / updated events
+[0.019725] combined events
+[0.004011] calculated per dropset improvement
+[0.003724] executed the merging events 
+>340	XP_012415263.2_pyroglutamylated_RFamide_peptide_receptor_Trichechus_manatus_latirostris	0.273000	0.902447
+[0.004539] sorting bipartition profile
+[0.001418] computed / updated events
+[0.020358] combined events
+[0.003531] calculated per dropset improvement
+[0.003463] executed the merging events 
+>368	tr|A0A369SI12|A0A369SI12_9METZ_Neuromedin-U_receptor_2_OS_Trichoplax_sp._H2_OX_287889_GN_TrispH2_002090_PE_3_SV_1	0.179000	0.902634
+[0.004611] sorting bipartition profile
+[0.001317] computed / updated events
+[0.020033] combined events
+[0.004264] calculated per dropset improvement
+[0.003664] executed the merging events 
+>420	tr|A0A671UPS0|A0A671UPS0_SPAAU_Histamine_receptor_H2a_OS_Sparus_aurata_OX_8175_PE_4_SV_1	0.121000	0.902760
+[0.004329] sorting bipartition profile
+[0.001354] computed / updated events
+[0.020037] combined events
+[0.003939] calculated per dropset improvement
+[0.003800] executed the merging events 
+>459	EFX77128.1_hypothetical_protein_DAPPUDRAFT_106425_Daphnia_pulex	0.032000	0.902793
+[0.004686] sorting bipartition profile
+[0.001000] computed / updated events
+[0.019618] combined events
+[0.003513] calculated per dropset improvement
+[0.003451] executed the merging events 
+>759	OCU00947.1_hypothetical_protein_XELAEV_18006726mg_Xenopus_laevis	0.019000	0.902813
+[0.004481] sorting bipartition profile
+[0.000993] computed / updated events
+[0.019401] combined events
+[0.003926] calculated per dropset improvement
+[0.003767] executed the merging events 
+>637	tr|A0A2K6C3S0|A0A2K6C3S0_MACNE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Macaca_nemestrina_OX_9545_PE_3_SV_1	0.005000	0.902818
+[0.004509] sorting bipartition profile
+[0.001038] computed / updated events
+[0.019520] combined events
+[0.003972] calculated per dropset improvement
+[0.003354] executed the merging events 
+>777	ABI48867.1_opsin_partial_Archaeomysis_grebnitzkii	0.001000	0.902819
+[0.004493] sorting bipartition profile
+[0.001235] computed / updated events
+[0.019410] combined events
+[0.003963] calculated per dropset improvement
+total time elapsed: 1.854606

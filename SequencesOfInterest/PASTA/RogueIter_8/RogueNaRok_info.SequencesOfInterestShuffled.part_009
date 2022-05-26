@@ -1,0 +1,88 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.216154] initialisation done (initScore = 0.906693, numBip=2931)
+[0.013032] sorting bipartition profile
+[0.095772] computed / updated events
+[0.023101] combined events
+[0.004261] calculated per dropset improvement
+[0.003697] executed the merging events 
+>579	XP_029188316.1_melanopsin-like_Acropora_millepora	2.750000	0.909613
+[0.002707] sorting bipartition profile
+[0.001572] computed / updated events
+[0.023552] combined events
+[0.003429] calculated per dropset improvement
+[0.003509] executed the merging events 
+>325	XP_017482166.1_PREDICTED_opsin_Rh3-like_Rhagoletis_zephyria	2.267000	0.912019
+[0.003027] sorting bipartition profile
+[0.001334] computed / updated events
+[0.022919] combined events
+[0.003619] calculated per dropset improvement
+[0.003332] executed the merging events 
+>153	XP_028997097.1_opsin-5-like_isoform_X1_Betta_splendens	0.780000	0.912847
+[0.003009] sorting bipartition profile
+[0.000839] computed / updated events
+[0.023304] combined events
+[0.003619] calculated per dropset improvement
+[0.003479] executed the merging events 
+>414	JAK36590.1_hypothetical_protein_Daphnia_magna	0.750000	0.913643
+[0.002601] sorting bipartition profile
+[0.002203] computed / updated events
+[0.023259] combined events
+[0.003594] calculated per dropset improvement
+[0.003550] executed the merging events 
+>105	XP_029476898.1_opsin-5-like_Oncorhynchus_nerka	0.390000	0.914057
+[0.002742] sorting bipartition profile
+[0.000775] computed / updated events
+[0.023687] combined events
+[0.003673] calculated per dropset improvement
+[0.003541] executed the merging events 
+>233	TWW82301.1_Melanopsin-A_Mammalian-like_melanopsin_Takifugu_flavidus	0.378000	0.914459
+[0.002571] sorting bipartition profile
+[0.001351] computed / updated events
+[0.022936] combined events
+[0.003382] calculated per dropset improvement
+[0.003282] executed the merging events 
+>406	APY20681.1_long_wavelength_sensitive_opsin_1_Xenos_vesparum	0.238000	0.914711
+[0.002674] sorting bipartition profile
+[0.000978] computed / updated events
+[0.022749] combined events
+[0.003564] calculated per dropset improvement
+[0.003768] executed the merging events 
+>487	XP_024609156.1_histamine_H2_receptor_Neophocaena_asiaeorientalis_asiaeorientalis	0.160000	0.914881
+[0.002816] sorting bipartition profile
+[0.001236] computed / updated events
+[0.022958] combined events
+[0.003283] calculated per dropset improvement
+[0.003262] executed the merging events 
+>385	AAW59484.1_rhodopsin_partial_Simopone_marleyi	0.146000	0.915036
+[0.002665] sorting bipartition profile
+[0.002621] computed / updated events
+[0.022697] combined events
+[0.003708] calculated per dropset improvement
+[0.003450] executed the merging events 
+>230	tr|A0A3Q1CAX3|A0A3Q1CAX3_AMPOC_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Amphiprion_ocellaris_OX_80972_PE_3_SV_1	0.036000	0.915074
+[0.002652] sorting bipartition profile
+[0.000943] computed / updated events
+[0.022787] combined events
+[0.003282] calculated per dropset improvement
+[0.003279] executed the merging events 
+>125	XP_029966152.1_opsin-5-like_Salarias_fasciatus	0.028000	0.915104
+[0.002667] sorting bipartition profile
+[0.003156] computed / updated events
+[0.022513] combined events
+[0.003567] calculated per dropset improvement
+[0.003609] executed the merging events 
+>602	TPX71645.1_hypothetical_protein_CcCBS67573_g06095_Chytriomyces_confervae	0.028000	0.915134
+[0.002575] sorting bipartition profile
+[0.000730] computed / updated events
+[0.022189] combined events
+[0.003501] calculated per dropset improvement
+[0.003429] executed the merging events 
+>394	tr|A0A182PR95|A0A182PR95_9DIPT_Uncharacterized_protein_OS_Anopheles_epiroticus_OX_199890_PE_3_SV_1	0.001000	0.915135
+[0.002685] sorting bipartition profile
+[0.001195] computed / updated events
+[0.022183] combined events
+[0.003192] calculated per dropset improvement
+total time elapsed: 1.795415

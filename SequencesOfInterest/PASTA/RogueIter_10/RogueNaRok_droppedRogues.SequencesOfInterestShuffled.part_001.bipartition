@@ -1,0 +1,7 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.973655
+1	7	XP_033847484.1_pinopsin-like_Periophthalmus_magnuspinnatus	2.000000	0.975851
+2	574	DAniello2015_ops3_Eucidaris_tribuloides	1.000000	0.976948
+3	487	XP_015201739.1_PREDICTED_pyroglutamylated_RFamide_peptide_receptor_isoform_X2_Lepisosteus_oculatus	1.000000	0.978046
+4	605	XP_034041350.1_retinal_G_protein_coupled_receptor_a_Thalassophryne_amazonica	1.000000	0.979144
+5	486,485	XP_015596498.1_QRFP-like_peptide_receptor_isoform_X1_Cephus_cinctus,XP_011257684.1_QRFP-like_peptide_receptor_Camponotus_floridanus	1.000000	0.980241

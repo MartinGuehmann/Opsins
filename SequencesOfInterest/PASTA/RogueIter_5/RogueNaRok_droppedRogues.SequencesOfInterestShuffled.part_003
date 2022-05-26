@@ -1,0 +1,16 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.899852
+1	510	ROT81263.1_Opsin-5_Penaeus_vannamei	1.831000	0.901692
+2	997	GBN70894.1_hypothetical_protein_AVEN_243060_1_Araneus_ventricosus	1.146000	0.902844
+3	552	XP_027047438.1_D2_dopamine_receptor-like_Pocillopora_damicornis	0.818000	0.903666
+4	50	AWP21056.1_Activated_CDC42_kinase_1_Scophthalmus_maximus	0.659000	0.904329
+5	330	tr|H3CKG3|H3CKG3_TETNG_Retinal_pigment_epithelium-derived_rhodopsin_homolog_OS_Tetraodon_nigroviridis_OX_99883_PE_3_SV_1	0.537000	0.904868
+6	899	CDL67296.1_opsin_partial_Hemimysis_margalefi	0.483000	0.905354
+7	802	TRY61167.1_hypothetical_protein_TCAL_05859_Tigriopus_californicus	0.300000	0.905655
+8	121	AAY82580.1_rhodopsin_partial_Scaphiophryne_calcarata	0.226000	0.905882
+9	490	XP_031732943.1_opsin-5_isoform_X2_Anarrhichthys_ocellatus	0.220000	0.906104
+10	690	RDD36980.1_Visual_pigment-like_receptor_peropsin_Trichoplax_sp._H2	0.215000	0.906320
+11	794	XP_023328775.1_rhodopsin_GQ-coupled-like_Eurytemora_affinis	0.080000	0.906400
+12	465	TNN40527.1_Opsin-5_Liparis_tanakae	0.044000	0.906444
+13	150	XP_010171011.1_green-sensitive_opsin_Antrostomus_carolinensis	0.001000	0.906445
+14	635	MOS20529.1_somatostatin_receptor_type_2-like_Strongylocentrotus_purpuratus	0.001000	0.906446

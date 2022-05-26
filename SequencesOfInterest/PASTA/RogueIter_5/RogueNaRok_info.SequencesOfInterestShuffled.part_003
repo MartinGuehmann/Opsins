@@ -1,0 +1,94 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.392910] initialisation done (initScore = 0.899852, numBip=3680)
+[0.013862] sorting bipartition profile
+[0.140533] computed / updated events
+[0.043830] combined events
+[0.005396] calculated per dropset improvement
+[0.004728] executed the merging events 
+>510	ROT81263.1_Opsin-5_Penaeus_vannamei	1.831000	0.901692
+[0.003696] sorting bipartition profile
+[0.000987] computed / updated events
+[0.044069] combined events
+[0.005272] calculated per dropset improvement
+[0.004936] executed the merging events 
+>997	GBN70894.1_hypothetical_protein_AVEN_243060_1_Araneus_ventricosus	1.146000	0.902844
+[0.003339] sorting bipartition profile
+[0.001650] computed / updated events
+[0.042047] combined events
+[0.006166] calculated per dropset improvement
+[0.004894] executed the merging events 
+>552	XP_027047438.1_D2_dopamine_receptor-like_Pocillopora_damicornis	0.818000	0.903666
+[0.004217] sorting bipartition profile
+[0.001323] computed / updated events
+[0.042017] combined events
+[0.004844] calculated per dropset improvement
+[0.004624] executed the merging events 
+>50	AWP21056.1_Activated_CDC42_kinase_1_Scophthalmus_maximus	0.659000	0.904329
+[0.003464] sorting bipartition profile
+[0.001888] computed / updated events
+[0.041589] combined events
+[0.005012] calculated per dropset improvement
+[0.004683] executed the merging events 
+>330	tr|H3CKG3|H3CKG3_TETNG_Retinal_pigment_epithelium-derived_rhodopsin_homolog_OS_Tetraodon_nigroviridis_OX_99883_PE_3_SV_1	0.537000	0.904868
+[0.004318] sorting bipartition profile
+[0.001424] computed / updated events
+[0.041316] combined events
+[0.005062] calculated per dropset improvement
+[0.004768] executed the merging events 
+>899	CDL67296.1_opsin_partial_Hemimysis_margalefi	0.483000	0.905354
+[0.005581] sorting bipartition profile
+[0.001594] computed / updated events
+[0.042479] combined events
+[0.004776] calculated per dropset improvement
+[0.007236] executed the merging events 
+>802	TRY61167.1_hypothetical_protein_TCAL_05859_Tigriopus_californicus	0.300000	0.905655
+[0.003685] sorting bipartition profile
+[0.000999] computed / updated events
+[0.035193] combined events
+[0.005886] calculated per dropset improvement
+[0.003767] executed the merging events 
+>121	AAY82580.1_rhodopsin_partial_Scaphiophryne_calcarata	0.226000	0.905882
+[0.004391] sorting bipartition profile
+[0.001671] computed / updated events
+[0.030669] combined events
+[0.004200] calculated per dropset improvement
+[0.003555] executed the merging events 
+>490	XP_031732943.1_opsin-5_isoform_X2_Anarrhichthys_ocellatus	0.220000	0.906104
+[0.004919] sorting bipartition profile
+[0.001491] computed / updated events
+[0.030737] combined events
+[0.004517] calculated per dropset improvement
+[0.003565] executed the merging events 
+>690	RDD36980.1_Visual_pigment-like_receptor_peropsin_Trichoplax_sp._H2	0.215000	0.906320
+[0.003596] sorting bipartition profile
+[0.001237] computed / updated events
+[0.030872] combined events
+[0.004421] calculated per dropset improvement
+[0.003753] executed the merging events 
+>794	XP_023328775.1_rhodopsin_GQ-coupled-like_Eurytemora_affinis	0.080000	0.906400
+[0.003867] sorting bipartition profile
+[0.000943] computed / updated events
+[0.030439] combined events
+[0.003981] calculated per dropset improvement
+[0.003594] executed the merging events 
+>465	TNN40527.1_Opsin-5_Liparis_tanakae	0.044000	0.906444
+[0.004275] sorting bipartition profile
+[0.001007] computed / updated events
+[0.030262] combined events
+[0.003961] calculated per dropset improvement
+[0.003498] executed the merging events 
+>150	XP_010171011.1_green-sensitive_opsin_Antrostomus_carolinensis	0.001000	0.906445
+[0.003718] sorting bipartition profile
+[0.001052] computed / updated events
+[0.029856] combined events
+[0.004143] calculated per dropset improvement
+[0.003560] executed the merging events 
+>635	MOS20529.1_somatostatin_receptor_type_2-like_Strongylocentrotus_purpuratus	0.001000	0.906446
+[0.004631] sorting bipartition profile
+[0.001115] computed / updated events
+[0.030662] combined events
+[0.004065] calculated per dropset improvement
+total time elapsed: 2.302911

@@ -1,0 +1,14 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.907681
+1	628	DAniello2015_ops3.1.B_Lytechinus_variegatus	1.034000	0.908818
+2	338	CAB3366680.1_Hypothetical_predicted_protein_Cloeon_dipterum	0.737000	0.909627
+3	175	XP_032800776.1_RPE-retinal_G_protein-coupled_receptor-like_Petromyzon_marinus	0.622000	0.910311
+4	583	RDD44232.1_Substance-K_receptor_Trichoplax_sp._H2	0.385000	0.910734
+5	394	tr|E9IXE4|E9IXE4_SOLIN_G_PROTEIN_RECEP_F1_2_domain-containing_protein_Fragment_OS_Solenopsis_invicta_OX_13686_GN_SINV_02560_PE_4_SV_1	0.259000	0.911019
+6	524	CDS41970.1_neuropeptide_receptor_Echinococcus_multilocularis	0.132000	0.911164
+7	852	XP_010074915.1_PREDICTED_pinopsin-like_Pterocles_gutturalis	0.130000	0.911307
+8	264	KPP61460.1_melanopsin-A-like_partial_Scleropages_formosus	0.099000	0.911415
+9	681	CDQ58535.1_unnamed_protein_product_Oncorhynchus_mykiss	0.035000	0.911454
+10	871	AAD30520.1_RH2_opsin_Latimeria_chalumnae	0.010000	0.911465
+11	267	XP_035255621.1_melanopsin-A_Anguilla_anguilla	0.003000	0.911468
+12	637	AWM72030.1_c-opsin_Acyrthosiphon_pisum	0.001000	0.911469

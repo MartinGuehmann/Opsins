@@ -1,0 +1,6 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.971282
+1	62	XP_023655348.1_adenosine_receptor_A1-like_Paramormyrops_kingsleyae	2.000000	0.973333
+2	181,166	JAT82037.1_hypothetical_protein_g.19690_partial_Pectinophora_gossypiella,XP_020910728.1_neuropeptide_Y_receptor_type_6_Exaiptasia_diaphana	2.000000	0.975385
+3	363	ABY26633.1_long-wavelength_rhodopsin_partial_Plectroctena_ugandensis	1.000000	0.976410
+4	69	XP_029193398.1_G-protein_coupled_receptor_15-like_Acropora_millepora	1.000000	0.977436

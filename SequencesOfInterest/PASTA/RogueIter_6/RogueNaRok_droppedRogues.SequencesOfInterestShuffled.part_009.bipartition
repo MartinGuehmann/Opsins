@@ -1,0 +1,9 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.963039
+1	359	tr|A0A663NAQ4|A0A663NAQ4_ATHCN_Platelet_activating_factor_receptor_OS_Athene_cunicularia_OX_194338_GN_PTAFR_PE_4_SV_1	1.000000	0.964066
+2	250	tr|A0A3Q3DZH1|A0A3Q3DZH1_9LABR_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Labrus_bergylta_OX_56723_PE_3_SV_1	1.000000	0.965092
+3	490	XP_017536731.1_PREDICTED_visual_pigment-like_receptor_peropsin_partial_Manis_javanica	1.000000	0.966119
+4	810	AIT55664.1_rhodopsin_partial_Pseudemoia_pagenstecheri	1.000000	0.967146
+5	390	RDD36765.1_Somatostatin_receptor_type_5_Trichoplax_sp._H2	1.000000	0.968172
+6	138	tr|A0A182M5T1|A0A182M5T1_9DIPT_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Anopheles_culicifacies_OX_139723_PE_3_SV_1	1.000000	0.969199
+7	453,417	XP_033628165.1_histamine_H2_receptor-like_isoform_X1_Asterias_rubens,XP_001624905.2_rhodopsin_GQ-coupled_Nematostella_vectensis	1.000000	0.970226

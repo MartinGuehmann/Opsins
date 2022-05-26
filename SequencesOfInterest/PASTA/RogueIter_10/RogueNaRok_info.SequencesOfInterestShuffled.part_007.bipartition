@@ -1,0 +1,40 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.143652] initialisation done (initScore = 0.968132, numBip=2672)
+[0.013306] sorting bipartition profile
+[0.074837] computed / updated events
+[0.018578] combined events
+[0.003670] calculated per dropset improvement
+[0.003064] executed the merging events 
+>805	GAV07468.1_hypothetical_protein_RvY_17298-1_Ramazzottius_varieornatus	1.000000	0.969231
+[0.003716] sorting bipartition profile
+[0.000884] computed / updated events
+[0.018943] combined events
+[0.003341] calculated per dropset improvement
+[0.003775] executed the merging events 
+>390	TFK00067.1_dynein_heavy_chain_9_axonemal_Platysternon_megacephalum	1.000000	0.970330
+[0.003720] sorting bipartition profile
+[0.001213] computed / updated events
+[0.018817] combined events
+[0.003372] calculated per dropset improvement
+[0.003484] executed the merging events 
+>43	XP_018425659.1_PREDICTED_parapinopsin-like_partial_Nanorana_parkeri	1.000000	0.971429
+[0.003651] sorting bipartition profile
+[0.000798] computed / updated events
+[0.018815] combined events
+[0.003094] calculated per dropset improvement
+[0.003285] executed the merging events 
+>853	tr|A0A3Q2ZTB7|A0A3Q2ZTB7_KRYMA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Kryptolebias_marmoratus_OX_37003_PE_3_SV_1	1.000000	0.972527
+[0.003784] sorting bipartition profile
+[0.001982] computed / updated events
+[0.018670] combined events
+[0.003346] calculated per dropset improvement
+[0.003832] executed the merging events 
+>178	AJD38755.1_short-wavelength_sensitive_opsin_2B_Helostoma_temminkii	1.000000	0.973626
+[0.003869] sorting bipartition profile
+[0.001688] computed / updated events
+[0.020039] combined events
+[0.003388] calculated per dropset improvement
+total time elapsed: 1.409193

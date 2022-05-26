@@ -1,0 +1,12 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.911563
+1	858	AFK84133.1_rhodopsin_partial_Sagamichthys_abei	1.061000	0.912674
+2	26	ASM47593.1_xenopsin3_Owenia_fusiformis	0.806000	0.913518
+3	497,488	XP_026691770.1_alpha-2C_adrenergic_receptor-like_isoform_X4_Ciona_intestinalis,XP_017118715.1_PREDICTED_membrane_metallo-endopeptidase-like_1_isoform_X1_Drosophila_elegans	0.983000	0.914548
+4	231	XP_011150410.2_rhodopsin_Harpegnathos_saltator	0.439000	0.915007
+5	515	XP_020621389.1_adenosine_receptor_A2a-like_Orbicella_faveolata	0.344000	0.915368
+6	957,931	GAU91615.1_hypothetical_protein_RvY_03838-2_Ramazzottius_varieornatus,ODM99015.1_Pinopsin_Orchesella_cincta	0.545000	0.915938
+7	720	XP_026075578.1_pinopsin-like_Carassius_auratus	0.208000	0.916156
+8	520	JAQ59454.1_G-protein_coupled_receptor_22_putative_partial_Fundulus_heteroclitus	0.150000	0.916313
+9	487	XP_023035522.1_dopamine_receptor_2_Drosophila_willistoni	0.037000	0.916352
+10	496	JAK97920.1_putative_Class_a_rhodopsin_g-protein_coupled_receptor_gprdop2_partial_Daphnia_magna	0.012000	0.916364

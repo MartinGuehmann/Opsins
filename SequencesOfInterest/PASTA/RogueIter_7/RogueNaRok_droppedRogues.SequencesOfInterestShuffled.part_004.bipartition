@@ -1,0 +1,4 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.969729
+1	720	tr|A0A3Q3M3P3|A0A3Q3M3P3_9TELE_Teleost_multiple_tissue_opsin_b_OS_Mastacembelus_armatus_OX_205130_PE_3_SV_1	1.000000	0.970772
+2	282	XP_029927052.1_hydroxycarboxylic_acid_receptor_2-like_Myripristis_murdjan	1.000000	0.971816

@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.980912
+1	753	AIT99333.1_melanopsin_3_partial_Brachionus_koreanus	2.000000	0.983033
+2	627	XP_029984814.1_opsin-5-like_Sphaeramia_orbicularis	1.000000	0.984093
+3	464	XP_010001686.1_PREDICTED_rhodopsin_Chaetura_pelagica	1.000000	0.985154

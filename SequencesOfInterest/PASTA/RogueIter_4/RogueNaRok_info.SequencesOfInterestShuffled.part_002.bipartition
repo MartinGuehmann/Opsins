@@ -1,0 +1,40 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.450522] initialisation done (initScore = 0.974781, numBip=2936)
+[0.016614] sorting bipartition profile
+[0.075535] computed / updated events
+[0.023066] combined events
+[0.004048] calculated per dropset improvement
+[0.004353] executed the merging events 
+>427	APY20494.1_ultraviolet_sensitive_opsin_1_partial_Dryops_sp._CRS-2017	2.000000	0.976974
+[0.003584] sorting bipartition profile
+[0.001112] computed / updated events
+[0.021034] combined events
+[0.003176] calculated per dropset improvement
+[0.004403] executed the merging events 
+>708	XP_014663373.1_PREDICTED_visual_pigment-like_receptor_peropsin_Priapulus_caudatus	2.000000	0.979167
+[0.003602] sorting bipartition profile
+[0.001131] computed / updated events
+[0.019923] combined events
+[0.003145] calculated per dropset improvement
+[0.004344] executed the merging events 
+>571	XP_033644353.1_rhodopsin-like_Asterias_rubens	2.000000	0.981360
+[0.003556] sorting bipartition profile
+[0.000939] computed / updated events
+[0.019593] combined events
+[0.003062] calculated per dropset improvement
+[0.004324] executed the merging events 
+>421	APY20513.1_ultraviolet_sensitive_opsin_partial_Micromalthus_debilis	1.000000	0.982456
+[0.003652] sorting bipartition profile
+[0.001051] computed / updated events
+[0.019431] combined events
+[0.003129] calculated per dropset improvement
+[0.004349] executed the merging events 
+>832,813	RDD36380.1_Neuropeptide_FF_receptor_2_Trichoplax_sp._H2,tr|G1MXV9|G1MXV9_MELGA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Meleagris_gallopavo_OX_9103_PE_3_SV_1	1.000000	0.983553
+[0.004799] sorting bipartition profile
+[0.001838] computed / updated events
+[0.018622] combined events
+[0.003075] calculated per dropset improvement
+total time elapsed: 1.731586

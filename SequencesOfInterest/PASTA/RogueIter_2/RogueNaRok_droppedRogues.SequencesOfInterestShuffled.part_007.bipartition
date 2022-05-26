@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.963351
+1	347	tr|A0A674BU88|A0A674BU88_SALTR_Uncharacterized_protein_OS_Salmo_trutta_OX_8032_PE_4_SV_1	5.000000	0.968586
+2	715	BAQ54920.1_opsin_ultraviolet_sensitive_type_Ischnura_asiatica	1.000000	0.969634
+3	361	XP_019623717.1_PREDICTED_somatostatin_receptor_type_5-like_Branchiostoma_belcheri	1.000000	0.970681

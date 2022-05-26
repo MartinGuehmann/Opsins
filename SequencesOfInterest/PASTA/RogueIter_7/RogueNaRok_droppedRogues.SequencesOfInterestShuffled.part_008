@@ -1,0 +1,16 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.907170
+1	480	tr|W4ZJF1|W4ZJF1_STRPU_Uncharacterized_protein_OS_Strongylocentrotus_purpuratus_OX_7668_PE_4_SV_1	3.052000	0.910356
+2	180	tr|A0A3Q3IV12|A0A3Q3IV12_MONAL_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Monopterus_albus_OX_43700_PE_3_SV_1	1.121000	0.911526
+3	54	XP_021003199.1_rhodopsin-like_Parasteatoda_tepidariorum	0.670000	0.912225
+4	482	tr|A0A3Q4GAV8|A0A3Q4GAV8_NEOBR_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Neolamprologus_brichardi_OX_32507_PE_3_SV_1	0.623000	0.912876
+5	59	KAF3841019.1_hypothetical_protein_F7725_006881_Dissostichus_mawsoni	0.491000	0.913388
+6	156	KAF1391234.1_hypothetical_protein_PFLUV_G00039810_Perca_fluviatilis	0.424000	0.913831
+7	155	KAF0035303.1_hypothetical_protein_F2P81_013061_Scophthalmus_maximus	0.291000	0.914135
+8	120	EHB09988.1_Opsin-3_Heterocephalus_glaber	0.243000	0.914388
+9	958	XP_020601693.1_melanopsin-A-like_Orbicella_faveolata	0.166000	0.914562
+10	315,308	tr|G3PFD1|G3PFD1_GASAC_Opsin_8_group_member_b_OS_Gasterosteus_aculeatus_OX_69293_PE_3_SV_1,KAF3702644.1_Opsin-5_G-protein_coupled_receptor_136_G-protein_coupled_receptor_PGR12_Neuropsin_Channa_argus	0.196000	0.914766
+11	851	JAM06232.1_Galanin_receptor_type_Daphnia_magna	0.042000	0.914810
+12	949	XP_032820869.1_opsin-1-like_Petromyzon_marinus	0.018000	0.914829
+13	946	XP_007519342.1_PREDICTED_probable_G-protein_coupled_receptor_135_Erinaceus_europaeus	0.016000	0.914846
+14	822	CAB3380658.1_Hypothetical_predicted_protein_partial_Cloeon_dipterum	0.010000	0.914856

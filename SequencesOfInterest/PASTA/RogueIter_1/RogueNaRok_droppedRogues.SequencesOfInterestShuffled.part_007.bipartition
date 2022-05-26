@@ -1,0 +1,9 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.958248
+1	475	KAF3704253.1_Melanopsin-A_Mammalian-like_melanopsin_Melanopsin-M_Opsin-4-A_Opsin-4M_Channa_argus	2.000000	0.960285
+2	838	RXM30246.1_Chloride_intracellular_channel_protein_5_Acipenser_ruthenus	1.000000	0.961303
+3	494	XP_034158954.1_melanopsin-A_isoform_X1_Pangasianodon_hypophthalmus	1.000000	0.962322
+4	651	RNA39387.1_prolactin-releasing_peptide_receptor-like_Brachionus_plicatilis	1.000000	0.963340
+5	72	JAO05021.1_OPN4A_Poeciliopsis_prolifica	1.000000	0.964358
+6	319	ACB70945.1_long_wavelength_rhodopsin_partial_Typhoctes_peculiaris	1.000000	0.965377
+7	163,160	AOL02370.1_rhodopsin_partial_Dischistodus_prosopotaenia,tr|A0A671WXA2|A0A671WXA2_SPAAU_Uncharacterized_protein_OS_Sparus_aurata_OX_8175_PE_4_SV_1	1.000000	0.966395

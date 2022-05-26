@@ -1,0 +1,4 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.979123
+1	180	tr|A0A3Q3IV12|A0A3Q3IV12_MONAL_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Monopterus_albus_OX_43700_PE_3_SV_1	2.000000	0.981211
+2	482	tr|A0A3Q4GAV8|A0A3Q4GAV8_NEOBR_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Neolamprologus_brichardi_OX_32507_PE_3_SV_1	1.000000	0.982255

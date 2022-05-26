@@ -1,0 +1,4 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.979487
+1	553	prf||2123261AU_chemosensory_receptor	3.000000	0.982564
+2	132	XP_008704071.1_PREDICTED_short-wave-sensitive_opsin_1_isoform_X3_Ursus_maritimus	1.000000	0.983590

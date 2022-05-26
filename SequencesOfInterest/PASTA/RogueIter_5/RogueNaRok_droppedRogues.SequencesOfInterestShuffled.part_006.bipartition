@@ -1,0 +1,8 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.967807
+1	805	DAniello2015_ops5_Patiria_miniata	1.000000	0.968813
+2	225	ACT83788.1_long-wavelength_sensitive_opsin_partial_Encarsia_pergandiella	1.000000	0.969819
+3	188	AKO70455.1_long_wavelength_rhodopsin_partial_Mystrium_barrybressleri	1.000000	0.970825
+4	444	RDD46424.1_Histamine_H2_receptor_Trichoplax_sp._H2	1.000000	0.971831
+5	902	XP_020789905.1_green-sensitive_opsin-like_Boleophthalmus_pectinirostris	1.000000	0.972837
+6	935	AXC43895.1_rhodopsin_partial_Anolis_trinitatis	1.000000	0.973843

@@ -1,0 +1,58 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[2.294267] initialisation done (initScore = 0.958248, numBip=3936)
+[0.017739] sorting bipartition profile
+[0.134038] computed / updated events
+[0.063209] combined events
+[0.009746] calculated per dropset improvement
+[0.007996] executed the merging events 
+>553	KAF2365241.1_G_protein-coupled_receptor_rhodopsin-like_Trinorchestia_longiramus	2.000000	0.960285
+[0.009012] sorting bipartition profile
+[0.002722] computed / updated events
+[0.061269] combined events
+[0.008974] calculated per dropset improvement
+[0.009314] executed the merging events 
+>492	ALK02346.1_LWS-1_partial_Poecilia_parae	2.000000	0.962322
+[0.008218] sorting bipartition profile
+[0.003564] computed / updated events
+[0.063309] combined events
+[0.008675] calculated per dropset improvement
+[0.007653] executed the merging events 
+>305	GBM37143.1_hypothetical_protein_AVEN_205584_1_Araneus_ventricosus	1.000000	0.963340
+[0.006748] sorting bipartition profile
+[0.002264] computed / updated events
+[0.058824] combined events
+[0.011839] calculated per dropset improvement
+[0.007194] executed the merging events 
+>716	KAA3678002.1_uncharacterized_protein_DEA37_0012662_Paragonimus_westermani	1.000000	0.964358
+[0.005158] sorting bipartition profile
+[0.002772] computed / updated events
+[0.056943] combined events
+[0.007394] calculated per dropset improvement
+[0.006404] executed the merging events 
+>670	XP_020613126.1_neuropeptide_Y_receptor_type_6-like_Orbicella_faveolata	1.000000	0.965377
+[0.006304] sorting bipartition profile
+[0.005986] computed / updated events
+[0.056164] combined events
+[0.008445] calculated per dropset improvement
+[0.008590] executed the merging events 
+>976,300	GBN71276.1_Rhodopsin_partial_Araneus_ventricosus,RUS90657.1_hypothetical_protein_EGW08_001557_Elysia_chlorotica	1.000000	0.966395
+[0.005998] sorting bipartition profile
+[0.002990] computed / updated events
+[0.048496] combined events
+[0.008023] calculated per dropset improvement
+[0.008369] executed the merging events 
+>668,667	XP_002108462.1_hypothetical_protein_TRIADDRAFT_51389_Trichoplax_adhaerens,XP_002114955.1_hypothetical_protein_TRIADDRAFT_58992_Trichoplax_adhaerens	1.000000	0.967413
+[0.007694] sorting bipartition profile
+[0.003590] computed / updated events
+[0.050674] combined events
+[0.006849] calculated per dropset improvement
+[0.009551] executed the merging events 
+>702,697	XP_031800918.1_olfactory_receptor_13H1-like_Sarcophilus_harrisii,VTJ61528.1_Hypothetical_predicted_protein_Marmota_monax	1.000000	0.968432
+[0.009861] sorting bipartition profile
+[0.004295] computed / updated events
+[0.048163] combined events
+[0.007573] calculated per dropset improvement
+total time elapsed: 3.183696

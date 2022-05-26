@@ -1,0 +1,70 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[2.168559] initialisation done (initScore = 0.911563, numBip=3379)
+[0.019567] sorting bipartition profile
+[0.082761] computed / updated events
+[0.033400] combined events
+[0.005225] calculated per dropset improvement
+[0.007336] executed the merging events 
+>858	AFK84133.1_rhodopsin_partial_Sagamichthys_abei	1.061000	0.912674
+[0.003965] sorting bipartition profile
+[0.001925] computed / updated events
+[0.034222] combined events
+[0.004877] calculated per dropset improvement
+[0.007079] executed the merging events 
+>26	ASM47593.1_xenopsin3_Owenia_fusiformis	0.806000	0.913518
+[0.003880] sorting bipartition profile
+[0.000889] computed / updated events
+[0.034289] combined events
+[0.009080] calculated per dropset improvement
+[0.007954] executed the merging events 
+>497,488	XP_026691770.1_alpha-2C_adrenergic_receptor-like_isoform_X4_Ciona_intestinalis,XP_017118715.1_PREDICTED_membrane_metallo-endopeptidase-like_1_isoform_X1_Drosophila_elegans	0.983000	0.914548
+[0.005170] sorting bipartition profile
+[0.002379] computed / updated events
+[0.031806] combined events
+[0.005007] calculated per dropset improvement
+[0.007740] executed the merging events 
+>231	XP_011150410.2_rhodopsin_Harpegnathos_saltator	0.439000	0.915007
+[0.003955] sorting bipartition profile
+[0.001970] computed / updated events
+[0.031956] combined events
+[0.004960] calculated per dropset improvement
+[0.007848] executed the merging events 
+>515	XP_020621389.1_adenosine_receptor_A2a-like_Orbicella_faveolata	0.344000	0.915368
+[0.004084] sorting bipartition profile
+[0.001684] computed / updated events
+[0.031623] combined events
+[0.004977] calculated per dropset improvement
+[0.007780] executed the merging events 
+>957,931	GAU91615.1_hypothetical_protein_RvY_03838-2_Ramazzottius_varieornatus,ODM99015.1_Pinopsin_Orchesella_cincta	0.545000	0.915938
+[0.005221] sorting bipartition profile
+[0.001873] computed / updated events
+[0.030597] combined events
+[0.004855] calculated per dropset improvement
+[0.007372] executed the merging events 
+>720	XP_026075578.1_pinopsin-like_Carassius_auratus	0.208000	0.916156
+[0.003895] sorting bipartition profile
+[0.000990] computed / updated events
+[0.030293] combined events
+[0.004791] calculated per dropset improvement
+[0.007478] executed the merging events 
+>520	JAQ59454.1_G-protein_coupled_receptor_22_putative_partial_Fundulus_heteroclitus	0.150000	0.916313
+[0.004025] sorting bipartition profile
+[0.001404] computed / updated events
+[0.030227] combined events
+[0.004807] calculated per dropset improvement
+[0.007404] executed the merging events 
+>487	XP_023035522.1_dopamine_receptor_2_Drosophila_willistoni	0.037000	0.916352
+[0.003869] sorting bipartition profile
+[0.001677] computed / updated events
+[0.029762] combined events
+[0.004654] calculated per dropset improvement
+[0.007355] executed the merging events 
+>496	JAK97920.1_putative_Class_a_rhodopsin_g-protein_coupled_receptor_gprdop2_partial_Daphnia_magna	0.012000	0.916364
+[0.004055] sorting bipartition profile
+[0.001406] computed / updated events
+[0.029514] combined events
+[0.004749] calculated per dropset improvement
+total time elapsed: 2.810998

@@ -1,0 +1,34 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.332323] initialisation done (initScore = 0.966154, numBip=2893)
+[0.013792] sorting bipartition profile
+[0.083726] computed / updated events
+[0.020021] combined events
+[0.004326] calculated per dropset improvement
+[0.004027] executed the merging events 
+>68	AAQ54661.1_long-wavelength_rhodopsin_partial_Clesthentia_sp._NCSU-99061021	3.000000	0.969231
+[0.003557] sorting bipartition profile
+[0.001960] computed / updated events
+[0.022524] combined events
+[0.004171] calculated per dropset improvement
+[0.004173] executed the merging events 
+>912	AEW67066.1_rod_opsin_partial_Cataetyx_laticeps	1.000000	0.970256
+[0.004020] sorting bipartition profile
+[0.001643] computed / updated events
+[0.022613] combined events
+[0.004090] calculated per dropset improvement
+[0.004400] executed the merging events 
+>69	ABK54916.1_long_wavelength_rhodopsin_partial_Cheliomyrmex_cf._morosus_CASENT0007006	1.000000	0.971282
+[0.003811] sorting bipartition profile
+[0.001648] computed / updated events
+[0.022151] combined events
+[0.003988] calculated per dropset improvement
+[0.004465] executed the merging events 
+>557	JAQ99853.1_5-hydroxytryptamine_receptor_4_Fundulus_heteroclitus	1.000000	0.972308
+[0.005227] sorting bipartition profile
+[0.001526] computed / updated events
+[0.021903] combined events
+[0.004067] calculated per dropset improvement
+total time elapsed: 1.600858

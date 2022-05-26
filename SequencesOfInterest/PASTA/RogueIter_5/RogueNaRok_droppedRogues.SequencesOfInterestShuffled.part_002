@@ -1,0 +1,10 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.916706
+1	721	VZI04154.1_unnamed_protein_product_Sparganum_proliferum	2.050000	0.918766
+2	779	XP_033506049.1_melanopsin-like_Epinephelus_lanceolatus	0.532000	0.919301
+3	763	XP_008319628.1_melanopsin-A_Cynoglossus_semilaevis	0.518000	0.919821
+4	454	Pdu-Neuropsin3_Platynereis_dumerilii	0.239000	0.920061
+5	662	ROT66577.1_rhodopsin_Penaeus_vannamei	0.204000	0.920266
+6	323	XP_022801371.1_visual_pigment-like_receptor_peropsin_Stylophora_pistillata	0.125000	0.920392
+7	612	tr|T1GNY6|T1GNY6_MEGSC_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Megaselia_scalaris_OX_36166_PE_4_SV_1	0.062000	0.920454
+8	889	XP_010210118.1_PREDICTED_ultraviolet-sensitive_opsin-like_Tinamus_guttatus	0.004000	0.920458

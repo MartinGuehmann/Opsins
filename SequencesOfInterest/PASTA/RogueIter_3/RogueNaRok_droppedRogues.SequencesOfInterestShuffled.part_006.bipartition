@@ -1,0 +1,4 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.979614
+1	812	tr|A0A3Q1CDX7|A0A3Q1CDX7_AMPOC_Hydroxycarboxylic_acid_receptor_1-3_OS_Amphiprion_ocellaris_OX_80972_PE_3_SV_1	1.000000	0.980687
+2	903	tr|F6SWV0|F6SWV0_HORSE_Adrenoceptor_beta_2_OS_Equus_caballus_OX_9796_GN_ADRB2_PE_3_SV_3	1.000000	0.981760

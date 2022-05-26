@@ -1,0 +1,10 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.954222
+1	914	AAT47997.1_rhodopsin_partial_Sepioloidea_lineolata	4.000000	0.958291
+2	484	tr|A0A1I8HV67|A0A1I8HV67_9PLAT_Uncharacterized_protein_OS_Macrostomum_lignano_OX_282301_PE_4_SV_1	3.000000	0.961343
+3	159	XP_020906451.1_putative_neuropeptide_Y_receptor_type_6_Exaiptasia_diaphana	1.000000	0.962360
+4	152	XP_028809020.1_G-protein_coupled_receptor_176_Denticeps_clupeoides	1.000000	0.963377
+5	146	tr|A0A671QV14|A0A671QV14_9TELE_Pyroglutamylated_RFamide_peptide_receptor_4_OS_Sinocyclocheilus_anshuiensis_OX_1608454_PE_4_SV_1	1.000000	0.964395
+6	476	MOS07693.1_serine_arginine_repetitive_matrix_protein_2_Strongylocentrotus_purpuratus	1.000000	0.965412
+7	920	ETN63374.1_hypothetical_protein_AND_004908_Anopheles_darlingi	1.000000	0.966429
+8	175,71	XP_013385401.1_orexin_receptor_type_2-like_Lingula_anatina,ELU13478.1_hypothetical_protein_CAPTEDRAFT_216204_Capitella_teleta	1.000000	0.967447

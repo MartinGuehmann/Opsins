@@ -1,0 +1,10 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.913447
+1	93	XP_014009697.1_PREDICTED_opsin-3-like_Salmo_salar	1.139000	0.914636
+2	374	Paradialychone_ambigua_TRINITY_DN72531_c0_g1_i1|ORF1	0.728000	0.915396
+3	468	tr|H2ZM95|H2ZM95_CIOSA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Ciona_savignyi_OX_51511_PE_4_SV_1	0.625000	0.916048
+4	748	Bispira_brunnea_TRINITY_DN166152_c0_g1_i1|ORF5	0.607000	0.916682
+5	675	JAL19993.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna	0.350000	0.917047
+6	373	KZS13848.1_Opsin-5_Daphnia_magna	0.283000	0.917342
+7	960	XP_012938994.1_PREDICTED_olfactory_receptor_49-like_Aplysia_californica	0.265000	0.917619
+8	830,829	KXJ25701.1_Galanin_receptor_type_2_Exaiptasia_diaphana,XP_033738663.1_gastrin_cholecystokinin_type_B_receptor-like_Pecten_maximus	0.422000	0.918059

@@ -1,0 +1,13 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.921818
+1	202	XP_023689270.1_green-sensitive_opsin-2_Paramormyrops_kingsleyae	0.815000	0.922684
+2	775	AIA23662.1_long_wavelength_rhodopsin_partial_Leptanilloides_gracilis	0.643000	0.923366
+3	318	ODM97995.1_Opsin-5_Orchesella_cincta	0.493000	0.923890
+4	19	CAB1325776.1_unnamed_protein_product_Coregonus_sp._balchen	0.361000	0.924273
+5	141	ABO64588.1_rhodopsin_partial_Brotula_barbata	0.351000	0.924645
+6	140	ABW97074.1_rhodopsin_partial_Arnoglossus_laterna	0.280000	0.924943
+7	822	ALH22340.1_LW-sensitive_opsin_partial_Pyropyga_nigricans	0.251000	0.925209
+8	889	XP_031335339.1_opsin_ultraviolet-sensitive-like_Photinus_pyralis	0.229000	0.925452
+9	773	AIA23627.1_long_wavelength_rhodopsin_partial_Cerapachys_desposyne	0.084000	0.925541
+10	150	XP_023649826.1_rhodopsin_deep-sea_form_Paramormyrops_kingsleyae	0.061000	0.925606
+11	701	XP_015260361.1_PREDICTED_melanopsin-like_Cyprinodon_variegatus	0.001000	0.925607

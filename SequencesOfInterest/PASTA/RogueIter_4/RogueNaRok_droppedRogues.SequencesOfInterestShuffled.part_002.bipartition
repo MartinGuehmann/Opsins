@@ -1,0 +1,7 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.974781
+1	427	APY20494.1_ultraviolet_sensitive_opsin_1_partial_Dryops_sp._CRS-2017	2.000000	0.976974
+2	708	XP_014663373.1_PREDICTED_visual_pigment-like_receptor_peropsin_Priapulus_caudatus	2.000000	0.979167
+3	571	XP_033644353.1_rhodopsin-like_Asterias_rubens	2.000000	0.981360
+4	421	APY20513.1_ultraviolet_sensitive_opsin_partial_Micromalthus_debilis	1.000000	0.982456
+5	832,813	RDD36380.1_Neuropeptide_FF_receptor_2_Trichoplax_sp._H2,tr|G1MXV9|G1MXV9_MELGA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Meleagris_gallopavo_OX_9103_PE_3_SV_1	1.000000	0.983553

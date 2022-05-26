@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.976410
+1	364	QGA87726.1_rhodopsin_partial_Cynoglossus_feldmanni	1.000000	0.977436
+2	808	QIW86023.1_opsin_L16_Neogonodactylus_oerstedii	1.000000	0.978462
+3	928	XP_014589513.1_melanopsin_isoform_X1_Equus_caballus	1.000000	0.979487

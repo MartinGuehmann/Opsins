@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.972588
+1	369	XP_028633404.1_membrane-spanning_4-domains_subfamily_A_member_14_Grammomys_surdaster	2.000000	0.974781
+2	683	ABK54902.1_long_wavelength_rhodopsin_partial_Aporus_niger	1.000000	0.975877
+3	337	XP_013884184.1_PREDICTED_opsin-5-like_Austrofundulus_limnaeus	1.000000	0.976974

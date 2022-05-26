@@ -1,0 +1,46 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[2.464715] initialisation done (initScore = 0.964398, numBip=3191)
+[0.022627] sorting bipartition profile
+[0.081389] computed / updated events
+[0.027478] combined events
+[0.005123] calculated per dropset improvement
+[0.008429] executed the merging events 
+>778	JAK87366.1_putative_Gpcr_rhodopsin_family_Daphnia_magna	2.000000	0.966492
+[0.005252] sorting bipartition profile
+[0.002069] computed / updated events
+[0.026439] combined events
+[0.004727] calculated per dropset improvement
+[0.008340] executed the merging events 
+>214	XP_029036862.1_rhodopsin_long-wavelength-like_Osmia_bicornis_bicornis	2.000000	0.968586
+[0.004586] sorting bipartition profile
+[0.001858] computed / updated events
+[0.026579] combined events
+[0.007965] calculated per dropset improvement
+[0.008779] executed the merging events 
+>554	RDD40489.1_Kappa-type_opioid_receptor_Trichoplax_sp._H2	1.000000	0.969634
+[0.006633] sorting bipartition profile
+[0.002051] computed / updated events
+[0.026744] combined events
+[0.004751] calculated per dropset improvement
+[0.008127] executed the merging events 
+>702	KAF3697195.1_Opsin-5_G-protein_coupled_receptor_136_Channa_argus	1.000000	0.970681
+[0.005114] sorting bipartition profile
+[0.002131] computed / updated events
+[0.026181] combined events
+[0.004692] calculated per dropset improvement
+[0.008165] executed the merging events 
+>226	ANN75148.1_long_wavelength_rhodopsin_partial_Paraprionopelta_minima	1.000000	0.971728
+[0.004904] sorting bipartition profile
+[0.001948] computed / updated events
+[0.027247] combined events
+[0.005253] calculated per dropset improvement
+[0.008475] executed the merging events 
+>606	XP_016048352.1_PREDICTED_RPE-retinal_G_protein-coupled_receptor_isoform_X2_Erinaceus_europaeus	1.000000	0.972775
+[0.005450] sorting bipartition profile
+[0.002113] computed / updated events
+[0.028319] combined events
+[0.006099] calculated per dropset improvement
+total time elapsed: 2.891749

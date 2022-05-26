@@ -1,0 +1,58 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[2.238045] initialisation done (initScore = 0.959267, numBip=3917)
+[0.023094] sorting bipartition profile
+[0.112595] computed / updated events
+[0.051596] combined events
+[0.009806] calculated per dropset improvement
+[0.005508] executed the merging events 
+>955	tr|A0A4W5R260|A0A4W5R260_9TELE_Rhodopsin_N_domain-containing_protein_OS_Hucho_hucho_OX_62062_PE_4_SV_1	2.000000	0.961303
+[0.004058] sorting bipartition profile
+[0.002806] computed / updated events
+[0.056493] combined events
+[0.008319] calculated per dropset improvement
+[0.008861] executed the merging events 
+>30	XP_026214193.1_teleost_multiple_tissue_opsin_3a_Anabas_testudineus	1.000000	0.962322
+[0.005968] sorting bipartition profile
+[0.002676] computed / updated events
+[0.057384] combined events
+[0.013274] calculated per dropset improvement
+[0.012127] executed the merging events 
+>114	XP_022805232.1_G_protein-coupled_receptor_161-like_Stylophora_pistillata	1.000000	0.963340
+[0.007561] sorting bipartition profile
+[0.001506] computed / updated events
+[0.058545] combined events
+[0.009161] calculated per dropset improvement
+[0.006944] executed the merging events 
+>75	KAF5294265.1_hypothetical_protein_FQR65_LT10851_Abscondita_terminalis	1.000000	0.964358
+[0.005841] sorting bipartition profile
+[0.001341] computed / updated events
+[0.056502] combined events
+[0.007913] calculated per dropset improvement
+[0.007233] executed the merging events 
+>475	AAU12760.1_long-wavelength_rhodopsin_partial_Typhlomyrmex_rogenhoferi	1.000000	0.965377
+[0.012175] sorting bipartition profile
+[0.005125] computed / updated events
+[0.056774] combined events
+[0.007640] calculated per dropset improvement
+[0.007224] executed the merging events 
+>865	ALQ32699.1_short_wavelength-sensitive_opsin_1_partial_Hydrochoerus_hydrochaeris	1.000000	0.966395
+[0.013177] sorting bipartition profile
+[0.002081] computed / updated events
+[0.049728] combined events
+[0.006935] calculated per dropset improvement
+[0.007490] executed the merging events 
+>754	XP_005448550.1_opsin-5_isoform_X1_Oreochromis_niloticus	1.000000	0.967413
+[0.005165] sorting bipartition profile
+[0.002144] computed / updated events
+[0.050400] combined events
+[0.009890] calculated per dropset improvement
+[0.008535] executed the merging events 
+>461	AGG40159.1_long-wavelength_rhodopsin_partial_Sphecodes_sp._17_JH-2013	1.000000	0.968432
+[0.007308] sorting bipartition profile
+[0.003076] computed / updated events
+[0.053512] combined events
+[0.007935] calculated per dropset improvement
+total time elapsed: 3.093268

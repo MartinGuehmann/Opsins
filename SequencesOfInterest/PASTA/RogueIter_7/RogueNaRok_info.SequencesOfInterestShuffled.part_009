@@ -1,0 +1,142 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.365488] initialisation done (initScore = 0.900468, numBip=2934)
+[0.013190] sorting bipartition profile
+[0.093580] computed / updated events
+[0.023157] combined events
+[0.004180] calculated per dropset improvement
+[0.003396] executed the merging events 
+>605	tr|U3K3T0|U3K3T0_FICAL_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Ficedula_albicollis_OX_59894_GN_LOC101822096_PE_3_SV_1	1.413000	0.901943
+[0.003704] sorting bipartition profile
+[0.001115] computed / updated events
+[0.023346] combined events
+[0.003494] calculated per dropset improvement
+[0.003611] executed the merging events 
+>295	XP_009022249.1_hypothetical_protein_HELRODRAFT_84106_partial_Helobdella_robusta	1.224000	0.903220
+[0.003959] sorting bipartition profile
+[0.001651] computed / updated events
+[0.023307] combined events
+[0.003948] calculated per dropset improvement
+[0.003929] executed the merging events 
+>370	RDD42474.1_Neuromedin-K_receptor_Trichoplax_sp._H2	1.152000	0.904423
+[0.003923] sorting bipartition profile
+[0.001280] computed / updated events
+[0.017385] combined events
+[0.002932] calculated per dropset improvement
+[0.002791] executed the merging events 
+>857	OWF48066.1_Rhodopsin_G0-coupled_Mizuhopecten_yessoensis	0.841000	0.905301
+[0.003638] sorting bipartition profile
+[0.000650] computed / updated events
+[0.017463] combined events
+[0.003166] calculated per dropset improvement
+[0.003387] executed the merging events 
+>161	CAA76825.1_opsin_partial_Anopheles_gambiae	0.776000	0.906111
+[0.004101] sorting bipartition profile
+[0.001113] computed / updated events
+[0.016800] combined events
+[0.003100] calculated per dropset improvement
+[0.002785] executed the merging events 
+>18	AGB67490.1_c-like_opsin_Tripedalia_cystophora	0.585000	0.906721
+[0.003838] sorting bipartition profile
+[0.000962] computed / updated events
+[0.016618] combined events
+[0.003170] calculated per dropset improvement
+[0.003004] executed the merging events 
+>419	XP_004687555.2_PREDICTED_olfactory_receptor_4F3_4F16_4F29-like_Condylura_cristata	0.550000	0.907295
+[0.003781] sorting bipartition profile
+[0.001379] computed / updated events
+[0.016497] combined events
+[0.002937] calculated per dropset improvement
+[0.002981] executed the merging events 
+>1	miTrinity_TR29513|c0_g1_i1|ORF2	0.520000	0.907838
+[0.003975] sorting bipartition profile
+[0.000934] computed / updated events
+[0.016375] combined events
+[0.003701] calculated per dropset improvement
+[0.004152] executed the merging events 
+>729	tr|A0A1B0GT93|A0A1B0GT93_MOUSE_Rab_proteins_geranylgeranyltransferase_component_A_2_OS_Mus_musculus_OX_10090_GN_Chml_PE_4_SV_1	0.414000	0.908270
+[0.004160] sorting bipartition profile
+[0.001270] computed / updated events
+[0.016618] combined events
+[0.003264] calculated per dropset improvement
+[0.003781] executed the merging events 
+>371	XP_022252797.1_substance-P_receptor-like_Limulus_polyphemus	0.412000	0.908700
+[0.004022] sorting bipartition profile
+[0.001421] computed / updated events
+[0.016204] combined events
+[0.003760] calculated per dropset improvement
+[0.004314] executed the merging events 
+>944	XP_018672409.2_uncharacterized_protein_LOC108950798_Ciona_intestinalis	0.312000	0.909026
+[0.004566] sorting bipartition profile
+[0.000957] computed / updated events
+[0.016308] combined events
+[0.003396] calculated per dropset improvement
+[0.003896] executed the merging events 
+>460	RDD45134.1_Alpha-1A_adrenergic_receptor_Trichoplax_sp._H2	0.308000	0.909348
+[0.004806] sorting bipartition profile
+[0.001268] computed / updated events
+[0.016301] combined events
+[0.003700] calculated per dropset improvement
+[0.004243] executed the merging events 
+>80	CAG13840.1_unnamed_protein_product_partial_Tetraodon_nigroviridis	0.276000	0.909636
+[0.004640] sorting bipartition profile
+[0.001163] computed / updated events
+[0.015867] combined events
+[0.003379] calculated per dropset improvement
+[0.004283] executed the merging events 
+>747	XP_019881013.1_PREDICTED_parapinopsin-like_Aethina_tumida	0.255000	0.909902
+[0.005047] sorting bipartition profile
+[0.001260] computed / updated events
+[0.016286] combined events
+[0.003472] calculated per dropset improvement
+[0.003869] executed the merging events 
+>16	RNA33310.1_arthropsin_Brachionus_plicatilis	0.224000	0.910136
+[0.004419] sorting bipartition profile
+[0.001250] computed / updated events
+[0.015418] combined events
+[0.003437] calculated per dropset improvement
+[0.004149] executed the merging events 
+>117	ROT69197.1_opsin_Penaeus_vannamei	0.188000	0.910332
+[0.004405] sorting bipartition profile
+[0.001303] computed / updated events
+[0.015664] combined events
+[0.003475] calculated per dropset improvement
+[0.003918] executed the merging events 
+>414	ELR62217.1_Olfactory_receptor_478_partial_Bos_mutus	0.050000	0.910384
+[0.004383] sorting bipartition profile
+[0.001501] computed / updated events
+[0.015420] combined events
+[0.003436] calculated per dropset improvement
+[0.004450] executed the merging events 
+>369	XP_015522778.1_PREDICTED_orexin_receptor_type_2-like_Neodiprion_lecontei	0.046000	0.910432
+[0.004658] sorting bipartition profile
+[0.001180] computed / updated events
+[0.015317] combined events
+[0.003324] calculated per dropset improvement
+[0.003773] executed the merging events 
+>723	XP_024832324.1_LOW_QUALITY_PROTEIN_opsin-3_Bos_taurus	0.042000	0.910476
+[0.004751] sorting bipartition profile
+[0.001250] computed / updated events
+[0.015217] combined events
+[0.003472] calculated per dropset improvement
+[0.003990] executed the merging events 
+>181	APY20571.1_long_wavelength_sensitive_opsin_1_partial_Carabus_granulatus	0.011000	0.910487
+[0.004623] sorting bipartition profile
+[0.001205] computed / updated events
+[0.014938] combined events
+[0.003435] calculated per dropset improvement
+[0.003901] executed the merging events 
+>666	tr|A0A673NR26|A0A673NR26_9TELE_Uncharacterized_protein_OS_Sinocyclocheilus_rhinocerous_OX_307959_PE_4_SV_1	0.007000	0.910495
+[0.004613] sorting bipartition profile
+[0.000980] computed / updated events
+[0.014906] combined events
+[0.003355] calculated per dropset improvement
+[0.004151] executed the merging events 
+>411	XP_014383141.1_olfactory_receptor_6M1-like_Alligator_sinensis	0.001000	0.910496
+[0.005051] sorting bipartition profile
+[0.001603] computed / updated events
+[0.014804] combined events
+[0.003383] calculated per dropset improvement
+total time elapsed: 2.146704

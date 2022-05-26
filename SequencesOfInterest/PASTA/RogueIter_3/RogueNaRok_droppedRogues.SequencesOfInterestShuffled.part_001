@@ -1,0 +1,15 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.916654
+1	763	EDO42908.1_predicted_protein_partial_Nematostella_vectensis	0.896000	0.917614
+2	736	XP_028577840.1_methylmalonyl-CoA_mutase_mitochondrial-like_isoform_X5_Podarcis_muralis	0.849000	0.918524
+3	923,917	XP_011457020.2_melatonin_receptor_type_1B_Crassostrea_gigas,RDD46538.1_5-hydroxytryptamine_receptor_6_Trichoplax_sp._H2	1.489000	0.920120
+4	518	XP_027546702.1_pinopsin_isoform_X1_Neopelma_chrysocephalum	0.690000	0.920860
+5	690,651	ELT87227.1_hypothetical_protein_CAPTEDRAFT_221903_Capitella_teleta,DAC74070.1_TPA_exp_neuropsin_Branchiostoma_belcheri	1.148000	0.922090
+6	858	XP_031575035.1_galanin_receptor_type_1-like_Actinia_tenebrosa	0.530000	0.922658
+7	648	KPP56500.1_hypothetical_protein_Z043_125874_partial_Scleropages_formosus	0.147000	0.922816
+8	857	RDD44202.1_D1A_dopamine_receptor_Trichoplax_sp._H2	0.122000	0.922946
+9	260	KAE9536874.1_hypothetical_protein_AGLY_006936_Aphis_glycines	0.083000	0.923035
+10	924	XP_027729843.1_prostaglandin_F2-alpha_receptor_Vombatus_ursinus	0.066000	0.923106
+11	794	XP_021466524.1_G-protein_coupled_receptor_183-like_partial_Oncorhynchus_mykiss	0.032000	0.923140
+12	733	XP_023231417.1_medium-wave-sensitive_opsin_1-like_Centruroides_sculpturatus	0.023000	0.923165
+13	100	GFG37536.1_hypothetical_protein_Cfor_09588_Coptotermes_formosanus	0.001000	0.923166

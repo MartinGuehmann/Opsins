@@ -1,0 +1,58 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[2.205374] initialisation done (initScore = 0.953157, numBip=3786)
+[0.028581] sorting bipartition profile
+[0.122366] computed / updated events
+[0.052454] combined events
+[0.008099] calculated per dropset improvement
+[0.007140] executed the merging events 
+>517	AAG49773.1_rhodopsin_partial_Hyperolius_sp._FB-2000	3.000000	0.956212
+[0.006178] sorting bipartition profile
+[0.003072] computed / updated events
+[0.048982] combined events
+[0.006954] calculated per dropset improvement
+[0.006614] executed the merging events 
+>882	JAN15471.1_putative_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna	2.000000	0.958248
+[0.009629] sorting bipartition profile
+[0.006953] computed / updated events
+[0.053269] combined events
+[0.007793] calculated per dropset improvement
+[0.010908] executed the merging events 
+>353	TMS37451.1_hypothetical_protein_L596_004380_Steinernema_carpocapsae	2.000000	0.960285
+[0.006048] sorting bipartition profile
+[0.002305] computed / updated events
+[0.052229] combined events
+[0.007599] calculated per dropset improvement
+[0.007094] executed the merging events 
+>5	XP_029931763.1_cholecystokinin_receptor_type_A_Myripristis_murdjan	2.000000	0.962322
+[0.006495] sorting bipartition profile
+[0.003040] computed / updated events
+[0.050972] combined events
+[0.012254] calculated per dropset improvement
+[0.008347] executed the merging events 
+>120	VDO81246.1_unnamed_protein_product_Haemonchus_placei	1.000000	0.963340
+[0.004982] sorting bipartition profile
+[0.002062] computed / updated events
+[0.048097] combined events
+[0.007063] calculated per dropset improvement
+[0.010847] executed the merging events 
+>94	XP_014236211.1_delta-type_opioid_receptor-like_Trichogramma_pretiosum	1.000000	0.964358
+[0.005730] sorting bipartition profile
+[0.003945] computed / updated events
+[0.050054] combined events
+[0.006539] calculated per dropset improvement
+[0.008088] executed the merging events 
+>318	DAB27260.1_TPA_inf_G0-opsin_partial_Lineus_longissimus	1.000000	0.965377
+[0.004433] sorting bipartition profile
+[0.001442] computed / updated events
+[0.049874] combined events
+[0.010782] calculated per dropset improvement
+[0.008599] executed the merging events 
+>842	LAA16445.1_ocellar_opsin_partial_Parasteatoda_tepidariorum	1.000000	0.966395
+[0.006677] sorting bipartition profile
+[0.001952] computed / updated events
+[0.043912] combined events
+[0.007205] calculated per dropset improvement
+total time elapsed: 3.023948

@@ -1,0 +1,12 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.921286
+1	553	prf||2123261AU_chemosensory_receptor	2.464000	0.923813
+2	132	XP_008704071.1_PREDICTED_short-wave-sensitive_opsin_1_isoform_X3_Ursus_maritimus	0.611000	0.924440
+3	765	tr|A0A669D919|A0A669D919_ORENI_Retinal_G_protein_coupled_receptor_b_OS_Oreochromis_niloticus_OX_8128_PE_4_SV_1	0.354000	0.924803
+4	589	tr|A0A182FIC4|A0A182FIC4_ANOAL_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Anopheles_albimanus_OX_7167_PE_3_SV_1	0.346000	0.925158
+5	624	XP_020614168.1_octopamine_receptor_Oamb-like_Orbicella_faveolata	0.315000	0.925481
+6	728,675	XP_030209061.1_probable_G-protein_coupled_receptor_19_Gadus_morhua,XP_031554997.1_QRFP-like_peptide_receptor_Actinia_tenebrosa	0.373000	0.925864
+7	966	JAN41500.1_Gpcr_rhodopsin_family_Daphnia_magna	0.155000	0.926023
+8	552	XP_023346175.1_visual_pigment-like_receptor_peropsin_partial_Eurytemora_affinis	0.091000	0.926116
+9	590	tr|A0A673IZS2|A0A673IZS2_9TELE_Adrenoceptor_alpha_1Ba_OS_Sinocyclocheilus_rhinocerous_OX_307959_PE_4_SV_1	0.084000	0.926202
+10	729	CAB3401936.1_unnamed_protein_product_Caenorhabditis_bovis	0.055000	0.926258

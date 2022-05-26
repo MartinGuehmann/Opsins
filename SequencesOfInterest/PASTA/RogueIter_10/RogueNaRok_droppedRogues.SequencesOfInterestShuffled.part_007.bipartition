@@ -1,0 +1,7 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.968132
+1	805	GAV07468.1_hypothetical_protein_RvY_17298-1_Ramazzottius_varieornatus	1.000000	0.969231
+2	390	TFK00067.1_dynein_heavy_chain_9_axonemal_Platysternon_megacephalum	1.000000	0.970330
+3	43	XP_018425659.1_PREDICTED_parapinopsin-like_partial_Nanorana_parkeri	1.000000	0.971429
+4	853	tr|A0A3Q2ZTB7|A0A3Q2ZTB7_KRYMA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Kryptolebias_marmoratus_OX_37003_PE_3_SV_1	1.000000	0.972527
+5	178	AJD38755.1_short-wavelength_sensitive_opsin_2B_Helostoma_temminkii	1.000000	0.973626

@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.971831
+1	156	SBQ55817.1_Uncharacterized_protein_partial_Nothobranchius_korthausae	2.000000	0.973843
+2	496	ABY81036.1_long-wave_opsin_partial_Paramysis_arenosa	1.000000	0.974849
+3	177	XP_022087301.1_opsin-5-like_Acanthaster_planci	1.000000	0.975855

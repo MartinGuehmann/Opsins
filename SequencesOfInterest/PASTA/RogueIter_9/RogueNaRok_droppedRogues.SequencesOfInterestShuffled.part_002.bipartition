@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.983819
+1	464	XP_032235762.1_orexin_receptor_type_2_Nematostella_vectensis	2.000000	0.985976
+2	235	tr|A0A4W5JMC7|A0A4W5JMC7_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Hucho_hucho_OX_62062_PE_3_SV_1	1.000000	0.987055
+3	889	OWK52826.1_Opsin-5_Lonchura_striata_domestica	1.000000	0.988134

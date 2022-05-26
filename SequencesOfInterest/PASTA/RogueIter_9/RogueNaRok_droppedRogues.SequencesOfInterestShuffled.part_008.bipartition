@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.982740
+1	714	tr|A0A673AST8|A0A673AST8_9TELE_Opsin_4b_OS_Sphaeramia_orbicularis_OX_375764_PE_4_SV_1	1.000000	0.983819
+2	566	JAN77814.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna	1.000000	0.984898
+3	571	ODM94681.1_Opsin_ultraviolet-sensitive_Orchesella_cincta	1.000000	0.985976

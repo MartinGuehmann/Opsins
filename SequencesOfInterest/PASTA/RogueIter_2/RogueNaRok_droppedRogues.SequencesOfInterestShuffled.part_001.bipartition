@@ -1,0 +1,8 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.964398
+1	778	JAK87366.1_putative_Gpcr_rhodopsin_family_Daphnia_magna	2.000000	0.966492
+2	214	XP_029036862.1_rhodopsin_long-wavelength-like_Osmia_bicornis_bicornis	2.000000	0.968586
+3	554	RDD40489.1_Kappa-type_opioid_receptor_Trichoplax_sp._H2	1.000000	0.969634
+4	702	KAF3697195.1_Opsin-5_G-protein_coupled_receptor_136_Channa_argus	1.000000	0.970681
+5	226	ANN75148.1_long_wavelength_rhodopsin_partial_Paraprionopelta_minima	1.000000	0.971728
+6	606	XP_016048352.1_PREDICTED_RPE-retinal_G_protein-coupled_receptor_isoform_X2_Erinaceus_europaeus	1.000000	0.972775

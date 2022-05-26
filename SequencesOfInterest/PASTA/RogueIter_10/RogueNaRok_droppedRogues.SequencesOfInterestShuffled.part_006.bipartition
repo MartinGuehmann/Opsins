@@ -1,0 +1,7 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.972558
+1	333	Branchiomma_SOAP_k35_C686026|ORF1	5.000000	0.978046
+2	629	XP_033209504.1_rhodopsin-like_isoform_X1_Belonocnema_treatae	1.000000	0.979144
+3	824	RDD38565.1_Melanopsin-B_Trichoplax_sp._H2	1.000000	0.980241
+4	356	XP_007896571.1_PREDICTED_RPE-retinal_G_protein-coupled_receptor_Callorhinchus_milii	1.000000	0.981339
+5	876	RDD41443.1_Neuropeptide_FF_receptor_2_Trichoplax_sp._H2	1.000000	0.982437

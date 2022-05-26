@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.986444
+1	874	CAB3252041.1_orexin_receptor_type_1_Phallusia_mammillata	1.000000	0.987487
+2	788	GAV01297.1_hypothetical_protein_RvY_12034_Ramazzottius_varieornatus	1.000000	0.988530
+3	160	ABI15842.1_rhodopsin_partial_Ruvettus_pretiosus	1.000000	0.989572

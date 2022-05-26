@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.968685
+1	325	tr|A0A182MPG0|A0A182MPG0_9DIPT_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Anopheles_culicifacies_OX_139723_PE_4_SV_1	2.000000	0.970772
+2	4	DAniello2015_ops1_Holothuria_forskali	1.000000	0.971816
+3	172	XP_027144623.1_opsin-5_isoform_X1_Larimichthys_crocea	1.000000	0.972860

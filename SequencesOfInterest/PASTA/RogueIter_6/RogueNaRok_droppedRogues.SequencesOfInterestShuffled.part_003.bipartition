@@ -1,0 +1,4 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.972308
+1	306	XP_013413103.1_rhodopsin_G0-coupled-like_Lingula_anatina	1.000000	0.973333
+2	591,590	XP_014669290.1_PREDICTED_adenosine_receptor_A2a-like_Priapulus_caudatus,tr|G1TZT3|G1TZT3_RABIT_Lysophosphatidic_acid_receptor_3_OS_Oryctolagus_cuniculus_OX_9986_GN_LPAR3_PE_3_SV_3	1.000000	0.974359

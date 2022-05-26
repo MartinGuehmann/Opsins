@@ -1,0 +1,70 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.194925] initialisation done (initScore = 0.911397, numBip=2723)
+[0.012998] sorting bipartition profile
+[0.072248] computed / updated events
+[0.019581] combined events
+[0.003556] calculated per dropset improvement
+[0.003063] executed the merging events 
+>346	KYN13668.1_Rhodopsin_Trachymyrmex_cornetzi	0.824000	0.912286
+[0.007598] sorting bipartition profile
+[0.001103] computed / updated events
+[0.018625] combined events
+[0.003053] calculated per dropset improvement
+[0.003263] executed the merging events 
+>353	ABK54923.1_long_wavelength_rhodopsin_partial_Dorylus_laevigatus	0.701000	0.913042
+[0.006242] sorting bipartition profile
+[0.006100] computed / updated events
+[0.019176] combined events
+[0.003139] calculated per dropset improvement
+[0.003230] executed the merging events 
+>801	AXQ00623.1_rhodopsin_partial_Micropterus_treculii	0.556000	0.913642
+[0.004215] sorting bipartition profile
+[0.001393] computed / updated events
+[0.018832] combined events
+[0.003198] calculated per dropset improvement
+[0.003177] executed the merging events 
+>106	XP_028991024.1_RPE-retinal_G_protein-coupled_receptor-like_Betta_splendens	0.521000	0.914204
+[0.003849] sorting bipartition profile
+[0.001309] computed / updated events
+[0.018678] combined events
+[0.002902] calculated per dropset improvement
+[0.003661] executed the merging events 
+>103	JAR85751.1_RPE-retinal_G_protein-coupled_receptor_Fundulus_heteroclitus	0.337000	0.914567
+[0.003651] sorting bipartition profile
+[0.000930] computed / updated events
+[0.018522] combined events
+[0.002850] calculated per dropset improvement
+[0.002940] executed the merging events 
+>385	XP_013098917.1_PREDICTED_opsin_Rh6_Stomoxys_calcitrans	0.238000	0.914824
+[0.004660] sorting bipartition profile
+[0.001083] computed / updated events
+[0.019362] combined events
+[0.003005] calculated per dropset improvement
+[0.003076] executed the merging events 
+>811	AYW11948.1_rhodopsin_partial_Notacanthus_abbotti	0.222000	0.915064
+[0.003855] sorting bipartition profile
+[0.001019] computed / updated events
+[0.018231] combined events
+[0.003063] calculated per dropset improvement
+[0.003157] executed the merging events 
+>913	XP_029466631.1_opsin-VA-like_Rhinatrema_bivittatum	0.157000	0.915233
+[0.007395] sorting bipartition profile
+[0.000619] computed / updated events
+[0.018310] combined events
+[0.004475] calculated per dropset improvement
+[0.003070] executed the merging events 
+>355	ABD18441.1_long-wavelength_rhodopsin_partial_Yunodorylus_sexspinus	0.114000	0.915356
+[0.003746] sorting bipartition profile
+[0.001174] computed / updated events
+[0.017851] combined events
+[0.003388] calculated per dropset improvement
+[0.003058] executed the merging events 
+>363	AKC01672.1_long-wavelength_opsin_partial_Allodessus_bistrigatus	0.021000	0.915379
+[0.003635] sorting bipartition profile
+[0.001165] computed / updated events
+[0.017921] combined events
+[0.002807] calculated per dropset improvement
+total time elapsed: 1.617662

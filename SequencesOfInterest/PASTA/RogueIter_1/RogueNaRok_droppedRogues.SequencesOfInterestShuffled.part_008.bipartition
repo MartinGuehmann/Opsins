@@ -1,0 +1,8 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.967413
+1	874	ABG34894.1_long-wavelength_rhodopsin_partial_Alphomelon_sp._JCB-2006	2.000000	0.969450
+2	681	XP_017345853.1_PREDICTED_olfactory_receptor_2AT4-like_Ictalurus_punctatus	2.000000	0.971487
+3	875,842	ABV08882.1_long_wavelength_sensitive_opsin_partial_Limenitis_archippus_watsoni,ACB70910.1_long_wavelength_rhodopsin_partial_Colocistis_castanea	2.000000	0.973523
+4	555	TKY70195.1_Glycine-rich_protein_A3_Spatholobus_suberectus	1.000000	0.974542
+5	419	DAniello2015_ops8_Patiria_miniata	1.000000	0.975560
+6	125	XP_034462759.1_pinopsin-like_Hippoglossus_hippoglossus	1.000000	0.976578

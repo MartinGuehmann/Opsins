@@ -1,0 +1,15 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.911996
+1	799	XP_002435056.2_visual_pigment-like_receptor_peropsin_Ixodes_scapularis	1.293000	0.913350
+2	862	XP_007884079.1_PREDICTED_C3a_anaphylatoxin_chemotactic_receptor-like_Callorhinchus_milii	0.838000	0.914227
+3	714	Spirobranchus_corniculatus_Contig2815|ORF9	0.773000	0.915037
+4	266	APY20497.1_long_wavelength_sensitive_opsin_1_partial_Heterochelus_sp._CRS-2017	0.691000	0.915760
+5	663	AIT99326.1_c-opsin_partial_Brachionus_koreanus	0.572000	0.916359
+6	547	tr|A0A672UI04|A0A672UI04_STRHB_Opsin_1_short_wave_sensitive_OS_Strigops_habroptila_OX_2489341_GN_OPN1SW_PE_4_SV_1	0.529000	0.916913
+7	312	AUG70188.1_long-wavelength_rhodopsin_partial_Temnothorax_obliquicanthus	0.414000	0.917347
+8	755	ELT97785.1_hypothetical_protein_CAPTEDRAFT_63256_partial_Capitella_teleta	0.350000	0.917713
+9	632	KAF3423729.1_hypothetical_protein_E2986_09344_Frieseomelitta_varia	0.219000	0.917942
+10	489	AEN84779.1_rhodopsin_partial_Notolepis_coatsi	0.090000	0.918037
+11	329	sp|Q94741.1|OPS1_SCHGR_RecName_Full_Opsin-1	0.053000	0.918092
+12	715	DAniello2015_ops8_Heliocidaris_erythrogramma	0.051000	0.918146
+13	0	RXN03432.1_leucine-rich_repeat-containing_16B-like_protein_Labeo_rohita	0.022000	0.918169

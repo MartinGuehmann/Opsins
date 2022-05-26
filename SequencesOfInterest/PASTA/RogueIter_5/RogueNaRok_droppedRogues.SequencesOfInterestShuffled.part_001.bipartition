@@ -1,0 +1,6 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.965829
+1	284	BispiraSerrataCDS_TRINITY_DN62132_c0_g1_i1|ORF1	2.000000	0.967839
+2	517	AJD38779.1_short-wavelength_sensitive_opsin_2A_alpha_Eleginops_maclovinus	1.000000	0.968844
+3	909	RDD38472.1_Histamine_H2_receptor_Trichoplax_sp._H2	1.000000	0.969849
+4	899,898	XP_023941153.1_RYamide_receptor_Bicyclus_anynana,EFX81737.1_hypothetical_protein_DAPPUDRAFT_242115_Daphnia_pulex	1.000000	0.970854

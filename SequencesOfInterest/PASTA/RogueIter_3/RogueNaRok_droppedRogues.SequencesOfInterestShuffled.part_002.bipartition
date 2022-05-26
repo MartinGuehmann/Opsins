@@ -1,0 +1,6 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.959271
+1	739	ABW75570.1_long-wave_rhodopsin_partial_Macrotera_latior	2.000000	0.961415
+2	664	XP_028030904.1_opsin-2_Bombyx_mandarina	2.000000	0.963558
+3	392	AEJ09051.1_rhodopsin_partial_Amblyopsis_rosae	2.000000	0.965702
+4	780,765	XP_026285526.1_rhodopsin_Frankliniella_occidentalis,ALI30353.1_long_wavelength_rhodopsin_partial_Ephedrus_nacheri	2.000000	0.967846

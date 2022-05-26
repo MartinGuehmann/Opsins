@@ -1,0 +1,28 @@
+PASTA INFO: Directory for temporary files created at /work/oa20474/.pasta/SequencesOfInterestShuffled.part_003/temp1uzrcywo
+PASTA INFO: Name translation information saved to /work/oa20474/PhylogenyPipeline/Opsins/Alignments/PASTA/RogueIter_10/SequencesOfInterestShuffled.part_003_temp_name_translation.txt as safe name, original name, blank line format.
+PASTA INFO: Creating a starting tree for the PASTA algorithm...
+PASTA INFO: Performing initial alignment of the entire data matrix...
+PASTA INFO: Performing initial tree search to get starting tree...
+PASTA INFO: Starting PASTA algorithm on initial tree...
+PASTA INFO: Max subproblem set to 200
+PASTA INFO: Step 0. Realigning with decomposition strategy set to mincluster
+PASTA INFO: Step 0. Alignment obtained. Tree inference beginning...
+PASTA INFO: realignment accepted and score improved.
+PASTA INFO: current score: -652099.681, best score: -652099.681
+PASTA INFO: TreeShrink option has been turned off!
+PASTA INFO: Step 1. Realigning with decomposition strategy set to mincluster
+PASTA INFO: Step 1. Alignment obtained. Tree inference beginning...
+PASTA INFO: realignment accepted and score improved.
+PASTA INFO: current score: -534007.312, best score: -534007.312
+PASTA INFO: TreeShrink option has been turned off!
+PASTA INFO: Step 2. Realigning with decomposition strategy set to mincluster
+PASTA INFO: Step 2. Alignment obtained. Tree inference beginning...
+PASTA INFO: realignment accepted despite the score not improving.
+PASTA INFO: current score: -532386.293, best score: -532386.293
+PASTA INFO: TreeShrink option has been turned off!
+PASTA INFO: Writing resulting alignment to /work/oa20474/PhylogenyPipeline/Opsins/Alignments/PASTA/RogueIter_10/SequencesOfInterestShuffled.part_003.alignment.PASTA.fasta
+PASTA INFO: Writing resulting tree to /work/oa20474/PhylogenyPipeline/Opsins/Alignments/PASTA/RogueIter_10/SequencesOfInterestShuffled.part_003.tre
+PASTA INFO: Writing resulting likelihood score to /work/oa20474/PhylogenyPipeline/Opsins/Alignments/PASTA/RogueIter_10/SequencesOfInterestShuffled.part_003.score.txt
+PASTA INFO: The resulting alignment (with the names in a "safe" form) was first written as the file "/work/oa20474/PhylogenyPipeline/Opsins/Alignments/PASTA/RogueIter_10/SequencesOfInterestShuffled.part_003_temp_iteration_2_seq_alignment.txt"
+PASTA INFO: The resulting tree (with the names in a "safe" form) was first written as the file "/work/oa20474/PhylogenyPipeline/Opsins/Alignments/PASTA/RogueIter_10/SequencesOfInterestShuffled.part_003_temp_iteration_2_tree.tre"
+PASTA INFO: Total time spent: 5946.315099239349s

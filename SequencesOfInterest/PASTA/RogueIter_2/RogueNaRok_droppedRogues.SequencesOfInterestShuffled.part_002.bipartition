@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.979058
+1	26	ASM47593.1_xenopsin3_Owenia_fusiformis	1.000000	0.980105
+2	858	AFK84133.1_rhodopsin_partial_Sagamichthys_abei	1.000000	0.981152
+3	497,488	XP_026691770.1_alpha-2C_adrenergic_receptor-like_isoform_X4_Ciona_intestinalis,XP_017118715.1_PREDICTED_membrane_metallo-endopeptidase-like_1_isoform_X1_Drosophila_elegans	1.000000	0.982199

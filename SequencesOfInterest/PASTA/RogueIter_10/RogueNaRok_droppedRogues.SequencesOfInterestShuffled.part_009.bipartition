@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.972527
+1	338	CAB3366680.1_Hypothetical_predicted_protein_Cloeon_dipterum	1.000000	0.973626
+2	628	DAniello2015_ops3.1.B_Lytechinus_variegatus	1.000000	0.974725
+3	175	XP_032800776.1_RPE-retinal_G_protein-coupled_receptor-like_Petromyzon_marinus	1.000000	0.975824

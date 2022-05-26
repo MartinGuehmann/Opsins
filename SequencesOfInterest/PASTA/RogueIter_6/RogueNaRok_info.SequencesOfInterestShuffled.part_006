@@ -1,0 +1,64 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.320366] initialisation done (initScore = 0.924493, numBip=3056)
+[0.013175] sorting bipartition profile
+[0.088485] computed / updated events
+[0.024941] combined events
+[0.004459] calculated per dropset improvement
+[0.004804] executed the merging events 
+>246	KTF80430.1_hypothetical_protein_cypCar_00039742_Cyprinus_carpio	0.700000	0.925211
+[0.003955] sorting bipartition profile
+[0.001018] computed / updated events
+[0.026592] combined events
+[0.004113] calculated per dropset improvement
+[0.004191] executed the merging events 
+>420,419	KAF0025105.1_hypothetical_protein_F2P81_021986_partial_Scophthalmus_maximus,tr|A0A3P8TFN6|A0A3P8TFN6_AMPPE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Amphiprion_percula_OX_161767_PE_3_SV_1	0.958000	0.926194
+[0.008773] sorting bipartition profile
+[0.002127] computed / updated events
+[0.025817] combined events
+[0.004741] calculated per dropset improvement
+[0.005511] executed the merging events 
+>323	XP_006561570.2_D2-like_dopamine_receptor_isoform_X4_Apis_mellifera	0.479000	0.926685
+[0.005982] sorting bipartition profile
+[0.002295] computed / updated events
+[0.028881] combined events
+[0.004220] calculated per dropset improvement
+[0.004024] executed the merging events 
+>716	TWW53052.1_Melanopsin-A_Mammalian-like_melanopsin_Takifugu_flavidus	0.290000	0.926983
+[0.006545] sorting bipartition profile
+[0.002017] computed / updated events
+[0.027577] combined events
+[0.004133] calculated per dropset improvement
+[0.004128] executed the merging events 
+>468	XP_006817369.1_PREDICTED_neuropeptide_Y_receptor_type_5-like_Saccoglossus_kowalevskii	0.263000	0.927252
+[0.005837] sorting bipartition profile
+[0.002215] computed / updated events
+[0.023888] combined events
+[0.003870] calculated per dropset improvement
+[0.003834] executed the merging events 
+>894	tr|T1H6W2|T1H6W2_MEGSC_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Megaselia_scalaris_OX_36166_PE_3_SV_1	0.146000	0.927402
+[0.003908] sorting bipartition profile
+[0.002388] computed / updated events
+[0.023778] combined events
+[0.003622] calculated per dropset improvement
+[0.003968] executed the merging events 
+>332	tr|A0A1S4G4P9|A0A1S4G4P9_AEDAE_GPCR_Octopamine_Tyramine_Family_OS_Aedes_aegypti_OX_7159_PE_3_SV_1	0.035000	0.927438
+[0.004618] sorting bipartition profile
+[0.001187] computed / updated events
+[0.029818] combined events
+[0.004793] calculated per dropset improvement
+[0.007011] executed the merging events 
+>594	DAniello2015_ops6_Saccoglossus_kowalevskii	0.027000	0.927466
+[0.008602] sorting bipartition profile
+[0.001385] computed / updated events
+[0.026094] combined events
+[0.003995] calculated per dropset improvement
+[0.005753] executed the merging events 
+>585	Pdu-Peropsin3_Platynereis_dumerilii	0.002000	0.927468
+[0.005094] sorting bipartition profile
+[0.001028] computed / updated events
+[0.025331] combined events
+[0.004313] calculated per dropset improvement
+total time elapsed: 1.840019

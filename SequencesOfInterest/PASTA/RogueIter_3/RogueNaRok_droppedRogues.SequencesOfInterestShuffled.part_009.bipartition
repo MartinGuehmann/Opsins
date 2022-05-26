@@ -1,0 +1,7 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.963519
+1	931	XP_013081644.1_PREDICTED_olfactory_receptor_5K2-like_Biomphalaria_glabrata	5.000000	0.968884
+2	558	miTrinity_TR6370|c0_g1_i1|ORF4	1.000000	0.969957
+3	455	AAQ02799.1_blue-sensitive_pigment_Gadus_morhua	1.000000	0.971030
+4	733	RUS71358.1_hypothetical_protein_EGW08_020877_partial_Elysia_chlorotica	1.000000	0.972103
+5	137	ABD18438.1_long-wavelength_rhodopsin_partial_Labidus_spininodis	1.000000	0.973176

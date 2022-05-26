@@ -1,0 +1,8 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.979636
+1	351	WP_063646030.1_PAS_domain-containing_protein_Streptomyces_clavuligerus	2.000000	0.981779
+2	260,259	XP_018393173.1_PREDICTED_neuropeptide_CCHamide-1_receptor-like_Cyphomyrmex_costatus,JAM82856.1_Orexin_receptor_type_Daphnia_magna	2.000000	0.983923
+3	657	DAB27259.1_TPA_inf_xenopsinB_partial_Stylochus_ellipticus	1.000000	0.984995
+4	253	XP_035210616.1_5-hydroxytryptamine_receptor_4-like_isoform_X2_Stegodyphus_dumicola	1.000000	0.986066
+5	846	XP_031171221.1_melanopsin-A-like_isoform_X2_Sander_lucioperca	1.000000	0.987138
+6	705	APY20512.1_long_wavelength_sensitive_opsin_partial_Micromalthus_debilis	1.000000	0.988210

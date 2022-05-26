@@ -1,0 +1,9 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.967811
+1	489,376	XP_033103259.1_kappa-type_opioid_receptor-like_Anneissia_japonica,RDD42800.1_Tachykinin-like_peptides_receptor_86C_Trichoplax_sp._H2	4.000000	0.972103
+2	311	tr|A0A1D1VX88|A0A1D1VX88_RAMVA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Ramazzottius_varieornatus_OX_947166_GN_RvY_16096-1_PE_4_SV_1	2.000000	0.974249
+3	151	KYQ47299.1_Rhodopsin_Trachymyrmex_zeteki	1.000000	0.975322
+4	134	AAZ94236.1_long-wavelength_rhodopsin_partial_Isodontia_mexicana	1.000000	0.976395
+5	216	JAL31218.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_partial_Daphnia_magna	1.000000	0.977468
+6	52	GAU94431.1_hypothetical_protein_RvY_06206_Ramazzottius_varieornatus	1.000000	0.978541
+7	297	XP_026689509.1_opsin_Rh1-like_Ciona_intestinalis	1.000000	0.979614

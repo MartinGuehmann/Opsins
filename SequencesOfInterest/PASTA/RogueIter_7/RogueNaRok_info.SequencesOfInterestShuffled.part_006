@@ -1,0 +1,58 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.314671] initialisation done (initScore = 0.913447, numBip=3176)
+[0.013187] sorting bipartition profile
+[0.092968] computed / updated events
+[0.027770] combined events
+[0.005335] calculated per dropset improvement
+[0.003805] executed the merging events 
+>93	XP_014009697.1_PREDICTED_opsin-3-like_Salmo_salar	1.139000	0.914636
+[0.003812] sorting bipartition profile
+[0.001573] computed / updated events
+[0.028048] combined events
+[0.004130] calculated per dropset improvement
+[0.004126] executed the merging events 
+>374	Paradialychone_ambigua_TRINITY_DN72531_c0_g1_i1|ORF1	0.728000	0.915396
+[0.004251] sorting bipartition profile
+[0.001247] computed / updated events
+[0.027843] combined events
+[0.004680] calculated per dropset improvement
+[0.003996] executed the merging events 
+>468	tr|H2ZM95|H2ZM95_CIOSA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Ciona_savignyi_OX_51511_PE_4_SV_1	0.625000	0.916048
+[0.004411] sorting bipartition profile
+[0.001526] computed / updated events
+[0.027567] combined events
+[0.004149] calculated per dropset improvement
+[0.004088] executed the merging events 
+>748	Bispira_brunnea_TRINITY_DN166152_c0_g1_i1|ORF5	0.607000	0.916682
+[0.004055] sorting bipartition profile
+[0.001254] computed / updated events
+[0.027594] combined events
+[0.004081] calculated per dropset improvement
+[0.004474] executed the merging events 
+>675	JAL19993.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna	0.350000	0.917047
+[0.004203] sorting bipartition profile
+[0.001798] computed / updated events
+[0.027678] combined events
+[0.003973] calculated per dropset improvement
+[0.004010] executed the merging events 
+>373	KZS13848.1_Opsin-5_Daphnia_magna	0.283000	0.917342
+[0.003930] sorting bipartition profile
+[0.001094] computed / updated events
+[0.027203] combined events
+[0.003950] calculated per dropset improvement
+[0.004153] executed the merging events 
+>960	XP_012938994.1_PREDICTED_olfactory_receptor_49-like_Aplysia_californica	0.265000	0.917619
+[0.004071] sorting bipartition profile
+[0.001556] computed / updated events
+[0.027155] combined events
+[0.004258] calculated per dropset improvement
+[0.004430] executed the merging events 
+>830,829	KXJ25701.1_Galanin_receptor_type_2_Exaiptasia_diaphana,XP_033738663.1_gastrin_cholecystokinin_type_B_receptor-like_Pecten_maximus	0.422000	0.918059
+[0.005521] sorting bipartition profile
+[0.001625] computed / updated events
+[0.026634] combined events
+[0.004194] calculated per dropset improvement
+total time elapsed: 1.786969

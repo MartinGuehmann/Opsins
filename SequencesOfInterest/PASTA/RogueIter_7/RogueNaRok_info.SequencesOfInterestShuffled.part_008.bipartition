@@ -1,0 +1,22 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.199138] initialisation done (initScore = 0.979123, numBip=3302)
+[0.013097] sorting bipartition profile
+[0.075419] computed / updated events
+[0.025127] combined events
+[0.004004] calculated per dropset improvement
+[0.003494] executed the merging events 
+>180	tr|A0A3Q3IV12|A0A3Q3IV12_MONAL_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Monopterus_albus_OX_43700_PE_3_SV_1	2.000000	0.981211
+[0.004123] sorting bipartition profile
+[0.001417] computed / updated events
+[0.024584] combined events
+[0.003645] calculated per dropset improvement
+[0.003342] executed the merging events 
+>482	tr|A0A3Q4GAV8|A0A3Q4GAV8_NEOBR_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Neolamprologus_brichardi_OX_32507_PE_3_SV_1	1.000000	0.982255
+[0.004380] sorting bipartition profile
+[0.001879] computed / updated events
+[0.025363] combined events
+[0.004155] calculated per dropset improvement
+total time elapsed: 1.393916

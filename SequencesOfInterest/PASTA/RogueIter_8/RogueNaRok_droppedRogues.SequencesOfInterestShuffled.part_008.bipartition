@@ -1,0 +1,9 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.967091
+1	924	XP_025091427.1_rhodopsin_GQ-coupled-like_Pomacea_canaliculata	2.000000	0.969214
+2	181	ELT88599.1_hypothetical_protein_CAPTEDRAFT_109079_Capitella_teleta	2.000000	0.971338
+3	401	ACH56536.1_putative_long_wavelength_opsin_Thermonectus_marmoratus	2.000000	0.973461
+4	621	tr|A0A3Q2PEQ6|A0A3Q2PEQ6_FUNHE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Fundulus_heteroclitus_OX_8078_PE_3_SV_1	1.000000	0.974522
+5	640	XP_010147386.1_PREDICTED_pinopsin-like_partial_Eurypyga_helias	1.000000	0.975584
+6	294	APY20682.1_ultraviolet_sensitive_opsin_1_Xenos_vesparum	1.000000	0.976645
+7	404	JAL11538.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_partial_Daphnia_magna	1.000000	0.977707

@@ -1,0 +1,6 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.972399
+1	910	XP_029212730.1_melanocyte-stimulating_hormone_receptor-like_Acropora_millepora	2.000000	0.974522
+2	30	XP_033966374.1_teleost_multiple_tissue_opsin_2b_Pseudochaenichthys_georgianus	1.000000	0.975584
+3	765	CDW36370.1_Gprotein_coupled_receptor_161like_Aplysia_californica_partial_Lepeophtheirus_salmonis	1.000000	0.976645
+4	365	AIZ50555.1_opsin_8.2_partial_Amphiura_filiformis	1.000000	0.977707

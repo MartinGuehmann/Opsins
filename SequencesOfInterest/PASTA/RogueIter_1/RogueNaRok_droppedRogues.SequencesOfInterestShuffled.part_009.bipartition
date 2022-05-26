@@ -1,0 +1,10 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.958248
+1	553	KAF2365241.1_G_protein-coupled_receptor_rhodopsin-like_Trinorchestia_longiramus	2.000000	0.960285
+2	492	ALK02346.1_LWS-1_partial_Poecilia_parae	2.000000	0.962322
+3	305	GBM37143.1_hypothetical_protein_AVEN_205584_1_Araneus_ventricosus	1.000000	0.963340
+4	716	KAA3678002.1_uncharacterized_protein_DEA37_0012662_Paragonimus_westermani	1.000000	0.964358
+5	670	XP_020613126.1_neuropeptide_Y_receptor_type_6-like_Orbicella_faveolata	1.000000	0.965377
+6	976,300	GBN71276.1_Rhodopsin_partial_Araneus_ventricosus,RUS90657.1_hypothetical_protein_EGW08_001557_Elysia_chlorotica	1.000000	0.966395
+7	668,667	XP_002108462.1_hypothetical_protein_TRIADDRAFT_51389_Trichoplax_adhaerens,XP_002114955.1_hypothetical_protein_TRIADDRAFT_58992_Trichoplax_adhaerens	1.000000	0.967413
+8	702,697	XP_031800918.1_olfactory_receptor_13H1-like_Sarcophilus_harrisii,VTJ61528.1_Hypothetical_predicted_protein_Marmota_monax	1.000000	0.968432

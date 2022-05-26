@@ -1,0 +1,6 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.976923
+1	872	tr|I3MSR5|I3MSR5_ICTTR_Olfactory_receptor_OS_Ictidomys_tridecemlineatus_OX_43179_GN_LOC101971701_PE_3_SV_2	2.000000	0.979121
+2	69	XP_023656462.1_pinopsin-like_partial_Paramormyrops_kingsleyae	1.000000	0.980220
+3	162	tr|A0A672KSW8|A0A672KSW8_SINGR_Uncharacterized_protein_OS_Sinocyclocheilus_grahami_OX_75366_PE_4_SV_1	1.000000	0.981319
+4	887	XP_015750345.1_PREDICTED_melatonin_receptor_type_1B-B-like_Acropora_digitifera	1.000000	0.982418

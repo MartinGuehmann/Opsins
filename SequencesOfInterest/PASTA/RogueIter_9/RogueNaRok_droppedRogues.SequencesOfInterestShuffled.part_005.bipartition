@@ -1,0 +1,4 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.984898
+1	885	AIT99330.1_peropsin_partial_Brachionus_koreanus	1.000000	0.985976
+2	926	XP_033763106.1_visual_pigment-like_receptor_peropsin_Pecten_maximus	1.000000	0.987055

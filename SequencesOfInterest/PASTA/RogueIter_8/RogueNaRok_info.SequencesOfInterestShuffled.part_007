@@ -1,0 +1,64 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.243008] initialisation done (initScore = 0.914795, numBip=2796)
+[0.013325] sorting bipartition profile
+[0.080755] computed / updated events
+[0.021058] combined events
+[0.004117] calculated per dropset improvement
+[0.003641] executed the merging events 
+>489	XP_020611684.1_melanopsin-like_Orbicella_faveolata	1.532000	0.916421
+[0.002883] sorting bipartition profile
+[0.000743] computed / updated events
+[0.021658] combined events
+[0.003565] calculated per dropset improvement
+[0.003750] executed the merging events 
+>32	DAniello2015_ops1.1_Patiria_miniata	0.705000	0.917170
+[0.002811] sorting bipartition profile
+[0.000696] computed / updated events
+[0.021888] combined events
+[0.003576] calculated per dropset improvement
+[0.003901] executed the merging events 
+>216	RDD42762.1_rhodopsin_Trichoplax_sp._H2	0.697000	0.917910
+[0.002950] sorting bipartition profile
+[0.001427] computed / updated events
+[0.020513] combined events
+[0.003560] calculated per dropset improvement
+[0.003977] executed the merging events 
+>836	AYW12000.1_rhodopsin_partial_Serrivomer_sector	0.600000	0.918547
+[0.003051] sorting bipartition profile
+[0.001300] computed / updated events
+[0.020720] combined events
+[0.003478] calculated per dropset improvement
+[0.003736] executed the merging events 
+>620	XP_033815967.1_visual_pigment-like_receptor_peropsin_Geotrypetes_seraphini	0.488000	0.919065
+[0.002731] sorting bipartition profile
+[0.000907] computed / updated events
+[0.021261] combined events
+[0.003443] calculated per dropset improvement
+[0.003679] executed the merging events 
+>773	XP_029901413.1_short-wave-sensitive_opsin_1_Myripristis_murdjan	0.476000	0.919570
+[0.002710] sorting bipartition profile
+[0.001200] computed / updated events
+[0.023246] combined events
+[0.003741] calculated per dropset improvement
+[0.004112] executed the merging events 
+>618	XP_029985489.1_visual_pigment-like_receptor_peropsin_Sphaeramia_orbicularis	0.260000	0.919846
+[0.003389] sorting bipartition profile
+[0.001087] computed / updated events
+[0.020785] combined events
+[0.003926] calculated per dropset improvement
+[0.004353] executed the merging events 
+>852	tr|A0A3B3YX29|A0A3B3YX29_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Poecilia_mexicana_OX_48701_PE_3_SV_1	0.186000	0.920044
+[0.003323] sorting bipartition profile
+[0.001081] computed / updated events
+[0.020592] combined events
+[0.003766] calculated per dropset improvement
+[0.004391] executed the merging events 
+>589	XP_034436442.1_opsin-5_isoform_X1_Hippoglossus_hippoglossus	0.135000	0.920187
+[0.003365] sorting bipartition profile
+[0.001463] computed / updated events
+[0.020934] combined events
+[0.003973] calculated per dropset improvement
+total time elapsed: 1.660247

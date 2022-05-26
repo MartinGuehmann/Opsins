@@ -1,0 +1,8 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.967091
+1	599	XP_014673742.1_PREDICTED_delta-type_opioid_receptor-like_partial_Priapulus_caudatus	3.000000	0.970276
+2	533	XP_011418396.2_gastrin_cholecystokinin_type_B_receptor_isoform_X1_Crassostrea_gigas	1.000000	0.971338
+3	101	KTG03219.1_hypothetical_protein_cypCar_00010336_Cyprinus_carpio	1.000000	0.972399
+4	222	AEW67063.1_rod_opsin_partial_Conocara_salmoneum	1.000000	0.973461
+5	535	PSN55728.1_hypothetical_protein_C0J52_28495_Blattella_germanica	1.000000	0.974522
+6	254	KPP65196.1_hypothetical_protein_Z043_116404_Scleropages_formosus	1.000000	0.975584

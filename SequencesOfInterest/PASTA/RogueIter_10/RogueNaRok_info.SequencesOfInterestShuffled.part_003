@@ -1,0 +1,46 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.980655] initialisation done (initScore = 0.925947, numBip=2605)
+[0.019623] sorting bipartition profile
+[0.050640] computed / updated events
+[0.020627] combined events
+[0.005189] calculated per dropset improvement
+[0.004446] executed the merging events 
+>567	ACB70918.1_long_wavelength_rhodopsin_partial_Ephuta_grisea	1.384000	0.927467
+[0.003496] sorting bipartition profile
+[0.001201] computed / updated events
+[0.016993] combined events
+[0.004138] calculated per dropset improvement
+[0.005342] executed the merging events 
+>552	AEX28022.1_long-wavelength_rhodopsin_partial_Lasioglossum_seductum	1.359000	0.928958
+[0.003870] sorting bipartition profile
+[0.001666] computed / updated events
+[0.017093] combined events
+[0.004274] calculated per dropset improvement
+[0.004261] executed the merging events 
+>753	XP_005094658.2_PREDICTED_neuropeptide_Y_receptor-like_Aplysia_californica	0.229000	0.929210
+[0.004403] sorting bipartition profile
+[0.001403] computed / updated events
+[0.016867] combined events
+[0.003753] calculated per dropset improvement
+[0.003463] executed the merging events 
+>10,7	tr|H2YR13|H2YR13_CIOSA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Ciona_savignyi_OX_51511_PE_4_SV_1,XP_030847502.1_gastrin_cholecystokinin_type_B_receptor-like_Strongylocentrotus_purpuratus	0.130000	0.929352
+[0.004783] sorting bipartition profile
+[0.001133] computed / updated events
+[0.016741] combined events
+[0.004334] calculated per dropset improvement
+[0.004102] executed the merging events 
+>421	XP_009058695.1_hypothetical_protein_LOTGIDRAFT_123097_partial_Lottia_gigantea	0.045000	0.929402
+[0.003760] sorting bipartition profile
+[0.000956] computed / updated events
+[0.016010] combined events
+[0.004090] calculated per dropset improvement
+[0.004496] executed the merging events 
+>555	AIA23675.1_long_wavelength_rhodopsin_partial_Vicinopone_conciliatrix	0.003000	0.929405
+[0.004418] sorting bipartition profile
+[0.002042] computed / updated events
+[0.015257] combined events
+[0.003431] calculated per dropset improvement
+total time elapsed: 2.261687

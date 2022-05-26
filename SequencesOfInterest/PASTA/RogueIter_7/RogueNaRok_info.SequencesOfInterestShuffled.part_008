@@ -1,0 +1,94 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.236522] initialisation done (initScore = 0.907170, numBip=3302)
+[0.013472] sorting bipartition profile
+[0.107529] computed / updated events
+[0.028332] combined events
+[0.004941] calculated per dropset improvement
+[0.005320] executed the merging events 
+>480	tr|W4ZJF1|W4ZJF1_STRPU_Uncharacterized_protein_OS_Strongylocentrotus_purpuratus_OX_7668_PE_4_SV_1	3.052000	0.910356
+[0.004594] sorting bipartition profile
+[0.001886] computed / updated events
+[0.030351] combined events
+[0.004576] calculated per dropset improvement
+[0.005722] executed the merging events 
+>180	tr|A0A3Q3IV12|A0A3Q3IV12_MONAL_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Monopterus_albus_OX_43700_PE_3_SV_1	1.121000	0.911526
+[0.004148] sorting bipartition profile
+[0.001931] computed / updated events
+[0.028127] combined events
+[0.004387] calculated per dropset improvement
+[0.005021] executed the merging events 
+>54	XP_021003199.1_rhodopsin-like_Parasteatoda_tepidariorum	0.670000	0.912225
+[0.004303] sorting bipartition profile
+[0.000903] computed / updated events
+[0.027552] combined events
+[0.004341] calculated per dropset improvement
+[0.005204] executed the merging events 
+>482	tr|A0A3Q4GAV8|A0A3Q4GAV8_NEOBR_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Neolamprologus_brichardi_OX_32507_PE_3_SV_1	0.623000	0.912876
+[0.003812] sorting bipartition profile
+[0.002275] computed / updated events
+[0.027715] combined events
+[0.004190] calculated per dropset improvement
+[0.004983] executed the merging events 
+>59	KAF3841019.1_hypothetical_protein_F7725_006881_Dissostichus_mawsoni	0.491000	0.913388
+[0.003988] sorting bipartition profile
+[0.000934] computed / updated events
+[0.030214] combined events
+[0.005094] calculated per dropset improvement
+[0.005481] executed the merging events 
+>156	KAF1391234.1_hypothetical_protein_PFLUV_G00039810_Perca_fluviatilis	0.424000	0.913831
+[0.003822] sorting bipartition profile
+[0.001897] computed / updated events
+[0.023914] combined events
+[0.003672] calculated per dropset improvement
+[0.003790] executed the merging events 
+>155	KAF0035303.1_hypothetical_protein_F2P81_013061_Scophthalmus_maximus	0.291000	0.914135
+[0.003961] sorting bipartition profile
+[0.001488] computed / updated events
+[0.022112] combined events
+[0.003616] calculated per dropset improvement
+[0.003365] executed the merging events 
+>120	EHB09988.1_Opsin-3_Heterocephalus_glaber	0.243000	0.914388
+[0.003831] sorting bipartition profile
+[0.001012] computed / updated events
+[0.021846] combined events
+[0.003339] calculated per dropset improvement
+[0.003249] executed the merging events 
+>958	XP_020601693.1_melanopsin-A-like_Orbicella_faveolata	0.166000	0.914562
+[0.003892] sorting bipartition profile
+[0.001202] computed / updated events
+[0.021840] combined events
+[0.003340] calculated per dropset improvement
+[0.003467] executed the merging events 
+>315,308	tr|G3PFD1|G3PFD1_GASAC_Opsin_8_group_member_b_OS_Gasterosteus_aculeatus_OX_69293_PE_3_SV_1,KAF3702644.1_Opsin-5_G-protein_coupled_receptor_136_G-protein_coupled_receptor_PGR12_Neuropsin_Channa_argus	0.196000	0.914766
+[0.005375] sorting bipartition profile
+[0.001582] computed / updated events
+[0.022187] combined events
+[0.003407] calculated per dropset improvement
+[0.003258] executed the merging events 
+>851	JAM06232.1_Galanin_receptor_type_Daphnia_magna	0.042000	0.914810
+[0.003886] sorting bipartition profile
+[0.001049] computed / updated events
+[0.021536] combined events
+[0.003713] calculated per dropset improvement
+[0.003536] executed the merging events 
+>949	XP_032820869.1_opsin-1-like_Petromyzon_marinus	0.018000	0.914829
+[0.004245] sorting bipartition profile
+[0.001472] computed / updated events
+[0.021635] combined events
+[0.003531] calculated per dropset improvement
+[0.003301] executed the merging events 
+>946	XP_007519342.1_PREDICTED_probable_G-protein_coupled_receptor_135_Erinaceus_europaeus	0.016000	0.914846
+[0.004171] sorting bipartition profile
+[0.000993] computed / updated events
+[0.020937] combined events
+[0.003507] calculated per dropset improvement
+[0.003519] executed the merging events 
+>822	CAB3380658.1_Hypothetical_predicted_protein_partial_Cloeon_dipterum	0.010000	0.914856
+[0.004029] sorting bipartition profile
+[0.001319] computed / updated events
+[0.020456] combined events
+[0.003583] calculated per dropset improvement
+total time elapsed: 1.923514

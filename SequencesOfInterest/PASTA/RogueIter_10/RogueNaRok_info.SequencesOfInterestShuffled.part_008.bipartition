@@ -1,0 +1,34 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.144582] initialisation done (initScore = 0.976923, numBip=2585)
+[0.013233] sorting bipartition profile
+[0.050300] computed / updated events
+[0.014979] combined events
+[0.003200] calculated per dropset improvement
+[0.002768] executed the merging events 
+>872	tr|I3MSR5|I3MSR5_ICTTR_Olfactory_receptor_OS_Ictidomys_tridecemlineatus_OX_43179_GN_LOC101971701_PE_3_SV_2	2.000000	0.979121
+[0.003996] sorting bipartition profile
+[0.001217] computed / updated events
+[0.015259] combined events
+[0.002978] calculated per dropset improvement
+[0.003083] executed the merging events 
+>69	XP_023656462.1_pinopsin-like_partial_Paramormyrops_kingsleyae	1.000000	0.980220
+[0.003983] sorting bipartition profile
+[0.000820] computed / updated events
+[0.014953] combined events
+[0.002922] calculated per dropset improvement
+[0.002775] executed the merging events 
+>162	tr|A0A672KSW8|A0A672KSW8_SINGR_Uncharacterized_protein_OS_Sinocyclocheilus_grahami_OX_75366_PE_4_SV_1	1.000000	0.981319
+[0.003980] sorting bipartition profile
+[0.000858] computed / updated events
+[0.014669] combined events
+[0.002680] calculated per dropset improvement
+[0.002776] executed the merging events 
+>887	XP_015750345.1_PREDICTED_melatonin_receptor_type_1B-B-like_Acropora_digitifera	1.000000	0.982418
+[0.004059] sorting bipartition profile
+[0.001261] computed / updated events
+[0.014157] combined events
+[0.002610] calculated per dropset improvement
+total time elapsed: 1.328988

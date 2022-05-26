@@ -1,0 +1,7 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.959227
+1	513	AAQ16448.1_rhodopsin_partial_Quasipaa_boulengeri	3.000000	0.962446
+2	68	XP_015759526.1_PREDICTED_substance-P_receptor-like_Acropora_digitifera	2.000000	0.964592
+3	167	CAB3265552.1_CiNut_G-protein_coupled_receptor_like_protein_Phallusia_mammillata	1.000000	0.965665
+4	67	tr|A0A369S3H5|A0A369S3H5_9METZ_Growth_hormone_secretagogue_receptor_type_1_OS_Trichoplax_sp._H2_OX_287889_GN_TrispH2_007336_PE_3_SV_1	1.000000	0.966738
+5	878	XP_013928099.1_PREDICTED_visual_pigment-like_receptor_peropsin_Thamnophis_sirtalis	1.000000	0.967811

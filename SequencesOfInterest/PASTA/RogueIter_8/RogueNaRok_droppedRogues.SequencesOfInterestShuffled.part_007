@@ -1,0 +1,11 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.914795
+1	489	XP_020611684.1_melanopsin-like_Orbicella_faveolata	1.532000	0.916421
+2	32	DAniello2015_ops1.1_Patiria_miniata	0.705000	0.917170
+3	216	RDD42762.1_rhodopsin_Trichoplax_sp._H2	0.697000	0.917910
+4	836	AYW12000.1_rhodopsin_partial_Serrivomer_sector	0.600000	0.918547
+5	620	XP_033815967.1_visual_pigment-like_receptor_peropsin_Geotrypetes_seraphini	0.488000	0.919065
+6	773	XP_029901413.1_short-wave-sensitive_opsin_1_Myripristis_murdjan	0.476000	0.919570
+7	618	XP_029985489.1_visual_pigment-like_receptor_peropsin_Sphaeramia_orbicularis	0.260000	0.919846
+8	852	tr|A0A3B3YX29|A0A3B3YX29_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Poecilia_mexicana_OX_48701_PE_3_SV_1	0.186000	0.920044
+9	589	XP_034436442.1_opsin-5_isoform_X1_Hippoglossus_hippoglossus	0.135000	0.920187

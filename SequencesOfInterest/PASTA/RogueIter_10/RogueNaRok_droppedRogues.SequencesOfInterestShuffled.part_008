@@ -1,0 +1,16 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.914620
+1	872	tr|I3MSR5|I3MSR5_ICTTR_Olfactory_receptor_OS_Ictidomys_tridecemlineatus_OX_43179_GN_LOC101971701_PE_3_SV_2	1.382000	0.916138
+2	69	XP_023656462.1_pinopsin-like_partial_Paramormyrops_kingsleyae	1.347000	0.917619
+3	887	XP_015750345.1_PREDICTED_melatonin_receptor_type_1B-B-like_Acropora_digitifera	0.957000	0.918670
+4	523	AFP45604.1_long-wavelength_opsin_partial_Ceratovacuna_lanigera	0.838000	0.919591
+5	819	XP_002107660.1_hypothetical_protein_TRIADDRAFT_51391_Trichoplax_adhaerens	0.618000	0.920270
+6	162	tr|A0A672KSW8|A0A672KSW8_SINGR_Uncharacterized_protein_OS_Sinocyclocheilus_grahami_OX_75366_PE_4_SV_1	0.531000	0.920854
+7	303	XP_020652360.1_pineal_opsin-like_Pogona_vitticeps	0.390000	0.921282
+8	912	XP_002108845.1_hypothetical_protein_TRIADDRAFT_52251_Trichoplax_adhaerens	0.193000	0.921495
+9	500	AAZ32420.1_long-wavelength_rhodopsin_partial_Pseudopanurgus_fraterculus	0.169000	0.921680
+10	116,112	tr|A0A3B3ZSD1|A0A3B3ZSD1_9GOBI_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Periophthalmus_magnuspinnatus_OX_409849_PE_3_SV_1,tr|A0A671VKY1|A0A671VKY1_SPAAU_Teleost_multiple_tissue_opsin_3b_OS_Sparus_aurata_OX_8175_PE_4_SV_1	0.224000	0.921926
+11	205	QCB20397.1_medium-wavelength_sensitive_opsin_partial_Ostorhinchus_nigrofasciatus	0.100000	0.922036
+12	510	KOX69882.1_Rhodopsin_long-wavelength_Melipona_quadrifasciata	0.004000	0.922041
+13	539	APY20679.1_long_wavelength_sensitive_opsin_2_Xanthostigma_xanthostigma	0.002000	0.922043
+14	35	XP_029213701.1_melanopsin-like_Acropora_millepora	0.002000	0.922045

@@ -1,0 +1,10 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.921289
+1	262	APY20502.1_ultraviolet_sensitive_opsin_partial_Hypocaccus_fitchi	1.151000	0.922489
+2	371	BAQ54849.1_opsin_rhodopsin-7_like_Anax_parthenope	0.927000	0.923456
+3	834	ALK80025.1_rhodopsin_partial_Clarias_batrachus	0.823000	0.924314
+4	518	RWS06560.1_tyramine_receptor_1-like_protein_Dinothrombium_tinctorium	0.818000	0.925167
+5	723	XP_028651317.1_RPE-retinal_G_protein-coupled_receptor_Erpetoichthys_calabaricus	0.505000	0.925693
+6	961	TRY79131.1_hypothetical_protein_TCAL_10797_Tigriopus_californicus	0.278000	0.925983
+7	466	XP_034234306.1_orexin_receptor_type_1-like_Thrips_palmi	0.265000	0.926260
+8	530	XP_032229065.1_dopamine_receptor_2_Nematostella_vectensis	0.023000	0.926284

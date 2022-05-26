@@ -1,0 +1,112 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.199931] initialisation done (initScore = 0.916306, numBip=2716)
+[0.012883] sorting bipartition profile
+[0.079324] computed / updated events
+[0.022483] combined events
+[0.005912] calculated per dropset improvement
+[0.003612] executed the merging events 
+>251	XP_029701134.1_melanopsin-A-like_isoform_X3_Takifugu_rubripes	0.808000	0.917178
+[0.003930] sorting bipartition profile
+[0.001617] computed / updated events
+[0.021882] combined events
+[0.003744] calculated per dropset improvement
+[0.003242] executed the merging events 
+>378	XP_023132686.1_putative_violet-sensitive_opsin_Amphiprion_ocellaris	0.706000	0.917940
+[0.004690] sorting bipartition profile
+[0.001222] computed / updated events
+[0.021690] combined events
+[0.005996] calculated per dropset improvement
+[0.004331] executed the merging events 
+>148	CAB0002508.1_unnamed_protein_product_partial_Nesidiocoris_tenuis	0.686000	0.918680
+[0.004156] sorting bipartition profile
+[0.001141] computed / updated events
+[0.024301] combined events
+[0.007796] calculated per dropset improvement
+[0.004169] executed the merging events 
+>926	XP_033763106.1_visual_pigment-like_receptor_peropsin_Pecten_maximus	0.653000	0.919384
+[0.007259] sorting bipartition profile
+[0.002200] computed / updated events
+[0.022987] combined events
+[0.003400] calculated per dropset improvement
+[0.004177] executed the merging events 
+>885	AIT99330.1_peropsin_partial_Brachionus_koreanus	0.591000	0.920022
+[0.003907] sorting bipartition profile
+[0.001297] computed / updated events
+[0.021286] combined events
+[0.004099] calculated per dropset improvement
+[0.007872] executed the merging events 
+>865	RXN37648.1_gypsy_retrotransposon_integrase_1-like_protein_Labeo_rohita	0.365000	0.920415
+[0.004910] sorting bipartition profile
+[0.000951] computed / updated events
+[0.023731] combined events
+[0.003285] calculated per dropset improvement
+[0.003612] executed the merging events 
+>615	XP_013388978.1_uncharacterized_protein_LOC106157778_Lingula_anatina	0.357000	0.920800
+[0.003466] sorting bipartition profile
+[0.001568] computed / updated events
+[0.021877] combined events
+[0.003202] calculated per dropset improvement
+[0.003200] executed the merging events 
+>95	JAN88250.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop2_partial_Daphnia_magna	0.274000	0.921096
+[0.006253] sorting bipartition profile
+[0.001155] computed / updated events
+[0.021131] combined events
+[0.003414] calculated per dropset improvement
+[0.003141] executed the merging events 
+>275	TWW77967.1_Opsin-3_Encephalopsin_Takifugu_flavidus	0.259000	0.921375
+[0.005467] sorting bipartition profile
+[0.001033] computed / updated events
+[0.021045] combined events
+[0.003127] calculated per dropset improvement
+[0.003139] executed the merging events 
+>77	CAB3365661.1_Hypothetical_predicted_protein_Cloeon_dipterum	0.232000	0.921626
+[0.004757] sorting bipartition profile
+[0.000800] computed / updated events
+[0.023657] combined events
+[0.003149] calculated per dropset improvement
+[0.005482] executed the merging events 
+>392	XP_032369944.1_green-sensitive_opsin-2-like_Etheostoma_spectabile	0.196000	0.921837
+[0.005732] sorting bipartition profile
+[0.001058] computed / updated events
+[0.022879] combined events
+[0.003191] calculated per dropset improvement
+[0.003347] executed the merging events 
+>9	BAF95827.1_opsin_Cladonema_radiatum	0.164000	0.922014
+[0.004048] sorting bipartition profile
+[0.001099] computed / updated events
+[0.020864] combined events
+[0.005054] calculated per dropset improvement
+[0.005988] executed the merging events 
+>398	sp|P51474.1|OPSG3_ASTFA_RecName_Full_Green-sensitive_opsin-3_AltName_Full_Green_cone_photoreceptor_pigment_3	0.149000	0.922175
+[0.005992] sorting bipartition profile
+[0.001967] computed / updated events
+[0.023132] combined events
+[0.003133] calculated per dropset improvement
+[0.003441] executed the merging events 
+>790	XP_023236460.1_visual_pigment-like_receptor_peropsin_Centruroides_sculpturatus	0.005000	0.922180
+[0.007789] sorting bipartition profile
+[0.000882] computed / updated events
+[0.020959] combined events
+[0.004272] calculated per dropset improvement
+[0.003111] executed the merging events 
+>232	XP_009565794.1_PREDICTED_melanopsin_Cuculus_canorus	0.003000	0.922183
+[0.004538] sorting bipartition profile
+[0.001055] computed / updated events
+[0.020488] combined events
+[0.003291] calculated per dropset improvement
+[0.003175] executed the merging events 
+>794	TWW68715.1_G-protein_coupled_receptor_136_Takifugu_flavidus	0.003000	0.922187
+[0.004148] sorting bipartition profile
+[0.001144] computed / updated events
+[0.020283] combined events
+[0.003308] calculated per dropset improvement
+[0.003598] executed the merging events 
+>228	XP_029466555.1_melanopsin_Rhinatrema_bivittatum	0.001000	0.922188
+[0.004890] sorting bipartition profile
+[0.000839] computed / updated events
+[0.022707] combined events
+[0.003253] calculated per dropset improvement
+total time elapsed: 1.938360

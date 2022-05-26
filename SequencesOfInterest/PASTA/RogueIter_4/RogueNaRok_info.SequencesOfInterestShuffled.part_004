@@ -1,0 +1,52 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.481067] initialisation done (initScore = 0.923761, numBip=2718)
+[0.016739] sorting bipartition profile
+[0.066944] computed / updated events
+[0.019066] combined events
+[0.003189] calculated per dropset improvement
+[0.007851] executed the merging events 
+>441	LAA16522.1_rhodopsin_2_partial_Parasteatoda_tepidariorum	2.072000	0.926033
+[0.003386] sorting bipartition profile
+[0.001408] computed / updated events
+[0.019248] combined events
+[0.003423] calculated per dropset improvement
+[0.005997] executed the merging events 
+>649	tr|A0A3B3HBK8|A0A3B3HBK8_ORYLA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Oryzias_latipes_OX_8090_PE_3_SV_1	0.393000	0.926464
+[0.003412] sorting bipartition profile
+[0.000821] computed / updated events
+[0.017543] combined events
+[0.003160] calculated per dropset improvement
+[0.005184] executed the merging events 
+>105,104	OXB50954.1_hypothetical_protein_ASZ78_014597_partial_Callipepla_squamata,XP_015496276.1_rhodopsin_isoform_X1_Parus_major	0.727000	0.927261
+[0.004419] sorting bipartition profile
+[0.001118] computed / updated events
+[0.017066] combined events
+[0.002985] calculated per dropset improvement
+[0.004625] executed the merging events 
+>152	AAP23945.2_SWS1_cone_opsin_partial_Anas_platyrhynchos	0.211000	0.927492
+[0.003114] sorting bipartition profile
+[0.001109] computed / updated events
+[0.017608] combined events
+[0.003112] calculated per dropset improvement
+[0.005407] executed the merging events 
+>400	ABX83830.1_long_wavelength_rhodopsin_partial_Myrmecocystus_nr._kennedyi_BCOM-2007	0.142000	0.927648
+[0.003781] sorting bipartition profile
+[0.001590] computed / updated events
+[0.017042] combined events
+[0.003183] calculated per dropset improvement
+[0.005329] executed the merging events 
+>74	tr|A0A672PD72|A0A672PD72_SINGR_Uncharacterized_protein_OS_Sinocyclocheilus_grahami_OX_75366_PE_4_SV_1	0.112000	0.927771
+[0.003549] sorting bipartition profile
+[0.000607] computed / updated events
+[0.017280] combined events
+[0.003264] calculated per dropset improvement
+[0.005310] executed the merging events 
+>387	ACF71381.1_long-wavelength_rhodopsin_partial_Stenosmia_minima	0.051000	0.927827
+[0.003456] sorting bipartition profile
+[0.001913] computed / updated events
+[0.017202] combined events
+[0.003351] calculated per dropset improvement
+total time elapsed: 1.806470

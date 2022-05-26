@@ -1,0 +1,46 @@
+
+RAxML-NG v. 1.0.1 released on 19.09.2020 by The Exelixis Lab.
+Developed by: Alexey M. Kozlov and Alexandros Stamatakis.
+Contributors: Diego Darriba, Tomas Flouri, Benoit Morel, Sarah Lutteropp, Ben Bettisworth.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+System: Intel(R) Xeon(R) Gold 6226 CPU @ 2.70GHz, 24 cores, 187 GB RAM
+
+RAxML-NG was called at 28-Jun-2021 18:06:17 as follows:
+
+raxml-ng --msa /work/oa20474/PhylogenyPipeline/Opsins/Alignments/PASTA/RogueIter_8/SequencesOfInterestShuffled.part_008.alignment.PASTA.fasta --threads 4 --model LG+G --check
+
+Analysis options:
+  run mode: Alignment validation
+  start tree(s): 
+  random seed: 1624899977
+  SIMD kernels: AVX2
+  parallelization: coarse-grained (auto), PTHREADS (4 threads), thread pinning: OFF
+
+[00:00:00] Reading alignment from file: /work/oa20474/PhylogenyPipeline/Opsins/Alignments/PASTA/RogueIter_8/SequencesOfInterestShuffled.part_008.alignment.PASTA.fasta
+[00:00:00] Loaded alignment with 930 taxa and 13404 sites
+
+WARNING: Fully undetermined columns found: 176
+
+NOTE: Reduced alignment (with duplicates and gap-only sites/taxa removed) 
+NOTE: was saved to: /work/oa20474/PhylogenyPipeline/Opsins/Alignments/PASTA/RogueIter_8/SequencesOfInterestShuffled.part_008.alignment.PASTA.fasta.raxml.reduced.phy
+
+Alignment comprises 1 partitions and 13228 sites
+
+Partition 0: noname
+Model: LG+G4m
+Alignment sites: 13228
+Gaps: 97.12 %
+Invariant sites: 56.34 %
+
+
+Alignment can be successfully read by RAxML-NG.
+
+
+Execution log saved to: /work/oa20474/PhylogenyPipeline/Opsins/Alignments/PASTA/RogueIter_8/SequencesOfInterestShuffled.part_008.alignment.PASTA.fasta.raxml.log
+
+Analysis started: 28-Jun-2021 18:06:17 / finished: 28-Jun-2021 18:06:17
+
+Elapsed time: 0.314 seconds
+

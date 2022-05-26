@@ -1,0 +1,52 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.252946] initialisation done (initScore = 0.963039, numBip=3595)
+[0.013250] sorting bipartition profile
+[0.118439] computed / updated events
+[0.030236] combined events
+[0.005488] calculated per dropset improvement
+[0.004861] executed the merging events 
+>359	tr|A0A663NAQ4|A0A663NAQ4_ATHCN_Platelet_activating_factor_receptor_OS_Athene_cunicularia_OX_194338_GN_PTAFR_PE_4_SV_1	1.000000	0.964066
+[0.003994] sorting bipartition profile
+[0.002342] computed / updated events
+[0.032830] combined events
+[0.004532] calculated per dropset improvement
+[0.006285] executed the merging events 
+>250	tr|A0A3Q3DZH1|A0A3Q3DZH1_9LABR_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Labrus_bergylta_OX_56723_PE_3_SV_1	1.000000	0.965092
+[0.006995] sorting bipartition profile
+[0.002097] computed / updated events
+[0.033124] combined events
+[0.004506] calculated per dropset improvement
+[0.004883] executed the merging events 
+>490	XP_017536731.1_PREDICTED_visual_pigment-like_receptor_peropsin_partial_Manis_javanica	1.000000	0.966119
+[0.004169] sorting bipartition profile
+[0.003017] computed / updated events
+[0.032625] combined events
+[0.004387] calculated per dropset improvement
+[0.004889] executed the merging events 
+>810	AIT55664.1_rhodopsin_partial_Pseudemoia_pagenstecheri	1.000000	0.967146
+[0.004092] sorting bipartition profile
+[0.001257] computed / updated events
+[0.032962] combined events
+[0.004240] calculated per dropset improvement
+[0.004934] executed the merging events 
+>390	RDD36765.1_Somatostatin_receptor_type_5_Trichoplax_sp._H2	1.000000	0.968172
+[0.004024] sorting bipartition profile
+[0.001653] computed / updated events
+[0.031561] combined events
+[0.004748] calculated per dropset improvement
+[0.005747] executed the merging events 
+>138	tr|A0A182M5T1|A0A182M5T1_9DIPT_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Anopheles_culicifacies_OX_139723_PE_3_SV_1	1.000000	0.969199
+[0.004349] sorting bipartition profile
+[0.001767] computed / updated events
+[0.031074] combined events
+[0.005164] calculated per dropset improvement
+[0.005514] executed the merging events 
+>453,417	XP_033628165.1_histamine_H2_receptor-like_isoform_X1_Asterias_rubens,XP_001624905.2_rhodopsin_GQ-coupled_Nematostella_vectensis	1.000000	0.970226
+[0.005543] sorting bipartition profile
+[0.003254] computed / updated events
+[0.029766] combined events
+[0.004300] calculated per dropset improvement
+total time elapsed: 1.762614

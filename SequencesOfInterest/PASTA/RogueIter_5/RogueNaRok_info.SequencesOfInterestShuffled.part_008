@@ -1,0 +1,88 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.296382] initialisation done (initScore = 0.902462, numBip=3354)
+[0.014267] sorting bipartition profile
+[0.123607] computed / updated events
+[0.037258] combined events
+[0.005003] calculated per dropset improvement
+[0.004717] executed the merging events 
+>250	AIM42991.1_long-wavelength_rhodopsin_partial_Cryptomyrmex_boltoni	2.709000	0.905187
+[0.003289] sorting bipartition profile
+[0.002920] computed / updated events
+[0.035617] combined events
+[0.004431] calculated per dropset improvement
+[0.003998] executed the merging events 
+>130	TEA25955.1_hypothetical_protein_DBR06_SOUSAS5710087_Sousa_chinensis	2.209000	0.907409
+[0.003526] sorting bipartition profile
+[0.001491] computed / updated events
+[0.035593] combined events
+[0.005995] calculated per dropset improvement
+[0.008235] executed the merging events 
+>1	tr|A0A0K0EE71|A0A0K0EE71_STRER_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Strongyloides_stercoralis_OX_6248_PE_4_SV_1	0.994000	0.908409
+[0.007507] sorting bipartition profile
+[0.001507] computed / updated events
+[0.041373] combined events
+[0.005370] calculated per dropset improvement
+[0.006552] executed the merging events 
+>206,165	XP_002118325.1_hypothetical_protein_TRIADDRAFT_33970_Trichoplax_adhaerens,XP_027041240.1_beta-2_adrenergic_receptor-like_Pocillopora_damicornis	1.786000	0.910206
+[0.006758] sorting bipartition profile
+[0.001358] computed / updated events
+[0.038884] combined events
+[0.005091] calculated per dropset improvement
+[0.005729] executed the merging events 
+>491	XP_011668533.2_melanopsin_Strongylocentrotus_purpuratus	0.449000	0.910658
+[0.004699] sorting bipartition profile
+[0.001051] computed / updated events
+[0.038152] combined events
+[0.005015] calculated per dropset improvement
+[0.005311] executed the merging events 
+>870	XP_010795648.1_PREDICTED_opsin-5-like_Notothenia_coriiceps	0.202000	0.910861
+[0.003955] sorting bipartition profile
+[0.002713] computed / updated events
+[0.037252] combined events
+[0.004918] calculated per dropset improvement
+[0.005066] executed the merging events 
+>131	RDD46712.1_Beta-3_adrenergic_receptor_Trichoplax_sp._H2	0.193000	0.911055
+[0.005813] sorting bipartition profile
+[0.001457] computed / updated events
+[0.036459] combined events
+[0.004740] calculated per dropset improvement
+[0.004984] executed the merging events 
+>303	AAL37513.1_opsin_partial_Vargula_hilgendorfii	0.167000	0.911223
+[0.008531] sorting bipartition profile
+[0.001722] computed / updated events
+[0.036752] combined events
+[0.004886] calculated per dropset improvement
+[0.005068] executed the merging events 
+>273	KAE8572955.1_Opsin_LWS1_Halyomorpha_halys	0.101000	0.911325
+[0.005894] sorting bipartition profile
+[0.003816] computed / updated events
+[0.032957] combined events
+[0.004613] calculated per dropset improvement
+[0.004810] executed the merging events 
+>521	JAJ00944.1_hypothetical_protein_partial_Daphnia_magna	0.093000	0.911419
+[0.005492] sorting bipartition profile
+[0.001423] computed / updated events
+[0.032291] combined events
+[0.004475] calculated per dropset improvement
+[0.004606] executed the merging events 
+>592	XP_033867984.2_opsin-3-like_Acipenser_ruthenus	0.070000	0.911489
+[0.005605] sorting bipartition profile
+[0.001154] computed / updated events
+[0.030395] combined events
+[0.004038] calculated per dropset improvement
+[0.003778] executed the merging events 
+>826	KAB1282472.1_Visual_pigment-like_receptor_peropsin_Camelus_dromedarius	0.017000	0.911506
+[0.004836] sorting bipartition profile
+[0.001387] computed / updated events
+[0.029889] combined events
+[0.004155] calculated per dropset improvement
+[0.003761] executed the merging events 
+>549	tr|H3ALG3|H3ALG3_LATCH_Opsin_3_OS_Latimeria_chalumnae_OX_7897_GN_OPN3_PE_4_SV_1	0.003000	0.911509
+[0.003277] sorting bipartition profile
+[0.001602] computed / updated events
+[0.028032] combined events
+[0.003820] calculated per dropset improvement
+total time elapsed: 2.151592

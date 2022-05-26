@@ -1,0 +1,94 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.481815] initialisation done (initScore = 0.910480, numBip=2991)
+[0.016855] sorting bipartition profile
+[0.078088] computed / updated events
+[0.022545] combined events
+[0.003638] calculated per dropset improvement
+[0.004335] executed the merging events 
+>237	Branchiomma_TRINITY_DN49110_c0_g1_i1|ORF1	1.267000	0.911870
+[0.003546] sorting bipartition profile
+[0.001077] computed / updated events
+[0.020584] combined events
+[0.003205] calculated per dropset improvement
+[0.004442] executed the merging events 
+>884	XP_017770834.1_PREDICTED_neuropeptide_Y_receptor-like_Nicrophorus_vespilloides	1.197000	0.913182
+[0.003796] sorting bipartition profile
+[0.001591] computed / updated events
+[0.019879] combined events
+[0.003207] calculated per dropset improvement
+[0.004388] executed the merging events 
+>287	DAniello2015_ops6_Patiria_miniata	0.954000	0.914228
+[0.003654] sorting bipartition profile
+[0.001456] computed / updated events
+[0.020330] combined events
+[0.003312] calculated per dropset improvement
+[0.004393] executed the merging events 
+>311	CAG13313.1_unnamed_protein_product_Tetraodon_nigroviridis	0.544000	0.914825
+[0.003520] sorting bipartition profile
+[0.001110] computed / updated events
+[0.020591] combined events
+[0.003345] calculated per dropset improvement
+[0.004318] executed the merging events 
+>794	XP_023170013.2_histamine_H2_receptor_Drosophila_hydei	0.542000	0.915419
+[0.003573] sorting bipartition profile
+[0.001233] computed / updated events
+[0.020778] combined events
+[0.003101] calculated per dropset improvement
+[0.004126] executed the merging events 
+>464	XP_009902364.1_PREDICTED_LOW_QUALITY_PROTEIN_rhodopsin_Picoides_pubescens	0.199000	0.915637
+[0.003698] sorting bipartition profile
+[0.000954] computed / updated events
+[0.020664] combined events
+[0.003257] calculated per dropset improvement
+[0.004227] executed the merging events 
+>684	XP_026117956.1_opsin-3-like_Carassius_auratus	0.082000	0.915727
+[0.003590] sorting bipartition profile
+[0.001113] computed / updated events
+[0.020881] combined events
+[0.003236] calculated per dropset improvement
+[0.004311] executed the merging events 
+>668	XP_029105799.1_pinopsin-like_Scleropages_formosus	0.063000	0.915796
+[0.003756] sorting bipartition profile
+[0.001118] computed / updated events
+[0.020823] combined events
+[0.003238] calculated per dropset improvement
+[0.004313] executed the merging events 
+>352,350	XP_028652098.1_opsin-5-like_Erpetoichthys_calabaricus,XP_004915005.1_opsin-5_Xenopus_tropicalis	0.097000	0.915902
+[0.004940] sorting bipartition profile
+[0.000753] computed / updated events
+[0.020206] combined events
+[0.003104] calculated per dropset improvement
+[0.004254] executed the merging events 
+>601	XP_026202837.1_parapinopsin-like_Anabas_testudineus	0.015000	0.915919
+[0.003530] sorting bipartition profile
+[0.001006] computed / updated events
+[0.020055] combined events
+[0.003137] calculated per dropset improvement
+[0.004270] executed the merging events 
+>817	Bispira_guinensis_TRINITY_DN34101_c2_g1_i1|ORF7	0.013000	0.915933
+[0.003635] sorting bipartition profile
+[0.001043] computed / updated events
+[0.019294] combined events
+[0.003111] calculated per dropset improvement
+[0.004261] executed the merging events 
+>872	XP_020345799.1_proteinase-activated_receptor_1-like_Oncorhynchus_kisutch	0.011000	0.915945
+[0.003513] sorting bipartition profile
+[0.001519] computed / updated events
+[0.019335] combined events
+[0.003106] calculated per dropset improvement
+[0.004171] executed the merging events 
+>914	XP_022079996.1_alpha-1B_adrenergic_receptor-like_Acanthaster_planci	0.005000	0.915951
+[0.003588] sorting bipartition profile
+[0.000953] computed / updated events
+[0.019132] combined events
+[0.003101] calculated per dropset improvement
+[0.004233] executed the merging events 
+>685	XP_028809960.1_opsin-3-like_Denticeps_clupeoides	0.001000	0.915952
+[0.003627] sorting bipartition profile
+[0.000932] computed / updated events
+[0.019252] combined events
+[0.003175] calculated per dropset improvement
+total time elapsed: 2.057862

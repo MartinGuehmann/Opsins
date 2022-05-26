@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.981152
+1	715	DAniello2015_ops8_Heliocidaris_erythrogramma	1.000000	0.982199
+2	547	tr|A0A672UI04|A0A672UI04_STRHB_Opsin_1_short_wave_sensitive_OS_Strigops_habroptila_OX_2489341_GN_OPN1SW_PE_4_SV_1	1.000000	0.983246
+3	862	XP_007884079.1_PREDICTED_C3a_anaphylatoxin_chemotactic_receptor-like_Callorhinchus_milii	1.000000	0.984293

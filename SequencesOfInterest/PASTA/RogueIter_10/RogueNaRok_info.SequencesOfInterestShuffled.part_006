@@ -1,0 +1,88 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.260826] initialisation done (initScore = 0.908928, numBip=2518)
+[0.014234] sorting bipartition profile
+[0.066850] computed / updated events
+[0.015253] combined events
+[0.003245] calculated per dropset improvement
+[0.002817] executed the merging events 
+>333	Branchiomma_SOAP_k35_C686026|ORF1	4.935000	0.914345
+[0.004580] sorting bipartition profile
+[0.001294] computed / updated events
+[0.015259] combined events
+[0.002838] calculated per dropset improvement
+[0.002844] executed the merging events 
+>630	ABW97639.1_longwave_rhodopsin_partial_Callibracon_limbatus	1.042000	0.915488
+[0.003897] sorting bipartition profile
+[0.001183] computed / updated events
+[0.014327] combined events
+[0.003008] calculated per dropset improvement
+[0.002849] executed the merging events 
+>824	RDD38565.1_Melanopsin-B_Trichoplax_sp._H2	0.785000	0.916350
+[0.004199] sorting bipartition profile
+[0.001156] computed / updated events
+[0.014885] combined events
+[0.002795] calculated per dropset improvement
+[0.002971] executed the merging events 
+>876	RDD41443.1_Neuropeptide_FF_receptor_2_Trichoplax_sp._H2	0.598000	0.917007
+[0.004084] sorting bipartition profile
+[0.001627] computed / updated events
+[0.014385] combined events
+[0.002836] calculated per dropset improvement
+[0.002895] executed the merging events 
+>606	APY20680.1_long_wavelength_sensitive_opsin_5_partial_Xenos_vesparum	0.512000	0.917569
+[0.004543] sorting bipartition profile
+[0.001280] computed / updated events
+[0.014556] combined events
+[0.002877] calculated per dropset improvement
+[0.002762] executed the merging events 
+>331	AIZ50543.1_opsin_2_partial_Amphiura_filiformis	0.341000	0.917943
+[0.004548] sorting bipartition profile
+[0.000823] computed / updated events
+[0.014070] combined events
+[0.002984] calculated per dropset improvement
+[0.002937] executed the merging events 
+>306	XP_020903466.2_rhodopsin-like_Exaiptasia_diaphana	0.200000	0.918162
+[0.004440] sorting bipartition profile
+[0.000995] computed / updated events
+[0.014713] combined events
+[0.003047] calculated per dropset improvement
+[0.003113] executed the merging events 
+>736	VDN16792.1_unnamed_protein_product_Dibothriocephalus_latus	0.118000	0.918292
+[0.004314] sorting bipartition profile
+[0.001262] computed / updated events
+[0.014903] combined events
+[0.003074] calculated per dropset improvement
+[0.003102] executed the merging events 
+>877	XP_020915684.1_galanin_receptor_type_1_isoform_X1_Exaiptasia_diaphana	0.063000	0.918361
+[0.004467] sorting bipartition profile
+[0.001507] computed / updated events
+[0.014663] combined events
+[0.003030] calculated per dropset improvement
+[0.002939] executed the merging events 
+>484	JAN78261.1_Opsin-5_Daphnia_magna	0.051000	0.918417
+[0.004209] sorting bipartition profile
+[0.000786] computed / updated events
+[0.014465] combined events
+[0.002988] calculated per dropset improvement
+[0.002910] executed the merging events 
+>356	XP_007896571.1_PREDICTED_RPE-retinal_G_protein-coupled_receptor_Callorhinchus_milii	0.031000	0.918451
+[0.003949] sorting bipartition profile
+[0.000857] computed / updated events
+[0.014475] combined events
+[0.002945] calculated per dropset improvement
+[0.002903] executed the merging events 
+>690	tr|T1GUX3|T1GUX3_MEGSC_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Megaselia_scalaris_OX_36166_PE_3_SV_1	0.017000	0.918470
+[0.004352] sorting bipartition profile
+[0.001465] computed / updated events
+[0.014229] combined events
+[0.002995] calculated per dropset improvement
+[0.002934] executed the merging events 
+>742	XP_033644408.1_rhodopsin_GQ-coupled-like_Asterias_rubens	0.017000	0.918488
+[0.003914] sorting bipartition profile
+[0.000879] computed / updated events
+[0.014093] combined events
+[0.003021] calculated per dropset improvement
+total time elapsed: 1.697298

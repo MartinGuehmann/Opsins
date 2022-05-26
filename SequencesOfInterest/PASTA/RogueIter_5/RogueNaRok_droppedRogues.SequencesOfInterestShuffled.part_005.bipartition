@@ -1,0 +1,6 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.969819
+1	862	XP_012922111.1_RPE-retinal_G_protein-coupled_receptor_isoform_X3_Heterocephalus_glaber	2.000000	0.971831
+2	919	XP_019117643.2_opsin-5_Larimichthys_crocea	1.000000	0.972837
+3	306	DAniello2015_ops1_Ptychodera_flava	1.000000	0.973843
+4	353	XP_029113012.1_pinopsin-like_Scleropages_formosus	1.000000	0.974849

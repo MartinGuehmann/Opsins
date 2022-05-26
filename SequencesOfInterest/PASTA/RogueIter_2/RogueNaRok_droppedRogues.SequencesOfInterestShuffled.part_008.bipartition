@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.966492
+1	231	JAI81635.1_Gpcr_rhodopsin_family_putative_Daphnia_magna	2.000000	0.968586
+2	303	XP_030060848.1_melanopsin_Microcaecilia_unicolor	1.000000	0.969634
+3	195	XP_019737318.1_PREDICTED_melanin-concentrating_hormone_receptor_1-like_Hippocampus_comes	1.000000	0.970681

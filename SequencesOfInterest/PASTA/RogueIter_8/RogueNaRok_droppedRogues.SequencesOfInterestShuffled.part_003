@@ -1,0 +1,10 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.922984
+1	758	RDD39603.1_rhodopsin_partial_Trichoplax_sp._H2	1.880000	0.924980
+2	775	XP_002121313.1_beta-4C_adrenergic_receptor-like_Ciona_intestinalis	1.066000	0.926111
+3	158	Pseudopotamilla_reniformisII_TRINITY_DN54556_c0_g1_i1|ORF1	0.740000	0.926897
+4	37	AXF38096.1_OPN7b_Paralichthys_olivaceus	0.647000	0.927584
+5	273	AEE80680.1_long-wavelength_rhodopsin_partial_Fideliopsis_ornata	0.597000	0.928218
+6	609	ADP06865.1_rhodopsin-like_photopigment_Danio_roseus	0.207000	0.928437
+7	269	AAZ95194.1_long-wavelength_rhodopsin_partial_Tachysphex_yolo	0.197000	0.928646
+8	212	tr|A0A182LZL7|A0A182LZL7_9DIPT_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Anopheles_culicifacies_OX_139723_PE_4_SV_1	0.134000	0.928789

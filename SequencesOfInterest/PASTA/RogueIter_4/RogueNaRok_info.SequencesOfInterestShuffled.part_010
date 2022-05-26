@@ -1,0 +1,64 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.630113] initialisation done (initScore = 0.908934, numBip=3025)
+[0.016713] sorting bipartition profile
+[0.082723] computed / updated events
+[0.023098] combined events
+[0.004244] calculated per dropset improvement
+[0.006816] executed the merging events 
+>571	ANN75179.1_long_wavelength_rhodopsin_partial_Stigmatomma_zwaluwenburgi	2.203000	0.911352
+[0.003496] sorting bipartition profile
+[0.001612] computed / updated events
+[0.020680] combined events
+[0.003308] calculated per dropset improvement
+[0.005186] executed the merging events 
+>763	Paradialychone_ambigua_TRINITY_DN7651_c0_g1_i2|ORF2	1.679000	0.913195
+[0.003322] sorting bipartition profile
+[0.001036] computed / updated events
+[0.019647] combined events
+[0.003137] calculated per dropset improvement
+[0.004581] executed the merging events 
+>896	DAniello2015_ops3.1.A_Lytechinus_variegatus	0.839000	0.914116
+[0.003168] sorting bipartition profile
+[0.001514] computed / updated events
+[0.019661] combined events
+[0.003097] calculated per dropset improvement
+[0.004432] executed the merging events 
+>351	KPP64178.1_leukotriene_B4_receptor_1-like_Scleropages_formosus	0.314000	0.914461
+[0.002974] sorting bipartition profile
+[0.001069] computed / updated events
+[0.019500] combined events
+[0.003029] calculated per dropset improvement
+[0.004556] executed the merging events 
+>451,361	XP_027225295.1_beta-3_adrenergic_receptor-like_Penaeus_vannamei,RDD37726.1_Melatonin_receptor_type_1A_Trichoplax_sp._H2	0.318000	0.914810
+[0.004054] sorting bipartition profile
+[0.001689] computed / updated events
+[0.017231] combined events
+[0.003312] calculated per dropset improvement
+[0.005014] executed the merging events 
+>347	TRZ21238.1_hypothetical_protein_HGM15179_005868_Zosterops_borbonicus	0.121000	0.914943
+[0.003534] sorting bipartition profile
+[0.001080] computed / updated events
+[0.016832] combined events
+[0.003115] calculated per dropset improvement
+[0.004809] executed the merging events 
+>82	TDH06271.1_hypothetical_protein_EPR50_G00129310_Perca_flavescens	0.048000	0.914996
+[0.003379] sorting bipartition profile
+[0.001419] computed / updated events
+[0.017543] combined events
+[0.003148] calculated per dropset improvement
+[0.004904] executed the merging events 
+>745	XP_029466510.1_RPE-retinal_G_protein-coupled_receptor_isoform_X2_Rhinatrema_bivittatum	0.014000	0.915011
+[0.003682] sorting bipartition profile
+[0.001040] computed / updated events
+[0.018053] combined events
+[0.003709] calculated per dropset improvement
+[0.006671] executed the merging events 
+>73	XP_035288766.1_pinopsin-like_Anguilla_anguilla	0.010000	0.915022
+[0.003707] sorting bipartition profile
+[0.000928] computed / updated events
+[0.018447] combined events
+[0.003304] calculated per dropset improvement
+total time elapsed: 2.044016

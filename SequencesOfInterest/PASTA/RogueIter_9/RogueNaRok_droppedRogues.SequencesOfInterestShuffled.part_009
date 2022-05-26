@@ -1,0 +1,12 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.921436
+1	251	GAV04561.1_hypothetical_protein_RvY_14828_Ramazzottius_varieornatus	1.349000	0.922891
+2	141	AEW67067.1_rod_opsin_partial_Bassozetus_compressus	1.173000	0.924156
+3	879	RDD40953.1_Opsin-5_Trichoplax_sp._H2	0.554000	0.924754
+4	468	AAZ95193.1_long-wavelength_rhodopsin_partial_Stigmus_fulvipes	0.385000	0.925169
+5	722	XP_034168609.1_opsin_4xa_isoform_X1_Pangasianodon_hypophthalmus	0.272000	0.925463
+6	590	JAK04677.1_putative_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna	0.164000	0.925640
+7	665,664	tr|A0A665UAY8|A0A665UAY8_ECHNA_Uncharacterized_protein_OS_Echeneis_naucrates_OX_173247_PE_4_SV_1,tr|A0A3Q1CR93|A0A3Q1CR93_AMPOC_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Amphiprion_ocellaris_OX_80972_PE_3_SV_1	0.086000	0.925732
+8	804	RDD40478.1_Neuropeptide_FF_receptor_2_Trichoplax_sp._H2	0.041000	0.925777
+9	814	XP_032231320.1_neuromedin-K_receptor_isoform_X1_Nematostella_vectensis	0.021000	0.925799
+10	437	KAE9423913.1_hypothetical_protein_GE061_00964_Apolygus_lucorum	0.013000	0.925813

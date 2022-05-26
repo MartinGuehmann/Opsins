@@ -1,0 +1,52 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.154696] initialisation done (initScore = 0.967811, numBip=3247)
+[0.022421] sorting bipartition profile
+[0.058662] computed / updated events
+[0.018713] combined events
+[0.003256] calculated per dropset improvement
+[0.005279] executed the merging events 
+>489,376	XP_033103259.1_kappa-type_opioid_receptor-like_Anneissia_japonica,RDD42800.1_Tachykinin-like_peptides_receptor_86C_Trichoplax_sp._H2	4.000000	0.972103
+[0.004928] sorting bipartition profile
+[0.002258] computed / updated events
+[0.018963] combined events
+[0.002940] calculated per dropset improvement
+[0.009508] executed the merging events 
+>311	tr|A0A1D1VX88|A0A1D1VX88_RAMVA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Ramazzottius_varieornatus_OX_947166_GN_RvY_16096-1_PE_4_SV_1	2.000000	0.974249
+[0.003626] sorting bipartition profile
+[0.003212] computed / updated events
+[0.018986] combined events
+[0.003214] calculated per dropset improvement
+[0.004914] executed the merging events 
+>151	KYQ47299.1_Rhodopsin_Trachymyrmex_zeteki	1.000000	0.975322
+[0.003631] sorting bipartition profile
+[0.001642] computed / updated events
+[0.018291] combined events
+[0.004512] calculated per dropset improvement
+[0.004295] executed the merging events 
+>134	AAZ94236.1_long-wavelength_rhodopsin_partial_Isodontia_mexicana	1.000000	0.976395
+[0.004251] sorting bipartition profile
+[0.000884] computed / updated events
+[0.018179] combined events
+[0.002996] calculated per dropset improvement
+[0.004160] executed the merging events 
+>216	JAL31218.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_partial_Daphnia_magna	1.000000	0.977468
+[0.003473] sorting bipartition profile
+[0.001715] computed / updated events
+[0.017794] combined events
+[0.002749] calculated per dropset improvement
+[0.004041] executed the merging events 
+>52	GAU94431.1_hypothetical_protein_RvY_06206_Ramazzottius_varieornatus	1.000000	0.978541
+[0.006152] sorting bipartition profile
+[0.001206] computed / updated events
+[0.017514] combined events
+[0.002707] calculated per dropset improvement
+[0.004046] executed the merging events 
+>297	XP_026689509.1_opsin_Rh1-like_Ciona_intestinalis	1.000000	0.979614
+[0.004579] sorting bipartition profile
+[0.001332] computed / updated events
+[0.017124] combined events
+[0.003172] calculated per dropset improvement
+total time elapsed: 1.486659

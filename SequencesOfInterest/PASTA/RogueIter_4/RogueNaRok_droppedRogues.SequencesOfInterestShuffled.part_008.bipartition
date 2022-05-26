@@ -1,0 +1,10 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.960483
+1	90	XP_010156886.1_PREDICTED_H_ACA_ribonucleoprotein_complex_subunit_1_partial_Eurypyga_helias	2.000000	0.962678
+2	233	XP_019617455.1_PREDICTED_prokineticin_receptor_2-like_Branchiostoma_belcheri	1.000000	0.963776
+3	814,809	AIM43099.1_long-wavelength_rhodopsin_partial_Stegomyrmex_manni,AJK90524.1_long_wavelength_rhodopsin_partial_Aphaenogaster_tennesseensis	2.000000	0.965971
+4	367	tr|A0A3Q2PI84|A0A3Q2PI84_FUNHE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Fundulus_heteroclitus_OX_8078_PE_3_SV_1	1.000000	0.967069
+5	625	XP_018897455.1_PREDICTED_rhodopsin-like_Bemisia_tabaci	1.000000	0.968167
+6	899,898	XP_029725873.1_opsin_ultraviolet-sensitive-like_Aedes_albopictus,tr|A0A182NH64|A0A182NH64_9DIPT_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Anopheles_dirus_OX_7168_PE_3_SV_1	1.000000	0.969265
+7	794,787	AKM15759.1_long-wavelength_opsin_partial_Cinara_cuneomaculata,AAW80327.1_long-wavelength_opsin_partial_Boreus_coloradensis	1.000000	0.970362
+8	913,0	Notalux_sp1_TRINITY_DN5863_c0_g1_i1|ORF1,TRY67584.1_hypothetical_protein_TCAL_08042_Tigriopus_californicus	1.000000	0.971460

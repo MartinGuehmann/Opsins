@@ -1,0 +1,46 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[2.220892] initialisation done (initScore = 0.967413, numBip=3200)
+[0.022059] sorting bipartition profile
+[0.101907] computed / updated events
+[0.037852] combined events
+[0.006983] calculated per dropset improvement
+[0.007206] executed the merging events 
+>874	ABG34894.1_long-wavelength_rhodopsin_partial_Alphomelon_sp._JCB-2006	2.000000	0.969450
+[0.004565] sorting bipartition profile
+[0.002524] computed / updated events
+[0.035409] combined events
+[0.005179] calculated per dropset improvement
+[0.004296] executed the merging events 
+>681	XP_017345853.1_PREDICTED_olfactory_receptor_2AT4-like_Ictalurus_punctatus	2.000000	0.971487
+[0.009137] sorting bipartition profile
+[0.001796] computed / updated events
+[0.033906] combined events
+[0.006166] calculated per dropset improvement
+[0.005367] executed the merging events 
+>875,842	ABV08882.1_long_wavelength_sensitive_opsin_partial_Limenitis_archippus_watsoni,ACB70910.1_long_wavelength_rhodopsin_partial_Colocistis_castanea	2.000000	0.973523
+[0.006274] sorting bipartition profile
+[0.002659] computed / updated events
+[0.036140] combined events
+[0.007202] calculated per dropset improvement
+[0.007122] executed the merging events 
+>555	TKY70195.1_Glycine-rich_protein_A3_Spatholobus_suberectus	1.000000	0.974542
+[0.007225] sorting bipartition profile
+[0.005077] computed / updated events
+[0.044535] combined events
+[0.007389] calculated per dropset improvement
+[0.008357] executed the merging events 
+>419	DAniello2015_ops8_Patiria_miniata	1.000000	0.975560
+[0.006530] sorting bipartition profile
+[0.001586] computed / updated events
+[0.036034] combined events
+[0.005939] calculated per dropset improvement
+[0.005434] executed the merging events 
+>125	XP_034462759.1_pinopsin-like_Hippoglossus_hippoglossus	1.000000	0.976578
+[0.008288] sorting bipartition profile
+[0.004827] computed / updated events
+[0.031604] combined events
+[0.006864] calculated per dropset improvement
+total time elapsed: 2.745218

@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.982915
+1	763	XP_008319628.1_melanopsin-A_Cynoglossus_semilaevis	1.000000	0.983920
+2	721	VZI04154.1_unnamed_protein_product_Sparganum_proliferum	1.000000	0.984925
+3	779	XP_033506049.1_melanopsin-like_Epinephelus_lanceolatus	1.000000	0.985930
