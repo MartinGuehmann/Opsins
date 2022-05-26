@@ -1,0 +1,76 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.423828] initialisation done (initScore = 0.915122, numBip=2976)
+[0.014264] sorting bipartition profile
+[0.097421] computed / updated events
+[0.020683] combined events
+[0.004892] calculated per dropset improvement
+[0.005217] executed the merging events 
+>933	tr|A0A5F4WK89|A0A5F4WK89_CALJA_Retinal_pigment_epithelium-derived_rhodopsin_homolog_OS_Callithrix_jacchus_OX_9483_GN_RRH_PE_3_SV_1	1.158000	0.916308
+[0.004461] sorting bipartition profile
+[0.001480] computed / updated events
+[0.023336] combined events
+[0.005110] calculated per dropset improvement
+[0.008756] executed the merging events 
+>978,964	XP_031560436.1_QRFP-like_peptide_receptor_Actinia_tenebrosa,RDD43211.1_Galanin_receptor_type_2_Trichoplax_sp._H2	1.586000	0.917933
+[0.007604] sorting bipartition profile
+[0.002691] computed / updated events
+[0.024456] combined events
+[0.004549] calculated per dropset improvement
+[0.005987] executed the merging events 
+>701	XP_027516098.1_pinopsin_isoform_X2_Corapipo_altera	0.677000	0.918627
+[0.005704] sorting bipartition profile
+[0.002156] computed / updated events
+[0.023907] combined events
+[0.004696] calculated per dropset improvement
+[0.006968] executed the merging events 
+>583	XP_030219866.1_rhodopsin_Gadus_morhua	0.286000	0.918920
+[0.004860] sorting bipartition profile
+[0.002703] computed / updated events
+[0.024988] combined events
+[0.004691] calculated per dropset improvement
+[0.005687] executed the merging events 
+>487	JAN31237.1_Gpcr_rhodopsin_family_Daphnia_magna	0.253000	0.919179
+[0.005103] sorting bipartition profile
+[0.001507] computed / updated events
+[0.025132] combined events
+[0.004222] calculated per dropset improvement
+[0.005403] executed the merging events 
+>913	CDQ66975.1_unnamed_protein_product_Oncorhynchus_mykiss	0.247000	0.919432
+[0.004317] sorting bipartition profile
+[0.001697] computed / updated events
+[0.025431] combined events
+[0.004671] calculated per dropset improvement
+[0.006947] executed the merging events 
+>890	XP_033739546.1_pinopsin-like_isoform_X1_Pecten_maximus	0.206000	0.919643
+[0.004216] sorting bipartition profile
+[0.001027] computed / updated events
+[0.023787] combined events
+[0.005126] calculated per dropset improvement
+[0.006225] executed the merging events 
+>30	XP_007250160.1_cysteinyl_leukotriene_receptor_2-like_Astyanax_mexicanus	0.137000	0.919784
+[0.005119] sorting bipartition profile
+[0.001340] computed / updated events
+[0.024964] combined events
+[0.004544] calculated per dropset improvement
+[0.005730] executed the merging events 
+>367	JAT19337.1_hypothetical_protein_g.49949_partial_Graphocephala_atropunctata	0.028000	0.919813
+[0.004934] sorting bipartition profile
+[0.001803] computed / updated events
+[0.025472] combined events
+[0.004414] calculated per dropset improvement
+[0.005643] executed the merging events 
+>655	XP_033858485.2_opsin-1_short-wave-sensitive_2_Acipenser_ruthenus	0.003000	0.919816
+[0.004593] sorting bipartition profile
+[0.001129] computed / updated events
+[0.025291] combined events
+[0.004371] calculated per dropset improvement
+[0.006012] executed the merging events 
+>661	XP_006269113.1_PREDICTED_blue-sensitive_opsin_Alligator_mississippiensis	0.001000	0.919817
+[0.004955] sorting bipartition profile
+[0.001527] computed / updated events
+[0.025206] combined events
+[0.004789] calculated per dropset improvement
+total time elapsed: 2.028777

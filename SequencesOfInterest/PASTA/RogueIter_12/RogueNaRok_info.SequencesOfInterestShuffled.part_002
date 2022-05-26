@@ -1,0 +1,64 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.322316] initialisation done (initScore = 0.928251, numBip=2753)
+[0.025582] sorting bipartition profile
+[0.080561] computed / updated events
+[0.019241] combined events
+[0.004237] calculated per dropset improvement
+[0.004197] executed the merging events 
+>610	XP_010207069.1_PREDICTED_LOW_QUALITY_PROTEIN_melanopsin-A-like_Colius_striatus	0.655000	0.928909
+[0.004936] sorting bipartition profile
+[0.001800] computed / updated events
+[0.023365] combined events
+[0.004155] calculated per dropset improvement
+[0.004491] executed the merging events 
+>405	AIM43087.1_long-wavelength_rhodopsin_partial_Rogeria_nevadensis	0.585000	0.929498
+[0.004042] sorting bipartition profile
+[0.001930] computed / updated events
+[0.020836] combined events
+[0.004031] calculated per dropset improvement
+[0.004661] executed the merging events 
+>922	XP_035290556.1_G-protein_coupled_receptor_151-like_Anguilla_anguilla	0.543000	0.930044
+[0.004481] sorting bipartition profile
+[0.001738] computed / updated events
+[0.020181] combined events
+[0.003863] calculated per dropset improvement
+[0.004050] executed the merging events 
+>913	ODM90740.1_Neuropeptide_Y_receptor_Orchesella_cincta	0.401000	0.930448
+[0.004156] sorting bipartition profile
+[0.001889] computed / updated events
+[0.020222] combined events
+[0.003864] calculated per dropset improvement
+[0.004330] executed the merging events 
+>974	RDD38564.1_G-protein_coupled_receptor_moody_Trichoplax_sp._H2	0.187000	0.930636
+[0.003908] sorting bipartition profile
+[0.001639] computed / updated events
+[0.020007] combined events
+[0.003667] calculated per dropset improvement
+[0.004029] executed the merging events 
+>784	AWP20191.1_putative_opsin-5-like_Scophthalmus_maximus	0.094000	0.930730
+[0.004243] sorting bipartition profile
+[0.001701] computed / updated events
+[0.020190] combined events
+[0.003846] calculated per dropset improvement
+[0.004360] executed the merging events 
+>467	JAJ28810.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna	0.060000	0.930791
+[0.004191] sorting bipartition profile
+[0.001768] computed / updated events
+[0.019823] combined events
+[0.003720] calculated per dropset improvement
+[0.004108] executed the merging events 
+>785	XP_033932587.1_opsin_8_group_member_c_Pseudochaenichthys_georgianus	0.025000	0.930816
+[0.004057] sorting bipartition profile
+[0.001535] computed / updated events
+[0.020068] combined events
+[0.003948] calculated per dropset improvement
+[0.004113] executed the merging events 
+>52	XP_002111653.1_hypothetical_protein_TRIADDRAFT_55912_Trichoplax_adhaerens	0.001000	0.930817
+[0.004190] sorting bipartition profile
+[0.001123] computed / updated events
+[0.021035] combined events
+[0.004369] calculated per dropset improvement
+total time elapsed: 1.765628

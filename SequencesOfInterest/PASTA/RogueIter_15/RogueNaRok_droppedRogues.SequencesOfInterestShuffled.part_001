@@ -1,0 +1,11 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.927002
+1	192	KAA8593379.1_hypothetical_protein_FQN60_009495_partial_Etheostoma_spectabile	1.809000	0.928914
+2	926	tr|A0A402FD00|A0A402FD00_9SAUR_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Paroedura_picta_OX_143630_GN_parPi_0016404_PE_3_SV_1	0.762000	0.929720
+3	490	APY20604.1_ultraviolet_sensitive_opsin_Euwallacea_fornicatus	0.733000	0.930495
+4	7	XP_018608750.2_vertebrate_ancient_opsin-like_Scleropages_formosus	0.562000	0.931089
+5	26	tr|H2MD81|H2MD81_ORYLA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Oryzias_latipes_OX_8090_GN_tmtops1b_PE_3_SV_2	0.445000	0.931559
+6	573	KAF4522577.1_Long_wavelength_sensitive_opsin_1_Ephemera_danica	0.114000	0.931680
+7	915	XP_026208526.1_leukotriene_B4_receptor_1-like_Anabas_testudineus	0.007000	0.931687
+8	895	tr|A0A3Q2Y5B3|A0A3Q2Y5B3_HIPCM_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Hippocampus_comes_OX_109280_PE_3_SV_1	0.002000	0.931689
+9	326	KAF3708198.1_RPE-retinal_G_protein-coupled_receptor_Channa_argus	0.001000	0.931690

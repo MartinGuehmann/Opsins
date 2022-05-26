@@ -1,0 +1,11 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.937095
+1	478	XP_005179966.1_PREDICTED_G-protein_coupled_receptor_moody_Musca_domestica	1.137000	0.938281
+2	445	XP_024085754.1_LOW_QUALITY_PROTEIN_tyramine_octopamine_receptor_Cimex_lectularius	0.804000	0.939119
+3	878	ABK54920.1_long_wavelength_rhodopsin_partial_Dasymutilla_aureola	0.575000	0.939718
+4	868	SHD60983.1_long-wavelength_rhodopsin_partial_Cerapachys_jovis	0.398000	0.940133
+5	733	KAF3695736.1_Melanopsin-A_Opsin-4A_Channa_argus	0.377000	0.940527
+6	369	XP_026883817.1_atypical_chemokine_receptor_4-like_Electrophorus_electricus	0.366000	0.940908
+7	351	XP_025913644.1_cyclic_nucleotide-gated_cation_channel_alpha-4_Apteryx_rowi	0.361000	0.941285
+8	514	tr|A0A3Q4BJ98|A0A3Q4BJ98_MOLML_Opsin_5_OS_Mola_mola_OX_94237_PE_3_SV_1	0.061000	0.941348
+9	119	ACC85888.1_red-sensitive_pigment_LWS_Candidia_barbata	0.002000	0.941350

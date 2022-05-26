@@ -1,0 +1,64 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.395541] initialisation done (initScore = 0.937095, numBip=2461)
+[0.014833] sorting bipartition profile
+[0.078820] computed / updated events
+[0.015765] combined events
+[0.004855] calculated per dropset improvement
+[0.005969] executed the merging events 
+>478	XP_005179966.1_PREDICTED_G-protein_coupled_receptor_moody_Musca_domestica	1.137000	0.938281
+[0.004924] sorting bipartition profile
+[0.001247] computed / updated events
+[0.017152] combined events
+[0.004446] calculated per dropset improvement
+[0.006451] executed the merging events 
+>445	XP_024085754.1_LOW_QUALITY_PROTEIN_tyramine_octopamine_receptor_Cimex_lectularius	0.804000	0.939119
+[0.004564] sorting bipartition profile
+[0.001531] computed / updated events
+[0.017340] combined events
+[0.004824] calculated per dropset improvement
+[0.006018] executed the merging events 
+>878	ABK54920.1_long_wavelength_rhodopsin_partial_Dasymutilla_aureola	0.575000	0.939718
+[0.004664] sorting bipartition profile
+[0.001525] computed / updated events
+[0.018876] combined events
+[0.005370] calculated per dropset improvement
+[0.007073] executed the merging events 
+>868	SHD60983.1_long-wavelength_rhodopsin_partial_Cerapachys_jovis	0.398000	0.940133
+[0.004622] sorting bipartition profile
+[0.002212] computed / updated events
+[0.021492] combined events
+[0.004802] calculated per dropset improvement
+[0.005118] executed the merging events 
+>733	KAF3695736.1_Melanopsin-A_Opsin-4A_Channa_argus	0.377000	0.940527
+[0.003611] sorting bipartition profile
+[0.001201] computed / updated events
+[0.017150] combined events
+[0.004430] calculated per dropset improvement
+[0.004628] executed the merging events 
+>369	XP_026883817.1_atypical_chemokine_receptor_4-like_Electrophorus_electricus	0.366000	0.940908
+[0.003586] sorting bipartition profile
+[0.000989] computed / updated events
+[0.017386] combined events
+[0.004247] calculated per dropset improvement
+[0.004924] executed the merging events 
+>351	XP_025913644.1_cyclic_nucleotide-gated_cation_channel_alpha-4_Apteryx_rowi	0.361000	0.941285
+[0.003735] sorting bipartition profile
+[0.001278] computed / updated events
+[0.018158] combined events
+[0.004368] calculated per dropset improvement
+[0.005135] executed the merging events 
+>514	tr|A0A3Q4BJ98|A0A3Q4BJ98_MOLML_Opsin_5_OS_Mola_mola_OX_94237_PE_3_SV_1	0.061000	0.941348
+[0.003744] sorting bipartition profile
+[0.001625] computed / updated events
+[0.018630] combined events
+[0.004244] calculated per dropset improvement
+[0.004665] executed the merging events 
+>119	ACC85888.1_red-sensitive_pigment_LWS_Candidia_barbata	0.002000	0.941350
+[0.003416] sorting bipartition profile
+[0.001066] computed / updated events
+[0.017657] combined events
+[0.004384] calculated per dropset improvement
+total time elapsed: 1.815152

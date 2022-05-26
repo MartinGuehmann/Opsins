@@ -1,0 +1,16 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.900164
+1	288	XP_006825397.1_PREDICTED_bombesin_receptor_subtype-3-like_Saccoglossus_kowalevskii	2.471000	0.902737
+2	858	tr|A0A4W4FF08|A0A4W4FF08_ELEEL_Uncharacterized_protein_OS_Electrophorus_electricus_OX_8005_GN_LOC113580743_PE_4_SV_1	1.192000	0.903979
+3	298	XP_002115069.1_hypothetical_protein_TRIADDRAFT_58846_Trichoplax_adhaerens	1.060000	0.905083
+4	29	XP_018594612.1_opsin-5-like_Scleropages_formosus	1.058000	0.906185
+5	213	DAC80518.1_TPA_inf_xenopsin_1_partial_Pterosagitta_draco	1.007000	0.907234
+6	13	XP_011421213.1_melanopsin-B-like_Crassostrea_gigas	0.479000	0.907733
+7	505	BAQ54939.1_opsin_rhodopsin-7_like_Indolestes_peregrinus	0.437000	0.908189
+8	392	APY20599.1_long_wavelength_sensitive_opsin_Dastarcus_helophoroides	0.356000	0.908559
+9	15	Parasabella_SOAP_k35_C754043|ORF8	0.292000	0.908864
+10	14	XP_023346171.1_blue-sensitive_opsin-like_partial_Eurytemora_affinis	0.193000	0.909065
+11	270,269	XP_009057000.1_hypothetical_protein_LOTGIDRAFT_120990_Lottia_gigantea,XP_021938115.1_gonadotropin-releasing_hormone_receptor_isoform_X3_Zootermopsis_nevadensis	0.331000	0.909409
+12	117	XP_034398174.1_opsin-5-like_Cyclopterus_lumpus	0.043000	0.909454
+13	212	KAF1319001.1_putative_opsin-like_receptor_Schistosoma_haematobium	0.006000	0.909460
+14	341	XP_029499676.1_D1_dopamine_receptor-like_Oncorhynchus_nerka	0.005000	0.909466

@@ -1,0 +1,4 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.985915
+1	405	AIM43087.1_long-wavelength_rhodopsin_partial_Rogeria_nevadensis	1.000000	0.986922
+2	610	XP_010207069.1_PREDICTED_LOW_QUALITY_PROTEIN_melanopsin-A-like_Colius_striatus	1.000000	0.987928

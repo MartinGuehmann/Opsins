@@ -1,0 +1,6 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.972917
+1	288	XP_006825397.1_PREDICTED_bombesin_receptor_subtype-3-like_Saccoglossus_kowalevskii	3.000000	0.976042
+2	298	XP_002115069.1_hypothetical_protein_TRIADDRAFT_58846_Trichoplax_adhaerens	2.000000	0.978125
+3	213	DAC80518.1_TPA_inf_xenopsin_1_partial_Pterosagitta_draco	1.000000	0.979167
+4	23	ROL49179.1_Opsin-5_Anabarilius_grahami	1.000000	0.980208

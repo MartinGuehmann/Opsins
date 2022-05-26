@@ -1,0 +1,16 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.922220
+1	218	AXP19165.1_type_1_short_wavelength-sensitive_opsin_partial_Artibeus_lituratus	1.329000	0.923606
+2	147	JAQ57560.1_Rhodopsin-like_protein_Fundulus_heteroclitus	1.018000	0.924667
+3	588	XP_030384580.1_opsin_Rh5_Scaptodrosophila_lebanonensis	0.863000	0.925567
+4	306	BAL63415.1_parietopsin_Danio_rerio	0.518000	0.926107
+5	12	XP_015763203.1_PREDICTED_visual_pigment-like_receptor_peropsin_Acropora_digitifera	0.503000	0.926632
+6	619	ALA20702.1_long-wavelength_rhodopsin_partial_Mystrium_oberthueri	0.298000	0.926943
+7	119	ABB52680.1_rhodopsin_partial_Epigonus_telescopus	0.276000	0.927230
+8	96	XP_008530550.1_PREDICTED_opsin-3_Equus_przewalskii	0.263000	0.927505
+9	229	AOL02320.1_short-wavelength_sensitive_opsin_partial_Amblyglyphidodon_leucogaster	0.263000	0.927779
+10	519	tr|E2R8U6|E2R8U6_CANLF_Retinal_G_protein_coupled_receptor_OS_Canis_lupus_familiaris_OX_9615_GN_RGR_PE_3_SV_2	0.227000	0.928016
+11	393,391	XP_018553448.1_PREDICTED_LOW_QUALITY_PROTEIN_opsin-5-like_Lates_calcarifer,XP_022621041.1_opsin-5-like_Seriola_dumerili	0.361000	0.928392
+12	139	AWU59273.1_rhodopsin_Chitala_ornata	0.125000	0.928522
+13	413	DAniello2015_ops8.1_Saccoglossus_kowalevskii	0.076000	0.928602
+14	595	KAB7506870.1_Opsin_ultraviolet-sensitive_Armadillidium_nasatum	0.028000	0.928631

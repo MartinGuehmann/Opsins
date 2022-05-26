@@ -1,0 +1,52 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.280574] initialisation done (initScore = 0.975831, numBip=2639)
+[0.013841] sorting bipartition profile
+[0.078892] computed / updated events
+[0.015415] combined events
+[0.003866] calculated per dropset improvement
+[0.003637] executed the merging events 
+>531	APY20687.1_long_wavelength_sensitive_opsin_4_partial_Xenos_vesparum	4.000000	0.979859
+[0.003668] sorting bipartition profile
+[0.001048] computed / updated events
+[0.016811] combined events
+[0.003746] calculated per dropset improvement
+[0.003691] executed the merging events 
+>93	tr|A0A3Q3X243|A0A3Q3X243_MOLML_Parietopsin_OS_Mola_mola_OX_94237_PE_3_SV_1	1.000000	0.980866
+[0.003758] sorting bipartition profile
+[0.001613] computed / updated events
+[0.016386] combined events
+[0.003483] calculated per dropset improvement
+[0.003776] executed the merging events 
+>199	TSK49631.1_Green-sensitive_opsin-3_Bagarius_yarrelli	1.000000	0.981873
+[0.003923] sorting bipartition profile
+[0.001077] computed / updated events
+[0.016666] combined events
+[0.003524] calculated per dropset improvement
+[0.003561] executed the merging events 
+>969	CAB3411142.1_unnamed_protein_product_Caenorhabditis_bovis	1.000000	0.982880
+[0.003507] sorting bipartition profile
+[0.001185] computed / updated events
+[0.016462] combined events
+[0.003510] calculated per dropset improvement
+[0.003858] executed the merging events 
+>17	XP_010769568.1_PREDICTED_pinopsin-like_Notothenia_coriiceps	1.000000	0.983887
+[0.003627] sorting bipartition profile
+[0.001408] computed / updated events
+[0.016317] combined events
+[0.003631] calculated per dropset improvement
+[0.003918] executed the merging events 
+>823	XP_031555446.1_histamine_H2_receptor-like_Actinia_tenebrosa	1.000000	0.984894
+[0.003759] sorting bipartition profile
+[0.001353] computed / updated events
+[0.016241] combined events
+[0.003524] calculated per dropset improvement
+[0.003916] executed the merging events 
+>963,962	RDD39215.1_Beta-1_adrenergic_receptor_Trichoplax_sp._H2,XP_002115687.1_hypothetical_protein_TRIADDRAFT_59637_Trichoplax_adhaerens	1.000000	0.985901
+[0.004851] sorting bipartition profile
+[0.001234] computed / updated events
+[0.016505] combined events
+[0.003376] calculated per dropset improvement
+total time elapsed: 1.595962

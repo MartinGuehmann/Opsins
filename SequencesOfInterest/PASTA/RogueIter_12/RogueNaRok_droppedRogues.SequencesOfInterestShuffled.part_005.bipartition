@@ -1,0 +1,8 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.969789
+1	135	tr|A0A5G3JVY1|A0A5G3JVY1_XENTR_Deubiquitinase_OTUD6B_OS_Xenopus_tropicalis_OX_8364_GN_otud6b_PE_3_SV_1	2.000000	0.971803
+2	918,917	XP_002113684.1_hypothetical_protein_TRIADDRAFT_57363_Trichoplax_adhaerens,RDD37394.1_Neuropeptide_FF_receptor_2_Trichoplax_sp._H2	3.000000	0.974824
+3	100	AWP13317.1_multiple_tissue_opsin-like_Scophthalmus_maximus	1.000000	0.975831
+4	403,0	ODN00900.1_Compound_eye_opsin_BCRH1_Orchesella_cincta,Parasabella_TRINITY_DN22460_c0_g1_i1|ORF1	2.000000	0.977845
+5	634	ETN59672.1_opsin-1_Anopheles_darlingi	1.000000	0.978852
+6	735	HDC51944.1_TPA_melanopsin_isoform_X3-like_partial_Sus_scrofa	1.000000	0.979859

@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.979894
+1	827	ACQ65827.1_rhodopsin_partial_Stigmatopora_nigra	2.000000	0.982011
+2	736	XP_022784786.1_adenosine_receptor_A1-like_Stylophora_pistillata	1.000000	0.983069
+3	333	ABK54993.1_long_wavelength_rhodopsin_partial_Sapyga_pumila	1.000000	0.984127

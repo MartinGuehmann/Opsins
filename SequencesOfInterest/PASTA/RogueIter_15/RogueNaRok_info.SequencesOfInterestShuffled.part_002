@@ -1,0 +1,100 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.813091] initialisation done (initScore = 0.914059, numBip=2819)
+[0.017381] sorting bipartition profile
+[0.113480] computed / updated events
+[0.025964] combined events
+[0.004975] calculated per dropset improvement
+[0.004885] executed the merging events 
+>472	OWA51983.1_hypothetical_protein_BV898_16440_Hypsibius_dujardini	1.200000	0.915328
+[0.005553] sorting bipartition profile
+[0.001062] computed / updated events
+[0.025629] combined events
+[0.004737] calculated per dropset improvement
+[0.005061] executed the merging events 
+>425	XP_031618278.1_allatostatin-A_receptor-like_Contarinia_nasturtii	0.844000	0.916220
+[0.004080] sorting bipartition profile
+[0.001254] computed / updated events
+[0.025492] combined events
+[0.004609] calculated per dropset improvement
+[0.004837] executed the merging events 
+>509	SBQ65705.1_retinal_pigment_epithelium-derived_rhodopsin_homolog_partial_Nothobranchius_korthausae	0.730000	0.916992
+[0.003523] sorting bipartition profile
+[0.001898] computed / updated events
+[0.024726] combined events
+[0.004273] calculated per dropset improvement
+[0.003740] executed the merging events 
+>245	AXS77686.1_short_wavelength_sensitive_type_1_opsin_partial_Myiarchus_panamensis	0.464000	0.917482
+[0.003673] sorting bipartition profile
+[0.001079] computed / updated events
+[0.024804] combined events
+[0.004132] calculated per dropset improvement
+[0.003856] executed the merging events 
+>154	AEW67061.1_rod_opsin_partial_Lampanyctus_alatus	0.378000	0.917882
+[0.003372] sorting bipartition profile
+[0.001417] computed / updated events
+[0.024708] combined events
+[0.004370] calculated per dropset improvement
+[0.003963] executed the merging events 
+>325	XP_011149564.1_5-hydroxytryptamine_receptor_2B_isoform_X1_Harpegnathos_saltator	0.272000	0.918169
+[0.003939] sorting bipartition profile
+[0.001262] computed / updated events
+[0.024297] combined events
+[0.004538] calculated per dropset improvement
+[0.004658] executed the merging events 
+>562	DAniello2015_ops8_Schizocardium_spp	0.236000	0.918419
+[0.003979] sorting bipartition profile
+[0.000878] computed / updated events
+[0.019080] combined events
+[0.004228] calculated per dropset improvement
+[0.004160] executed the merging events 
+>676,672	tr|A0A3Q4MLE3|A0A3Q4MLE3_NEOBR_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Neolamprologus_brichardi_OX_32507_PE_3_SV_1,tr|A0A3Q2YG08|A0A3Q2YG08_HIPCM_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Hippocampus_comes_OX_109280_PE_3_SV_1	0.427000	0.918870
+[0.005125] sorting bipartition profile
+[0.001632] computed / updated events
+[0.018816] combined events
+[0.004131] calculated per dropset improvement
+[0.004167] executed the merging events 
+>95	XP_007077100.2_PREDICTED_opsin-3_Panthera_tigris_altaica	0.175000	0.919055
+[0.003995] sorting bipartition profile
+[0.002040] computed / updated events
+[0.018505] combined events
+[0.003504] calculated per dropset improvement
+[0.003264] executed the merging events 
+>815	ADQ01811.1_opsin_protein_Leptuca_pugilator	0.091000	0.919151
+[0.003624] sorting bipartition profile
+[0.000772] computed / updated events
+[0.019450] combined events
+[0.003882] calculated per dropset improvement
+[0.003197] executed the merging events 
+>383	XP_032878974.1_N-arachidonyl_glycine_receptor_Amblyraja_radiata	0.080000	0.919236
+[0.003937] sorting bipartition profile
+[0.001820] computed / updated events
+[0.019070] combined events
+[0.003651] calculated per dropset improvement
+[0.003135] executed the merging events 
+>471	XP_012936535.1_PREDICTED_prostaglandin_E2_receptor_EP4_subtype-like_Aplysia_californica	0.079000	0.919319
+[0.003862] sorting bipartition profile
+[0.000973] computed / updated events
+[0.018696] combined events
+[0.004030] calculated per dropset improvement
+[0.003969] executed the merging events 
+>854	QGA28423.1_ultraviolet-sensitive_opsin_Bradysia_odoriphaga	0.074000	0.919397
+[0.004050] sorting bipartition profile
+[0.001203] computed / updated events
+[0.018988] combined events
+[0.004315] calculated per dropset improvement
+[0.004086] executed the merging events 
+>547	XP_032828695.1_opsin-5-like_Petromyzon_marinus	0.029000	0.919428
+[0.004098] sorting bipartition profile
+[0.000744] computed / updated events
+[0.017914] combined events
+[0.003947] calculated per dropset improvement
+[0.004117] executed the merging events 
+>761	tr|A0A182J7D3|A0A182J7D3_9DIPT_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Anopheles_atroparvus_OX_41427_PE_3_SV_1	0.008000	0.919437
+[0.003791] sorting bipartition profile
+[0.001456] computed / updated events
+[0.017555] combined events
+[0.003895] calculated per dropset improvement
+total time elapsed: 2.496813

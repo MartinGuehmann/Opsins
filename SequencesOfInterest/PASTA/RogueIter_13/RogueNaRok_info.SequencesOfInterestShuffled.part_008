@@ -1,0 +1,88 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.302887] initialisation done (initScore = 0.926492, numBip=2792)
+[0.013647] sorting bipartition profile
+[0.084302] computed / updated events
+[0.019818] combined events
+[0.004164] calculated per dropset improvement
+[0.004301] executed the merging events 
+>823	LAA08320.1_ocellar_opsin_partial_Parasteatoda_tepidariorum	1.369000	0.927894
+[0.004055] sorting bipartition profile
+[0.001781] computed / updated events
+[0.021384] combined events
+[0.003970] calculated per dropset improvement
+[0.004165] executed the merging events 
+>504	tr|A0A3Q4BS70|A0A3Q4BS70_MOLML_Opsin_6_group_member_a_OS_Mola_mola_OX_94237_PE_4_SV_1	0.239000	0.928139
+[0.004022] sorting bipartition profile
+[0.001558] computed / updated events
+[0.020607] combined events
+[0.003657] calculated per dropset improvement
+[0.003950] executed the merging events 
+>439	XP_029984594.1_opsin-5-like_Sphaeramia_orbicularis	0.224000	0.928369
+[0.004183] sorting bipartition profile
+[0.001211] computed / updated events
+[0.020599] combined events
+[0.003793] calculated per dropset improvement
+[0.004021] executed the merging events 
+>214	AFH77426.1_rhodopsin_partial_Campostoma_pauciradii	0.195000	0.928569
+[0.004249] sorting bipartition profile
+[0.001414] computed / updated events
+[0.020125] combined events
+[0.003636] calculated per dropset improvement
+[0.004440] executed the merging events 
+>939,934	tr|A0A3Q2CQT6|A0A3Q2CQT6_CYPVA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Cyprinodon_variegatus_OX_28743_PE_3_SV_1,tr|A0A3Q4H1S2|A0A3Q4H1S2_NEOBR_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Neolamprologus_brichardi_OX_32507_PE_3_SV_1	0.384000	0.928962
+[0.005251] sorting bipartition profile
+[0.002486] computed / updated events
+[0.019884] combined events
+[0.003742] calculated per dropset improvement
+[0.003771] executed the merging events 
+>43	TNN81448.1_Pineal_opsin_Liparis_tanakae	0.081000	0.929045
+[0.003980] sorting bipartition profile
+[0.001162] computed / updated events
+[0.019807] combined events
+[0.003603] calculated per dropset improvement
+[0.003929] executed the merging events 
+>39	TNN81450.1_Opsin-3_Liparis_tanakae	0.072000	0.929119
+[0.004051] sorting bipartition profile
+[0.001076] computed / updated events
+[0.019433] combined events
+[0.003625] calculated per dropset improvement
+[0.003873] executed the merging events 
+>204,203	CAB1329351.1_unnamed_protein_product_Coregonus_sp._balchen,XP_010900403.2_rhodopsin_Esox_lucius	0.106000	0.929227
+[0.005348] sorting bipartition profile
+[0.001599] computed / updated events
+[0.019566] combined events
+[0.003517] calculated per dropset improvement
+[0.004385] executed the merging events 
+>871	BAQ54908.1_opsin_rhodopsin-7_like_Ischnura_asiatica	0.026000	0.929254
+[0.004068] sorting bipartition profile
+[0.001263] computed / updated events
+[0.018938] combined events
+[0.003690] calculated per dropset improvement
+[0.003922] executed the merging events 
+>64	tr|A0A4W3J8V0|A0A4W3J8V0_CALMI_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Callorhinchus_milii_OX_7868_PE_3_SV_1	0.024000	0.929279
+[0.004102] sorting bipartition profile
+[0.000934] computed / updated events
+[0.019481] combined events
+[0.003576] calculated per dropset improvement
+[0.003725] executed the merging events 
+>78	XP_030251618.1_pinopsin-like_Sparus_aurata	0.006000	0.929285
+[0.004025] sorting bipartition profile
+[0.001355] computed / updated events
+[0.019342] combined events
+[0.003618] calculated per dropset improvement
+[0.003853] executed the merging events 
+>81	XP_033489587.1_teleost_multiple_tissue_opsin_3a_Epinephelus_lanceolatus	0.003000	0.929288
+[0.004114] sorting bipartition profile
+[0.001371] computed / updated events
+[0.019210] combined events
+[0.003456] calculated per dropset improvement
+[0.003926] executed the merging events 
+>213	XP_018978778.1_PREDICTED_rhodopsin_isoform_X1_Cyprinus_carpio	0.001000	0.929289
+[0.004047] sorting bipartition profile
+[0.001127] computed / updated events
+[0.014768] combined events
+[0.003113] calculated per dropset improvement
+total time elapsed: 1.851850

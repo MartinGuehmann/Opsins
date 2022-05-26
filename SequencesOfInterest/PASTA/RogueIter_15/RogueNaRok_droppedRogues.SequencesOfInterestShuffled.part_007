@@ -1,0 +1,12 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.920953
+1	333	ABK54993.1_long_wavelength_rhodopsin_partial_Sapyga_pumila	1.166000	0.922187
+2	827	ACQ65827.1_rhodopsin_partial_Stigmatopora_nigra	1.114000	0.923366
+3	736	XP_022784786.1_adenosine_receptor_A1-like_Stylophora_pistillata	0.645000	0.924049
+4	911	JAO05522.1_OPSO_partial_Poeciliopsis_prolifica	0.260000	0.924324
+5	828	AEW67069.1_rod_opsin_partial_Hoplostethus_mediterraneus	0.072000	0.924400
+6	845	XP_010084262.1_PREDICTED_rhodopsin_partial_Pterocles_gutturalis	0.054000	0.924457
+7	614	XP_010876383.2_coagulation_factor_II_thrombin_receptor-like_1_tandem_duplicate_2_Esox_lucius	0.051000	0.924511
+8	286	EGW14880.1_Leucine-rich_repeat_immunoglobulin-like_domain_and_transmembrane_domain-containing_protein_3_Cricetulus_griseus	0.039000	0.924552
+9	613	BAJ16362.1_angiotensin_II_receptor_type-1_Dryophytes_japonicus	0.014000	0.924567
+10	180	XP_008277839.1_PREDICTED_opsin-5-like_Stegastes_partitus	0.010000	0.924578

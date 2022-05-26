@@ -1,0 +1,17 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.915209
+1	177	AWX49464.1_long_wavelength_rhodopsin_partial_Leptanilla_sp._TH03	1.648000	0.916896
+2	362	AHH38144.1_Rhodopsin_freshwater_form_Ictalurus_punctatus	0.840000	0.917755
+3	46	CAG08413.1_unnamed_protein_product_Tetraodon_nigroviridis	0.548000	0.918316
+4	835	tr|A0A672S1D3|A0A672S1D3_SINGR_Histamine_receptor_H2b_OS_Sinocyclocheilus_grahami_OX_75366_PE_4_SV_1	0.459000	0.918786
+5	138	ACB70916.1_long_wavelength_rhodopsin_partial_Elaphroptera_nigripennis	0.417000	0.919213
+6	889	tr|A0A1L8FBB7|A0A1L8FBB7_XENLA_Olfactory_receptor_OS_Xenopus_laevis_OX_8355_GN_XELAEV_18040207mg_PE_3_SV_1	0.378000	0.919600
+7	774	XP_007895211.1_PREDICTED_visual_pigment-like_receptor_peropsin_Callorhinchus_milii	0.210000	0.919815
+8	0	RDD46477.1_G-protein_coupled_receptor_moody_Trichoplax_sp._H2	0.128000	0.919946
+9	621	DAC80516.1_TPA_inf_xenopsin_partial_Leptoplana_tremellaris	0.081000	0.920029
+10	422	XP_013882683.1_PREDICTED_blue-sensitive_opsin-like_Austrofundulus_limnaeus	0.027000	0.920056
+11	890	ELV13294.1_Olfactory_receptor_11G2_Tupaia_chinensis	0.018000	0.920075
+12	712	XP_019631155.1_PREDICTED_opsin-5-like_Branchiostoma_belcheri	0.009000	0.920084
+13	781	DAniello2015_ops6_Parastichopus_parvimensis	0.006000	0.920090
+14	723,722	XP_022075704.1_opsin-5-like_Acanthochromis_polyacanthus,tr|A0A0F8AV37|A0A0F8AV37_LARCR_Wiskott-Aldrich_syndrome_protein_family_member_3_OS_Larimichthys_crocea_OX_215358_GN_EH28_03870_PE_4_SV_1	0.009000	0.920099
+15	360	XP_018589627.1_rhodopsin_Scleropages_formosus	0.001000	0.920100

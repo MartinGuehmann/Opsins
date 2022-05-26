@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.987487
+1	478	XP_005179966.1_PREDICTED_G-protein_coupled_receptor_moody_Musca_domestica	1.000000	0.988530
+2	445	XP_024085754.1_LOW_QUALITY_PROTEIN_tyramine_octopamine_receptor_Cimex_lectularius	1.000000	0.989572
+3	878	ABK54920.1_long_wavelength_rhodopsin_partial_Dasymutilla_aureola	1.000000	0.990615

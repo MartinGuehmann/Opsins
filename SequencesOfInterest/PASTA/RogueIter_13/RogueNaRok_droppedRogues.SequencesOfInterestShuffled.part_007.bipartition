@@ -1,0 +1,8 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.975410
+1	857	RDD42137.1_Neuropeptide_receptor_15_Trichoplax_sp._H2	2.000000	0.977459
+2	347	KAA8590904.1_hypothetical_protein_FQN60_001847_Etheostoma_spectabile	2.000000	0.979508
+3	949	XP_024508315.1_Melanopsin_Strongyloides_ratti	1.000000	0.980533
+4	50	XP_006264141.2_PREDICTED_visual_pigment-like_receptor_peropsin_isoform_X1_Alligator_mississippiensis	1.000000	0.981557
+5	34	RNA17726.1_visual_pigment-like_receptor_peropsin_Brachionus_plicatilis	1.000000	0.982582
+6	423	XP_023368985.1_LOW_QUALITY_PROTEIN_short-wave-sensitive_opsin_1_Otolemur_garnettii	1.000000	0.983607

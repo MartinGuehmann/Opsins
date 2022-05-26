@@ -1,0 +1,11 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.961945
+1	764	ACA13748.1_long_wavelength_rhodopsin_partial_Mycetarotes_cf._parallelus	2.000000	0.964059
+2	942	ELU16813.1_hypothetical_protein_CAPTEDRAFT_124377_Capitella_teleta	1.000000	0.965116
+3	887	JAC04215.1_Opsin_Rh4_Ceratitis_capitata	1.000000	0.966173
+4	272	tr|A0A3P8W493|A0A3P8W493_CYNSE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Cynoglossus_semilaevis_OX_244447_PE_3_SV_1	1.000000	0.967230
+5	712	tr|A0A3Q3WWS4|A0A3Q3WWS4_MOLML_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Mola_mola_OX_94237_PE_3_SV_1	1.000000	0.968288
+6	210	XP_028430635.1_green-sensitive_opsin-like_Perca_flavescens	1.000000	0.969345
+7	473	XP_015813193.1_PREDICTED_opsin-5-like_Nothobranchius_furzeri	1.000000	0.970402
+8	343	XP_020042540.1_visual_pigment-like_receptor_peropsin_Castor_canadensis	1.000000	0.971459
+9	191	XP_029911507.1_rhodopsin_Myripristis_murdjan	1.000000	0.972516

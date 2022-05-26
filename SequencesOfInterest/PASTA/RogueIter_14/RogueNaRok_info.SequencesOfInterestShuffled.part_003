@@ -1,0 +1,94 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.394231] initialisation done (initScore = 0.900164, numBip=3065)
+[0.014306] sorting bipartition profile
+[0.113248] computed / updated events
+[0.026800] combined events
+[0.006371] calculated per dropset improvement
+[0.007559] executed the merging events 
+>288	XP_006825397.1_PREDICTED_bombesin_receptor_subtype-3-like_Saccoglossus_kowalevskii	2.471000	0.902737
+[0.005009] sorting bipartition profile
+[0.001576] computed / updated events
+[0.027612] combined events
+[0.005141] calculated per dropset improvement
+[0.007989] executed the merging events 
+>858	tr|A0A4W4FF08|A0A4W4FF08_ELEEL_Uncharacterized_protein_OS_Electrophorus_electricus_OX_8005_GN_LOC113580743_PE_4_SV_1	1.192000	0.903979
+[0.005376] sorting bipartition profile
+[0.002141] computed / updated events
+[0.028376] combined events
+[0.005662] calculated per dropset improvement
+[0.007765] executed the merging events 
+>298	XP_002115069.1_hypothetical_protein_TRIADDRAFT_58846_Trichoplax_adhaerens	1.060000	0.905083
+[0.005167] sorting bipartition profile
+[0.001913] computed / updated events
+[0.027854] combined events
+[0.004379] calculated per dropset improvement
+[0.005048] executed the merging events 
+>29	XP_018594612.1_opsin-5-like_Scleropages_formosus	1.058000	0.906185
+[0.004513] sorting bipartition profile
+[0.001188] computed / updated events
+[0.025682] combined events
+[0.005432] calculated per dropset improvement
+[0.009355] executed the merging events 
+>213	DAC80518.1_TPA_inf_xenopsin_1_partial_Pterosagitta_draco	1.007000	0.907234
+[0.005765] sorting bipartition profile
+[0.002250] computed / updated events
+[0.024904] combined events
+[0.005230] calculated per dropset improvement
+[0.007972] executed the merging events 
+>13	XP_011421213.1_melanopsin-B-like_Crassostrea_gigas	0.479000	0.907733
+[0.005219] sorting bipartition profile
+[0.004674] computed / updated events
+[0.024727] combined events
+[0.004841] calculated per dropset improvement
+[0.006711] executed the merging events 
+>505	BAQ54939.1_opsin_rhodopsin-7_like_Indolestes_peregrinus	0.437000	0.908189
+[0.005085] sorting bipartition profile
+[0.001242] computed / updated events
+[0.023797] combined events
+[0.004648] calculated per dropset improvement
+[0.006329] executed the merging events 
+>392	APY20599.1_long_wavelength_sensitive_opsin_Dastarcus_helophoroides	0.356000	0.908559
+[0.004551] sorting bipartition profile
+[0.001592] computed / updated events
+[0.024178] combined events
+[0.005185] calculated per dropset improvement
+[0.008335] executed the merging events 
+>15	Parasabella_SOAP_k35_C754043|ORF8	0.292000	0.908864
+[0.004632] sorting bipartition profile
+[0.002306] computed / updated events
+[0.023535] combined events
+[0.005065] calculated per dropset improvement
+[0.007849] executed the merging events 
+>14	XP_023346171.1_blue-sensitive_opsin-like_partial_Eurytemora_affinis	0.193000	0.909065
+[0.004320] sorting bipartition profile
+[0.001730] computed / updated events
+[0.024275] combined events
+[0.005402] calculated per dropset improvement
+[0.007096] executed the merging events 
+>270,269	XP_009057000.1_hypothetical_protein_LOTGIDRAFT_120990_Lottia_gigantea,XP_021938115.1_gonadotropin-releasing_hormone_receptor_isoform_X3_Zootermopsis_nevadensis	0.331000	0.909409
+[0.005228] sorting bipartition profile
+[0.002249] computed / updated events
+[0.022642] combined events
+[0.004634] calculated per dropset improvement
+[0.005922] executed the merging events 
+>117	XP_034398174.1_opsin-5-like_Cyclopterus_lumpus	0.043000	0.909454
+[0.003669] sorting bipartition profile
+[0.001122] computed / updated events
+[0.022701] combined events
+[0.004334] calculated per dropset improvement
+[0.005574] executed the merging events 
+>212	KAF1319001.1_putative_opsin-like_receptor_Schistosoma_haematobium	0.006000	0.909460
+[0.003510] sorting bipartition profile
+[0.001144] computed / updated events
+[0.021971] combined events
+[0.004643] calculated per dropset improvement
+[0.005968] executed the merging events 
+>341	XP_029499676.1_D1_dopamine_receptor-like_Oncorhynchus_nerka	0.005000	0.909466
+[0.003783] sorting bipartition profile
+[0.001575] computed / updated events
+[0.022622] combined events
+[0.004554] calculated per dropset improvement
+total time elapsed: 2.161716

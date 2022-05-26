@@ -1,0 +1,4 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.985401
+1	218	AXP19165.1_type_1_short_wavelength-sensitive_opsin_partial_Artibeus_lituratus	1.000000	0.986444
+2	12	XP_015763203.1_PREDICTED_visual_pigment-like_receptor_peropsin_Acropora_digitifera	1.000000	0.987487

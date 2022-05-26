@@ -1,0 +1,11 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.928251
+1	610	XP_010207069.1_PREDICTED_LOW_QUALITY_PROTEIN_melanopsin-A-like_Colius_striatus	0.655000	0.928909
+2	405	AIM43087.1_long-wavelength_rhodopsin_partial_Rogeria_nevadensis	0.585000	0.929498
+3	922	XP_035290556.1_G-protein_coupled_receptor_151-like_Anguilla_anguilla	0.543000	0.930044
+4	913	ODM90740.1_Neuropeptide_Y_receptor_Orchesella_cincta	0.401000	0.930448
+5	974	RDD38564.1_G-protein_coupled_receptor_moody_Trichoplax_sp._H2	0.187000	0.930636
+6	784	AWP20191.1_putative_opsin-5-like_Scophthalmus_maximus	0.094000	0.930730
+7	467	JAJ28810.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna	0.060000	0.930791
+8	785	XP_033932587.1_opsin_8_group_member_c_Pseudochaenichthys_georgianus	0.025000	0.930816
+9	52	XP_002111653.1_hypothetical_protein_TRIADDRAFT_55912_Trichoplax_adhaerens	0.001000	0.930817

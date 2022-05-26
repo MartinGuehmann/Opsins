@@ -1,0 +1,6 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.980866
+1	15	XP_015773490.1_PREDICTED_dopamine_receptor_2-like_Acropora_digitifera	1.000000	0.981873
+2	573	BAC76023.1_opsin_Branchiostoma_belcheri	1.000000	0.982880
+3	132	XP_015280716.1_PREDICTED_LOW_QUALITY_PROTEIN_rhodopsin_Gekko_japonicus	1.000000	0.983887
+4	711	KAF5285417.1_hypothetical_protein_FQA39_LY16671_Lamprigera_yunnana	1.000000	0.984894

@@ -1,0 +1,6 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.976434
+1	964	XP_028402074.1_QRFP-like_peptide_receptor_Dendronephthya_gigantea	1.000000	0.977459
+2	360	XP_007576199.1_PREDICTED_opsin-5-like_Poecilia_formosa	1.000000	0.978484
+3	834	XP_022201946.1_opsin_ultraviolet-sensitive-like_isoform_X1_Nilaparvata_lugens	1.000000	0.979508
+4	936	XP_014043950.1_PREDICTED_LOW_QUALITY_PROTEIN_melanopsin-like_Salmo_salar	1.000000	0.980533

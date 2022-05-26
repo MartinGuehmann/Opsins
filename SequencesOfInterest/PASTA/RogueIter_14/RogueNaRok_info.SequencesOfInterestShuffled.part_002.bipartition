@@ -1,0 +1,40 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.452078] initialisation done (initScore = 0.970833, numBip=2866)
+[0.014019] sorting bipartition profile
+[0.090338] computed / updated events
+[0.023095] combined events
+[0.006098] calculated per dropset improvement
+[0.007801] executed the merging events 
+>209	tr|A0A673A3D8|A0A673A3D8_9TELE_Uncharacterized_protein_OS_Sphaeramia_orbicularis_OX_375764_PE_4_SV_1	5.000000	0.976042
+[0.004812] sorting bipartition profile
+[0.001882] computed / updated events
+[0.025741] combined events
+[0.005491] calculated per dropset improvement
+[0.007598] executed the merging events 
+>350	ANN75141.1_long_wavelength_rhodopsin_partial_Apomyrma_sp._CF01	2.000000	0.978125
+[0.004800] sorting bipartition profile
+[0.002523] computed / updated events
+[0.024763] combined events
+[0.004488] calculated per dropset improvement
+[0.005128] executed the merging events 
+>431	CAB0002283.1_unnamed_protein_product_Nesidiocoris_tenuis	1.000000	0.979167
+[0.003921] sorting bipartition profile
+[0.000724] computed / updated events
+[0.023372] combined events
+[0.004144] calculated per dropset improvement
+[0.004856] executed the merging events 
+>822	ABP88808.1_rod_opsin_Scopelarchus_analis	1.000000	0.980208
+[0.004126] sorting bipartition profile
+[0.001967] computed / updated events
+[0.022920] combined events
+[0.005032] calculated per dropset improvement
+[0.007178] executed the merging events 
+>357	AIA23635.1_long_wavelength_rhodopsin_partial_Cerapachys_sp._MG04	1.000000	0.981250
+[0.005009] sorting bipartition profile
+[0.002875] computed / updated events
+[0.023190] combined events
+[0.005028] calculated per dropset improvement
+total time elapsed: 1.796166

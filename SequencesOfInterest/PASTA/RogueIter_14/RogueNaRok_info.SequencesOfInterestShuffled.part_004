@@ -1,0 +1,58 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.320953] initialisation done (initScore = 0.931090, numBip=2545)
+[0.014839] sorting bipartition profile
+[0.081567] computed / updated events
+[0.018459] combined events
+[0.004824] calculated per dropset improvement
+[0.006237] executed the merging events 
+>51,43	APY20614.1_ultraviolet_sensitive_opsin_partial_Inocellia_crassicornis,APY20499.1_ultraviolet_sensitive_opsin_partial_Heterochelus_sp._CRS-2017	1.398000	0.932546
+[0.005869] sorting bipartition profile
+[0.001655] computed / updated events
+[0.020960] combined events
+[0.004602] calculated per dropset improvement
+[0.006079] executed the merging events 
+>909	AYW11980.1_rhodopsin_partial_Venefica_tentaculata	0.562000	0.933131
+[0.004674] sorting bipartition profile
+[0.001207] computed / updated events
+[0.020858] combined events
+[0.004843] calculated per dropset improvement
+[0.005798] executed the merging events 
+>817	BAO93915.1_short_wavelength_sensitive_opsin_Verasper_moseri	0.263000	0.933405
+[0.004833] sorting bipartition profile
+[0.001197] computed / updated events
+[0.020422] combined events
+[0.004415] calculated per dropset improvement
+[0.006410] executed the merging events 
+>395	KRZ76943.1_Dual_specificity_mitogen-activated_protein_kinase_kinase_4_Trichinella_papuae	0.142000	0.933553
+[0.004687] sorting bipartition profile
+[0.001175] computed / updated events
+[0.019614] combined events
+[0.004569] calculated per dropset improvement
+[0.006382] executed the merging events 
+>114	WP_151851523.1_hypothetical_protein_Bacteroides_vulgatus	0.103000	0.933660
+[0.004793] sorting bipartition profile
+[0.001216] computed / updated events
+[0.019568] combined events
+[0.004291] calculated per dropset improvement
+[0.005479] executed the merging events 
+>446	CAB1321949.1_unnamed_protein_product_Coregonus_sp._balchen	0.042000	0.933704
+[0.004495] sorting bipartition profile
+[0.001306] computed / updated events
+[0.019845] combined events
+[0.004454] calculated per dropset improvement
+[0.004467] executed the merging events 
+>385	RDD40479.1_Neuropeptide_FF_receptor_2_Trichoplax_sp._H2	0.025000	0.933730
+[0.003770] sorting bipartition profile
+[0.001173] computed / updated events
+[0.018204] combined events
+[0.003790] calculated per dropset improvement
+[0.004118] executed the merging events 
+>394	XP_028571074.1_probable_G-protein_coupled_receptor_83_isoform_X1_Podarcis_muralis	0.002000	0.933732
+[0.004308] sorting bipartition profile
+[0.001249] computed / updated events
+[0.018068] combined events
+[0.003719] calculated per dropset improvement
+total time elapsed: 1.726320

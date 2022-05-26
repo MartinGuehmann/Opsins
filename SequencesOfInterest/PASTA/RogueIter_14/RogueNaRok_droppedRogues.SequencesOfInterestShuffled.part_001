@@ -1,0 +1,16 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.913452
+1	467	DAC80515.1_TPA_inf_xenopsin_partial_Bugula_neritina	1.122000	0.914621
+2	138	AAW59476.1_rhodopsin_partial_Acanthostichus_kirbyi	0.570000	0.915215
+3	912,903	AJD38880.1_short-wavelength_sensitive_opsin_2B_partial_Signigobius_biocellatus,XP_024125927.1_blue-sensitive_opsin-like_isoform_X1_Oryzias_melastigma	0.887000	0.916139
+4	889	AOT81850.1_rhodopsin_partial_Nyctixalus_sp._JD-2016	0.329000	0.916481
+5	472	AGJ70278.1_Go_opsin_1_Terebratalia_transversa	0.232000	0.916723
+6	49	APY20677.1_ultraviolet_sensitive_opsin_2_partial_Xanthostigma_xanthostigma	0.204000	0.916935
+7	444	XP_031573007.1_neuromedin-U_receptor_2-like_Actinia_tenebrosa	0.204000	0.917148
+8	14	Notalux_sp4_TRINITY_DN98378_c0_g1_i1|ORF2	0.177000	0.917332
+9	449	XP_002117841.1_hypothetical_protein_TRIADDRAFT_61857_Trichoplax_adhaerens	0.066000	0.917401
+10	766	XP_015216567.1_PREDICTED_vertebrate_ancient_opsin-like_isoform_X3_Lepisosteus_oculatus	0.057000	0.917460
+11	146	KAF4533351.1_Long_wavelength_sensitive_opsin_6_Ephemera_danica	0.010000	0.917471
+12	892	BAJ04585.1_rhodopsin_partial_Fejervarya_limnocharis	0.010000	0.917481
+13	15	tr|A0A2H1CQ99|A0A2H1CQ99_FASHE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Fasciola_hepatica_OX_6192_GN_D915_03705_PE_4_SV_1	0.010000	0.917492
+14	59	XP_021938927.1_opsin_ultraviolet-sensitive-like_isoform_X3_Zootermopsis_nevadensis	0.007000	0.917499

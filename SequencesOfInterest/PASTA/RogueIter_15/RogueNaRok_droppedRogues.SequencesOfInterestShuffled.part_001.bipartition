@@ -1,0 +1,6 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.982030
+1	192	KAA8593379.1_hypothetical_protein_FQN60_009495_partial_Etheostoma_spectabile	2.000000	0.984144
+2	26	tr|H2MD81|H2MD81_ORYLA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Oryzias_latipes_OX_8090_GN_tmtops1b_PE_3_SV_2	1.000000	0.985201
+3	7	XP_018608750.2_vertebrate_ancient_opsin-like_Scleropages_formosus	1.000000	0.986258
+4	490	APY20604.1_ultraviolet_sensitive_opsin_Euwallacea_fornicatus	1.000000	0.987315

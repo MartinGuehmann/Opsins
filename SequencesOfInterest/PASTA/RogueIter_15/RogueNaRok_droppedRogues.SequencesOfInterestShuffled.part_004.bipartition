@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.979894
+1	31	XP_004467186.1_olfactory_receptor_10A6_Dasypus_novemcinctus	2.000000	0.982011
+2	311	HDC62844.1_TPA_melanopsin_isoform_1_Sus_scrofa	1.000000	0.983069
+3	624	KAA0712842.1_Green-sensitive_opsin-4_Triplophysa_tibetana	1.000000	0.984127

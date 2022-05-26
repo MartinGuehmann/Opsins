@@ -1,0 +1,46 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.270575] initialisation done (initScore = 0.969789, numBip=2804)
+[0.013318] sorting bipartition profile
+[0.082997] computed / updated events
+[0.019301] combined events
+[0.004238] calculated per dropset improvement
+[0.004133] executed the merging events 
+>135	tr|A0A5G3JVY1|A0A5G3JVY1_XENTR_Deubiquitinase_OTUD6B_OS_Xenopus_tropicalis_OX_8364_GN_otud6b_PE_3_SV_1	2.000000	0.971803
+[0.004220] sorting bipartition profile
+[0.001172] computed / updated events
+[0.020004] combined events
+[0.003826] calculated per dropset improvement
+[0.007778] executed the merging events 
+>918,917	XP_002113684.1_hypothetical_protein_TRIADDRAFT_57363_Trichoplax_adhaerens,RDD37394.1_Neuropeptide_FF_receptor_2_Trichoplax_sp._H2	3.000000	0.974824
+[0.006078] sorting bipartition profile
+[0.001935] computed / updated events
+[0.022098] combined events
+[0.004099] calculated per dropset improvement
+[0.004980] executed the merging events 
+>100	AWP13317.1_multiple_tissue_opsin-like_Scophthalmus_maximus	1.000000	0.975831
+[0.004545] sorting bipartition profile
+[0.002187] computed / updated events
+[0.019662] combined events
+[0.003909] calculated per dropset improvement
+[0.004523] executed the merging events 
+>403,0	ODN00900.1_Compound_eye_opsin_BCRH1_Orchesella_cincta,Parasabella_TRINITY_DN22460_c0_g1_i1|ORF1	2.000000	0.977845
+[0.005622] sorting bipartition profile
+[0.001367] computed / updated events
+[0.018621] combined events
+[0.003739] calculated per dropset improvement
+[0.004164] executed the merging events 
+>634	ETN59672.1_opsin-1_Anopheles_darlingi	1.000000	0.978852
+[0.004093] sorting bipartition profile
+[0.001497] computed / updated events
+[0.018603] combined events
+[0.003775] calculated per dropset improvement
+[0.003965] executed the merging events 
+>735	HDC51944.1_TPA_melanopsin_isoform_X3-like_partial_Sus_scrofa	1.000000	0.979859
+[0.003839] sorting bipartition profile
+[0.001223] computed / updated events
+[0.018509] combined events
+[0.003968] calculated per dropset improvement
+total time elapsed: 1.599532

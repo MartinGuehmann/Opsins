@@ -1,0 +1,14 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.927715
+1	30	DAniello2015_ops1.A_Paracentrotus_lividus	2.138000	0.929942
+2	297	JAM58722.1_Gpcr_rhodopsin_family_partial_Daphnia_magna	1.396000	0.931396
+3	267	tr|A0A3Q1CF69|A0A3Q1CF69_AMPOC_Parietopsin_OS_Amphiprion_ocellaris_OX_80972_PE_3_SV_1	0.972000	0.932408
+4	46	TNM99657.1_hypothetical_protein_fugu_012690_Takifugu_bimaculatus	0.634000	0.933069
+5	418	CAD33859.1_long-wavelength_opsin_partial_Tinocallis_takachihoensis	0.508000	0.933598
+6	961,0	XP_020630309.1_melanocyte-stimulating_hormone_receptor-like_Orbicella_faveolata,XP_015769105.1_PREDICTED_5-hydroxytryptamine_receptor_1-like_Acropora_digitifera	0.794000	0.934425
+7	528	TWW82300.1_Melanopsin-A_Mammalian-like_melanopsin_Takifugu_flavidus	0.384000	0.934825
+8	388	APY20588.1_long_wavelength_sensitive_opsin_Conwentzia_psociformis	0.272000	0.935108
+9	419	KFM62776.1_Lateral_eye_opsin_partial_Stegodyphus_mimosarum	0.119000	0.935232
+10	43	XP_013876615.1_PREDICTED_opsin-3_Austrofundulus_limnaeus	0.084000	0.935320
+11	891	XP_031572748.1_QRFP-like_peptide_receptor_Actinia_tenebrosa	0.030000	0.935351
+12	716	OQV13731.1_putative_Opsin-5_Hypsibius_dujardini	0.018000	0.935370

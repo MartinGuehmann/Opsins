@@ -1,0 +1,82 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.729621] initialisation done (initScore = 0.926543, numBip=2574)
+[0.024815] sorting bipartition profile
+[0.083535] computed / updated events
+[0.019574] combined events
+[0.004033] calculated per dropset improvement
+[0.003276] executed the merging events 
+>928	tr|A0A670ILB5|A0A670ILB5_PODMU_Uncharacterized_protein_OS_Podarcis_muralis_OX_64176_PE_4_SV_1	0.797000	0.927386
+[0.003609] sorting bipartition profile
+[0.000804] computed / updated events
+[0.018211] combined events
+[0.004243] calculated per dropset improvement
+[0.004287] executed the merging events 
+>480	tr|A0A3B3ZLT6|A0A3B3ZLT6_9GOBI_Adenosine_receptor_A2_OS_Periophthalmus_magnuspinnatus_OX_409849_PE_3_SV_1	0.753000	0.928183
+[0.003657] sorting bipartition profile
+[0.001116] computed / updated events
+[0.017211] combined events
+[0.003783] calculated per dropset improvement
+[0.004223] executed the merging events 
+>863	KFW76649.1_Green-sensitive_opsin_Manacus_vitellinus	0.500000	0.928712
+[0.003598] sorting bipartition profile
+[0.001027] computed / updated events
+[0.017174] combined events
+[0.003939] calculated per dropset improvement
+[0.004691] executed the merging events 
+>732	tr|H3CNY8|H3CNY8_TETNG_Opsin_4a_melanopsin_OS_Tetraodon_nigroviridis_OX_99883_PE_3_SV_1	0.479000	0.929219
+[0.003681] sorting bipartition profile
+[0.001340] computed / updated events
+[0.016788] combined events
+[0.003740] calculated per dropset improvement
+[0.004202] executed the merging events 
+>890	AAZ79907.1_RH1_Uta_stansburiana	0.256000	0.929490
+[0.003460] sorting bipartition profile
+[0.001016] computed / updated events
+[0.020706] combined events
+[0.004342] calculated per dropset improvement
+[0.003517] executed the merging events 
+>25	tr|A0A672HEM8|A0A672HEM8_SALFA_Teleost_multiple_tissue_opsin_3b_OS_Salarias_fasciatus_OX_181472_PE_4_SV_1	0.131000	0.929629
+[0.003507] sorting bipartition profile
+[0.000864] computed / updated events
+[0.023704] combined events
+[0.003960] calculated per dropset improvement
+[0.003433] executed the merging events 
+>446	XP_023338146.1_tyramine_receptor_tyra-2-like_Eurytemora_affinis	0.066000	0.929698
+[0.003359] sorting bipartition profile
+[0.001452] computed / updated events
+[0.022116] combined events
+[0.004306] calculated per dropset improvement
+[0.004278] executed the merging events 
+>756	KAF4082342.1_hypothetical_protein_AMELA_G00150740_Ameiurus_melas	0.046000	0.929747
+[0.003521] sorting bipartition profile
+[0.001052] computed / updated events
+[0.023041] combined events
+[0.004404] calculated per dropset improvement
+[0.004640] executed the merging events 
+>561,560	KAE9437217.1_hypothetical_protein_GE061_16951_Apolygus_lucorum,XP_022165641.1_melanopsin-like_Myzus_persicae	0.015000	0.929763
+[0.004608] sorting bipartition profile
+[0.001409] computed / updated events
+[0.022944] combined events
+[0.004135] calculated per dropset improvement
+[0.004480] executed the merging events 
+>531	ACH56538.1_putative_ultraviolet_II_opsin_Thermonectus_marmoratus	0.003000	0.929766
+[0.003735] sorting bipartition profile
+[0.001228] computed / updated events
+[0.022460] combined events
+[0.004051] calculated per dropset improvement
+[0.004320] executed the merging events 
+>132	XP_021358189.1_visual_pigment-like_receptor_peropsin_Mizuhopecten_yessoensis	0.003000	0.929769
+[0.003460] sorting bipartition profile
+[0.002196] computed / updated events
+[0.022340] combined events
+[0.004013] calculated per dropset improvement
+[0.004356] executed the merging events 
+>527	APY20641.1_ultraviolet_sensitive_opsin_partial_Osmylus_fulvicephalus	0.001000	0.929770
+[0.003199] sorting bipartition profile
+[0.001180] computed / updated events
+[0.022279] combined events
+[0.004150] calculated per dropset improvement
+total time elapsed: 2.268155

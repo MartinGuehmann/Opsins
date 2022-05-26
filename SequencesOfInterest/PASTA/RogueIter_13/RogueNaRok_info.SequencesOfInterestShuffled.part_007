@@ -1,0 +1,94 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.295642] initialisation done (initScore = 0.913823, numBip=2743)
+[0.013817] sorting bipartition profile
+[0.061184] computed / updated events
+[0.016629] combined events
+[0.003447] calculated per dropset improvement
+[0.002960] executed the merging events 
+>858	XP_002114114.1_hypothetical_protein_TRIADDRAFT_58248_Trichoplax_adhaerens	1.930000	0.915800
+[0.004484] sorting bipartition profile
+[0.001594] computed / updated events
+[0.016509] combined events
+[0.003250] calculated per dropset improvement
+[0.002981] executed the merging events 
+>347	KAA8590904.1_hypothetical_protein_FQN60_001847_Etheostoma_spectabile	1.594000	0.917433
+[0.004018] sorting bipartition profile
+[0.001897] computed / updated events
+[0.016440] combined events
+[0.003315] calculated per dropset improvement
+[0.003131] executed the merging events 
+>589	GBP19857.1_Opsin-2_Eumeta_japonica	1.345000	0.918811
+[0.003968] sorting bipartition profile
+[0.000972] computed / updated events
+[0.015844] combined events
+[0.003027] calculated per dropset improvement
+[0.003022] executed the merging events 
+>34	RNA17726.1_visual_pigment-like_receptor_peropsin_Brachionus_plicatilis	1.232000	0.920074
+[0.004108] sorting bipartition profile
+[0.000917] computed / updated events
+[0.015911] combined events
+[0.003018] calculated per dropset improvement
+[0.003010] executed the merging events 
+>423	XP_023368985.1_LOW_QUALITY_PROTEIN_short-wave-sensitive_opsin_1_Otolemur_garnettii	1.018000	0.921117
+[0.004432] sorting bipartition profile
+[0.001415] computed / updated events
+[0.015672] combined events
+[0.003210] calculated per dropset improvement
+[0.003264] executed the merging events 
+>949	XP_024508315.1_Melanopsin_Strongyloides_ratti	0.837000	0.921974
+[0.004315] sorting bipartition profile
+[0.000909] computed / updated events
+[0.015309] combined events
+[0.003048] calculated per dropset improvement
+[0.003098] executed the merging events 
+>50	XP_006264141.2_PREDICTED_visual_pigment-like_receptor_peropsin_isoform_X1_Alligator_mississippiensis	0.516000	0.922503
+[0.004742] sorting bipartition profile
+[0.001297] computed / updated events
+[0.015633] combined events
+[0.003219] calculated per dropset improvement
+[0.003149] executed the merging events 
+>229	GCF39899.1_hypothetical_protein_parPi_0027532_partial_Paroedura_picta	0.392000	0.922905
+[0.004303] sorting bipartition profile
+[0.001108] computed / updated events
+[0.014891] combined events
+[0.003069] calculated per dropset improvement
+[0.003387] executed the merging events 
+>857	RDD42137.1_Neuropeptide_receptor_15_Trichoplax_sp._H2	0.379000	0.923293
+[0.004613] sorting bipartition profile
+[0.001268] computed / updated events
+[0.014175] combined events
+[0.003113] calculated per dropset improvement
+[0.003360] executed the merging events 
+>834	XP_026198374.1_neuropeptide_Y_receptor_Y8b_Anabas_testudineus	0.189000	0.923487
+[0.004255] sorting bipartition profile
+[0.001419] computed / updated events
+[0.014242] combined events
+[0.003048] calculated per dropset improvement
+[0.003260] executed the merging events 
+>359	AAR24251.1_rhodopsin_partial_Rondeletia_sp._AD-2003	0.158000	0.923649
+[0.004162] sorting bipartition profile
+[0.001267] computed / updated events
+[0.013540] combined events
+[0.003026] calculated per dropset improvement
+[0.003114] executed the merging events 
+>659	AEO80028.1_long-wavelength_rhodopsin_partial_Ectemnius_sonorensis	0.019000	0.923668
+[0.004156] sorting bipartition profile
+[0.001559] computed / updated events
+[0.013456] combined events
+[0.002909] calculated per dropset improvement
+[0.002890] executed the merging events 
+>68	XP_023223955.1_visual_pigment-like_receptor_peropsin_isoform_X1_Centruroides_sculpturatus	0.006000	0.923674
+[0.004361] sorting bipartition profile
+[0.000870] computed / updated events
+[0.013212] combined events
+[0.002934] calculated per dropset improvement
+[0.002900] executed the merging events 
+>51	EMP40797.1_Pro-epidermal_growth_factor_Chelonia_mydas	0.006000	0.923680
+[0.004079] sorting bipartition profile
+[0.000964] computed / updated events
+[0.013478] combined events
+[0.003173] calculated per dropset improvement
+total time elapsed: 1.764192

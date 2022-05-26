@@ -1,0 +1,17 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.904910
+1	764	ACA13748.1_long_wavelength_rhodopsin_partial_Mycetarotes_cf._parallelus	2.187000	0.907222
+2	887	JAC04215.1_Opsin_Rh4_Ceratitis_capitata	1.570000	0.908882
+3	942	ELU16813.1_hypothetical_protein_CAPTEDRAFT_124377_Capitella_teleta	1.107000	0.910052
+4	473	XP_015813193.1_PREDICTED_opsin-5-like_Nothobranchius_furzeri	0.978000	0.911086
+5	712	tr|A0A3Q3WWS4|A0A3Q3WWS4_MOLML_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Mola_mola_OX_94237_PE_3_SV_1	0.699000	0.911825
+6	273	XP_012696623.2_red-sensitive_opsin-1-like_Clupea_harengus	0.690000	0.912554
+7	210	XP_028430635.1_green-sensitive_opsin-like_Perca_flavescens	0.646000	0.913237
+8	343	XP_020042540.1_visual_pigment-like_receptor_peropsin_Castor_canadensis	0.643000	0.913916
+9	191	XP_029911507.1_rhodopsin_Myripristis_murdjan	0.561000	0.914510
+10	205	AEL20261.1_rhodopsin_partial_Hypopachus_variolosus	0.215000	0.914737
+11	527	XP_017345648.1_PREDICTED_cysteinyl_leukotriene_receptor_2-like_Ictalurus_punctatus	0.176000	0.914923
+12	791	BAQ54888.1_opsin_long-wavelength_sensitive_type_Epiophlebia_superstes	0.114000	0.915043
+13	709	XP_023270187.1_melanopsin-A-like_isoform_X3_Seriola_lalandi_dorsalis	0.044000	0.915090
+14	478	KAF2360463.1_G_protein-coupled_receptor_rhodopsin-like_Trinorchestia_longiramus	0.014000	0.915105
+15	451	XP_029291961.1_opsin-5-like_Cottoperca_gobio	0.002000	0.915107

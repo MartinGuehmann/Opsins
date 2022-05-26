@@ -1,0 +1,16 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.918498
+1	129	tr|A0A4W3J7R0|A0A4W3J7R0_CALMI_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Callorhinchus_milii_OX_7868_GN_opn3_PE_3_SV_1	1.457000	0.919966
+2	634	ETN59672.1_opsin-1_Anopheles_darlingi	0.961000	0.920934
+3	918,917	XP_002113684.1_hypothetical_protein_TRIADDRAFT_57363_Trichoplax_adhaerens,RDD37394.1_Neuropeptide_FF_receptor_2_Trichoplax_sp._H2	1.884000	0.922831
+4	403	ODN00900.1_Compound_eye_opsin_BCRH1_Orchesella_cincta	0.756000	0.923592
+5	0	Parasabella_TRINITY_DN22460_c0_g1_i1|ORF1	0.740000	0.924337
+6	100	AWP13317.1_multiple_tissue_opsin-like_Scophthalmus_maximus	0.634000	0.924976
+7	735	HDC51944.1_TPA_melanopsin_isoform_X3-like_partial_Sus_scrofa	0.583000	0.925563
+8	887	XP_014370959.1_PREDICTED_LOW_QUALITY_PROTEIN_neuropeptide_Y_receptor-like_Papilio_machaon	0.453000	0.926019
+9	330	Pseudobranchiomma_cf_schizogenica_SOAP_k35_C913011|ORF3	0.434000	0.926456
+10	66	GBN15126.1_hypothetical_protein_AVEN_160916_1_Araneus_ventricosus	0.334000	0.926793
+11	99	tr|A0A3Q1CJT9|A0A3Q1CJT9_AMPOC_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Amphiprion_ocellaris_OX_80972_PE_3_SV_1	0.266000	0.927060
+12	718	tr|A0A3Q3KLX4|A0A3Q3KLX4_9TELE_Opsin_4b_OS_Mastacembelus_armatus_OX_205130_PE_3_SV_1	0.030000	0.927091
+13	104	TMS06480.1_Vertebrate_ancient_opsin_Larimichthys_crocea	0.018000	0.927109
+14	715	tr|A0A672IW46|A0A672IW46_SALFA_Uncharacterized_protein_OS_Salarias_fasciatus_OX_181472_GN_LOC115393192_PE_4_SV_1	0.004000	0.927113

@@ -1,0 +1,15 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.911101
+1	209	tr|A0A673A3D8|A0A673A3D8_9TELE_Uncharacterized_protein_OS_Sphaeramia_orbicularis_OX_375764_PE_4_SV_1	4.230000	0.915507
+2	350	ANN75141.1_long_wavelength_rhodopsin_partial_Apomyrma_sp._CF01	1.315000	0.916877
+3	431	CAB0002283.1_unnamed_protein_product_Nesidiocoris_tenuis	0.887000	0.917801
+4	364	AAW59480.1_rhodopsin_partial_Dorylus_helvolus	0.631000	0.918458
+5	357	AIA23635.1_long_wavelength_rhodopsin_partial_Cerapachys_sp._MG04	0.627000	0.919111
+6	822	ABP88808.1_rod_opsin_Scopelarchus_analis	0.626000	0.919764
+7	210	XP_028516362.1_melanocyte-stimulating_hormone_receptor-like_Exaiptasia_diaphana	0.172000	0.919943
+8	228	XP_002118147.1_hypothetical_protein_TRIADDRAFT_3740_partial_Trichoplax_adhaerens	0.157000	0.920106
+9	727	ANV21074.1_opsin-3_Geotria_australis	0.037000	0.920145
+10	807,805	XP_009078756.1_PREDICTED_LOW_QUALITY_PROTEIN_rhodopsin_partial_Acanthisitta_chloris,XP_013810368.1_PREDICTED_rhodopsin_partial_Apteryx_mantelli_mantelli	0.053000	0.920200
+11	43	DAniello2015_ops8.4_Saccoglossus_kowalevskii	0.019000	0.920220
+12	823	AFH77432.1_rhodopsin_partial_Rhinichthys_cataractae	0.016000	0.920236
+13	157	XP_012621651.1_visual_pigment-like_receptor_peropsin_isoform_X1_Microcebus_murinus	0.003000	0.920240

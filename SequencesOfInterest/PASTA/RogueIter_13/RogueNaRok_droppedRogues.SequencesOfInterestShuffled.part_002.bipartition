@@ -1,0 +1,6 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.978484
+1	965	XP_013397676.1_melanopsin-like_Lingula_anatina	1.000000	0.979508
+2	114	tr|A0A671XZ14|A0A671XZ14_SPAAU_Uncharacterized_protein_OS_Sparus_aurata_OX_8175_GN_LOC115587793_PE_4_SV_1	1.000000	0.980533
+3	847	tr|A0A3Q3WNH0|A0A3Q3WNH0_MOLML_Adenosine_A4_receptor_a_OS_Mola_mola_OX_94237_PE_3_SV_1	1.000000	0.981557
+4	85	TWW55756.1_Opsin-3_Encephalopsin_Takifugu_flavidus	1.000000	0.982582

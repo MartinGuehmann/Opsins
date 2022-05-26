@@ -1,0 +1,94 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.283979] initialisation done (initScore = 0.918498, numBip=2804)
+[0.013722] sorting bipartition profile
+[0.081383] computed / updated events
+[0.019170] combined events
+[0.004250] calculated per dropset improvement
+[0.004011] executed the merging events 
+>129	tr|A0A4W3J7R0|A0A4W3J7R0_CALMI_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Callorhinchus_milii_OX_7868_GN_opn3_PE_3_SV_1	1.457000	0.919966
+[0.004404] sorting bipartition profile
+[0.001505] computed / updated events
+[0.023245] combined events
+[0.004442] calculated per dropset improvement
+[0.006397] executed the merging events 
+>634	ETN59672.1_opsin-1_Anopheles_darlingi	0.961000	0.920934
+[0.004435] sorting bipartition profile
+[0.001962] computed / updated events
+[0.022749] combined events
+[0.004136] calculated per dropset improvement
+[0.004131] executed the merging events 
+>918,917	XP_002113684.1_hypothetical_protein_TRIADDRAFT_57363_Trichoplax_adhaerens,RDD37394.1_Neuropeptide_FF_receptor_2_Trichoplax_sp._H2	1.884000	0.922831
+[0.005930] sorting bipartition profile
+[0.002344] computed / updated events
+[0.022914] combined events
+[0.004159] calculated per dropset improvement
+[0.004421] executed the merging events 
+>403	ODN00900.1_Compound_eye_opsin_BCRH1_Orchesella_cincta	0.756000	0.923592
+[0.004189] sorting bipartition profile
+[0.000936] computed / updated events
+[0.019956] combined events
+[0.003821] calculated per dropset improvement
+[0.004207] executed the merging events 
+>0	Parasabella_TRINITY_DN22460_c0_g1_i1|ORF1	0.740000	0.924337
+[0.004019] sorting bipartition profile
+[0.001073] computed / updated events
+[0.018869] combined events
+[0.004032] calculated per dropset improvement
+[0.004067] executed the merging events 
+>100	AWP13317.1_multiple_tissue_opsin-like_Scophthalmus_maximus	0.634000	0.924976
+[0.004784] sorting bipartition profile
+[0.002190] computed / updated events
+[0.021166] combined events
+[0.004080] calculated per dropset improvement
+[0.004079] executed the merging events 
+>735	HDC51944.1_TPA_melanopsin_isoform_X3-like_partial_Sus_scrofa	0.583000	0.925563
+[0.003900] sorting bipartition profile
+[0.001167] computed / updated events
+[0.018916] combined events
+[0.003738] calculated per dropset improvement
+[0.003749] executed the merging events 
+>887	XP_014370959.1_PREDICTED_LOW_QUALITY_PROTEIN_neuropeptide_Y_receptor-like_Papilio_machaon	0.453000	0.926019
+[0.003715] sorting bipartition profile
+[0.001194] computed / updated events
+[0.018388] combined events
+[0.003719] calculated per dropset improvement
+[0.005574] executed the merging events 
+>330	Pseudobranchiomma_cf_schizogenica_SOAP_k35_C913011|ORF3	0.434000	0.926456
+[0.005180] sorting bipartition profile
+[0.001263] computed / updated events
+[0.020343] combined events
+[0.004471] calculated per dropset improvement
+[0.006956] executed the merging events 
+>66	GBN15126.1_hypothetical_protein_AVEN_160916_1_Araneus_ventricosus	0.334000	0.926793
+[0.004952] sorting bipartition profile
+[0.001090] computed / updated events
+[0.019953] combined events
+[0.004490] calculated per dropset improvement
+[0.007165] executed the merging events 
+>99	tr|A0A3Q1CJT9|A0A3Q1CJT9_AMPOC_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Amphiprion_ocellaris_OX_80972_PE_3_SV_1	0.266000	0.927060
+[0.005205] sorting bipartition profile
+[0.002120] computed / updated events
+[0.021846] combined events
+[0.004811] calculated per dropset improvement
+[0.005021] executed the merging events 
+>718	tr|A0A3Q3KLX4|A0A3Q3KLX4_9TELE_Opsin_4b_OS_Mastacembelus_armatus_OX_205130_PE_3_SV_1	0.030000	0.927091
+[0.004618] sorting bipartition profile
+[0.001791] computed / updated events
+[0.019446] combined events
+[0.004106] calculated per dropset improvement
+[0.004978] executed the merging events 
+>104	TMS06480.1_Vertebrate_ancient_opsin_Larimichthys_crocea	0.018000	0.927109
+[0.004331] sorting bipartition profile
+[0.001933] computed / updated events
+[0.018700] combined events
+[0.004349] calculated per dropset improvement
+[0.005460] executed the merging events 
+>715	tr|A0A672IW46|A0A672IW46_SALFA_Uncharacterized_protein_OS_Salarias_fasciatus_OX_181472_GN_LOC115393192_PE_4_SV_1	0.004000	0.927113
+[0.004877] sorting bipartition profile
+[0.001946] computed / updated events
+[0.019146] combined events
+[0.004082] calculated per dropset improvement
+total time elapsed: 1.904837

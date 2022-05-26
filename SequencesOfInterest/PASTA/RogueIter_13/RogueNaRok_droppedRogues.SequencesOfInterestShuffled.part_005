@@ -1,0 +1,13 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.915122
+1	933	tr|A0A5F4WK89|A0A5F4WK89_CALJA_Retinal_pigment_epithelium-derived_rhodopsin_homolog_OS_Callithrix_jacchus_OX_9483_GN_RRH_PE_3_SV_1	1.158000	0.916308
+2	978,964	XP_031560436.1_QRFP-like_peptide_receptor_Actinia_tenebrosa,RDD43211.1_Galanin_receptor_type_2_Trichoplax_sp._H2	1.586000	0.917933
+3	701	XP_027516098.1_pinopsin_isoform_X2_Corapipo_altera	0.677000	0.918627
+4	583	XP_030219866.1_rhodopsin_Gadus_morhua	0.286000	0.918920
+5	487	JAN31237.1_Gpcr_rhodopsin_family_Daphnia_magna	0.253000	0.919179
+6	913	CDQ66975.1_unnamed_protein_product_Oncorhynchus_mykiss	0.247000	0.919432
+7	890	XP_033739546.1_pinopsin-like_isoform_X1_Pecten_maximus	0.206000	0.919643
+8	30	XP_007250160.1_cysteinyl_leukotriene_receptor_2-like_Astyanax_mexicanus	0.137000	0.919784
+9	367	JAT19337.1_hypothetical_protein_g.49949_partial_Graphocephala_atropunctata	0.028000	0.919813
+10	655	XP_033858485.2_opsin-1_short-wave-sensitive_2_Acipenser_ruthenus	0.003000	0.919816
+11	661	XP_006269113.1_PREDICTED_blue-sensitive_opsin_Alligator_mississippiensis	0.001000	0.919817

@@ -1,0 +1,70 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.335036] initialisation done (initScore = 0.924301, numBip=2583)
+[0.014117] sorting bipartition profile
+[0.076220] computed / updated events
+[0.015246] combined events
+[0.004491] calculated per dropset improvement
+[0.004041] executed the merging events 
+>599	QGW08862.1_long-wavelength-sensitive_opsin_Chiloscyllium_punctatum	1.360000	0.925671
+[0.004232] sorting bipartition profile
+[0.001168] computed / updated events
+[0.016263] combined events
+[0.004110] calculated per dropset improvement
+[0.004196] executed the merging events 
+>434	tr|A0A3Q3VRT1|A0A3Q3VRT1_MOLML_Teleost_multiple_tissue_opsin_3a_OS_Mola_mola_OX_94237_PE_4_SV_1	0.928000	0.926605
+[0.004292] sorting bipartition profile
+[0.001277] computed / updated events
+[0.015842] combined events
+[0.004125] calculated per dropset improvement
+[0.005059] executed the merging events 
+>200	LAA07857.1_ocellar_opsin_partial_Parasteatoda_tepidariorum	0.827000	0.927438
+[0.004610] sorting bipartition profile
+[0.001864] computed / updated events
+[0.015318] combined events
+[0.004198] calculated per dropset improvement
+[0.004327] executed the merging events 
+>478	AAP58332.1_RH1_opsin_Oncorhynchus_keta	0.778000	0.928222
+[0.004355] sorting bipartition profile
+[0.001285] computed / updated events
+[0.015295] combined events
+[0.003950] calculated per dropset improvement
+[0.004266] executed the merging events 
+>529	APU53751.1_blue_short_wavelength_sensitive_opsin_Astronotus_ocellatus	0.513000	0.928738
+[0.004310] sorting bipartition profile
+[0.001300] computed / updated events
+[0.015922] combined events
+[0.004083] calculated per dropset improvement
+[0.004186] executed the merging events 
+>570	ALQ32717.1_short_wavelength-sensitive_opsin_1_partial_Pseudochirulus_forbesi	0.134000	0.928873
+[0.004057] sorting bipartition profile
+[0.001012] computed / updated events
+[0.015869] combined events
+[0.003896] calculated per dropset improvement
+[0.004082] executed the merging events 
+>582	XP_007534919.1_PREDICTED_long-wave-sensitive_opsin_1_Erinaceus_europaeus	0.089000	0.928963
+[0.004314] sorting bipartition profile
+[0.001229] computed / updated events
+[0.015995] combined events
+[0.004347] calculated per dropset improvement
+[0.004338] executed the merging events 
+>756	RDD39654.1_Prokineticin_receptor_2_Trichoplax_sp._H2	0.038000	0.929001
+[0.004308] sorting bipartition profile
+[0.001138] computed / updated events
+[0.016163] combined events
+[0.003705] calculated per dropset improvement
+[0.004343] executed the merging events 
+>926	XP_019623838.1_PREDICTED_opsin-5-like_isoform_X1_Branchiostoma_belcheri	0.004000	0.929005
+[0.004272] sorting bipartition profile
+[0.000702] computed / updated events
+[0.016125] combined events
+[0.004173] calculated per dropset improvement
+[0.004278] executed the merging events 
+>480	tr|W5LUX6|W5LUX6_ASTMX_Rhodopsin_OS_Astyanax_mexicanus_OX_7994_PE_3_SV_2	0.001000	0.929006
+[0.004402] sorting bipartition profile
+[0.001184] computed / updated events
+[0.016019] combined events
+[0.004064] calculated per dropset improvement
+total time elapsed: 1.743972

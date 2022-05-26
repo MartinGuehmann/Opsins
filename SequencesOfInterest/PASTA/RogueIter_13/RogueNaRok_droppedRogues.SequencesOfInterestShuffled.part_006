@@ -1,0 +1,11 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.918216
+1	93	tr|G1STM0|G1STM0_RABIT_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Oryctolagus_cuniculus_OX_9986_GN_OPN3_PE_3_SV_2	0.580000	0.918810
+2	51	XP_015821053.1_PREDICTED_opsin-3-like_Nothobranchius_furzeri	0.285000	0.919102
+3	978	GAU87859.1_hypothetical_protein_RvY_00653_Ramazzottius_varieornatus	0.204000	0.919311
+4	186	ABS89278.1_Rh1_opsin_Neoceratodus_forsteri	0.096000	0.919410
+5	212	XP_019957033.1_PREDICTED_green-sensitive_opsin-4-like_Paralichthys_olivaceus	0.094000	0.919506
+6	565	XP_019549558.2_trissin_receptor_Aedes_albopictus	0.020000	0.919527
+7	37	XP_016887018.1_pinopsin-like_Cynoglossus_semilaevis	0.012000	0.919539
+8	568	tr|A0A4X2KNF0|A0A4X2KNF0_VOMUR_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Vombatus_ursinus_OX_29139_PE_3_SV_1	0.009000	0.919548
+9	353	XP_020367779.1_opsin-5-like_Rhincodon_typus	0.002000	0.919550

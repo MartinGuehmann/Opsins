@@ -1,0 +1,16 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.913823
+1	858	XP_002114114.1_hypothetical_protein_TRIADDRAFT_58248_Trichoplax_adhaerens	1.930000	0.915800
+2	347	KAA8590904.1_hypothetical_protein_FQN60_001847_Etheostoma_spectabile	1.594000	0.917433
+3	589	GBP19857.1_Opsin-2_Eumeta_japonica	1.345000	0.918811
+4	34	RNA17726.1_visual_pigment-like_receptor_peropsin_Brachionus_plicatilis	1.232000	0.920074
+5	423	XP_023368985.1_LOW_QUALITY_PROTEIN_short-wave-sensitive_opsin_1_Otolemur_garnettii	1.018000	0.921117
+6	949	XP_024508315.1_Melanopsin_Strongyloides_ratti	0.837000	0.921974
+7	50	XP_006264141.2_PREDICTED_visual_pigment-like_receptor_peropsin_isoform_X1_Alligator_mississippiensis	0.516000	0.922503
+8	229	GCF39899.1_hypothetical_protein_parPi_0027532_partial_Paroedura_picta	0.392000	0.922905
+9	857	RDD42137.1_Neuropeptide_receptor_15_Trichoplax_sp._H2	0.379000	0.923293
+10	834	XP_026198374.1_neuropeptide_Y_receptor_Y8b_Anabas_testudineus	0.189000	0.923487
+11	359	AAR24251.1_rhodopsin_partial_Rondeletia_sp._AD-2003	0.158000	0.923649
+12	659	AEO80028.1_long-wavelength_rhodopsin_partial_Ectemnius_sonorensis	0.019000	0.923668
+13	68	XP_023223955.1_visual_pigment-like_receptor_peropsin_isoform_X1_Centruroides_sculpturatus	0.006000	0.923674
+14	51	EMP40797.1_Pro-epidermal_growth_factor_Chelonia_mydas	0.006000	0.923680

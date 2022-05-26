@@ -1,0 +1,64 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.303649] initialisation done (initScore = 0.918216, numBip=2642)
+[0.013653] sorting bipartition profile
+[0.088561] computed / updated events
+[0.017690] combined events
+[0.004305] calculated per dropset improvement
+[0.004344] executed the merging events 
+>93	tr|G1STM0|G1STM0_RABIT_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Oryctolagus_cuniculus_OX_9986_GN_OPN3_PE_3_SV_2	0.580000	0.918810
+[0.004609] sorting bipartition profile
+[0.001037] computed / updated events
+[0.018992] combined events
+[0.004300] calculated per dropset improvement
+[0.004499] executed the merging events 
+>51	XP_015821053.1_PREDICTED_opsin-3-like_Nothobranchius_furzeri	0.285000	0.919102
+[0.004476] sorting bipartition profile
+[0.001195] computed / updated events
+[0.019370] combined events
+[0.003895] calculated per dropset improvement
+[0.004031] executed the merging events 
+>978	GAU87859.1_hypothetical_protein_RvY_00653_Ramazzottius_varieornatus	0.204000	0.919311
+[0.004481] sorting bipartition profile
+[0.000981] computed / updated events
+[0.019203] combined events
+[0.004275] calculated per dropset improvement
+[0.004202] executed the merging events 
+>186	ABS89278.1_Rh1_opsin_Neoceratodus_forsteri	0.096000	0.919410
+[0.004502] sorting bipartition profile
+[0.001325] computed / updated events
+[0.018815] combined events
+[0.004169] calculated per dropset improvement
+[0.004132] executed the merging events 
+>212	XP_019957033.1_PREDICTED_green-sensitive_opsin-4-like_Paralichthys_olivaceus	0.094000	0.919506
+[0.004692] sorting bipartition profile
+[0.001120] computed / updated events
+[0.019601] combined events
+[0.003792] calculated per dropset improvement
+[0.004541] executed the merging events 
+>565	XP_019549558.2_trissin_receptor_Aedes_albopictus	0.020000	0.919527
+[0.004603] sorting bipartition profile
+[0.001226] computed / updated events
+[0.018199] combined events
+[0.003704] calculated per dropset improvement
+[0.003770] executed the merging events 
+>37	XP_016887018.1_pinopsin-like_Cynoglossus_semilaevis	0.012000	0.919539
+[0.004392] sorting bipartition profile
+[0.001153] computed / updated events
+[0.018023] combined events
+[0.003678] calculated per dropset improvement
+[0.003695] executed the merging events 
+>568	tr|A0A4X2KNF0|A0A4X2KNF0_VOMUR_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Vombatus_ursinus_OX_29139_PE_3_SV_1	0.009000	0.919548
+[0.004594] sorting bipartition profile
+[0.001220] computed / updated events
+[0.018130] combined events
+[0.003603] calculated per dropset improvement
+[0.003716] executed the merging events 
+>353	XP_020367779.1_opsin-5-like_Rhincodon_typus	0.002000	0.919550
+[0.004743] sorting bipartition profile
+[0.000958] computed / updated events
+[0.017798] combined events
+[0.003532] calculated per dropset improvement
+total time elapsed: 1.720126

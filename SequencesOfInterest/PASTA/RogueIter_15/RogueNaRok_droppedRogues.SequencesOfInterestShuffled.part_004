@@ -1,0 +1,12 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.920686
+1	31	XP_004467186.1_olfactory_receptor_10A6_Dasypus_novemcinctus	2.066000	0.922872
+2	624	KAA0712842.1_Green-sensitive_opsin-4_Triplophysa_tibetana	0.789000	0.923707
+3	30	RDD36314.1_Histamine_H2_receptor_Trichoplax_sp._H2	0.384000	0.924113
+4	557,556	tr|A0A4W5JMZ3|A0A4W5JMZ3_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Hucho_hucho_OX_62062_PE_3_SV_1,tr|A0A4W5JMT9|A0A4W5JMT9_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Hucho_hucho_OX_62062_PE_3_SV_1	0.653000	0.924804
+5	311	HDC62844.1_TPA_melanopsin_isoform_1_Sus_scrofa	0.289000	0.925110
+6	462	RVE61480.1_hypothetical_protein_OJAV_G00171150_Oryzias_javanicus	0.174000	0.925294
+7	517	AWU78794.1_C-type_opsin_Branchiostoma_lanceolatum	0.161000	0.925465
+8	910	XP_006819174.1_PREDICTED_opsin-5-like_Saccoglossus_kowalevskii	0.049000	0.925516
+9	1	RNA01884.1_melanopsin_partial_Brachionus_plicatilis	0.023000	0.925541
+10	39	RMX40830.1_hypothetical_protein_pdam_00006516_partial_Pocillopora_damicornis	0.018000	0.925560

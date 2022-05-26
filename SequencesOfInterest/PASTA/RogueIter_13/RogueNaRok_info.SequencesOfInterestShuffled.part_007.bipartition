@@ -1,0 +1,46 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.264852] initialisation done (initScore = 0.975410, numBip=2743)
+[0.013552] sorting bipartition profile
+[0.058894] computed / updated events
+[0.015890] combined events
+[0.003202] calculated per dropset improvement
+[0.003127] executed the merging events 
+>857	RDD42137.1_Neuropeptide_receptor_15_Trichoplax_sp._H2	2.000000	0.977459
+[0.004778] sorting bipartition profile
+[0.002450] computed / updated events
+[0.022003] combined events
+[0.004110] calculated per dropset improvement
+[0.006306] executed the merging events 
+>347	KAA8590904.1_hypothetical_protein_FQN60_001847_Etheostoma_spectabile	2.000000	0.979508
+[0.005682] sorting bipartition profile
+[0.002916] computed / updated events
+[0.021356] combined events
+[0.004324] calculated per dropset improvement
+[0.006255] executed the merging events 
+>949	XP_024508315.1_Melanopsin_Strongyloides_ratti	1.000000	0.980533
+[0.004471] sorting bipartition profile
+[0.001106] computed / updated events
+[0.020223] combined events
+[0.003823] calculated per dropset improvement
+[0.005435] executed the merging events 
+>50	XP_006264141.2_PREDICTED_visual_pigment-like_receptor_peropsin_isoform_X1_Alligator_mississippiensis	1.000000	0.981557
+[0.004440] sorting bipartition profile
+[0.001284] computed / updated events
+[0.019902] combined events
+[0.003806] calculated per dropset improvement
+[0.005693] executed the merging events 
+>34	RNA17726.1_visual_pigment-like_receptor_peropsin_Brachionus_plicatilis	1.000000	0.982582
+[0.004386] sorting bipartition profile
+[0.001054] computed / updated events
+[0.020353] combined events
+[0.003984] calculated per dropset improvement
+[0.008422] executed the merging events 
+>423	XP_023368985.1_LOW_QUALITY_PROTEIN_short-wave-sensitive_opsin_1_Otolemur_garnettii	1.000000	0.983607
+[0.005162] sorting bipartition profile
+[0.001871] computed / updated events
+[0.021811] combined events
+[0.004291] calculated per dropset improvement
+total time elapsed: 1.582054

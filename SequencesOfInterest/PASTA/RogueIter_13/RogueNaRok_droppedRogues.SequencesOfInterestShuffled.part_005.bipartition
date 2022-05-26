@@ -1,0 +1,6 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.980533
+1	978	XP_031560436.1_QRFP-like_peptide_receptor_Actinia_tenebrosa	1.000000	0.981557
+2	964	RDD43211.1_Galanin_receptor_type_2_Trichoplax_sp._H2	1.000000	0.982582
+3	701	XP_027516098.1_pinopsin_isoform_X2_Corapipo_altera	1.000000	0.983607
+4	933	tr|A0A5F4WK89|A0A5F4WK89_CALJA_Retinal_pigment_epithelium-derived_rhodopsin_homolog_OS_Callithrix_jacchus_OX_9483_GN_RRH_PE_3_SV_1	1.000000	0.984631

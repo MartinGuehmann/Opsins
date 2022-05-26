@@ -1,0 +1,70 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.919269] initialisation done (initScore = 0.920953, numBip=2547)
+[0.017414] sorting bipartition profile
+[0.090575] computed / updated events
+[0.024338] combined events
+[0.004398] calculated per dropset improvement
+[0.003363] executed the merging events 
+>333	ABK54993.1_long_wavelength_rhodopsin_partial_Sapyga_pumila	1.166000	0.922187
+[0.003581] sorting bipartition profile
+[0.001355] computed / updated events
+[0.023827] combined events
+[0.003764] calculated per dropset improvement
+[0.003437] executed the merging events 
+>827	ACQ65827.1_rhodopsin_partial_Stigmatopora_nigra	1.114000	0.923366
+[0.003532] sorting bipartition profile
+[0.002821] computed / updated events
+[0.022965] combined events
+[0.003708] calculated per dropset improvement
+[0.003390] executed the merging events 
+>736	XP_022784786.1_adenosine_receptor_A1-like_Stylophora_pistillata	0.645000	0.924049
+[0.003759] sorting bipartition profile
+[0.001395] computed / updated events
+[0.023083] combined events
+[0.003737] calculated per dropset improvement
+[0.003399] executed the merging events 
+>911	JAO05522.1_OPSO_partial_Poeciliopsis_prolifica	0.260000	0.924324
+[0.003512] sorting bipartition profile
+[0.001220] computed / updated events
+[0.022756] combined events
+[0.004095] calculated per dropset improvement
+[0.003450] executed the merging events 
+>828	AEW67069.1_rod_opsin_partial_Hoplostethus_mediterraneus	0.072000	0.924400
+[0.003557] sorting bipartition profile
+[0.001389] computed / updated events
+[0.023177] combined events
+[0.004047] calculated per dropset improvement
+[0.003538] executed the merging events 
+>845	XP_010084262.1_PREDICTED_rhodopsin_partial_Pterocles_gutturalis	0.054000	0.924457
+[0.003651] sorting bipartition profile
+[0.001122] computed / updated events
+[0.023352] combined events
+[0.003952] calculated per dropset improvement
+[0.004034] executed the merging events 
+>614	XP_010876383.2_coagulation_factor_II_thrombin_receptor-like_1_tandem_duplicate_2_Esox_lucius	0.051000	0.924511
+[0.003802] sorting bipartition profile
+[0.001202] computed / updated events
+[0.025239] combined events
+[0.004203] calculated per dropset improvement
+[0.003509] executed the merging events 
+>286	EGW14880.1_Leucine-rich_repeat_immunoglobulin-like_domain_and_transmembrane_domain-containing_protein_3_Cricetulus_griseus	0.039000	0.924552
+[0.003579] sorting bipartition profile
+[0.002120] computed / updated events
+[0.024429] combined events
+[0.004172] calculated per dropset improvement
+[0.003449] executed the merging events 
+>613	BAJ16362.1_angiotensin_II_receptor_type-1_Dryophytes_japonicus	0.014000	0.924567
+[0.003506] sorting bipartition profile
+[0.000866] computed / updated events
+[0.023219] combined events
+[0.003882] calculated per dropset improvement
+[0.003395] executed the merging events 
+>180	XP_008277839.1_PREDICTED_opsin-5-like_Stegastes_partitus	0.010000	0.924578
+[0.003794] sorting bipartition profile
+[0.001568] computed / updated events
+[0.022895] combined events
+[0.003913] calculated per dropset improvement
+total time elapsed: 2.417333

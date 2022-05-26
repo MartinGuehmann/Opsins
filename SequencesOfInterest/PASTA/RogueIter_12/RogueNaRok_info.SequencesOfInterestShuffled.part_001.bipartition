@@ -1,0 +1,40 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.290256] initialisation done (initScore = 0.973843, numBip=2971)
+[0.013979] sorting bipartition profile
+[0.089394] computed / updated events
+[0.019885] combined events
+[0.004322] calculated per dropset improvement
+[0.004423] executed the merging events 
+>904	tr|A0A3P9PDW2|A0A3P9PDW2_POERE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Poecilia_reticulata_OX_8081_PE_3_SV_1	3.000000	0.976861
+[0.004318] sorting bipartition profile
+[0.002099] computed / updated events
+[0.020919] combined events
+[0.004115] calculated per dropset improvement
+[0.004874] executed the merging events 
+>456	XP_017455578.1_PREDICTED_RPE-retinal_G_protein-coupled_receptor_isoform_X2_Rattus_norvegicus	1.000000	0.977867
+[0.004447] sorting bipartition profile
+[0.001443] computed / updated events
+[0.021199] combined events
+[0.003895] calculated per dropset improvement
+[0.004314] executed the merging events 
+>382	tr|A0A3Q4BLG4|A0A3Q4BLG4_MOLML_Opsin_9_OS_Mola_mola_OX_94237_PE_4_SV_1	1.000000	0.978873
+[0.004757] sorting bipartition profile
+[0.001500] computed / updated events
+[0.020579] combined events
+[0.003949] calculated per dropset improvement
+[0.004355] executed the merging events 
+>579	RDD39668.1_Neuropeptide_FF_receptor_2_Trichoplax_sp._H2	1.000000	0.979879
+[0.004260] sorting bipartition profile
+[0.001629] computed / updated events
+[0.020331] combined events
+[0.004058] calculated per dropset improvement
+[0.005239] executed the merging events 
+>581,580	XP_002118176.1_hypothetical_protein_TRIADDRAFT_62222_Trichoplax_adhaerens,RDD39373.1_Neuropeptide_FF_receptor_2_Trichoplax_sp._H2	1.000000	0.980885
+[0.006045] sorting bipartition profile
+[0.001181] computed / updated events
+[0.020600] combined events
+[0.003795] calculated per dropset improvement
+total time elapsed: 1.597024

@@ -1,0 +1,15 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.926492
+1	823	LAA08320.1_ocellar_opsin_partial_Parasteatoda_tepidariorum	1.369000	0.927894
+2	504	tr|A0A3Q4BS70|A0A3Q4BS70_MOLML_Opsin_6_group_member_a_OS_Mola_mola_OX_94237_PE_4_SV_1	0.239000	0.928139
+3	439	XP_029984594.1_opsin-5-like_Sphaeramia_orbicularis	0.224000	0.928369
+4	214	AFH77426.1_rhodopsin_partial_Campostoma_pauciradii	0.195000	0.928569
+5	939,934	tr|A0A3Q2CQT6|A0A3Q2CQT6_CYPVA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Cyprinodon_variegatus_OX_28743_PE_3_SV_1,tr|A0A3Q4H1S2|A0A3Q4H1S2_NEOBR_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Neolamprologus_brichardi_OX_32507_PE_3_SV_1	0.384000	0.928962
+6	43	TNN81448.1_Pineal_opsin_Liparis_tanakae	0.081000	0.929045
+7	39	TNN81450.1_Opsin-3_Liparis_tanakae	0.072000	0.929119
+8	204,203	CAB1329351.1_unnamed_protein_product_Coregonus_sp._balchen,XP_010900403.2_rhodopsin_Esox_lucius	0.106000	0.929227
+9	871	BAQ54908.1_opsin_rhodopsin-7_like_Ischnura_asiatica	0.026000	0.929254
+10	64	tr|A0A4W3J8V0|A0A4W3J8V0_CALMI_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Callorhinchus_milii_OX_7868_PE_3_SV_1	0.024000	0.929279
+11	78	XP_030251618.1_pinopsin-like_Sparus_aurata	0.006000	0.929285
+12	81	XP_033489587.1_teleost_multiple_tissue_opsin_3a_Epinephelus_lanceolatus	0.003000	0.929288
+13	213	XP_018978778.1_PREDICTED_rhodopsin_isoform_X1_Cyprinus_carpio	0.001000	0.929289

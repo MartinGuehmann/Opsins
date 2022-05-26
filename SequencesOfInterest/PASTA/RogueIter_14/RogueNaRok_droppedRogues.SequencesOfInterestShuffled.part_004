@@ -1,0 +1,10 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.931090
+1	51,43	APY20614.1_ultraviolet_sensitive_opsin_partial_Inocellia_crassicornis,APY20499.1_ultraviolet_sensitive_opsin_partial_Heterochelus_sp._CRS-2017	1.398000	0.932546
+2	909	AYW11980.1_rhodopsin_partial_Venefica_tentaculata	0.562000	0.933131
+3	817	BAO93915.1_short_wavelength_sensitive_opsin_Verasper_moseri	0.263000	0.933405
+4	395	KRZ76943.1_Dual_specificity_mitogen-activated_protein_kinase_kinase_4_Trichinella_papuae	0.142000	0.933553
+5	114	WP_151851523.1_hypothetical_protein_Bacteroides_vulgatus	0.103000	0.933660
+6	446	CAB1321949.1_unnamed_protein_product_Coregonus_sp._balchen	0.042000	0.933704
+7	385	RDD40479.1_Neuropeptide_FF_receptor_2_Trichoplax_sp._H2	0.025000	0.933730
+8	394	XP_028571074.1_probable_G-protein_coupled_receptor_83_isoform_X1_Podarcis_muralis	0.002000	0.933732

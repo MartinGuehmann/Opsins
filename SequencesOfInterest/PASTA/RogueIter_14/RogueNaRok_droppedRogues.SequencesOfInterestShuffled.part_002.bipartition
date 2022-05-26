@@ -1,0 +1,7 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.970833
+1	209	tr|A0A673A3D8|A0A673A3D8_9TELE_Uncharacterized_protein_OS_Sphaeramia_orbicularis_OX_375764_PE_4_SV_1	5.000000	0.976042
+2	350	ANN75141.1_long_wavelength_rhodopsin_partial_Apomyrma_sp._CF01	2.000000	0.978125
+3	431	CAB0002283.1_unnamed_protein_product_Nesidiocoris_tenuis	1.000000	0.979167
+4	822	ABP88808.1_rod_opsin_Scopelarchus_analis	1.000000	0.980208
+5	357	AIA23635.1_long_wavelength_rhodopsin_partial_Cerapachys_sp._MG04	1.000000	0.981250

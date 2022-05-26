@@ -1,0 +1,1 @@
+AAL60774.1_olfactory_receptor_MOR232-4_Mus_musculus	XP_022347653.1_olfactory_receptor_49-like_Enhydra_lutris_kenyoni	XP_023417912.1_olfactory_receptor_2B6_Cavia_porcellus	

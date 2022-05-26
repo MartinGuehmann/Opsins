@@ -1,0 +1,82 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.446840] initialisation done (initScore = 0.927715, numBip=2844)
+[0.014260] sorting bipartition profile
+[0.095076] computed / updated events
+[0.025588] combined events
+[0.005628] calculated per dropset improvement
+[0.008416] executed the merging events 
+>30	DAniello2015_ops1.A_Paracentrotus_lividus	2.138000	0.929942
+[0.004698] sorting bipartition profile
+[0.001448] computed / updated events
+[0.029165] combined events
+[0.004821] calculated per dropset improvement
+[0.006023] executed the merging events 
+>297	JAM58722.1_Gpcr_rhodopsin_family_partial_Daphnia_magna	1.396000	0.931396
+[0.004281] sorting bipartition profile
+[0.001593] computed / updated events
+[0.026844] combined events
+[0.004904] calculated per dropset improvement
+[0.006011] executed the merging events 
+>267	tr|A0A3Q1CF69|A0A3Q1CF69_AMPOC_Parietopsin_OS_Amphiprion_ocellaris_OX_80972_PE_3_SV_1	0.972000	0.932408
+[0.004330] sorting bipartition profile
+[0.001217] computed / updated events
+[0.027136] combined events
+[0.004945] calculated per dropset improvement
+[0.006054] executed the merging events 
+>46	TNM99657.1_hypothetical_protein_fugu_012690_Takifugu_bimaculatus	0.634000	0.933069
+[0.004259] sorting bipartition profile
+[0.001107] computed / updated events
+[0.027317] combined events
+[0.004714] calculated per dropset improvement
+[0.005984] executed the merging events 
+>418	CAD33859.1_long-wavelength_opsin_partial_Tinocallis_takachihoensis	0.508000	0.933598
+[0.004422] sorting bipartition profile
+[0.002294] computed / updated events
+[0.026922] combined events
+[0.004803] calculated per dropset improvement
+[0.006138] executed the merging events 
+>961,0	XP_020630309.1_melanocyte-stimulating_hormone_receptor-like_Orbicella_faveolata,XP_015769105.1_PREDICTED_5-hydroxytryptamine_receptor_1-like_Acropora_digitifera	0.794000	0.934425
+[0.005808] sorting bipartition profile
+[0.002004] computed / updated events
+[0.026433] combined events
+[0.004841] calculated per dropset improvement
+[0.006083] executed the merging events 
+>528	TWW82300.1_Melanopsin-A_Mammalian-like_melanopsin_Takifugu_flavidus	0.384000	0.934825
+[0.004840] sorting bipartition profile
+[0.001557] computed / updated events
+[0.026431] combined events
+[0.004784] calculated per dropset improvement
+[0.005844] executed the merging events 
+>388	APY20588.1_long_wavelength_sensitive_opsin_Conwentzia_psociformis	0.272000	0.935108
+[0.004449] sorting bipartition profile
+[0.001671] computed / updated events
+[0.026376] combined events
+[0.005030] calculated per dropset improvement
+[0.006308] executed the merging events 
+>419	KFM62776.1_Lateral_eye_opsin_partial_Stegodyphus_mimosarum	0.119000	0.935232
+[0.003885] sorting bipartition profile
+[0.000928] computed / updated events
+[0.025631] combined events
+[0.004845] calculated per dropset improvement
+[0.006296] executed the merging events 
+>43	XP_013876615.1_PREDICTED_opsin-3_Austrofundulus_limnaeus	0.084000	0.935320
+[0.003921] sorting bipartition profile
+[0.000917] computed / updated events
+[0.023910] combined events
+[0.004241] calculated per dropset improvement
+[0.005294] executed the merging events 
+>891	XP_031572748.1_QRFP-like_peptide_receptor_Actinia_tenebrosa	0.030000	0.935351
+[0.004426] sorting bipartition profile
+[0.001972] computed / updated events
+[0.021812] combined events
+[0.004769] calculated per dropset improvement
+[0.007136] executed the merging events 
+>716	OQV13731.1_putative_Opsin-5_Hypsibius_dujardini	0.018000	0.935370
+[0.004259] sorting bipartition profile
+[0.001589] computed / updated events
+[0.021785] combined events
+[0.004330] calculated per dropset improvement
+total time elapsed: 2.102725

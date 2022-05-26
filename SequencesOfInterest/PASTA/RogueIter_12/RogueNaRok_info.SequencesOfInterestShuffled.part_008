@@ -1,0 +1,76 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.325074] initialisation done (initScore = 0.930094, numBip=2659)
+[0.013974] sorting bipartition profile
+[0.073690] computed / updated events
+[0.016374] combined events
+[0.003904] calculated per dropset improvement
+[0.003675] executed the merging events 
+>190	AGZ87938.1_opsin_partial_Acanthephyra_purpurea	0.946000	0.931046
+[0.004271] sorting bipartition profile
+[0.001357] computed / updated events
+[0.019688] combined events
+[0.003864] calculated per dropset improvement
+[0.004098] executed the merging events 
+>636	DAC74051.1_TPA_exp_neuropsin_Branchiostoma_floridae	0.801000	0.931853
+[0.003806] sorting bipartition profile
+[0.001217] computed / updated events
+[0.016958] combined events
+[0.003548] calculated per dropset improvement
+[0.003649] executed the merging events 
+>162	WP_151851525.1_MULTISPECIES_hypothetical_protein_Bacteroides	0.799000	0.932658
+[0.004426] sorting bipartition profile
+[0.001397] computed / updated events
+[0.018163] combined events
+[0.003726] calculated per dropset improvement
+[0.003521] executed the merging events 
+>250	XP_034115546.1_opsin_Rh3_Drosophila_albomicans	0.596000	0.933258
+[0.003915] sorting bipartition profile
+[0.001082] computed / updated events
+[0.018232] combined events
+[0.003705] calculated per dropset improvement
+[0.003536] executed the merging events 
+>498	XP_014399109.1_PREDICTED_RPE-retinal_G_protein-coupled_receptor_isoform_X3_Myotis_brandtii	0.459000	0.933720
+[0.004194] sorting bipartition profile
+[0.001367] computed / updated events
+[0.019004] combined events
+[0.003916] calculated per dropset improvement
+[0.003831] executed the merging events 
+>183	APY20616.1_long_wavelength_sensitive_opsin_Lepicerus_sp._CRS-2017	0.421000	0.934144
+[0.004079] sorting bipartition profile
+[0.001344] computed / updated events
+[0.017546] combined events
+[0.004405] calculated per dropset improvement
+[0.006343] executed the merging events 
+>698	DAniello2015_ops2_Heliocidaris_erythrogramma	0.413000	0.934560
+[0.004304] sorting bipartition profile
+[0.001249] computed / updated events
+[0.018413] combined events
+[0.003582] calculated per dropset improvement
+[0.003809] executed the merging events 
+>496	RMX39523.1_hypothetical_protein_pdam_00006140_Pocillopora_damicornis	0.115000	0.934676
+[0.004505] sorting bipartition profile
+[0.001116] computed / updated events
+[0.019546] combined events
+[0.003738] calculated per dropset improvement
+[0.004198] executed the merging events 
+>867	CAB1336161.1_unnamed_protein_product_partial_Coregonus_sp._balchen	0.017000	0.934693
+[0.004014] sorting bipartition profile
+[0.001625] computed / updated events
+[0.021021] combined events
+[0.004362] calculated per dropset improvement
+[0.004640] executed the merging events 
+>114	XP_005992235.1_PREDICTED_melanopsin_Latimeria_chalumnae	0.012000	0.934705
+[0.004376] sorting bipartition profile
+[0.001073] computed / updated events
+[0.020409] combined events
+[0.004142] calculated per dropset improvement
+[0.004210] executed the merging events 
+>756	KAA8586785.1_hypothetical_protein_FQN60_000621_partial_Etheostoma_spectabile	0.003000	0.934708
+[0.004203] sorting bipartition profile
+[0.001317] computed / updated events
+[0.018669] combined events
+[0.004106] calculated per dropset improvement
+total time elapsed: 1.790453

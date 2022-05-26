@@ -1,0 +1,9 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.915781
+1	154	KAF4107561.1_hypothetical_protein_G5714_011925_Onychostoma_macrolepis	1.278000	0.917133
+2	639	tr|A0A2R7VUJ2|A0A2R7VUJ2_ONCFA_Long_wavelength_sensitive_opsin_1_Fragment_OS_Oncopeltus_fasciatus_OX_7536_GN_OFAS_OFAS003182_PE_3_SV_1	0.755000	0.917932
+3	560	XP_014243083.1_opsin_ultraviolet-sensitive_Cimex_lectularius	0.632000	0.918601
+4	662	JAM11870.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_putative_partial_Daphnia_magna	0.343000	0.918964
+5	407	tr|A0A3Q1CRF6|A0A3Q1CRF6_AMPOC_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Amphiprion_ocellaris_OX_80972_PE_3_SV_1	0.227000	0.919204
+6	647,646	QIW86046.1_opsin_L13_Neogonodactylus_oerstedii,ABI48881.1_opsin_partial_Homarus_gammarus	0.078000	0.919287
+7	831	tr|A0A182MJP8|A0A182MJP8_9DIPT_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Anopheles_culicifacies_OX_139723_PE_3_SV_1	0.032000	0.919321

@@ -1,0 +1,11 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.920134
+1	248	tr|A0A3Q3W6S0|A0A3Q3W6S0_MOLML_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Mola_mola_OX_94237_PE_3_SV_1	0.575000	0.920733
+2	949	RXG73427.1_Green-sensitive_opsin-1_Armadillidium_vulgare	0.345000	0.921093
+3	894	XP_020378143.1_pinopsin-like_Rhincodon_typus	0.206000	0.921307
+4	495,494	RDD39213.1_Melanin-concentrating_hormone_receptor_1_Trichoplax_sp._H2,XP_002115316.1_hypothetical_protein_TRIADDRAFT_59369_Trichoplax_adhaerens	0.348000	0.921670
+5	493	XP_032218877.1_galanin_receptor_type_1_Nematostella_vectensis	0.171000	0.921848
+6	798	tr|K7F4T4|K7F4T4_PELSI_Opsin_1_short_wave_sensitive_OS_Pelodiscus_sinensis_OX_13735_GN_OPN1SW_PE_4_SV_1	0.017000	0.921866
+7	729	XP_003439339.1_pinopsin_isoform_X1_Oreochromis_niloticus	0.011000	0.921877
+8	364	ACB70891.1_long_wavelength_rhodopsin_partial_Plumarius_sp._2_EMP-2008	0.009000	0.921886
+9	560	XP_015761861.1_PREDICTED_prolactin-releasing_peptide_receptor-like_Acropora_digitifera	0.002000	0.921889

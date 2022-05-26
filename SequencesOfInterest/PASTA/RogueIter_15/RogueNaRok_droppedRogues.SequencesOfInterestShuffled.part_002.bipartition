@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.977801
+1	472	OWA51983.1_hypothetical_protein_BV898_16440_Hypsibius_dujardini	2.000000	0.979915
+2	425	XP_031618278.1_allatostatin-A_receptor-like_Contarinia_nasturtii	1.000000	0.980973
+3	509	SBQ65705.1_retinal_pigment_epithelium-derived_rhodopsin_homolog_partial_Nothobranchius_korthausae	1.000000	0.982030

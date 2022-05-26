@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.980208
+1	46	TNM99657.1_hypothetical_protein_fugu_012690_Takifugu_bimaculatus	1.000000	0.981250
+2	267	tr|A0A3Q1CF69|A0A3Q1CF69_AMPOC_Parietopsin_OS_Amphiprion_ocellaris_OX_80972_PE_3_SV_1	1.000000	0.982292
+3	297	JAM58722.1_Gpcr_rhodopsin_family_partial_Daphnia_magna	1.000000	0.983333

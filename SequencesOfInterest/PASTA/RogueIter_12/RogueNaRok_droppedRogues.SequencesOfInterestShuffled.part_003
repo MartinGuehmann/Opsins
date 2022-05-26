@@ -1,0 +1,15 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.924642
+1	15	XP_015773490.1_PREDICTED_dopamine_receptor_2-like_Acropora_digitifera	0.936000	0.925585
+2	132	XP_015280716.1_PREDICTED_LOW_QUALITY_PROTEIN_rhodopsin_Gekko_japonicus	0.911000	0.926503
+3	573	BAC76023.1_opsin_Branchiostoma_belcheri	0.902000	0.927411
+4	713	tr|A0A1B0EYB6|A0A1B0EYB6_PHLPP_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Phlebotomus_papatasi_OX_29031_PE_4_SV_1	0.614000	0.928029
+5	644	KAA3678398.1_r-opsin_Paragonimus_westermani	0.550000	0.928583
+6	967	RDD37602.1_Neuropeptide_Y_receptor_type_1_Trichoplax_sp._H2	0.279000	0.928864
+7	712	KAF4531157.1_Ultraviolet_opsin_Rh7-like_1_partial_Ephemera_danica	0.173000	0.929038
+8	811	ABG34938.1_long-wavelength_rhodopsin_partial_Mirax_sp._JCB-2006	0.078000	0.929117
+9	551,550	AIZ50544.1_opsin_3_partial_Amphiura_filiformis,DAniello2015_ops3.1.B_Heliocidaris_erythrogramma	0.027000	0.929144
+10	375	XP_022780507.1_melanopsin-like_Stylophora_pistillata	0.009000	0.929153
+11	682	CDQ59800.1_unnamed_protein_product_Oncorhynchus_mykiss	0.004000	0.929157
+12	783	JAM65650.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna	0.003000	0.929160
+13	669,668	tr|A0A3Q3G0X5|A0A3Q3G0X5_9LABR_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Labrus_bergylta_OX_56723_PE_3_SV_1,XP_029366523.1_melanopsin-A-like_Echeneis_naucrates	0.003000	0.929163

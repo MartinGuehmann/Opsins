@@ -1,0 +1,17 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.914059
+1	472	OWA51983.1_hypothetical_protein_BV898_16440_Hypsibius_dujardini	1.200000	0.915328
+2	425	XP_031618278.1_allatostatin-A_receptor-like_Contarinia_nasturtii	0.844000	0.916220
+3	509	SBQ65705.1_retinal_pigment_epithelium-derived_rhodopsin_homolog_partial_Nothobranchius_korthausae	0.730000	0.916992
+4	245	AXS77686.1_short_wavelength_sensitive_type_1_opsin_partial_Myiarchus_panamensis	0.464000	0.917482
+5	154	AEW67061.1_rod_opsin_partial_Lampanyctus_alatus	0.378000	0.917882
+6	325	XP_011149564.1_5-hydroxytryptamine_receptor_2B_isoform_X1_Harpegnathos_saltator	0.272000	0.918169
+7	562	DAniello2015_ops8_Schizocardium_spp	0.236000	0.918419
+8	676,672	tr|A0A3Q4MLE3|A0A3Q4MLE3_NEOBR_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Neolamprologus_brichardi_OX_32507_PE_3_SV_1,tr|A0A3Q2YG08|A0A3Q2YG08_HIPCM_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Hippocampus_comes_OX_109280_PE_3_SV_1	0.427000	0.918870
+9	95	XP_007077100.2_PREDICTED_opsin-3_Panthera_tigris_altaica	0.175000	0.919055
+10	815	ADQ01811.1_opsin_protein_Leptuca_pugilator	0.091000	0.919151
+11	383	XP_032878974.1_N-arachidonyl_glycine_receptor_Amblyraja_radiata	0.080000	0.919236
+12	471	XP_012936535.1_PREDICTED_prostaglandin_E2_receptor_EP4_subtype-like_Aplysia_californica	0.079000	0.919319
+13	854	QGA28423.1_ultraviolet-sensitive_opsin_Bradysia_odoriphaga	0.074000	0.919397
+14	547	XP_032828695.1_opsin-5-like_Petromyzon_marinus	0.029000	0.919428
+15	761	tr|A0A182J7D3|A0A182J7D3_9DIPT_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Anopheles_atroparvus_OX_41427_PE_3_SV_1	0.008000	0.919437

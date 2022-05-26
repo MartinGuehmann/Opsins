@@ -1,0 +1,1 @@
+XP_007519174.1_PREDICTED_olfactory_receptor_4C6-like_Erinaceus_europaeus	XP_002755296.2_olfactory_receptor_4X2_Callithrix_jacchus	XP_001495722.2_olfactory_receptor_13C7-like_Equus_caballus	

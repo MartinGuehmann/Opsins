@@ -1,0 +1,64 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.410479] initialisation done (initScore = 0.920134, numBip=2571)
+[0.020944] sorting bipartition profile
+[0.072971] computed / updated events
+[0.016208] combined events
+[0.004335] calculated per dropset improvement
+[0.005576] executed the merging events 
+>248	tr|A0A3Q3W6S0|A0A3Q3W6S0_MOLML_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Mola_mola_OX_94237_PE_3_SV_1	0.575000	0.920733
+[0.003967] sorting bipartition profile
+[0.001111] computed / updated events
+[0.017587] combined events
+[0.004129] calculated per dropset improvement
+[0.005461] executed the merging events 
+>949	RXG73427.1_Green-sensitive_opsin-1_Armadillidium_vulgare	0.345000	0.921093
+[0.004318] sorting bipartition profile
+[0.001113] computed / updated events
+[0.017002] combined events
+[0.004590] calculated per dropset improvement
+[0.006993] executed the merging events 
+>894	XP_020378143.1_pinopsin-like_Rhincodon_typus	0.206000	0.921307
+[0.004578] sorting bipartition profile
+[0.001352] computed / updated events
+[0.018952] combined events
+[0.004020] calculated per dropset improvement
+[0.004541] executed the merging events 
+>495,494	RDD39213.1_Melanin-concentrating_hormone_receptor_1_Trichoplax_sp._H2,XP_002115316.1_hypothetical_protein_TRIADDRAFT_59369_Trichoplax_adhaerens	0.348000	0.921670
+[0.004646] sorting bipartition profile
+[0.001942] computed / updated events
+[0.016706] combined events
+[0.003913] calculated per dropset improvement
+[0.003658] executed the merging events 
+>493	XP_032218877.1_galanin_receptor_type_1_Nematostella_vectensis	0.171000	0.921848
+[0.003453] sorting bipartition profile
+[0.001272] computed / updated events
+[0.016595] combined events
+[0.003732] calculated per dropset improvement
+[0.004287] executed the merging events 
+>798	tr|K7F4T4|K7F4T4_PELSI_Opsin_1_short_wave_sensitive_OS_Pelodiscus_sinensis_OX_13735_GN_OPN1SW_PE_4_SV_1	0.017000	0.921866
+[0.003574] sorting bipartition profile
+[0.001034] computed / updated events
+[0.017253] combined events
+[0.003875] calculated per dropset improvement
+[0.003869] executed the merging events 
+>729	XP_003439339.1_pinopsin_isoform_X1_Oreochromis_niloticus	0.011000	0.921877
+[0.003523] sorting bipartition profile
+[0.001105] computed / updated events
+[0.018928] combined events
+[0.003975] calculated per dropset improvement
+[0.004421] executed the merging events 
+>364	ACB70891.1_long_wavelength_rhodopsin_partial_Plumarius_sp._2_EMP-2008	0.009000	0.921886
+[0.003867] sorting bipartition profile
+[0.000874] computed / updated events
+[0.016091] combined events
+[0.004066] calculated per dropset improvement
+[0.004354] executed the merging events 
+>560	XP_015761861.1_PREDICTED_prolactin-releasing_peptide_receptor-like_Acropora_digitifera	0.002000	0.921889
+[0.003462] sorting bipartition profile
+[0.001056] computed / updated events
+[0.016576] combined events
+[0.004057] calculated per dropset improvement
+total time elapsed: 1.807177

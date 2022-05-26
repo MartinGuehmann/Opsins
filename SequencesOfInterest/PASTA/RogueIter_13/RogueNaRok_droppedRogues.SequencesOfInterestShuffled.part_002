@@ -1,0 +1,13 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.912551
+1	965	XP_013397676.1_melanopsin-like_Lingula_anatina	1.437000	0.914024
+2	847	tr|A0A3Q3WNH0|A0A3Q3WNH0_MOLML_Adenosine_A4_receptor_a_OS_Mola_mola_OX_94237_PE_3_SV_1	1.016000	0.915065
+3	114	tr|A0A671XZ14|A0A671XZ14_SPAAU_Uncharacterized_protein_OS_Sparus_aurata_OX_8175_GN_LOC115587793_PE_4_SV_1	0.665000	0.915746
+4	85	TWW55756.1_Opsin-3_Encephalopsin_Takifugu_flavidus	0.515000	0.916274
+5	491	XP_004484554.1_RPE-retinal_G_protein-coupled_receptor_isoform_X1_Dasypus_novemcinctus	0.374000	0.916657
+6	141	XP_020470649.1_LOW_QUALITY_PROTEIN_parapinopsin-like_Monopterus_albus	0.372000	0.917038
+7	27	JAN07656.1_putative_Gpcr_rhodopsin_family_Daphnia_magna	0.277000	0.917322
+8	750	tr|A0A673CBR9|A0A673CBR9_9TELE_Uncharacterized_protein_OS_Sphaeramia_orbicularis_OX_375764_PE_4_SV_1	0.157000	0.917483
+9	846,845	TRZ10401.1_hypothetical_protein_HGM15179_016698_Zosterops_borbonicus,RDD37033.1_Rhodopsin_GQ-coupled_Trichoplax_sp._H2	0.227000	0.917715
+10	195	XP_020448640.1_red-sensitive_opsin_Monopterus_albus	0.093000	0.917810
+11	625	ANN11810.1_ultraviolet_wavelength_sensitive_opsin_2_Acmaeodera_diffusa	0.006000	0.917817

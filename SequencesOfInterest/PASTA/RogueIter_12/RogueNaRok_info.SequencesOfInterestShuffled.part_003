@@ -1,0 +1,88 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.326307] initialisation done (initScore = 0.924642, numBip=2748)
+[0.013531] sorting bipartition profile
+[0.086700] computed / updated events
+[0.017558] combined events
+[0.004122] calculated per dropset improvement
+[0.003938] executed the merging events 
+>15	XP_015773490.1_PREDICTED_dopamine_receptor_2-like_Acropora_digitifera	0.936000	0.925585
+[0.004707] sorting bipartition profile
+[0.001698] computed / updated events
+[0.021833] combined events
+[0.003913] calculated per dropset improvement
+[0.004461] executed the merging events 
+>132	XP_015280716.1_PREDICTED_LOW_QUALITY_PROTEIN_rhodopsin_Gekko_japonicus	0.911000	0.926503
+[0.004149] sorting bipartition profile
+[0.000967] computed / updated events
+[0.018502] combined events
+[0.003839] calculated per dropset improvement
+[0.004212] executed the merging events 
+>573	BAC76023.1_opsin_Branchiostoma_belcheri	0.902000	0.927411
+[0.004958] sorting bipartition profile
+[0.001271] computed / updated events
+[0.021945] combined events
+[0.004222] calculated per dropset improvement
+[0.004515] executed the merging events 
+>713	tr|A0A1B0EYB6|A0A1B0EYB6_PHLPP_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Phlebotomus_papatasi_OX_29031_PE_4_SV_1	0.614000	0.928029
+[0.004666] sorting bipartition profile
+[0.001408] computed / updated events
+[0.018984] combined events
+[0.003839] calculated per dropset improvement
+[0.003913] executed the merging events 
+>644	KAA3678398.1_r-opsin_Paragonimus_westermani	0.550000	0.928583
+[0.004384] sorting bipartition profile
+[0.001522] computed / updated events
+[0.018722] combined events
+[0.004407] calculated per dropset improvement
+[0.006986] executed the merging events 
+>967	RDD37602.1_Neuropeptide_Y_receptor_type_1_Trichoplax_sp._H2	0.279000	0.928864
+[0.004578] sorting bipartition profile
+[0.001630] computed / updated events
+[0.019694] combined events
+[0.003930] calculated per dropset improvement
+[0.003644] executed the merging events 
+>712	KAF4531157.1_Ultraviolet_opsin_Rh7-like_1_partial_Ephemera_danica	0.173000	0.929038
+[0.004742] sorting bipartition profile
+[0.001136] computed / updated events
+[0.021123] combined events
+[0.004068] calculated per dropset improvement
+[0.004437] executed the merging events 
+>811	ABG34938.1_long-wavelength_rhodopsin_partial_Mirax_sp._JCB-2006	0.078000	0.929117
+[0.003992] sorting bipartition profile
+[0.001807] computed / updated events
+[0.018569] combined events
+[0.003642] calculated per dropset improvement
+[0.003774] executed the merging events 
+>551,550	AIZ50544.1_opsin_3_partial_Amphiura_filiformis,DAniello2015_ops3.1.B_Heliocidaris_erythrogramma	0.027000	0.929144
+[0.004636] sorting bipartition profile
+[0.001181] computed / updated events
+[0.018130] combined events
+[0.003617] calculated per dropset improvement
+[0.004141] executed the merging events 
+>375	XP_022780507.1_melanopsin-like_Stylophora_pistillata	0.009000	0.929153
+[0.004047] sorting bipartition profile
+[0.001061] computed / updated events
+[0.017836] combined events
+[0.003650] calculated per dropset improvement
+[0.004100] executed the merging events 
+>682	CDQ59800.1_unnamed_protein_product_Oncorhynchus_mykiss	0.004000	0.929157
+[0.003513] sorting bipartition profile
+[0.000932] computed / updated events
+[0.017763] combined events
+[0.003719] calculated per dropset improvement
+[0.004199] executed the merging events 
+>783	JAM65650.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna	0.003000	0.929160
+[0.003947] sorting bipartition profile
+[0.001456] computed / updated events
+[0.017471] combined events
+[0.003744] calculated per dropset improvement
+[0.003893] executed the merging events 
+>669,668	tr|A0A3Q3G0X5|A0A3Q3G0X5_9LABR_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Labrus_bergylta_OX_56723_PE_3_SV_1,XP_029366523.1_melanopsin-A-like_Echeneis_naucrates	0.003000	0.929163
+[0.004714] sorting bipartition profile
+[0.001572] computed / updated events
+[0.017564] combined events
+[0.003807] calculated per dropset improvement
+total time elapsed: 1.878411

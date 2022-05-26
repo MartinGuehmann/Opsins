@@ -1,0 +1,12 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.924301
+1	599	QGW08862.1_long-wavelength-sensitive_opsin_Chiloscyllium_punctatum	1.360000	0.925671
+2	434	tr|A0A3Q3VRT1|A0A3Q3VRT1_MOLML_Teleost_multiple_tissue_opsin_3a_OS_Mola_mola_OX_94237_PE_4_SV_1	0.928000	0.926605
+3	200	LAA07857.1_ocellar_opsin_partial_Parasteatoda_tepidariorum	0.827000	0.927438
+4	478	AAP58332.1_RH1_opsin_Oncorhynchus_keta	0.778000	0.928222
+5	529	APU53751.1_blue_short_wavelength_sensitive_opsin_Astronotus_ocellatus	0.513000	0.928738
+6	570	ALQ32717.1_short_wavelength-sensitive_opsin_1_partial_Pseudochirulus_forbesi	0.134000	0.928873
+7	582	XP_007534919.1_PREDICTED_long-wave-sensitive_opsin_1_Erinaceus_europaeus	0.089000	0.928963
+8	756	RDD39654.1_Prokineticin_receptor_2_Trichoplax_sp._H2	0.038000	0.929001
+9	926	XP_019623838.1_PREDICTED_opsin-5-like_isoform_X1_Branchiostoma_belcheri	0.004000	0.929005
+10	480	tr|W5LUX6|W5LUX6_ASTMX_Rhodopsin_OS_Astyanax_mexicanus_OX_7994_PE_3_SV_2	0.001000	0.929006

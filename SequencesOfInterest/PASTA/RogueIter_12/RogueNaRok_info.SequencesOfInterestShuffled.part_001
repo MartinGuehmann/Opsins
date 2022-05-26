@@ -1,0 +1,106 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.311465] initialisation done (initScore = 0.911650, numBip=2971)
+[0.014079] sorting bipartition profile
+[0.093960] computed / updated events
+[0.021062] combined events
+[0.004393] calculated per dropset improvement
+[0.004172] executed the merging events 
+>904	tr|A0A3P9PDW2|A0A3P9PDW2_POERE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Poecilia_reticulata_OX_8081_PE_3_SV_1	1.719000	0.913379
+[0.004218] sorting bipartition profile
+[0.001991] computed / updated events
+[0.021914] combined events
+[0.004331] calculated per dropset improvement
+[0.004596] executed the merging events 
+>469	NP_001364737.1_G_PROTEIN_RECEP_F1_2_domain-containing_protein_Caenorhabditis_elegans	1.016000	0.914401
+[0.004501] sorting bipartition profile
+[0.001570] computed / updated events
+[0.021581] combined events
+[0.003868] calculated per dropset improvement
+[0.004722] executed the merging events 
+>457	OWK07886.1_RGR_Cervus_elaphus_hippelaphus	0.684000	0.915090
+[0.004147] sorting bipartition profile
+[0.001590] computed / updated events
+[0.021724] combined events
+[0.003973] calculated per dropset improvement
+[0.004539] executed the merging events 
+>382	tr|A0A3Q4BLG4|A0A3Q4BLG4_MOLML_Opsin_9_OS_Mola_mola_OX_94237_PE_4_SV_1	0.594000	0.915687
+[0.004281] sorting bipartition profile
+[0.001532] computed / updated events
+[0.021513] combined events
+[0.003876] calculated per dropset improvement
+[0.004655] executed the merging events 
+>415	XP_008314584.1_opsin-5-like_Cynoglossus_semilaevis	0.591000	0.916282
+[0.004505] sorting bipartition profile
+[0.001253] computed / updated events
+[0.021543] combined events
+[0.004055] calculated per dropset improvement
+[0.004424] executed the merging events 
+>502	RDD39784.1_Substance-K_receptor_Trichoplax_sp._H2	0.583000	0.916868
+[0.004410] sorting bipartition profile
+[0.001318] computed / updated events
+[0.021023] combined events
+[0.003859] calculated per dropset improvement
+[0.005679] executed the merging events 
+>211	CBY83947.1_rhodopsin_partial_Lucifuga_dentata	0.281000	0.917151
+[0.005044] sorting bipartition profile
+[0.001301] computed / updated events
+[0.022581] combined events
+[0.004720] calculated per dropset improvement
+[0.006915] executed the merging events 
+>225	AHA33551.1_rhodopsin_partial_Lestrolepis_japonica	0.233000	0.917385
+[0.004929] sorting bipartition profile
+[0.001556] computed / updated events
+[0.022945] combined events
+[0.004815] calculated per dropset improvement
+[0.006544] executed the merging events 
+>581,580	XP_002118176.1_hypothetical_protein_TRIADDRAFT_62222_Trichoplax_adhaerens,RDD39373.1_Neuropeptide_FF_receptor_2_Trichoplax_sp._H2	0.350000	0.917737
+[0.006472] sorting bipartition profile
+[0.001351] computed / updated events
+[0.023022] combined events
+[0.004817] calculated per dropset improvement
+[0.006054] executed the merging events 
+>579	RDD39668.1_Neuropeptide_FF_receptor_2_Trichoplax_sp._H2	0.277000	0.918016
+[0.004801] sorting bipartition profile
+[0.001709] computed / updated events
+[0.023574] combined events
+[0.004938] calculated per dropset improvement
+[0.007216] executed the merging events 
+>68	QGW08879.1_teleost_multiple_tissue_opsin_1_partial_Carcharhinus_amblyrhynchos	0.094000	0.918111
+[0.005190] sorting bipartition profile
+[0.001740] computed / updated events
+[0.024941] combined events
+[0.004676] calculated per dropset improvement
+[0.005414] executed the merging events 
+>910	XP_020780968.1_melanopsin-B-like_Boleophthalmus_pectinirostris	0.037000	0.918148
+[0.005239] sorting bipartition profile
+[0.001841] computed / updated events
+[0.024096] combined events
+[0.004529] calculated per dropset improvement
+[0.005334] executed the merging events 
+>781	AKC01671.1_long-wavelength_opsin_partial_Paroster_nigroadumbratus	0.032000	0.918180
+[0.004865] sorting bipartition profile
+[0.002108] computed / updated events
+[0.021556] combined events
+[0.004415] calculated per dropset improvement
+[0.005684] executed the merging events 
+>591	XP_022318677.1_melatonin_receptor_type_1C-like_Crassostrea_virginica	0.008000	0.918188
+[0.004878] sorting bipartition profile
+[0.001437] computed / updated events
+[0.021816] combined events
+[0.004053] calculated per dropset improvement
+[0.005027] executed the merging events 
+>380	XP_020511416.1_opsin-5-like_Labrus_bergylta	0.003000	0.918191
+[0.004795] sorting bipartition profile
+[0.001974] computed / updated events
+[0.021859] combined events
+[0.004354] calculated per dropset improvement
+[0.005274] executed the merging events 
+>261	tr|A0A4W4EH94|A0A4W4EH94_ELEEL_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Electrophorus_electricus_OX_8005_GN_LOC113583988_PE_3_SV_1	0.003000	0.918194
+[0.004466] sorting bipartition profile
+[0.001181] computed / updated events
+[0.021910] combined events
+[0.004205] calculated per dropset improvement
+total time elapsed: 2.061330

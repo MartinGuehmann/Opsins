@@ -1,0 +1,7 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.973843
+1	904	tr|A0A3P9PDW2|A0A3P9PDW2_POERE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Poecilia_reticulata_OX_8081_PE_3_SV_1	3.000000	0.976861
+2	456	XP_017455578.1_PREDICTED_RPE-retinal_G_protein-coupled_receptor_isoform_X2_Rattus_norvegicus	1.000000	0.977867
+3	382	tr|A0A3Q4BLG4|A0A3Q4BLG4_MOLML_Opsin_9_OS_Mola_mola_OX_94237_PE_4_SV_1	1.000000	0.978873
+4	579	RDD39668.1_Neuropeptide_FF_receptor_2_Trichoplax_sp._H2	1.000000	0.979879
+5	581,580	XP_002118176.1_hypothetical_protein_TRIADDRAFT_62222_Trichoplax_adhaerens,RDD39373.1_Neuropeptide_FF_receptor_2_Trichoplax_sp._H2	1.000000	0.980885

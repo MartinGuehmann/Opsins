@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.979859
+1	636	DAC74051.1_TPA_exp_neuropsin_Branchiostoma_floridae	1.000000	0.980866
+2	162	WP_151851525.1_MULTISPECIES_hypothetical_protein_Bacteroides	1.000000	0.981873
+3	250	XP_034115546.1_opsin_Rh3_Drosophila_albomicans	1.000000	0.982880

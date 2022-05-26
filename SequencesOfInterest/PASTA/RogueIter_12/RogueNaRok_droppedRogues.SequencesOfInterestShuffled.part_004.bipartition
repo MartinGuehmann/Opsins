@@ -1,0 +1,9 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.975831
+1	531	APY20687.1_long_wavelength_sensitive_opsin_4_partial_Xenos_vesparum	4.000000	0.979859
+2	93	tr|A0A3Q3X243|A0A3Q3X243_MOLML_Parietopsin_OS_Mola_mola_OX_94237_PE_3_SV_1	1.000000	0.980866
+3	199	TSK49631.1_Green-sensitive_opsin-3_Bagarius_yarrelli	1.000000	0.981873
+4	969	CAB3411142.1_unnamed_protein_product_Caenorhabditis_bovis	1.000000	0.982880
+5	17	XP_010769568.1_PREDICTED_pinopsin-like_Notothenia_coriiceps	1.000000	0.983887
+6	823	XP_031555446.1_histamine_H2_receptor-like_Actinia_tenebrosa	1.000000	0.984894
+7	963,962	RDD39215.1_Beta-1_adrenergic_receptor_Trichoplax_sp._H2,XP_002115687.1_hypothetical_protein_TRIADDRAFT_59637_Trichoplax_adhaerens	1.000000	0.985901

@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.975410
+1	452	AAY58301.1_long-wavelength_rhodopsin_partial_Parnopes_grandior	2.000000	0.977459
+2	798,797	XP_027051743.1_melanopsin-A-like_Pocillopora_damicornis,XP_020912812.1_melatonin_receptor_type_1B-B-like_Exaiptasia_diaphana	2.000000	0.979508
+3	356	KAF4788710.1_melanopsin_isoform_X1_Turdus_rufiventris	1.000000	0.980533
