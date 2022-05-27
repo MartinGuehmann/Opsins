@@ -1,0 +1,17 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.909274
+1	505	QBL02591.1_biogenic_amine-like_GPCR_Tripedalia_cystophora	1.201000	0.910564
+2	902	TNM89680.1_hypothetical_protein_fugu_003914_Takifugu_bimaculatus	0.997000	0.911635
+3	123	GCB76592.1_hypothetical_protein_scyTo_0019163_partial_Scyliorhinus_torazame	0.975000	0.912682
+4	680	AIM43022.1_long-wavelength_rhodopsin_partial_Megalomyrmex_silvestrii	0.835000	0.913579
+5	717	ACB70933.1_long_wavelength_rhodopsin_partial_Pseudomethoca_propinqua	0.672000	0.914301
+6	370	EPY78064.1_hypothetical_protein_CB1_001130008_Camelus_ferus	0.576000	0.914919
+7	375	XP_012879229.1_PREDICTED_visual_pigment-like_receptor_peropsin_Dipodomys_ordii	0.562000	0.915523
+8	840	AIZ50548.1_opsin_4.4_partial_Amphiura_filiformis	0.415000	0.915969
+9	618	tr|A0A182W592|A0A182W592_9DIPT_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Anopheles_minimus_OX_112268_PE_4_SV_1	0.332000	0.916325
+10	561	XP_023446202.1_G-protein_coupled_receptor_161_isoform_X3_Dasypus_novemcinctus	0.324000	0.916673
+11	187	XP_030921581.1_LOW_QUALITY_PROTEIN_red-sensitive_opsin-like_Geospiza_fortis	0.291000	0.916986
+12	374	XP_002717232.1_PREDICTED_visual_pigment-like_receptor_peropsin_Oryctolagus_cuniculus	0.225000	0.917228
+13	533	KJH43982.1_7_transmembrane_receptor_Dictyocaulus_viviparus	0.122000	0.917359
+14	296	NP_001027727.1_opsin_Ciona_intestinalis	0.025000	0.917386
+15	857	tr|A0A3B5QDF8|A0A3B5QDF8_XIPMA_Opsin_4a_melanopsin_OS_Xiphophorus_maculatus_OX_8083_PE_3_SV_1	0.012000	0.917398

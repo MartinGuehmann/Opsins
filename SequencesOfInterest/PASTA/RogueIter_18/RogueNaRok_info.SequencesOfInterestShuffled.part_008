@@ -1,0 +1,52 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.750262] initialisation done (initScore = 0.929908, numBip=2220)
+[0.017592] sorting bipartition profile
+[0.072930] computed / updated events
+[0.018028] combined events
+[0.004120] calculated per dropset improvement
+[0.003658] executed the merging events 
+>742	KXJ22042.1_Trace_amine-associated_receptor_9_Exaiptasia_diaphana	1.178000	0.931214
+[0.004095] sorting bipartition profile
+[0.001206] computed / updated events
+[0.017312] combined events
+[0.003715] calculated per dropset improvement
+[0.003833] executed the merging events 
+>764	XP_004605658.2_PREDICTED_relaxin-3_receptor_1_Sorex_araneus	1.174000	0.932516
+[0.004341] sorting bipartition profile
+[0.001209] computed / updated events
+[0.015304] combined events
+[0.003661] calculated per dropset improvement
+[0.004050] executed the merging events 
+>739	XP_028391118.1_adrenocorticotropic_hormone_receptor-like_Dendronephthya_gigantea	0.309000	0.932858
+[0.004325] sorting bipartition profile
+[0.001056] computed / updated events
+[0.014895] combined events
+[0.003418] calculated per dropset improvement
+[0.003612] executed the merging events 
+>540	Parasabella_SOAP_k35_C777137|ORF1	0.097000	0.932966
+[0.003962] sorting bipartition profile
+[0.001123] computed / updated events
+[0.014767] combined events
+[0.003222] calculated per dropset improvement
+[0.003610] executed the merging events 
+>353	BAQ54945.1_opsin_long-wavelength_sensitive_type_Indolestes_peregrinus	0.092000	0.933068
+[0.003940] sorting bipartition profile
+[0.001371] computed / updated events
+[0.014247] combined events
+[0.003474] calculated per dropset improvement
+[0.003573] executed the merging events 
+>123	sp|O42300.1|OPSD_BATMU_RecName_Full_Rhodopsin	0.006000	0.933074
+[0.004558] sorting bipartition profile
+[0.001385] computed / updated events
+[0.014041] combined events
+[0.003297] calculated per dropset improvement
+[0.003782] executed the merging events 
+>384	APY20496.1_long_wavelength_sensitive_opsin_Dryops_sp._CRS-2017	0.001000	0.933075
+[0.004302] sorting bipartition profile
+[0.000803] computed / updated events
+[0.014348] combined events
+[0.003205] calculated per dropset improvement
+total time elapsed: 2.056399

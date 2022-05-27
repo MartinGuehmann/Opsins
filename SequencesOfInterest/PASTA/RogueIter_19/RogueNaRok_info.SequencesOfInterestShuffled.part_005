@@ -1,0 +1,64 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.407450] initialisation done (initScore = 0.933371, numBip=2445)
+[0.013547] sorting bipartition profile
+[0.073117] computed / updated events
+[0.012379] combined events
+[0.003410] calculated per dropset improvement
+[0.003063] executed the merging events 
+>420	KAE8287048.1_Opsin-3_Encephalopsin_Panopsin_Larimichthys_crocea	1.933000	0.935270
+[0.003620] sorting bipartition profile
+[0.001197] computed / updated events
+[0.014162] combined events
+[0.003190] calculated per dropset improvement
+[0.003903] executed the merging events 
+>280	KAA0185797.1_Opsin_Fasciolopsis_buski	0.383000	0.935646
+[0.004215] sorting bipartition profile
+[0.000979] computed / updated events
+[0.011238] combined events
+[0.003576] calculated per dropset improvement
+[0.002878] executed the merging events 
+>940	RDD40477.1_Neuropeptide_Y_receptor_Trichoplax_sp._H2	0.167000	0.935810
+[0.003938] sorting bipartition profile
+[0.001156] computed / updated events
+[0.010208] combined events
+[0.002777] calculated per dropset improvement
+[0.002660] executed the merging events 
+>565	AYW11944.1_rhodopsin_partial_Albula_koreana	0.065000	0.935874
+[0.003751] sorting bipartition profile
+[0.000992] computed / updated events
+[0.009807] combined events
+[0.002675] calculated per dropset improvement
+[0.002673] executed the merging events 
+>284	KOF78023.1_hypothetical_protein_OCBIM_22031367mg_Octopus_bimaculoides	0.025000	0.935899
+[0.003461] sorting bipartition profile
+[0.000955] computed / updated events
+[0.009339] combined events
+[0.002938] calculated per dropset improvement
+[0.002649] executed the merging events 
+>311	PRD30459.1_Rrh_Trichonephila_clavipes	0.003000	0.935902
+[0.003351] sorting bipartition profile
+[0.000874] computed / updated events
+[0.009176] combined events
+[0.002711] calculated per dropset improvement
+[0.002750] executed the merging events 
+>341	tr|A0A670YUB6|A0A670YUB6_PSETE_Uncharacterized_protein_OS_Pseudonaja_textilis_OX_8673_GN_RGR_PE_4_SV_1	0.002000	0.935904
+[0.003952] sorting bipartition profile
+[0.000810] computed / updated events
+[0.009315] combined events
+[0.002664] calculated per dropset improvement
+[0.002822] executed the merging events 
+>389	KAF1390380.1_hypothetical_protein_PFLUV_G00057440_Perca_fluviatilis	0.001000	0.935905
+[0.003468] sorting bipartition profile
+[0.001325] computed / updated events
+[0.009062] combined events
+[0.002720] calculated per dropset improvement
+[0.002801] executed the merging events 
+>559	AEA72691.1_rhodopsin_partial_Bostockia_porosa	0.001000	0.935906
+[0.004672] sorting bipartition profile
+[0.001303] computed / updated events
+[0.009354] combined events
+[0.002830] calculated per dropset improvement
+total time elapsed: 1.698693

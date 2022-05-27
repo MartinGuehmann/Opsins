@@ -1,0 +1,46 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.837807] initialisation done (initScore = 0.940886, numBip=2184)
+[0.018341] sorting bipartition profile
+[0.072431] computed / updated events
+[0.016130] combined events
+[0.004007] calculated per dropset improvement
+[0.003817] executed the merging events 
+>295	CAB3366681.1_Hypothetical_predicted_protein_Cloeon_dipterum	1.230000	0.942248
+[0.003780] sorting bipartition profile
+[0.001273] computed / updated events
+[0.014240] combined events
+[0.003518] calculated per dropset improvement
+[0.004102] executed the merging events 
+>358	APY20603.1_ultraviolet_sensitive_opsin_partial_Euroleon_nostras	0.548000	0.942855
+[0.003903] sorting bipartition profile
+[0.001322] computed / updated events
+[0.013811] combined events
+[0.003531] calculated per dropset improvement
+[0.004024] executed the merging events 
+>199	AGR53615.1_rhodopsin_partial_Milyeringa_veritas	0.259000	0.943142
+[0.003944] sorting bipartition profile
+[0.001054] computed / updated events
+[0.013666] combined events
+[0.003330] calculated per dropset improvement
+[0.003057] executed the merging events 
+>688	XP_020491513.1_opsin-5-like_Labrus_bergylta	0.076000	0.943226
+[0.003583] sorting bipartition profile
+[0.001063] computed / updated events
+[0.013648] combined events
+[0.003099] calculated per dropset improvement
+[0.002827] executed the merging events 
+>357	APY20676.1_ultraviolet_sensitive_opsin_1_Xanthostigma_xanthostigma	0.026000	0.943255
+[0.003478] sorting bipartition profile
+[0.000910] computed / updated events
+[0.013275] combined events
+[0.003131] calculated per dropset improvement
+[0.002963] executed the merging events 
+>655	KXJ14428.1_D1_dopamine_receptor_Exaiptasia_diaphana	0.019000	0.943276
+[0.003491] sorting bipartition profile
+[0.000723] computed / updated events
+[0.013317] combined events
+[0.003170] calculated per dropset improvement
+total time elapsed: 2.100455

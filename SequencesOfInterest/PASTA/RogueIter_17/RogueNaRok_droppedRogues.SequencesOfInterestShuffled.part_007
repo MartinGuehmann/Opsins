@@ -1,0 +1,10 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.934375
+1	20	XP_010016932.1_PREDICTED_LOW_QUALITY_PROTEIN_opsin-5-like_partial_Nestor_notabilis	1.153000	0.935635
+2	877	XP_034090756.1_LOW_QUALITY_PROTEIN_melanopsin-A-like_Gymnodraco_acuticeps	0.842000	0.936555
+3	350	XP_022335214.1_opsin-3-like_isoform_X2_Crassostrea_virginica	0.713000	0.937334
+4	335	tr|W4Y3N3|W4Y3N3_STRPU_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Strongylocentrotus_purpuratus_OX_7668_PE_4_SV_1	0.661000	0.938057
+5	873	CAF90276.1_unnamed_protein_product_partial_Tetraodon_nigroviridis	0.355000	0.938445
+6	708	ABY81030.1_long-wave_opsin_partial_Paramysis_loxolepis	0.337000	0.938813
+7	419	XP_030628785.1_opsin-3_Chanos_chanos	0.080000	0.938901
+8	601	tr|A0A3B4CKR4|A0A3B4CKR4_PYGNA_Rhodopsin_N_domain-containing_protein_OS_Pygocentrus_nattereri_OX_42514_PE_4_SV_1	0.063000	0.938969

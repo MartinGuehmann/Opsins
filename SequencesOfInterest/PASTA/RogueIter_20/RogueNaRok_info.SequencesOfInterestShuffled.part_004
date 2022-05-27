@@ -1,0 +1,64 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.326694] initialisation done (initScore = 0.934746, numBip=2585)
+[0.012964] sorting bipartition profile
+[0.058814] computed / updated events
+[0.012518] combined events
+[0.003014] calculated per dropset improvement
+[0.003014] executed the merging events 
+>588,576	ACA65933.1_rhodopsin_partial_Danionella_sp._MN-2008,AFK84160.1_rhodopsin_partial_Benthosema_pterotum	2.012000	0.936748
+[0.004969] sorting bipartition profile
+[0.001941] computed / updated events
+[0.012480] combined events
+[0.002923] calculated per dropset improvement
+[0.002580] executed the merging events 
+>963	XP_029281519.1_opsin-5-like_Cottoperca_gobio	0.984000	0.937727
+[0.003524] sorting bipartition profile
+[0.000857] computed / updated events
+[0.011965] combined events
+[0.002576] calculated per dropset improvement
+[0.002478] executed the merging events 
+>395	XP_006037964.1_leukotriene_B4_receptor_1_Alligator_sinensis	0.851000	0.938574
+[0.003620] sorting bipartition profile
+[0.000900] computed / updated events
+[0.011740] combined events
+[0.002525] calculated per dropset improvement
+[0.002451] executed the merging events 
+>296	APY20625.1_ultraviolet_sensitive_opsin_partial_Mengenilla_moldrzyki	0.836000	0.939406
+[0.003326] sorting bipartition profile
+[0.001082] computed / updated events
+[0.011473] combined events
+[0.002632] calculated per dropset improvement
+[0.002389] executed the merging events 
+>382	XP_004557927.1_atypical_chemokine_receptor_3_Maylandia_zebra	0.796000	0.940198
+[0.003741] sorting bipartition profile
+[0.000828] computed / updated events
+[0.011547] combined events
+[0.002523] calculated per dropset improvement
+[0.002430] executed the merging events 
+>833	XP_014297340.1_PREDICTED_blue-sensitive_opsin-like_Microplitis_demolitor	0.103000	0.940300
+[0.003308] sorting bipartition profile
+[0.000862] computed / updated events
+[0.011338] combined events
+[0.002550] calculated per dropset improvement
+[0.002379] executed the merging events 
+>423	KPM02544.1_myokinin_receptor-like_protein_Sarcoptes_scabiei	0.073000	0.940373
+[0.003874] sorting bipartition profile
+[0.000891] computed / updated events
+[0.011322] combined events
+[0.002557] calculated per dropset improvement
+[0.002363] executed the merging events 
+>643	KAF1391237.1_hypothetical_protein_PFLUV_G00039840_Perca_fluviatilis	0.026000	0.940399
+[0.003456] sorting bipartition profile
+[0.001095] computed / updated events
+[0.011262] combined events
+[0.002905] calculated per dropset improvement
+[0.002613] executed the merging events 
+>538	ABS89281.1_SWS1_opsin_Neoceratodus_forsteri	0.002000	0.940401
+[0.003676] sorting bipartition profile
+[0.000955] computed / updated events
+[0.011796] combined events
+[0.003036] calculated per dropset improvement
+total time elapsed: 1.609414

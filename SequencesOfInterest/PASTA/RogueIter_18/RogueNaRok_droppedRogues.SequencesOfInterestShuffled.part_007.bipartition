@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.980066
+1	546	XP_001845697.1_opsin-1_Culex_quinquefasciatus	3.000000	0.983389
+2	202	KPP56973.1_hypothetical_protein_Z043_125360_Scleropages_formosus	3.000000	0.986711
+3	212	XP_011811310.1_PREDICTED_medium-wave-sensitive_opsin_1-like_Colobus_angolensis_palliatus	1.000000	0.987818

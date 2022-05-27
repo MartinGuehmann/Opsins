@@ -1,0 +1,58 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[2.197172] initialisation done (initScore = 0.939439, numBip=2323)
+[0.013730] sorting bipartition profile
+[0.068368] computed / updated events
+[0.011167] combined events
+[0.003581] calculated per dropset improvement
+[0.002812] executed the merging events 
+>59	tr|A0A3B1J5B5|A0A3B1J5B5_ASTMX_Opsin_3_OS_Astyanax_mexicanus_OX_7994_PE_3_SV_1	0.735000	0.940161
+[0.003450] sorting bipartition profile
+[0.000891] computed / updated events
+[0.012440] combined events
+[0.003126] calculated per dropset improvement
+[0.003238] executed the merging events 
+>45	tr|A0A1B0GUF8|A0A1B0GUF8_HUMAN_Opsin-3_Fragment_OS_Homo_sapiens_OX_9606_GN_OPN3_PE_4_SV_1	0.323000	0.940478
+[0.003525] sorting bipartition profile
+[0.000946] computed / updated events
+[0.011980] combined events
+[0.003148] calculated per dropset improvement
+[0.002935] executed the merging events 
+>525	KAF4090185.1_hypothetical_protein_AMELA_G00049180_Ameiurus_melas	0.272000	0.940746
+[0.003398] sorting bipartition profile
+[0.001250] computed / updated events
+[0.011866] combined events
+[0.003079] calculated per dropset improvement
+[0.003138] executed the merging events 
+>237	XP_025069457.1_blue-sensitive_opsin-like_Alligator_sinensis	0.090000	0.940834
+[0.003946] sorting bipartition profile
+[0.001136] computed / updated events
+[0.012014] combined events
+[0.002901] calculated per dropset improvement
+[0.002889] executed the merging events 
+>1011	XP_031418745.1_melanopsin-like_Clupea_harengus	0.035000	0.940868
+[0.003409] sorting bipartition profile
+[0.000812] computed / updated events
+[0.011995] combined events
+[0.003168] calculated per dropset improvement
+[0.003218] executed the merging events 
+>403	XP_010154420.1_PREDICTED_opsin-5-like_Eurypyga_helias	0.010000	0.940878
+[0.004205] sorting bipartition profile
+[0.001139] computed / updated events
+[0.013181] combined events
+[0.003426] calculated per dropset improvement
+[0.004145] executed the merging events 
+>828	TRY76801.1_hypothetical_protein_TCAL_10452_Tigriopus_californicus	0.005000	0.940883
+[0.004052] sorting bipartition profile
+[0.001342] computed / updated events
+[0.013498] combined events
+[0.003492] calculated per dropset improvement
+[0.003440] executed the merging events 
+>3	XP_020619724.1_rhodopsin_GQ-coupled-like_Orbicella_faveolata	0.004000	0.940887
+[0.003768] sorting bipartition profile
+[0.000898] computed / updated events
+[0.012753] combined events
+[0.003053] calculated per dropset improvement
+total time elapsed: 2.483927

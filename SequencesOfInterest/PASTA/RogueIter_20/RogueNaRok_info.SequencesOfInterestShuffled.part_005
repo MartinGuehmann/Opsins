@@ -1,0 +1,70 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.303777] initialisation done (initScore = 0.927507, numBip=2486)
+[0.013261] sorting bipartition profile
+[0.081271] computed / updated events
+[0.014027] combined events
+[0.003570] calculated per dropset improvement
+[0.002831] executed the merging events 
+>638	tr|A0A4W5KC15|A0A4W5KC15_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Hucho_hucho_OX_62062_PE_3_SV_1	1.341000	0.928842
+[0.003350] sorting bipartition profile
+[0.001184] computed / updated events
+[0.015075] combined events
+[0.003753] calculated per dropset improvement
+[0.003408] executed the merging events 
+>627	JAR48424.1_Medium-wave-sensitive_opsin_1_partial_Fundulus_heteroclitus	1.190000	0.930026
+[0.003481] sorting bipartition profile
+[0.002047] computed / updated events
+[0.014728] combined events
+[0.003178] calculated per dropset improvement
+[0.003684] executed the merging events 
+>956	RDD40471.1_Substance-K_receptor_Trichoplax_sp._H2	0.813000	0.930835
+[0.003549] sorting bipartition profile
+[0.001288] computed / updated events
+[0.014460] combined events
+[0.003065] calculated per dropset improvement
+[0.002919] executed the merging events 
+>11	tr|A0A369RPQ4|A0A369RPQ4_9METZ_G-protein_coupled_receptor_GRL101-like_protein_Fragment_OS_Trichoplax_sp._H2_OX_287889_GN_TrispH2_011287_PE_3_SV_1	0.532000	0.931364
+[0.003360] sorting bipartition profile
+[0.000948] computed / updated events
+[0.014731] combined events
+[0.003375] calculated per dropset improvement
+[0.003725] executed the merging events 
+>181	DAniello2015_ops4.3_Labidiaster_annulatus	0.144000	0.931507
+[0.003824] sorting bipartition profile
+[0.001309] computed / updated events
+[0.014646] combined events
+[0.003315] calculated per dropset improvement
+[0.003685] executed the merging events 
+>870	KAF4089309.1_hypothetical_protein_AMELA_G00065010_Ameiurus_melas	0.124000	0.931631
+[0.003961] sorting bipartition profile
+[0.000908] computed / updated events
+[0.017365] combined events
+[0.003602] calculated per dropset improvement
+[0.003050] executed the merging events 
+>406	XP_014010014.1_PREDICTED_uncharacterized_protein_LOC106576962_isoform_X1_Salmo_salar	0.008000	0.931639
+[0.003488] sorting bipartition profile
+[0.000904] computed / updated events
+[0.016204] combined events
+[0.003322] calculated per dropset improvement
+[0.003410] executed the merging events 
+>626	tr|A0A3Q2C6K5|A0A3Q2C6K5_CYPVA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Cyprinodon_variegatus_OX_28743_PE_3_SV_1	0.004000	0.931643
+[0.003972] sorting bipartition profile
+[0.001657] computed / updated events
+[0.014664] combined events
+[0.003440] calculated per dropset improvement
+[0.003222] executed the merging events 
+>34,31	XP_010080821.1_PREDICTED_melanopsin-A-like_Pterocles_gutturalis,XP_026707672.1_melanopsin_isoform_X1_Athene_cunicularia	0.002000	0.931645
+[0.005076] sorting bipartition profile
+[0.001327] computed / updated events
+[0.014293] combined events
+[0.003648] calculated per dropset improvement
+[0.003334] executed the merging events 
+>35	XP_029886896.1_melanopsin_isoform_X4_Aquila_chrysaetos_chrysaetos	0.115000	0.931759
+[0.003876] sorting bipartition profile
+[0.001208] computed / updated events
+[0.014509] combined events
+[0.003317] calculated per dropset improvement
+total time elapsed: 1.685359

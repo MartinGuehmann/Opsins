@@ -1,0 +1,8 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.972315
+1	615	XP_002116956.1_hypothetical_protein_TRIADDRAFT_4311_partial_Trichoplax_adhaerens	2.000000	0.974529
+2	239	JAK75253.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop2_partial_Daphnia_magna	1.000000	0.975637
+3	301	Notalux_sp3_TRINITY_DN54899_c0_g1_i1|ORF2	1.000000	0.976744
+4	156	AKO70555.1_long_wavelength_rhodopsin_partial_Tapinoma_subtile	1.000000	0.977852
+5	7	XP_030854248.1_pinopsin_Strongylocentrotus_purpuratus	1.000000	0.978959
+6	147	AAK28983.1_long-wavelength_rhodopsin_partial_Diadasia_diminuta	1.000000	0.980066

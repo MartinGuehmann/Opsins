@@ -1,0 +1,6 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.978109
+1	583	CRK97767.1_CLUMA_CG011147_isoform_A_Clunio_marinus	2.000000	0.980100
+2	487	XP_030195886.1_beta-1_adrenergic_receptor_Gadus_morhua	1.000000	0.981095
+3	519	XP_026830339.1_rhodopsin_Ooceraea_biroi	1.000000	0.982090
+4	536	ABW75569.1_long-wave_rhodopsin_partial_Perdita_californica	1.000000	0.983085

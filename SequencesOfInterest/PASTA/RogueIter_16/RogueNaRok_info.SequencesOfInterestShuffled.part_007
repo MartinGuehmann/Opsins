@@ -1,0 +1,70 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.995556] initialisation done (initScore = 0.920441, numBip=2455)
+[0.018279] sorting bipartition profile
+[0.089364] computed / updated events
+[0.021306] combined events
+[0.005065] calculated per dropset improvement
+[0.003969] executed the merging events 
+>627	RDD40947.1_Neuropeptide_SIFamide_receptor_Trichoplax_sp._H2	1.927000	0.922513
+[0.003710] sorting bipartition profile
+[0.000983] computed / updated events
+[0.020803] combined events
+[0.004431] calculated per dropset improvement
+[0.003974] executed the merging events 
+>455	tr|A0A4W6DCK9|A0A4W6DCK9_LATCA_Opsin_8_group_member_b_OS_Lates_calcarifer_OX_8187_PE_4_SV_1	0.986000	0.923573
+[0.003605] sorting bipartition profile
+[0.001581] computed / updated events
+[0.020160] combined events
+[0.004100] calculated per dropset improvement
+[0.003792] executed the merging events 
+>466	XP_031732942.1_opsin-5_isoform_X1_Anarrhichthys_ocellatus	0.779000	0.924411
+[0.003759] sorting bipartition profile
+[0.001696] computed / updated events
+[0.019520] combined events
+[0.004294] calculated per dropset improvement
+[0.003796] executed the merging events 
+>75	KAF2975790.1_hypothetical_protein_EK904_013011_Melospiza_melodia_maxima	0.363000	0.924801
+[0.003650] sorting bipartition profile
+[0.001003] computed / updated events
+[0.019413] combined events
+[0.004102] calculated per dropset improvement
+[0.003976] executed the merging events 
+>467	XP_031156037.1_opsin-5-like_Sander_lucioperca	0.334000	0.925160
+[0.003630] sorting bipartition profile
+[0.001267] computed / updated events
+[0.019957] combined events
+[0.004434] calculated per dropset improvement
+[0.003938] executed the merging events 
+>647	RDD40955.1_Substance-K_receptor_Trichoplax_sp._H2	0.282000	0.925463
+[0.003711] sorting bipartition profile
+[0.001327] computed / updated events
+[0.019977] combined events
+[0.005160] calculated per dropset improvement
+[0.004944] executed the merging events 
+>19	JAN69370.1_Gpcr_rhodopsin_family_partial_Daphnia_magna	0.114000	0.925586
+[0.004028] sorting bipartition profile
+[0.001066] computed / updated events
+[0.019387] combined events
+[0.004209] calculated per dropset improvement
+[0.004335] executed the merging events 
+>0	XP_025107396.1_visual_pigment-like_receptor_peropsin_isoform_X1_Pomacea_canaliculata	0.086000	0.925678
+[0.003636] sorting bipartition profile
+[0.000838] computed / updated events
+[0.019196] combined events
+[0.004323] calculated per dropset improvement
+[0.005027] executed the merging events 
+>717	AAT01077.1_putative_rhodopsin_Homalodisca_vitripennis	0.055000	0.925738
+[0.003875] sorting bipartition profile
+[0.001471] computed / updated events
+[0.018807] combined events
+[0.004304] calculated per dropset improvement
+[0.005139] executed the merging events 
+>377	XP_022669021.1_visual_pigment-like_receptor_peropsin_Varroa_destructor	0.004000	0.925742
+[0.003939] sorting bipartition profile
+[0.001032] computed / updated events
+[0.018572] combined events
+[0.004075] calculated per dropset improvement
+total time elapsed: 2.462406

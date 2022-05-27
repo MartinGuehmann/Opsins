@@ -1,0 +1,82 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.744556] initialisation done (initScore = 0.936590, numBip=2425)
+[0.017886] sorting bipartition profile
+[0.081444] computed / updated events
+[0.022926] combined events
+[0.004332] calculated per dropset improvement
+[0.003294] executed the merging events 
+>909	XP_018655262.1_Rhodopsin_Schistosoma_mansoni	1.356000	0.938046
+[0.003500] sorting bipartition profile
+[0.001469] computed / updated events
+[0.021327] combined events
+[0.003883] calculated per dropset improvement
+[0.003506] executed the merging events 
+>681	KAE8284198.1_Melanopsin-A_Mammalian-like_melanopsin_Melanopsin-M_Opsin-4-A_Opsin-4M_Larimichthys_crocea	0.233000	0.938296
+[0.003564] sorting bipartition profile
+[0.001419] computed / updated events
+[0.021194] combined events
+[0.003868] calculated per dropset improvement
+[0.003554] executed the merging events 
+>456	XP_033636718.1_opsin-5-like_Asterias_rubens	0.194000	0.938505
+[0.003776] sorting bipartition profile
+[0.001148] computed / updated events
+[0.022164] combined events
+[0.004435] calculated per dropset improvement
+[0.003739] executed the merging events 
+>567	GCC35160.1_hypothetical_protein_chiPu_0013642_Chiloscyllium_punctatum	0.177000	0.938695
+[0.003651] sorting bipartition profile
+[0.001628] computed / updated events
+[0.022226] combined events
+[0.004332] calculated per dropset improvement
+[0.003696] executed the merging events 
+>591	XP_032855985.1_succinate_receptor_1_Tyto_alba_alba	0.165000	0.938872
+[0.003524] sorting bipartition profile
+[0.001278] computed / updated events
+[0.021140] combined events
+[0.004019] calculated per dropset improvement
+[0.003406] executed the merging events 
+>329	DAC74057.1_TPA_exp_peropsin_Branchiostoma_floridae	0.149000	0.939032
+[0.003389] sorting bipartition profile
+[0.000942] computed / updated events
+[0.021003] combined events
+[0.003952] calculated per dropset improvement
+[0.003487] executed the merging events 
+>844	APY20636.1_ultraviolet_sensitive_opsin_1_partial_Octodonta_nipae	0.094000	0.939133
+[0.003616] sorting bipartition profile
+[0.001623] computed / updated events
+[0.020552] combined events
+[0.003791] calculated per dropset improvement
+[0.003331] executed the merging events 
+>448	tr|A0A3B3RU42|A0A3B3RU42_9TELE_Opsin_7_group_member_d_OS_Paramormyrops_kingsleyae_OX_1676925_PE_3_SV_1	0.070000	0.939208
+[0.003596] sorting bipartition profile
+[0.001012] computed / updated events
+[0.020373] combined events
+[0.003967] calculated per dropset improvement
+[0.003477] executed the merging events 
+>845	ACH56537.1_putative_ultraviolet_I_opsin_Thermonectus_marmoratus	0.049000	0.939261
+[0.003536] sorting bipartition profile
+[0.001226] computed / updated events
+[0.020017] combined events
+[0.003607] calculated per dropset improvement
+[0.003254] executed the merging events 
+>838	tr|K7IN22|K7IN22_NASVI_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Nasonia_vitripennis_OX_7425_PE_3_SV_1	0.033000	0.939296
+[0.003532] sorting bipartition profile
+[0.001302] computed / updated events
+[0.020753] combined events
+[0.004035] calculated per dropset improvement
+[0.003368] executed the merging events 
+>855	XP_021938909.1_opsin_ultraviolet-sensitive-like_isoform_X1_Zootermopsis_nevadensis	0.017000	0.939315
+[0.003505] sorting bipartition profile
+[0.001022] computed / updated events
+[0.020828] combined events
+[0.004011] calculated per dropset improvement
+[0.003401] executed the merging events 
+>267	tr|A0A3Q2Z2G8|A0A3Q2Z2G8_HIPCM_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Hippocampus_comes_OX_109280_PE_3_SV_1	0.013000	0.939329
+[0.003772] sorting bipartition profile
+[0.000990] computed / updated events
+[0.020780] combined events
+[0.004127] calculated per dropset improvement
+total time elapsed: 2.271792

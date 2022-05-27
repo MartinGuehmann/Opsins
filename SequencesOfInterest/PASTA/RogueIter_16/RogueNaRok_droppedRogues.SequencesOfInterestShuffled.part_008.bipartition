@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.977419
+1	436	PIO37008.1_hypothetical_protein_AB205_0136660_partial_Lithobates_catesbeianus	1.000000	0.978495
+2	843	XP_031571840.1_adenosine_receptor_A2b-like_Actinia_tenebrosa	1.000000	0.979570
+3	267	BAI68102.1_long_wavelength-sensitive_opsin_partial_Paracheirodon_innesi	1.000000	0.980645

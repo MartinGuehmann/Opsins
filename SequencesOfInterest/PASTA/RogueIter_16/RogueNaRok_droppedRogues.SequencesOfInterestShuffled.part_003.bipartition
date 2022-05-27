@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.978518
+1	766,761	ADX33324.1_long-wavelength_rhodopsin_partial_Samba_fasciata,ABK59123.1_long-wavelength_rhodopsin_partial_Ptiloglossa_tarsata	2.000000	0.980666
+2	313	tr|A0A665UVH3|A0A665UVH3_ECHNA_Uncharacterized_protein_OS_Echeneis_naucrates_OX_173247_GN_LOC115056894_PE_4_SV_1	1.000000	0.981740
+3	713	XP_034942577.1_opsin_ultraviolet-sensitive_Chelonus_insularis	1.000000	0.982814

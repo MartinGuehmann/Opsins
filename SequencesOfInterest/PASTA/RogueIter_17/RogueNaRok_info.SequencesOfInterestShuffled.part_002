@@ -1,0 +1,52 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.624198] initialisation done (initScore = 0.931107, numBip=2493)
+[0.018754] sorting bipartition profile
+[0.110286] computed / updated events
+[0.022224] combined events
+[0.004779] calculated per dropset improvement
+[0.004150] executed the merging events 
+>487	tr|G3N968|G3N968_GASAC_Rhodopsin_OS_Gasterosteus_aculeatus_OX_69293_PE_3_SV_1	1.212000	0.932430
+[0.004430] sorting bipartition profile
+[0.001395] computed / updated events
+[0.022497] combined events
+[0.004671] calculated per dropset improvement
+[0.004357] executed the merging events 
+>216	JAT33497.1_hypothetical_protein_g.52697_partial_Graphocephala_atropunctata	0.682000	0.933175
+[0.004171] sorting bipartition profile
+[0.001063] computed / updated events
+[0.022408] combined events
+[0.004550] calculated per dropset improvement
+[0.007115] executed the merging events 
+>854	XP_031553074.1_neuropeptide_Y_receptor_type_6-like_Actinia_tenebrosa	0.625000	0.933857
+[0.005420] sorting bipartition profile
+[0.001265] computed / updated events
+[0.022627] combined events
+[0.004885] calculated per dropset improvement
+[0.005438] executed the merging events 
+>133	ANY60687.1_long_wavelength_rhodopsin_partial_Anochetus_boltoni	0.310000	0.934195
+[0.004303] sorting bipartition profile
+[0.001631] computed / updated events
+[0.021712] combined events
+[0.004217] calculated per dropset improvement
+[0.004469] executed the merging events 
+>46	AWP15277.1_putative_PDZ_and_LIM_domain_protein_5-like_Scophthalmus_maximus	0.272000	0.934492
+[0.004186] sorting bipartition profile
+[0.001600] computed / updated events
+[0.020029] combined events
+[0.004060] calculated per dropset improvement
+[0.004084] executed the merging events 
+>127	AKL81002.1_long-wavelength_rhodopsin_partial_Ischnomelissa_zonata	0.005000	0.934498
+[0.004314] sorting bipartition profile
+[0.001383] computed / updated events
+[0.019421] combined events
+[0.003890] calculated per dropset improvement
+[0.003844] executed the merging events 
+>43	XP_035182132.1_melanopsin-like_isoform_X2_Oxyura_jamaicensis	0.002000	0.934500
+[0.003662] sorting bipartition profile
+[0.000960] computed / updated events
+[0.019504] combined events
+[0.003840] calculated per dropset improvement
+total time elapsed: 2.032563

@@ -1,0 +1,11 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.917049
+1	510	JAK97654.1_hypothetical_protein_Daphnia_magna	0.932000	0.918081
+2	888	XP_022247185.1_visual_pigment-like_receptor_peropsin_isoform_X1_Limulus_polyphemus	0.877000	0.919052
+3	905	AGB67498.1_c-like_opsin_Tripedalia_cystophora	0.577000	0.919691
+4	118	tr|A0A3B4CHK3|A0A3B4CHK3_PYGNA_Rhodopsin_N_domain-containing_protein_OS_Pygocentrus_nattereri_OX_42514_PE_4_SV_1	0.500000	0.920245
+5	838	XP_004713097.1_RPE-retinal_G_protein-coupled_receptor_Echinops_telfairi	0.469000	0.920764
+6	377	XP_006814051.1_PREDICTED_tachykinin-like_peptides_receptor_86C-like_Saccoglossus_kowalevskii	0.199000	0.920984
+7	460	AAQ74150.1_long-wavelength_opsin_partial_Eschatocerus_acaciae	0.117000	0.921114
+8	168	AJD38767.1_short-wavelength_sensitive_opsin_2B2_partial_Synodus_synodus	0.098000	0.921223
+9	894	RNA35867.1_melanopsin_Brachionus_plicatilis	0.005000	0.921228

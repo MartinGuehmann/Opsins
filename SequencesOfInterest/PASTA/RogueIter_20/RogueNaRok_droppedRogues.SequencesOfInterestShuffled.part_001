@@ -1,0 +1,14 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.927764
+1	990	XP_033731841.1_rhodopsin-like_Pecten_maximus	2.298000	0.930051
+2	991	PIK33595.1_putative_rhodopsin_GQ-coupled_partial_Apostichopus_japonicus	0.740000	0.930787
+3	24	XP_030012691.1_opsin-3_Sphaeramia_orbicularis	0.690000	0.931474
+4	62	tr|A0A3B5LE98|A0A3B5LE98_9TELE_Teleost_multiple_tissue_opsin_3b_OS_Xiphophorus_couchianus_OX_32473_PE_4_SV_1	0.532000	0.932003
+5	489	XP_010639820.1_visual_pigment-like_receptor_peropsin_Fukomys_damarensis	0.360000	0.932361
+6	764	APP91293.1_putative_long-wavelength_opsin_partial_Xenos_peckii	0.275000	0.932635
+7	243	EMP42162.1_Opsin-VA_Chelonia_mydas	0.173000	0.932807
+8	521	JAO32834.1_RGR_partial_Poeciliopsis_prolifica	0.119000	0.932925
+9	27	XP_019945374.1_PREDICTED_opsin-3_Paralichthys_olivaceus	0.012000	0.932937
+10	453	DAniello2015_ops8_Parastichopus_parvimensis	0.006000	0.932943
+11	8	XP_009907471.1_PREDICTED_opsin-3_Picoides_pubescens	0.002000	0.932945
+12	231	XP_030047919.1_long-wave-sensitive_opsin_1_Microcaecilia_unicolor	0.002000	0.932947

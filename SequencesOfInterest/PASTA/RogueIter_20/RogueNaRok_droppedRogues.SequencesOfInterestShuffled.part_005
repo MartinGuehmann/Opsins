@@ -1,0 +1,12 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.927507
+1	638	tr|A0A4W5KC15|A0A4W5KC15_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Hucho_hucho_OX_62062_PE_3_SV_1	1.341000	0.928842
+2	627	JAR48424.1_Medium-wave-sensitive_opsin_1_partial_Fundulus_heteroclitus	1.190000	0.930026
+3	956	RDD40471.1_Substance-K_receptor_Trichoplax_sp._H2	0.813000	0.930835
+4	11	tr|A0A369RPQ4|A0A369RPQ4_9METZ_G-protein_coupled_receptor_GRL101-like_protein_Fragment_OS_Trichoplax_sp._H2_OX_287889_GN_TrispH2_011287_PE_3_SV_1	0.532000	0.931364
+5	181	DAniello2015_ops4.3_Labidiaster_annulatus	0.144000	0.931507
+6	870	KAF4089309.1_hypothetical_protein_AMELA_G00065010_Ameiurus_melas	0.124000	0.931631
+7	406	XP_014010014.1_PREDICTED_uncharacterized_protein_LOC106576962_isoform_X1_Salmo_salar	0.008000	0.931639
+8	626	tr|A0A3Q2C6K5|A0A3Q2C6K5_CYPVA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Cyprinodon_variegatus_OX_28743_PE_3_SV_1	0.004000	0.931643
+9	34,31	XP_010080821.1_PREDICTED_melanopsin-A-like_Pterocles_gutturalis,XP_026707672.1_melanopsin_isoform_X1_Athene_cunicularia	0.002000	0.931645
+10	35	XP_029886896.1_melanopsin_isoform_X4_Aquila_chrysaetos_chrysaetos	0.115000	0.931759

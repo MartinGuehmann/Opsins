@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.976119
+1	14	XP_028395469.1_melanopsin-like_Dendronephthya_gigantea	1.000000	0.977114
+2	952	XP_019736341.1_PREDICTED_parapinopsin-like_Hippocampus_comes	1.000000	0.978109
+3	314	KAF0309486.1_Ocellar_opsin_Amphibalanus_amphitrite	1.000000	0.979104

@@ -1,0 +1,8 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.940886
+1	295	CAB3366681.1_Hypothetical_predicted_protein_Cloeon_dipterum	1.230000	0.942248
+2	358	APY20603.1_ultraviolet_sensitive_opsin_partial_Euroleon_nostras	0.548000	0.942855
+3	199	AGR53615.1_rhodopsin_partial_Milyeringa_veritas	0.259000	0.943142
+4	688	XP_020491513.1_opsin-5-like_Labrus_bergylta	0.076000	0.943226
+5	357	APY20676.1_ultraviolet_sensitive_opsin_1_Xanthostigma_xanthostigma	0.026000	0.943255
+6	655	KXJ14428.1_D1_dopamine_receptor_Exaiptasia_diaphana	0.019000	0.943276

@@ -1,0 +1,40 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.718366] initialisation done (initScore = 0.966702, numBip=2676)
+[0.023224] sorting bipartition profile
+[0.101638] computed / updated events
+[0.028902] combined events
+[0.005671] calculated per dropset improvement
+[0.006475] executed the merging events 
+>505	QBL02591.1_biogenic_amine-like_GPCR_Tripedalia_cystophora	2.000000	0.968851
+[0.003971] sorting bipartition profile
+[0.001443] computed / updated events
+[0.026089] combined events
+[0.004881] calculated per dropset improvement
+[0.006527] executed the merging events 
+>375,370	XP_012879229.1_PREDICTED_visual_pigment-like_receptor_peropsin_Dipodomys_ordii,EPY78064.1_hypothetical_protein_CB1_001130008_Camelus_ferus	2.000000	0.970999
+[0.005450] sorting bipartition profile
+[0.001496] computed / updated events
+[0.025063] combined events
+[0.004804] calculated per dropset improvement
+[0.006073] executed the merging events 
+>679	ALU57736.1_long_wavelength_rhodopsin_partial_Aphaenogaster_picea	1.000000	0.972073
+[0.003586] sorting bipartition profile
+[0.002518] computed / updated events
+[0.024346] combined events
+[0.004102] calculated per dropset improvement
+[0.004231] executed the merging events 
+>717	ACB70933.1_long_wavelength_rhodopsin_partial_Pseudomethoca_propinqua	1.000000	0.973147
+[0.003260] sorting bipartition profile
+[0.001206] computed / updated events
+[0.023364] combined events
+[0.003765] calculated per dropset improvement
+[0.003982] executed the merging events 
+>123	GCB76592.1_hypothetical_protein_scyTo_0019163_partial_Scyliorhinus_torazame	1.000000	0.974221
+[0.003412] sorting bipartition profile
+[0.000726] computed / updated events
+[0.023587] combined events
+[0.004217] calculated per dropset improvement
+total time elapsed: 2.077098

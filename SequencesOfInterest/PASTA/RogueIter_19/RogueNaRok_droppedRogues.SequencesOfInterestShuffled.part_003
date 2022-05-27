@@ -1,0 +1,11 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.923230
+1	377	ROL55163.1_Leukotriene_B4_receptor_1_Anabarilius_grahami	1.247000	0.924455
+2	685	JAB00544.1_putative_rhodopsin_receptor_1_partial_Anopheles_aquasalis	0.934000	0.925372
+3	487	XP_003249152.1_octopamine_receptor_beta-3R_isoform_X1_Apis_mellifera	0.581000	0.925943
+4	840	XP_013407359.1_rhodopsin_GQ-coupled-like_Lingula_anatina	0.542000	0.926475
+5	273	CAB1315282.1_unnamed_protein_product_Coregonus_sp._balchen	0.471000	0.926938
+6	344,343	XP_032228336.1_visual_pigment-like_receptor_peropsin_Nematostella_vectensis,XP_032230760.1_melanopsin-B_Nematostella_vectensis	0.092000	0.927028
+7	752	JAI73165.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_putative_partial_Daphnia_magna	0.021000	0.927049
+8	759	AEG78686.1_UV-sensitive_opsin_Gryllus_bimaculatus	0.001000	0.927050
+9	907	XP_030280295.1_rhodopsin-like_isoform_X2_Sparus_aurata	0.001000	0.927051

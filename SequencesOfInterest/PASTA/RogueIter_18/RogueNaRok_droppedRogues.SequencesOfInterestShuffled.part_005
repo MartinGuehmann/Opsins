@@ -1,0 +1,6 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.943707
+1	847	XP_035283567.1_cholecystokinin_receptor_type_A_isoform_X1_Anguilla_anguilla	0.302000	0.944041
+2	661	NOV37829.1_putative_g-protein_coupled_receptor_Rhipicephalus_microplus	0.131000	0.944186
+3	400	TSV54886.1_Blue-sensitive_opsin_Bagarius_yarrelli	0.069000	0.944262
+4	628	DAniello2015_ops6_Asterias_rubens	0.044000	0.944311

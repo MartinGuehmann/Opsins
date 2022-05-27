@@ -1,0 +1,13 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.937494
+1	917	tr|A0A672H341|A0A672H341_SALFA_Teleost_multiple_tissue_opsin_2b_OS_Salarias_fasciatus_OX_181472_PE_4_SV_1	0.666000	0.938156
+2	443	XP_008487287.1_opsin_blue-sensitive-like_partial_Diaphorina_citri	0.500000	0.938654
+3	734,729	AEW67068.1_rod_opsin_partial_Anoplogaster_cornuta,AEW67052.1_rod_opsin_partial_Photostomias_guernei	0.905000	0.939554
+4	622	tr|A0A672JZT1|A0A672JZT1_SINGR_Uncharacterized_protein_OS_Sinocyclocheilus_grahami_OX_75366_PE_4_SV_1	0.294000	0.939847
+5	398	QIB85075.1_long_wavelength_rhodopsin_partial_Basiceros_militaris	0.223000	0.940069
+6	623	RDD38352.1_Tachykinin-like_peptides_receptor_86C_Trichoplax_sp._H2	0.211000	0.940279
+7	28	AGB67493.1_c-like_opsin_Tripedalia_cystophora	0.210000	0.940488
+8	288	TKS86011.1_Melanopsin-A_Mammalian-like_melanopsin_Collichthys_lucidus	0.156000	0.940643
+9	667	AEX08666.2_allatotropin_receptor_Schistocerca_gregaria	0.092000	0.940734
+10	823	AAG61163.1_SWS1_opsin_Gekko_gecko	0.037000	0.940771
+11	268	XP_021102426.1_melanopsin_isoform_X3_Heterocephalus_glaber	0.035000	0.940806

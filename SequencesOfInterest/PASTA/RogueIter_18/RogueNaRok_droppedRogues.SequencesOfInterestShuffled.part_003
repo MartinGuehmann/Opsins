@@ -1,0 +1,15 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.923010
+1	615	XP_002116956.1_hypothetical_protein_TRIADDRAFT_4311_partial_Trichoplax_adhaerens	1.327000	0.924480
+2	318	AWU78811.1_Amphiop6_Branchiostoma_lanceolatum	1.166000	0.925771
+3	287	AID66635.1_opsin_C_partial_Helobdella_robusta	0.827000	0.926687
+4	148	ABW89783.1_long-wavelength_rhodopsin_partial_Patellapis_montagui	0.787000	0.927558
+5	239	JAK75253.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop2_partial_Daphnia_magna	0.671000	0.928301
+6	156	AKO70555.1_long_wavelength_rhodopsin_partial_Tapinoma_subtile	0.666000	0.929039
+7	7	XP_030854248.1_pinopsin_Strongylocentrotus_purpuratus	0.632000	0.929739
+8	819	CAB1353481.1_unnamed_protein_product_Coregonus_sp._balchen	0.442000	0.930228
+9	570	XP_028318677.1_adenosine_receptor_A2b-like_Gouania_willdenowi	0.212000	0.930463
+10	277	TRY72288.1_hypothetical_protein_TCAL_16172_Tigriopus_californicus	0.212000	0.930698
+11	725	ABS86975.1_violet-sensitive_pigment_Phalacrocorax_carbo	0.018000	0.930718
+12	362	AWU78799.1_neuropsin_Branchiostoma_lanceolatum	0.018000	0.930738
+13	102	XP_031762318.1_melanopsin_isoform_X2_Xenopus_tropicalis	0.001000	0.930739

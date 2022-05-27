@@ -1,0 +1,15 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.923446
+1	583	CRK97767.1_CLUMA_CG011147_isoform_A_Clunio_marinus	1.879000	0.925315
+2	429	RDD39848.1_Neuropeptide_Y_receptor_type_1_Trichoplax_sp._H2	0.801000	0.926112
+3	487	XP_030195886.1_beta-1_adrenergic_receptor_Gadus_morhua	0.673000	0.926782
+4	523,518	ACA13928.1_long_wavelength_rhodopsin_partial_Mycetophylax_faunulus,AKO70520.1_long_wavelength_rhodopsin_partial_Simopone_elegans	1.159000	0.927935
+5	536	ABW75569.1_long-wave_rhodopsin_partial_Perdita_californica	0.540000	0.928473
+6	723	tr|A0A0A7KUV6|A0A0A7KUV6_9ECHI_Opsin_1_Fragment_OS_Amphiura_filiformis_OX_82378_PE_4_SV_1	0.505000	0.928975
+7	193	AAY82571.1_rhodopsin_partial_Occidozyga_lima	0.230000	0.929204
+8	333	XP_035208317.1_melanopsin-like_partial_Stegodyphus_dumicola	0.159000	0.929362
+9	840,831	XP_015744085.1_visual_pigment-like_receptor_peropsin_Python_bivittatus,GCC26492.1_hypothetical_protein_chiPu_2000056_Chiloscyllium_punctatum	0.288000	0.929649
+10	209	AJD38793.1_short-wavelength_sensitive_opsin_2B_Gadus_chalcogrammus	0.130000	0.929778
+11	527	ABD18365.1_long-wavelength_rhodopsin_partial_Leptanilla_sp._CSM-2006	0.105000	0.929883
+12	99	TNM99133.1_hypothetical_protein_fugu_013697_Takifugu_bimaculatus	0.090000	0.929972
+13	200	ABD90885.1_rhodopsin_partial_Rhyacotriton_cascadae	0.005000	0.929977

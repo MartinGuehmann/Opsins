@@ -1,0 +1,10 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.939439
+1	59	tr|A0A3B1J5B5|A0A3B1J5B5_ASTMX_Opsin_3_OS_Astyanax_mexicanus_OX_7994_PE_3_SV_1	0.735000	0.940161
+2	45	tr|A0A1B0GUF8|A0A1B0GUF8_HUMAN_Opsin-3_Fragment_OS_Homo_sapiens_OX_9606_GN_OPN3_PE_4_SV_1	0.323000	0.940478
+3	525	KAF4090185.1_hypothetical_protein_AMELA_G00049180_Ameiurus_melas	0.272000	0.940746
+4	237	XP_025069457.1_blue-sensitive_opsin-like_Alligator_sinensis	0.090000	0.940834
+5	1011	XP_031418745.1_melanopsin-like_Clupea_harengus	0.035000	0.940868
+6	403	XP_010154420.1_PREDICTED_opsin-5-like_Eurypyga_helias	0.010000	0.940878
+7	828	TRY76801.1_hypothetical_protein_TCAL_10452_Tigriopus_californicus	0.005000	0.940883
+8	3	XP_020619724.1_rhodopsin_GQ-coupled-like_Orbicella_faveolata	0.004000	0.940887

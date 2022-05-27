@@ -1,0 +1,11 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.921322
+1	419	XP_034667853.1_trissin_receptor_isoform_X1_Drosophila_subobscura	1.599000	0.923040
+2	269	RVE48790.1_hypothetical_protein_evm_006564_Chilo_suppressalis	0.810000	0.923910
+3	873	XP_020791581.1_blue-sensitive_opsin-like_Boleophthalmus_pectinirostris	0.748000	0.924713
+4	100	AGB67489.1_c-like_opsin_Tripedalia_cystophora	0.676000	0.925439
+5	432	XP_006927047.1_LOW_QUALITY_PROTEIN_G-protein_coupled_receptor_84_Pteropus_alecto	0.408000	0.925878
+6	567	BAQ54792.1_opsin_rhodopsin-7_like_partial_Anotogaster_sieboldii	0.196000	0.926088
+7	472	TGZ54609.1_Uncharacterized_protein_DBV15_09385_Temnothorax_longispinosus	0.005000	0.926093
+8	510	XP_017784754.1_PREDICTED_rhodopsin-like_Nicrophorus_vespilloides	0.003000	0.926097
+9	779	AWU59271.1_long-wavelength_sensitive_1_opsin_Chitala_ornata	0.003000	0.926100

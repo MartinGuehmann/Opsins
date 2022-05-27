@@ -1,0 +1,8 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.974129
+1	270	AAW59478.1_rhodopsin_partial_Syscia_augustae	3.000000	0.977114
+2	917	XP_013294975.1_hypothetical_protein_NECAME_13738_Necator_americanus	1.000000	0.978109
+3	579	XP_034540552.1_parietopsin_Notolabrus_celidotus	1.000000	0.979104
+4	910	XP_034051404.1_visual_pigment-like_receptor_peropsin_Thalassophryne_amazonica	1.000000	0.980100
+5	581	XP_023283553.1_parapinopsin-like_Seriola_lalandi_dorsalis	1.000000	0.981095
+6	631	XP_033181681.1_vertebrate_ancient_opsin-like_Mastacembelus_armatus	1.000000	0.982090

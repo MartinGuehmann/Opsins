@@ -1,0 +1,4 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.980100
+1	990	XP_033731841.1_rhodopsin-like_Pecten_maximus	2.000000	0.982090
+2	62	tr|A0A3B5LE98|A0A3B5LE98_9TELE_Teleost_multiple_tissue_opsin_3b_OS_Xiphophorus_couchianus_OX_32473_PE_4_SV_1	1.000000	0.983085

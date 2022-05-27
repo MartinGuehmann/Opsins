@@ -1,0 +1,70 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.859084] initialisation done (initScore = 0.930370, numBip=2473)
+[0.017219] sorting bipartition profile
+[0.092126] computed / updated events
+[0.022191] combined events
+[0.004211] calculated per dropset improvement
+[0.004246] executed the merging events 
+>480	XP_014125287.1_pinopsin_Zonotrichia_albicollis	0.728000	0.931165
+[0.009639] sorting bipartition profile
+[0.000948] computed / updated events
+[0.021878] combined events
+[0.003707] calculated per dropset improvement
+[0.003316] executed the merging events 
+>332	tr|A0A3Q1CKQ6|A0A3Q1CKQ6_AMPOC_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Amphiprion_ocellaris_OX_80972_PE_3_SV_1	0.532000	0.931746
+[0.003601] sorting bipartition profile
+[0.001281] computed / updated events
+[0.021898] combined events
+[0.004088] calculated per dropset improvement
+[0.003502] executed the merging events 
+>566	XP_023605252.1_long-wave-sensitive_opsin_1-like_partial_Myotis_lucifugus	0.441000	0.932227
+[0.003426] sorting bipartition profile
+[0.001054] computed / updated events
+[0.022336] combined events
+[0.004454] calculated per dropset improvement
+[0.004104] executed the merging events 
+>593	CBN81003.1_Short_wavelength_sensitive_2b_Dicentrarchus_labrax	0.346000	0.932605
+[0.003640] sorting bipartition profile
+[0.001237] computed / updated events
+[0.022246] combined events
+[0.004182] calculated per dropset improvement
+[0.003544] executed the merging events 
+>393	tr|A0A3Q3VPX9|A0A3Q3VPX9_MOLML_Opsin_8_group_member_c_OS_Mola_mola_OX_94237_PE_4_SV_1	0.320000	0.932954
+[0.003369] sorting bipartition profile
+[0.001302] computed / updated events
+[0.022119] combined events
+[0.004096] calculated per dropset improvement
+[0.003533] executed the merging events 
+>154	APY20589.1_ultraviolet_sensitive_opsin_Conwentzia_psociformis	0.225000	0.933200
+[0.003536] sorting bipartition profile
+[0.000950] computed / updated events
+[0.021067] combined events
+[0.004220] calculated per dropset improvement
+[0.003767] executed the merging events 
+>476	CAF97627.1_unnamed_protein_product_Tetraodon_nigroviridis	0.184000	0.933401
+[0.003697] sorting bipartition profile
+[0.000790] computed / updated events
+[0.021145] combined events
+[0.003767] calculated per dropset improvement
+[0.003471] executed the merging events 
+>204	XP_026684986.1_ceropsin-like_Diaphorina_citri	0.052000	0.933457
+[0.003762] sorting bipartition profile
+[0.000964] computed / updated events
+[0.020833] combined events
+[0.003702] calculated per dropset improvement
+[0.003420] executed the merging events 
+>435	XP_020456822.1_opsin-5-like_Monopterus_albus	0.031000	0.933491
+[0.003391] sorting bipartition profile
+[0.001173] computed / updated events
+[0.020725] combined events
+[0.003790] calculated per dropset improvement
+[0.003428] executed the merging events 
+>622	ABI15852.1_rhodopsin_partial_Synodus_foetens	0.006000	0.933498
+[0.003511] sorting bipartition profile
+[0.001729] computed / updated events
+[0.020489] combined events
+[0.003811] calculated per dropset improvement
+total time elapsed: 2.339371

@@ -1,0 +1,11 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.929097
+1	538	tr|A0A369SIS7|A0A369SIS7_9METZ_Putative_G-protein_coupled_receptor_45_OS_Trichoplax_sp._H2_OX_287889_GN_TrispH2_001022_PE_4_SV_1	2.228000	0.931529
+2	447	RDD44068.1_Neuropeptide_FF_receptor_2_Trichoplax_sp._H2	0.476000	0.932049
+3	323	XP_026292277.1_opsin_ultraviolet-sensitive-like_Frankliniella_occidentalis	0.366000	0.932449
+4	83	VEN40981.1_unnamed_protein_product_partial_Callosobruchus_maculatus	0.347000	0.932828
+5	690	TNN58845.1_Opsin-5_Liparis_tanakae	0.243000	0.933093
+6	253	ACB70917.1_long_wavelength_rhodopsin_partial_Eotilla_mickeli	0.040000	0.933136
+7	357	APY20519.1_ultraviolet_sensitive_opsin_2_partial_Thanasimus_formicarius	0.037000	0.933177
+8	324	XP_026325042.1_opsin-3-like_Hyposmocoma_kahamanoa	0.021000	0.933200
+9	62	tr|A0A673KDP3|A0A673KDP3_9TELE_Teleost_multiple_tissue_opsin_2b_OS_Sinocyclocheilus_rhinocerous_OX_307959_PE_4_SV_1	0.004000	0.933204

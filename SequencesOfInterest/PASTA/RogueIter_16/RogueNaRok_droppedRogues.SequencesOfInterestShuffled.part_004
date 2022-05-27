@@ -1,0 +1,14 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.926893
+1	680	XP_010122597.1_PREDICTED_opsin-5-like_Chlamydotis_macqueenii	1.144000	0.928121
+2	130	APY20643.1_long_wavelength_sensitive_opsin_Paussus_spinicoxis	0.830000	0.929013
+3	270	KZS11218.1_putative_Pteropsin4_Daphnia_magna	0.691000	0.929755
+4	880	XP_002589967.1_hypothetical_protein_BRAFLDRAFT_81603_Branchiostoma_floridae	0.470000	0.930260
+5	734	XP_033859237.2_opsin-5-like_isoform_X2_Acipenser_ruthenus	0.443000	0.930736
+6	915	XP_015761015.1_PREDICTED_melatonin_receptor_type_1A-like_isoform_X1_Acropora_digitifera	0.395000	0.931160
+7	234	XP_026322142.1_opsin_ultraviolet-sensitive-like_Hyposmocoma_kahamanoa	0.020000	0.931182
+8	836	XP_026572344.1_type-2_angiotensin_II_receptor_Pseudonaja_textilis	0.005000	0.931187
+9	232	XP_012545028.1_opsin_ultraviolet-sensitive_Bombyx_mori	0.005000	0.931192
+10	96	BAQ54944.1_opsin_long-wavelength_sensitive_type_Indolestes_peregrinus	0.003000	0.931195
+11	217	JAJ28759.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop2_Daphnia_magna	0.002000	0.931198
+12	431	XP_027022686.1_rhodopsin_Tachysurus_fulvidraco	0.002000	0.931200

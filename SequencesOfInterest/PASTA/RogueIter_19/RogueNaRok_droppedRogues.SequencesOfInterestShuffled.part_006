@@ -1,0 +1,14 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.935956
+1	673	TRZ20522.1_hypothetical_protein_HGM15179_006656_Zosterops_borbonicus	1.250000	0.937184
+2	994	tr|A0A3P8SZ57|A0A3P8SZ57_AMPPE_Opsin_4xa_OS_Amphiprion_percula_OX_161767_PE_3_SV_1	0.640000	0.937812
+3	483	tr|A0A3B4A2G8|A0A3B4A2G8_9GOBI_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Periophthalmus_magnuspinnatus_OX_409849_PE_4_SV_1	0.452000	0.938256
+4	937	TKS89802.1_Melanopsin-A_Mammalian-like_melanopsin_Collichthys_lucidus	0.428000	0.938677
+5	778	tr|T1KWN6|T1KWN6_TETUR_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Tetranychus_urticae_OX_32264_PE_3_SV_1	0.194000	0.938867
+6	394	tr|A0A3Q2PJG4|A0A3Q2PJG4_FUNHE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Fundulus_heteroclitus_OX_8078_PE_3_SV_1	0.122000	0.938987
+7	764	EFX70801.1_hypothetical_protein_DAPPUDRAFT_346930_Daphnia_pulex	0.095000	0.939081
+8	788	tr|A0A1B0BNM9|A0A1B0BNM9_9MUSC_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Glossina_palpalis_gambiensis_OX_67801_PE_3_SV_1	0.063000	0.939142
+9	187,186	ABD90930.1_rhodopsin_partial_Cardioglossa_gratiosa,ABW22636.1_rhodopsin_partial_Heterixalus_madagascariensis	0.051000	0.939193
+10	814	ANY60704.1_long_wavelength_rhodopsin_partial_Anochetus_sp._USNM_ENT_01124364	0.014000	0.939206
+11	639	XP_017782639.1_PREDICTED_neuropeptide_Y_receptor_type_2-like_Nicrophorus_vespilloides	0.003000	0.939209
+12	145	XP_026791184.1_red-sensitive_opsin_Pangasianodon_hypophthalmus	0.003000	0.939212

@@ -1,0 +1,82 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.312963] initialisation done (initScore = 0.927764, numBip=2693)
+[0.013199] sorting bipartition profile
+[0.056521] computed / updated events
+[0.013301] combined events
+[0.003126] calculated per dropset improvement
+[0.002779] executed the merging events 
+>990	XP_033731841.1_rhodopsin-like_Pecten_maximus	2.298000	0.930051
+[0.003722] sorting bipartition profile
+[0.000941] computed / updated events
+[0.013030] combined events
+[0.002965] calculated per dropset improvement
+[0.002947] executed the merging events 
+>991	PIK33595.1_putative_rhodopsin_GQ-coupled_partial_Apostichopus_japonicus	0.740000	0.930787
+[0.003668] sorting bipartition profile
+[0.001026] computed / updated events
+[0.012537] combined events
+[0.002612] calculated per dropset improvement
+[0.002546] executed the merging events 
+>24	XP_030012691.1_opsin-3_Sphaeramia_orbicularis	0.690000	0.931474
+[0.003579] sorting bipartition profile
+[0.001291] computed / updated events
+[0.012171] combined events
+[0.002657] calculated per dropset improvement
+[0.002756] executed the merging events 
+>62	tr|A0A3B5LE98|A0A3B5LE98_9TELE_Teleost_multiple_tissue_opsin_3b_OS_Xiphophorus_couchianus_OX_32473_PE_4_SV_1	0.532000	0.932003
+[0.003511] sorting bipartition profile
+[0.001486] computed / updated events
+[0.012557] combined events
+[0.002748] calculated per dropset improvement
+[0.002672] executed the merging events 
+>489	XP_010639820.1_visual_pigment-like_receptor_peropsin_Fukomys_damarensis	0.360000	0.932361
+[0.003539] sorting bipartition profile
+[0.000972] computed / updated events
+[0.012435] combined events
+[0.002668] calculated per dropset improvement
+[0.002871] executed the merging events 
+>764	APP91293.1_putative_long-wavelength_opsin_partial_Xenos_peckii	0.275000	0.932635
+[0.003655] sorting bipartition profile
+[0.000869] computed / updated events
+[0.012394] combined events
+[0.002809] calculated per dropset improvement
+[0.002889] executed the merging events 
+>243	EMP42162.1_Opsin-VA_Chelonia_mydas	0.173000	0.932807
+[0.003566] sorting bipartition profile
+[0.000752] computed / updated events
+[0.012500] combined events
+[0.002883] calculated per dropset improvement
+[0.002973] executed the merging events 
+>521	JAO32834.1_RGR_partial_Poeciliopsis_prolifica	0.119000	0.932925
+[0.003633] sorting bipartition profile
+[0.001084] computed / updated events
+[0.012666] combined events
+[0.002825] calculated per dropset improvement
+[0.002897] executed the merging events 
+>27	XP_019945374.1_PREDICTED_opsin-3_Paralichthys_olivaceus	0.012000	0.932937
+[0.003804] sorting bipartition profile
+[0.001097] computed / updated events
+[0.012110] combined events
+[0.002918] calculated per dropset improvement
+[0.002870] executed the merging events 
+>453	DAniello2015_ops8_Parastichopus_parvimensis	0.006000	0.932943
+[0.004277] sorting bipartition profile
+[0.000955] computed / updated events
+[0.012220] combined events
+[0.002851] calculated per dropset improvement
+[0.002650] executed the merging events 
+>8	XP_009907471.1_PREDICTED_opsin-3_Picoides_pubescens	0.002000	0.932945
+[0.003747] sorting bipartition profile
+[0.000801] computed / updated events
+[0.012105] combined events
+[0.002714] calculated per dropset improvement
+[0.002512] executed the merging events 
+>231	XP_030047919.1_long-wave-sensitive_opsin_1_Microcaecilia_unicolor	0.002000	0.932947
+[0.003853] sorting bipartition profile
+[0.000811] computed / updated events
+[0.012008] combined events
+[0.002833] calculated per dropset improvement
+total time elapsed: 1.671977

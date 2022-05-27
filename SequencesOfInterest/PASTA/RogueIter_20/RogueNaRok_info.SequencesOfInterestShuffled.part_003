@@ -1,0 +1,76 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.386136] initialisation done (initScore = 0.937494, numBip=2495)
+[0.013293] sorting bipartition profile
+[0.078061] computed / updated events
+[0.016570] combined events
+[0.003815] calculated per dropset improvement
+[0.002860] executed the merging events 
+>917	tr|A0A672H341|A0A672H341_SALFA_Teleost_multiple_tissue_opsin_2b_OS_Salarias_fasciatus_OX_181472_PE_4_SV_1	0.666000	0.938156
+[0.003690] sorting bipartition profile
+[0.001438] computed / updated events
+[0.017962] combined events
+[0.003376] calculated per dropset improvement
+[0.003079] executed the merging events 
+>443	XP_008487287.1_opsin_blue-sensitive-like_partial_Diaphorina_citri	0.500000	0.938654
+[0.003796] sorting bipartition profile
+[0.001131] computed / updated events
+[0.017038] combined events
+[0.003625] calculated per dropset improvement
+[0.003131] executed the merging events 
+>734,729	AEW67068.1_rod_opsin_partial_Anoplogaster_cornuta,AEW67052.1_rod_opsin_partial_Photostomias_guernei	0.905000	0.939554
+[0.004879] sorting bipartition profile
+[0.002039] computed / updated events
+[0.016889] combined events
+[0.003388] calculated per dropset improvement
+[0.003304] executed the merging events 
+>622	tr|A0A672JZT1|A0A672JZT1_SINGR_Uncharacterized_protein_OS_Sinocyclocheilus_grahami_OX_75366_PE_4_SV_1	0.294000	0.939847
+[0.003509] sorting bipartition profile
+[0.001363] computed / updated events
+[0.017090] combined events
+[0.003220] calculated per dropset improvement
+[0.003122] executed the merging events 
+>398	QIB85075.1_long_wavelength_rhodopsin_partial_Basiceros_militaris	0.223000	0.940069
+[0.003873] sorting bipartition profile
+[0.001085] computed / updated events
+[0.017173] combined events
+[0.003603] calculated per dropset improvement
+[0.003123] executed the merging events 
+>623	RDD38352.1_Tachykinin-like_peptides_receptor_86C_Trichoplax_sp._H2	0.211000	0.940279
+[0.003628] sorting bipartition profile
+[0.001205] computed / updated events
+[0.016350] combined events
+[0.003360] calculated per dropset improvement
+[0.004135] executed the merging events 
+>28	AGB67493.1_c-like_opsin_Tripedalia_cystophora	0.210000	0.940488
+[0.004166] sorting bipartition profile
+[0.000959] computed / updated events
+[0.016690] combined events
+[0.003500] calculated per dropset improvement
+[0.004158] executed the merging events 
+>288	TKS86011.1_Melanopsin-A_Mammalian-like_melanopsin_Collichthys_lucidus	0.156000	0.940643
+[0.004144] sorting bipartition profile
+[0.002308] computed / updated events
+[0.016457] combined events
+[0.003416] calculated per dropset improvement
+[0.003709] executed the merging events 
+>667	AEX08666.2_allatotropin_receptor_Schistocerca_gregaria	0.092000	0.940734
+[0.004097] sorting bipartition profile
+[0.001051] computed / updated events
+[0.016482] combined events
+[0.003732] calculated per dropset improvement
+[0.003718] executed the merging events 
+>823	AAG61163.1_SWS1_opsin_Gekko_gecko	0.037000	0.940771
+[0.003641] sorting bipartition profile
+[0.000879] computed / updated events
+[0.016016] combined events
+[0.003323] calculated per dropset improvement
+[0.002964] executed the merging events 
+>268	XP_021102426.1_melanopsin_isoform_X3_Heterocephalus_glaber	0.035000	0.940806
+[0.003586] sorting bipartition profile
+[0.001008] computed / updated events
+[0.015839] combined events
+[0.003426] calculated per dropset improvement
+total time elapsed: 1.815422

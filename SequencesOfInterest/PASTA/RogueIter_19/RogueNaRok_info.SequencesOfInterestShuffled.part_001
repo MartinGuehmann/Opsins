@@ -1,0 +1,82 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.424935] initialisation done (initScore = 0.932043, numBip=2547)
+[0.013714] sorting bipartition profile
+[0.057570] computed / updated events
+[0.012155] combined events
+[0.003207] calculated per dropset improvement
+[0.003024] executed the merging events 
+>727	XP_020501930.1_melanopsin-A-like_Labrus_bergylta	1.405000	0.933422
+[0.004067] sorting bipartition profile
+[0.001262] computed / updated events
+[0.012583] combined events
+[0.003140] calculated per dropset improvement
+[0.003098] executed the merging events 
+>506	XP_015511951.1_PREDICTED_melanopsin-like_isoform_X1_Neodiprion_lecontei	0.815000	0.934222
+[0.004347] sorting bipartition profile
+[0.001053] computed / updated events
+[0.012133] combined events
+[0.003020] calculated per dropset improvement
+[0.003250] executed the merging events 
+>571	XP_011647249.1_rhodopsin-like_isoform_X1_Pogonomyrmex_barbatus	0.740000	0.934948
+[0.004846] sorting bipartition profile
+[0.001450] computed / updated events
+[0.012476] combined events
+[0.003143] calculated per dropset improvement
+[0.003213] executed the merging events 
+>478	RVE76686.1_hypothetical_protein_OJAV_G00011520_Oryzias_javanicus	0.599000	0.935536
+[0.004352] sorting bipartition profile
+[0.001230] computed / updated events
+[0.012184] combined events
+[0.003091] calculated per dropset improvement
+[0.002956] executed the merging events 
+>321,320	tr|A0A3Q3ET09|A0A3Q3ET09_9LABR_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Labrus_bergylta_OX_56723_PE_3_SV_1,XP_029349887.1_visual_pigment-like_receptor_peropsin_Echeneis_naucrates	0.718000	0.936240
+[0.005373] sorting bipartition profile
+[0.001091] computed / updated events
+[0.012208] combined events
+[0.003335] calculated per dropset improvement
+[0.002982] executed the merging events 
+>119	ALK02322.1_LWS-1_partial_Poecilia_reticulata	0.062000	0.936301
+[0.004309] sorting bipartition profile
+[0.001176] computed / updated events
+[0.011980] combined events
+[0.002961] calculated per dropset improvement
+[0.002933] executed the merging events 
+>642	JAJ32980.1_hypothetical_protein_Daphnia_magna	0.062000	0.936362
+[0.003819] sorting bipartition profile
+[0.001138] computed / updated events
+[0.011549] combined events
+[0.003107] calculated per dropset improvement
+[0.002946] executed the merging events 
+>613	BAQ54793.1_opsin_long-wavelength_sensitive_type_Anotogaster_sieboldii	0.056000	0.936417
+[0.003888] sorting bipartition profile
+[0.001148] computed / updated events
+[0.011466] combined events
+[0.002922] calculated per dropset improvement
+[0.003014] executed the merging events 
+>7	tr|A0A1I8CQW5|A0A1I8CQW5_9BILA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Rhabditophanes_sp._KR3021_OX_114890_PE_4_SV_1	0.040000	0.936456
+[0.003871] sorting bipartition profile
+[0.000879] computed / updated events
+[0.011553] combined events
+[0.003003] calculated per dropset improvement
+[0.002830] executed the merging events 
+>863	XP_022088029.1_alpha-1A_adrenergic_receptor-like_Acanthaster_planci	0.018000	0.936474
+[0.003967] sorting bipartition profile
+[0.000873] computed / updated events
+[0.011381] combined events
+[0.003002] calculated per dropset improvement
+[0.003110] executed the merging events 
+>224,219	ALQ32691.1_short_wavelength-sensitive_opsin_1_partial_Dasyprocta_punctata,XP_020015911.1_LOW_QUALITY_PROTEIN_short-wave-sensitive_opsin_1_Castor_canadensis	0.008000	0.936482
+[0.005377] sorting bipartition profile
+[0.001215] computed / updated events
+[0.011225] combined events
+[0.003034] calculated per dropset improvement
+[0.002859] executed the merging events 
+>239	XP_013876182.1_PREDICTED_short-wave-sensitive_opsin_1_isoform_X1_Austrofundulus_limnaeus	0.001000	0.936483
+[0.004387] sorting bipartition profile
+[0.000964] computed / updated events
+[0.011500] combined events
+[0.003086] calculated per dropset improvement
+total time elapsed: 1.793895

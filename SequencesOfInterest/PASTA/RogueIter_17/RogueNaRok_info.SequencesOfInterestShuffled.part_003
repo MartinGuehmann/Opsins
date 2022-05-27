@@ -1,0 +1,88 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.494863] initialisation done (initScore = 0.917975, numBip=2434)
+[0.017319] sorting bipartition profile
+[0.084797] computed / updated events
+[0.022117] combined events
+[0.004510] calculated per dropset improvement
+[0.003156] executed the merging events 
+>495	JAP01984.1_OPN3_Poeciliopsis_prolifica	1.173000	0.919255
+[0.003597] sorting bipartition profile
+[0.001364] computed / updated events
+[0.020914] combined events
+[0.003892] calculated per dropset improvement
+[0.003430] executed the merging events 
+>250	JAK20911.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna	0.742000	0.920066
+[0.003708] sorting bipartition profile
+[0.001514] computed / updated events
+[0.020212] combined events
+[0.003561] calculated per dropset improvement
+[0.003304] executed the merging events 
+>815	XP_020779737.1_opsin-5-like_Boleophthalmus_pectinirostris	0.480000	0.920590
+[0.003437] sorting bipartition profile
+[0.001457] computed / updated events
+[0.020342] combined events
+[0.003795] calculated per dropset improvement
+[0.003363] executed the merging events 
+>663	XP_019613461.1_PREDICTED_delta-type_opioid_receptor-like_Branchiostoma_belcheri	0.326000	0.920945
+[0.003691] sorting bipartition profile
+[0.001109] computed / updated events
+[0.020377] combined events
+[0.004506] calculated per dropset improvement
+[0.005108] executed the merging events 
+>579	XP_022099223.1_rhodopsin-like_Acanthaster_planci	0.321000	0.921296
+[0.003654] sorting bipartition profile
+[0.001139] computed / updated events
+[0.022181] combined events
+[0.005374] calculated per dropset improvement
+[0.005721] executed the merging events 
+>280	TRY72607.1_hypothetical_protein_TCAL_09979_Tigriopus_californicus	0.218000	0.921534
+[0.003817] sorting bipartition profile
+[0.001271] computed / updated events
+[0.021998] combined events
+[0.004409] calculated per dropset improvement
+[0.005229] executed the merging events 
+>625	KTG01603.1_hypothetical_protein_cypCar_00014362_Cyprinus_carpio	0.185000	0.921736
+[0.004010] sorting bipartition profile
+[0.001403] computed / updated events
+[0.015686] combined events
+[0.003415] calculated per dropset improvement
+[0.002909] executed the merging events 
+>324	tr|A0A3B3E1U6|A0A3B3E1U6_ORYME_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Oryzias_melastigma_OX_30732_PE_3_SV_1	0.104000	0.921849
+[0.003703] sorting bipartition profile
+[0.001388] computed / updated events
+[0.014209] combined events
+[0.003139] calculated per dropset improvement
+[0.002797] executed the merging events 
+>545	XP_030010372.1_pinopsin-like_Sphaeramia_orbicularis	0.029000	0.921881
+[0.003383] sorting bipartition profile
+[0.001634] computed / updated events
+[0.014061] combined events
+[0.003111] calculated per dropset improvement
+[0.002734] executed the merging events 
+>35	XP_029383683.1_melanopsin-A-like_isoform_X2_Echeneis_naucrates	0.016000	0.921898
+[0.003526] sorting bipartition profile
+[0.000827] computed / updated events
+[0.014076] combined events
+[0.003083] calculated per dropset improvement
+[0.002751] executed the merging events 
+>100	XP_005106396.1_PREDICTED_rhodopsin-like_Aplysia_californica	0.012000	0.921912
+[0.003465] sorting bipartition profile
+[0.000931] computed / updated events
+[0.013761] combined events
+[0.003051] calculated per dropset improvement
+[0.002851] executed the merging events 
+>578	XP_019645240.1_PREDICTED_opsin-3-like_Branchiostoma_belcheri	0.004000	0.921916
+[0.003818] sorting bipartition profile
+[0.000751] computed / updated events
+[0.013968] combined events
+[0.003227] calculated per dropset improvement
+[0.002842] executed the merging events 
+>271	tr|A0A0N5A2R4|A0A0N5A2R4_PARTI_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Parastrongyloides_trichosuri_OX_131310_PE_4_SV_1	0.001000	0.921917
+[0.003445] sorting bipartition profile
+[0.000964] computed / updated events
+[0.013575] combined events
+[0.003090] calculated per dropset improvement
+total time elapsed: 2.006469

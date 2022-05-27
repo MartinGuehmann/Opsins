@@ -1,0 +1,11 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.934746
+1	588,576	ACA65933.1_rhodopsin_partial_Danionella_sp._MN-2008,AFK84160.1_rhodopsin_partial_Benthosema_pterotum	2.012000	0.936748
+2	963	XP_029281519.1_opsin-5-like_Cottoperca_gobio	0.984000	0.937727
+3	395	XP_006037964.1_leukotriene_B4_receptor_1_Alligator_sinensis	0.851000	0.938574
+4	296	APY20625.1_ultraviolet_sensitive_opsin_partial_Mengenilla_moldrzyki	0.836000	0.939406
+5	382	XP_004557927.1_atypical_chemokine_receptor_3_Maylandia_zebra	0.796000	0.940198
+6	833	XP_014297340.1_PREDICTED_blue-sensitive_opsin-like_Microplitis_demolitor	0.103000	0.940300
+7	423	KPM02544.1_myokinin_receptor-like_protein_Sarcoptes_scabiei	0.073000	0.940373
+8	643	KAF1391237.1_hypothetical_protein_PFLUV_G00039840_Perca_fluviatilis	0.026000	0.940399
+9	538	ABS89281.1_SWS1_opsin_Neoceratodus_forsteri	0.002000	0.940401

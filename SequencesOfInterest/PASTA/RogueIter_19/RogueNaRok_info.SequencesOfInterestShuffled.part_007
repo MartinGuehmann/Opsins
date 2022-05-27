@@ -1,0 +1,70 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.444165] initialisation done (initScore = 0.921386, numBip=2631)
+[0.013258] sorting bipartition profile
+[0.058672] computed / updated events
+[0.012709] combined events
+[0.003203] calculated per dropset improvement
+[0.002877] executed the merging events 
+>390	XP_015761372.1_PREDICTED_neuromedin-K_receptor-like_Acropora_digitifera	2.238000	0.923584
+[0.003775] sorting bipartition profile
+[0.001124] computed / updated events
+[0.012891] combined events
+[0.003092] calculated per dropset improvement
+[0.003067] executed the merging events 
+>320	JAM75107.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_partial_Daphnia_magna	1.846000	0.925398
+[0.004444] sorting bipartition profile
+[0.001396] computed / updated events
+[0.012548] combined events
+[0.002966] calculated per dropset improvement
+[0.003027] executed the merging events 
+>566	XP_020516694.1_opsin-5-like_Labrus_bergylta	0.551000	0.925939
+[0.003871] sorting bipartition profile
+[0.001148] computed / updated events
+[0.012652] combined events
+[0.003150] calculated per dropset improvement
+[0.003030] executed the merging events 
+>813	AMB42884.1_Green_sensitive_opsin_RH2A_Halichoeres_chrysus	0.526000	0.926456
+[0.003467] sorting bipartition profile
+[0.000841] computed / updated events
+[0.012352] combined events
+[0.003144] calculated per dropset improvement
+[0.003168] executed the merging events 
+>391	XP_022102668.1_thyrotropin-releasing_hormone_receptor-like_Acanthaster_planci	0.361000	0.926810
+[0.004067] sorting bipartition profile
+[0.000851] computed / updated events
+[0.012466] combined events
+[0.003138] calculated per dropset improvement
+[0.002814] executed the merging events 
+>936	XP_029379533.1_parapinopsin-like_Echeneis_naucrates	0.314000	0.927119
+[0.003454] sorting bipartition profile
+[0.001201] computed / updated events
+[0.012493] combined events
+[0.003004] calculated per dropset improvement
+[0.003076] executed the merging events 
+>275	AGZ14029.1_long-wavelength_rhodopsin_partial_Macropis_fulvipes	0.088000	0.927205
+[0.003636] sorting bipartition profile
+[0.001570] computed / updated events
+[0.012457] combined events
+[0.002919] calculated per dropset improvement
+[0.002863] executed the merging events 
+>539	RDD37282.1_Histamine_H2_receptor_Trichoplax_sp._H2	0.023000	0.927228
+[0.004252] sorting bipartition profile
+[0.001047] computed / updated events
+[0.012302] combined events
+[0.003189] calculated per dropset improvement
+[0.003064] executed the merging events 
+>272	NP_001295467.1_rhodopsin_Athalia_rosae	0.001000	0.927229
+[0.004099] sorting bipartition profile
+[0.001028] computed / updated events
+[0.011964] combined events
+[0.003004] calculated per dropset improvement
+[0.003078] executed the merging events 
+>444	XP_014050862.1_PREDICTED_neuropeptide_Y_receptor_type_2-like_Salmo_salar	0.001000	0.927230
+[0.003750] sorting bipartition profile
+[0.001314] computed / updated events
+[0.012191] combined events
+[0.003261] calculated per dropset improvement
+total time elapsed: 1.768354

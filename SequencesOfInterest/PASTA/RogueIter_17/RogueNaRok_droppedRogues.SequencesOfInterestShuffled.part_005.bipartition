@@ -1,0 +1,4 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.985808
+1	476	CAF97627.1_unnamed_protein_product_Tetraodon_nigroviridis	1.000000	0.986900
+2	332	tr|A0A3Q1CKQ6|A0A3Q1CKQ6_AMPOC_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Amphiprion_ocellaris_OX_80972_PE_3_SV_1	1.000000	0.987991

@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.982336
+1	727	XP_020501930.1_melanopsin-A-like_Labrus_bergylta	2.000000	0.984298
+2	571	XP_011647249.1_rhodopsin-like_isoform_X1_Pogonomyrmex_barbatus	1.000000	0.985280
+3	478	RVE76686.1_hypothetical_protein_OJAV_G00011520_Oryzias_javanicus	1.000000	0.986261

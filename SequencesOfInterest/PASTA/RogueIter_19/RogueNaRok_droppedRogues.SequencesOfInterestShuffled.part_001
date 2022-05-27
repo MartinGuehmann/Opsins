@@ -1,0 +1,14 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.932043
+1	727	XP_020501930.1_melanopsin-A-like_Labrus_bergylta	1.405000	0.933422
+2	506	XP_015511951.1_PREDICTED_melanopsin-like_isoform_X1_Neodiprion_lecontei	0.815000	0.934222
+3	571	XP_011647249.1_rhodopsin-like_isoform_X1_Pogonomyrmex_barbatus	0.740000	0.934948
+4	478	RVE76686.1_hypothetical_protein_OJAV_G00011520_Oryzias_javanicus	0.599000	0.935536
+5	321,320	tr|A0A3Q3ET09|A0A3Q3ET09_9LABR_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Labrus_bergylta_OX_56723_PE_3_SV_1,XP_029349887.1_visual_pigment-like_receptor_peropsin_Echeneis_naucrates	0.718000	0.936240
+6	119	ALK02322.1_LWS-1_partial_Poecilia_reticulata	0.062000	0.936301
+7	642	JAJ32980.1_hypothetical_protein_Daphnia_magna	0.062000	0.936362
+8	613	BAQ54793.1_opsin_long-wavelength_sensitive_type_Anotogaster_sieboldii	0.056000	0.936417
+9	7	tr|A0A1I8CQW5|A0A1I8CQW5_9BILA_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Rhabditophanes_sp._KR3021_OX_114890_PE_4_SV_1	0.040000	0.936456
+10	863	XP_022088029.1_alpha-1A_adrenergic_receptor-like_Acanthaster_planci	0.018000	0.936474
+11	224,219	ALQ32691.1_short_wavelength-sensitive_opsin_1_partial_Dasyprocta_punctata,XP_020015911.1_LOW_QUALITY_PROTEIN_short-wave-sensitive_opsin_1_Castor_canadensis	0.008000	0.936482
+12	239	XP_013876182.1_PREDICTED_short-wave-sensitive_opsin_1_isoform_X1_Austrofundulus_limnaeus	0.001000	0.936483

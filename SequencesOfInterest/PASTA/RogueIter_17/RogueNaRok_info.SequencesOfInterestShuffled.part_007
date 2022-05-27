@@ -1,0 +1,58 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.537400] initialisation done (initScore = 0.934375, numBip=2257)
+[0.017051] sorting bipartition profile
+[0.076026] computed / updated events
+[0.018390] combined events
+[0.003660] calculated per dropset improvement
+[0.002772] executed the merging events 
+>20	XP_010016932.1_PREDICTED_LOW_QUALITY_PROTEIN_opsin-5-like_partial_Nestor_notabilis	1.153000	0.935635
+[0.003520] sorting bipartition profile
+[0.001335] computed / updated events
+[0.017366] combined events
+[0.003506] calculated per dropset improvement
+[0.003060] executed the merging events 
+>877	XP_034090756.1_LOW_QUALITY_PROTEIN_melanopsin-A-like_Gymnodraco_acuticeps	0.842000	0.936555
+[0.003348] sorting bipartition profile
+[0.002091] computed / updated events
+[0.013979] combined events
+[0.002927] calculated per dropset improvement
+[0.002582] executed the merging events 
+>350	XP_022335214.1_opsin-3-like_isoform_X2_Crassostrea_virginica	0.713000	0.937334
+[0.003250] sorting bipartition profile
+[0.000772] computed / updated events
+[0.012538] combined events
+[0.002862] calculated per dropset improvement
+[0.002697] executed the merging events 
+>335	tr|W4Y3N3|W4Y3N3_STRPU_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Strongylocentrotus_purpuratus_OX_7668_PE_4_SV_1	0.661000	0.938057
+[0.003516] sorting bipartition profile
+[0.001087] computed / updated events
+[0.012345] combined events
+[0.002860] calculated per dropset improvement
+[0.002602] executed the merging events 
+>873	CAF90276.1_unnamed_protein_product_partial_Tetraodon_nigroviridis	0.355000	0.938445
+[0.003378] sorting bipartition profile
+[0.001493] computed / updated events
+[0.012112] combined events
+[0.002927] calculated per dropset improvement
+[0.002664] executed the merging events 
+>708	ABY81030.1_long-wave_opsin_partial_Paramysis_loxolepis	0.337000	0.938813
+[0.003442] sorting bipartition profile
+[0.000790] computed / updated events
+[0.012179] combined events
+[0.002703] calculated per dropset improvement
+[0.002563] executed the merging events 
+>419	XP_030628785.1_opsin-3_Chanos_chanos	0.080000	0.938901
+[0.003383] sorting bipartition profile
+[0.000856] computed / updated events
+[0.011947] combined events
+[0.002869] calculated per dropset improvement
+[0.002615] executed the merging events 
+>601	tr|A0A3B4CKR4|A0A3B4CKR4_PYGNA_Rhodopsin_N_domain-containing_protein_OS_Pygocentrus_nattereri_OX_42514_PE_4_SV_1	0.063000	0.938969
+[0.003621] sorting bipartition profile
+[0.000839] computed / updated events
+[0.012053] combined events
+[0.003020] calculated per dropset improvement
+total time elapsed: 1.839763

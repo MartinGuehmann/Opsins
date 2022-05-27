@@ -1,0 +1,12 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.930370
+1	480	XP_014125287.1_pinopsin_Zonotrichia_albicollis	0.728000	0.931165
+2	332	tr|A0A3Q1CKQ6|A0A3Q1CKQ6_AMPOC_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Amphiprion_ocellaris_OX_80972_PE_3_SV_1	0.532000	0.931746
+3	566	XP_023605252.1_long-wave-sensitive_opsin_1-like_partial_Myotis_lucifugus	0.441000	0.932227
+4	593	CBN81003.1_Short_wavelength_sensitive_2b_Dicentrarchus_labrax	0.346000	0.932605
+5	393	tr|A0A3Q3VPX9|A0A3Q3VPX9_MOLML_Opsin_8_group_member_c_OS_Mola_mola_OX_94237_PE_4_SV_1	0.320000	0.932954
+6	154	APY20589.1_ultraviolet_sensitive_opsin_Conwentzia_psociformis	0.225000	0.933200
+7	476	CAF97627.1_unnamed_protein_product_Tetraodon_nigroviridis	0.184000	0.933401
+8	204	XP_026684986.1_ceropsin-like_Diaphorina_citri	0.052000	0.933457
+9	435	XP_020456822.1_opsin-5-like_Monopterus_albus	0.031000	0.933491
+10	622	ABI15852.1_rhodopsin_partial_Synodus_foetens	0.006000	0.933498

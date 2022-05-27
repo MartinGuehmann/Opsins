@@ -1,0 +1,1 @@
+RDD40459.1_rhodopsin_Trichoplax_sp._H2	XP_004618303.1_PREDICTED_olfactory_receptor_51B6-like_Sorex_araneus	XP_033864177.2_olfactory_receptor_2AT4-like_Acipenser_ruthenus	

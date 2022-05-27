@@ -1,0 +1,12 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.920441
+1	627	RDD40947.1_Neuropeptide_SIFamide_receptor_Trichoplax_sp._H2	1.927000	0.922513
+2	455	tr|A0A4W6DCK9|A0A4W6DCK9_LATCA_Opsin_8_group_member_b_OS_Lates_calcarifer_OX_8187_PE_4_SV_1	0.986000	0.923573
+3	466	XP_031732942.1_opsin-5_isoform_X1_Anarrhichthys_ocellatus	0.779000	0.924411
+4	75	KAF2975790.1_hypothetical_protein_EK904_013011_Melospiza_melodia_maxima	0.363000	0.924801
+5	467	XP_031156037.1_opsin-5-like_Sander_lucioperca	0.334000	0.925160
+6	647	RDD40955.1_Substance-K_receptor_Trichoplax_sp._H2	0.282000	0.925463
+7	19	JAN69370.1_Gpcr_rhodopsin_family_partial_Daphnia_magna	0.114000	0.925586
+8	0	XP_025107396.1_visual_pigment-like_receptor_peropsin_isoform_X1_Pomacea_canaliculata	0.086000	0.925678
+9	717	AAT01077.1_putative_rhodopsin_Homalodisca_vitripennis	0.055000	0.925738
+10	377	XP_022669021.1_visual_pigment-like_receptor_peropsin_Varroa_destructor	0.004000	0.925742

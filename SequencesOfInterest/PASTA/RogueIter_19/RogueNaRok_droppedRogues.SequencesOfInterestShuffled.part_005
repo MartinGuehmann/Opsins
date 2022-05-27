@@ -1,0 +1,11 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.933371
+1	420	KAE8287048.1_Opsin-3_Encephalopsin_Panopsin_Larimichthys_crocea	1.933000	0.935270
+2	280	KAA0185797.1_Opsin_Fasciolopsis_buski	0.383000	0.935646
+3	940	RDD40477.1_Neuropeptide_Y_receptor_Trichoplax_sp._H2	0.167000	0.935810
+4	565	AYW11944.1_rhodopsin_partial_Albula_koreana	0.065000	0.935874
+5	284	KOF78023.1_hypothetical_protein_OCBIM_22031367mg_Octopus_bimaculoides	0.025000	0.935899
+6	311	PRD30459.1_Rrh_Trichonephila_clavipes	0.003000	0.935902
+7	341	tr|A0A670YUB6|A0A670YUB6_PSETE_Uncharacterized_protein_OS_Pseudonaja_textilis_OX_8673_GN_RGR_PE_4_SV_1	0.002000	0.935904
+8	389	KAF1390380.1_hypothetical_protein_PFLUV_G00057440_Perca_fluviatilis	0.001000	0.935905
+9	559	AEA72691.1_rhodopsin_partial_Bostockia_porosa	0.001000	0.935906

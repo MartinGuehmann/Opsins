@@ -1,0 +1,112 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.325262] initialisation done (initScore = 0.919766, numBip=2543)
+[0.013007] sorting bipartition profile
+[0.050365] computed / updated events
+[0.011498] combined events
+[0.002770] calculated per dropset improvement
+[0.002365] executed the merging events 
+>952	XP_019736341.1_PREDICTED_parapinopsin-like_Hippocampus_comes	1.081000	0.920842
+[0.003473] sorting bipartition profile
+[0.000965] computed / updated events
+[0.011481] combined events
+[0.002649] calculated per dropset improvement
+[0.002323] executed the merging events 
+>14	XP_028395469.1_melanopsin-like_Dendronephthya_gigantea	0.909000	0.921746
+[0.003616] sorting bipartition profile
+[0.000822] computed / updated events
+[0.011392] combined events
+[0.002625] calculated per dropset improvement
+[0.002333] executed the merging events 
+>314	KAF0309486.1_Ocellar_opsin_Amphibalanus_amphitrite	0.559000	0.922302
+[0.003414] sorting bipartition profile
+[0.000730] computed / updated events
+[0.011307] combined events
+[0.002490] calculated per dropset improvement
+[0.002327] executed the merging events 
+>928	XP_009671304.1_PREDICTED_LOW_QUALITY_PROTEIN_pinopsin-like_Struthio_camelus_australis	0.353000	0.922654
+[0.003659] sorting bipartition profile
+[0.000875] computed / updated events
+[0.011350] combined events
+[0.002549] calculated per dropset improvement
+[0.002232] executed the merging events 
+>65	XP_033467810.1_melanopsin-A-like_isoform_X2_Epinephelus_lanceolatus	0.337000	0.922989
+[0.003108] sorting bipartition profile
+[0.000823] computed / updated events
+[0.010962] combined events
+[0.002560] calculated per dropset improvement
+[0.002426] executed the merging events 
+>374	XP_015776173.1_PREDICTED_melatonin_receptor_type_1A-like_Acropora_digitifera	0.323000	0.923310
+[0.003726] sorting bipartition profile
+[0.001112] computed / updated events
+[0.011174] combined events
+[0.002497] calculated per dropset improvement
+[0.002305] executed the merging events 
+>764	tr|A0A3Q3VR85|A0A3Q3VR85_MOLML_Teleost_multiple_tissue_opsin_b_OS_Mola_mola_OX_94237_PE_3_SV_1	0.316000	0.923625
+[0.003138] sorting bipartition profile
+[0.000767] computed / updated events
+[0.010920] combined events
+[0.002505] calculated per dropset improvement
+[0.002238] executed the merging events 
+>597	XP_023652441.1_visual_pigment-like_receptor_peropsin_Paramormyrops_kingsleyae	0.243000	0.923867
+[0.003206] sorting bipartition profile
+[0.000734] computed / updated events
+[0.010732] combined events
+[0.002510] calculated per dropset improvement
+[0.002296] executed the merging events 
+>21	QBS47880.1_opsin-like_protein_Tripedalia_cystophora	0.226000	0.924092
+[0.003396] sorting bipartition profile
+[0.000663] computed / updated events
+[0.010790] combined events
+[0.002400] calculated per dropset improvement
+[0.002334] executed the merging events 
+>456	RDD43249.1_Neuropeptide_FF_receptor_2_Trichoplax_sp._H2	0.092000	0.924183
+[0.003551] sorting bipartition profile
+[0.001056] computed / updated events
+[0.010689] combined events
+[0.002448] calculated per dropset improvement
+[0.002233] executed the merging events 
+>903	AAW82849.1_rhodopsin_partial_Taruga_fastigo	0.080000	0.924263
+[0.003282] sorting bipartition profile
+[0.000948] computed / updated events
+[0.010464] combined events
+[0.002531] calculated per dropset improvement
+[0.002337] executed the merging events 
+>665	XP_008584314.1_PREDICTED_RPE-retinal_G_protein-coupled_receptor_Galeopterus_variegatus	0.064000	0.924326
+[0.003217] sorting bipartition profile
+[0.000869] computed / updated events
+[0.010540] combined events
+[0.002543] calculated per dropset improvement
+[0.002512] executed the merging events 
+>598	KAA8590955.1_hypothetical_protein_FQN60_001898_Etheostoma_spectabile	0.038000	0.924364
+[0.003439] sorting bipartition profile
+[0.000936] computed / updated events
+[0.010558] combined events
+[0.002458] calculated per dropset improvement
+[0.002309] executed the merging events 
+>862	ADA69284.1_RH2-B_opsin_Stenobrachius_leucopsarus	0.020000	0.924384
+[0.003462] sorting bipartition profile
+[0.000692] computed / updated events
+[0.010492] combined events
+[0.002437] calculated per dropset improvement
+[0.002385] executed the merging events 
+>891	AFQ97571.1_rhodopsin_partial_Stokellia_anisodon	0.018000	0.924402
+[0.003212] sorting bipartition profile
+[0.000897] computed / updated events
+[0.010352] combined events
+[0.002399] calculated per dropset improvement
+[0.002251] executed the merging events 
+>295	VDK42518.1_unnamed_protein_product_Dibothriocephalus_latus	0.015000	0.924417
+[0.003485] sorting bipartition profile
+[0.000879] computed / updated events
+[0.010290] combined events
+[0.002444] calculated per dropset improvement
+[0.002263] executed the merging events 
+>70	XP_019749306.1_PREDICTED_melanopsin-A-like_Hippocampus_comes	0.007000	0.924424
+[0.003230] sorting bipartition profile
+[0.000931] computed / updated events
+[0.010242] combined events
+[0.002495] calculated per dropset improvement
+total time elapsed: 1.741519

@@ -1,0 +1,46 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.562256] initialisation done (initScore = 0.972315, numBip=2423)
+[0.017218] sorting bipartition profile
+[0.071597] computed / updated events
+[0.019411] combined events
+[0.004298] calculated per dropset improvement
+[0.003556] executed the merging events 
+>615	XP_002116956.1_hypothetical_protein_TRIADDRAFT_4311_partial_Trichoplax_adhaerens	2.000000	0.974529
+[0.003347] sorting bipartition profile
+[0.001574] computed / updated events
+[0.019175] combined events
+[0.004118] calculated per dropset improvement
+[0.003983] executed the merging events 
+>239	JAK75253.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop2_partial_Daphnia_magna	1.000000	0.975637
+[0.003281] sorting bipartition profile
+[0.001050] computed / updated events
+[0.018530] combined events
+[0.003852] calculated per dropset improvement
+[0.004123] executed the merging events 
+>301	Notalux_sp3_TRINITY_DN54899_c0_g1_i1|ORF2	1.000000	0.976744
+[0.003526] sorting bipartition profile
+[0.001461] computed / updated events
+[0.017852] combined events
+[0.003797] calculated per dropset improvement
+[0.003837] executed the merging events 
+>156	AKO70555.1_long_wavelength_rhodopsin_partial_Tapinoma_subtile	1.000000	0.977852
+[0.003432] sorting bipartition profile
+[0.001668] computed / updated events
+[0.017923] combined events
+[0.003742] calculated per dropset improvement
+[0.003723] executed the merging events 
+>7	XP_030854248.1_pinopsin_Strongylocentrotus_purpuratus	1.000000	0.978959
+[0.003271] sorting bipartition profile
+[0.000803] computed / updated events
+[0.018211] combined events
+[0.003857] calculated per dropset improvement
+[0.004121] executed the merging events 
+>147	AAK28983.1_long-wavelength_rhodopsin_partial_Diadasia_diminuta	1.000000	0.980066
+[0.003389] sorting bipartition profile
+[0.001351] computed / updated events
+[0.018051] combined events
+[0.003583] calculated per dropset improvement
+total time elapsed: 1.859565

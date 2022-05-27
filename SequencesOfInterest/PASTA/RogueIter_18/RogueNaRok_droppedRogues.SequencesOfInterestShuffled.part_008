@@ -1,0 +1,9 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.929908
+1	742	KXJ22042.1_Trace_amine-associated_receptor_9_Exaiptasia_diaphana	1.178000	0.931214
+2	764	XP_004605658.2_PREDICTED_relaxin-3_receptor_1_Sorex_araneus	1.174000	0.932516
+3	739	XP_028391118.1_adrenocorticotropic_hormone_receptor-like_Dendronephthya_gigantea	0.309000	0.932858
+4	540	Parasabella_SOAP_k35_C777137|ORF1	0.097000	0.932966
+5	353	BAQ54945.1_opsin_long-wavelength_sensitive_type_Indolestes_peregrinus	0.092000	0.933068
+6	123	sp|O42300.1|OPSD_BATMU_RecName_Full_Rhodopsin	0.006000	0.933074
+7	384	APY20496.1_long_wavelength_sensitive_opsin_Dryops_sp._CRS-2017	0.001000	0.933075

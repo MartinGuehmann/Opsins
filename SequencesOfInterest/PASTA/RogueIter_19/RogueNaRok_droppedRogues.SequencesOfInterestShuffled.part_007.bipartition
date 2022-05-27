@@ -1,0 +1,6 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.977407
+1	390	XP_015761372.1_PREDICTED_neuromedin-K_receptor-like_Acropora_digitifera	3.000000	0.980354
+2	320	JAM75107.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_partial_Daphnia_magna	2.000000	0.982318
+3	815	XP_029005750.1_green-sensitive_opsin-like_Betta_splendens	1.000000	0.983301
+4	566	XP_020516694.1_opsin-5-like_Labrus_bergylta	1.000000	0.984283

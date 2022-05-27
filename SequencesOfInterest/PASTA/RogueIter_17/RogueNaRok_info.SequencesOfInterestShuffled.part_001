@@ -1,0 +1,64 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.628235] initialisation done (initScore = 0.928728, numBip=2339)
+[0.019928] sorting bipartition profile
+[0.068990] computed / updated events
+[0.016663] combined events
+[0.004076] calculated per dropset improvement
+[0.003204] executed the merging events 
+>346	AJD38836.1_short-wavelength_sensitive_opsin_2B_partial_Monocentris_japonicus	0.946000	0.929761
+[0.003751] sorting bipartition profile
+[0.001615] computed / updated events
+[0.014776] combined events
+[0.003501] calculated per dropset improvement
+[0.003989] executed the merging events 
+>834	tr|A0A369S600|A0A369S600_9METZ_Substance-K_receptor_OS_Trichoplax_sp._H2_OX_287889_GN_TrispH2_007338_PE_4_SV_1	0.747000	0.930576
+[0.003947] sorting bipartition profile
+[0.001575] computed / updated events
+[0.014438] combined events
+[0.003490] calculated per dropset improvement
+[0.003197] executed the merging events 
+>168	BAQ54925.1_opsin_long-wavelength_sensitive_type_Mnais_costalis	0.392000	0.931004
+[0.003638] sorting bipartition profile
+[0.001058] computed / updated events
+[0.014678] combined events
+[0.003624] calculated per dropset improvement
+[0.003136] executed the merging events 
+>713	tr|G3PHV6|G3PHV6_GASAC_Opsin_7_group_member_a_OS_Gasterosteus_aculeatus_OX_69293_PE_3_SV_1	0.201000	0.931224
+[0.003958] sorting bipartition profile
+[0.001185] computed / updated events
+[0.014019] combined events
+[0.003473] calculated per dropset improvement
+[0.003008] executed the merging events 
+>349	AMB42901.1_Short_wavelength_sensitive_2B_Chlorurus_sordidus	0.050000	0.931278
+[0.003586] sorting bipartition profile
+[0.001516] computed / updated events
+[0.014149] combined events
+[0.003518] calculated per dropset improvement
+[0.003023] executed the merging events 
+>469	XP_028993347.1_opsin-3-like_Betta_splendens	0.044000	0.931326
+[0.003677] sorting bipartition profile
+[0.001539] computed / updated events
+[0.013624] combined events
+[0.005318] calculated per dropset improvement
+[0.006648] executed the merging events 
+>206	JAG40794.1_Opsin-1_partial_Lygus_hesperus	0.011000	0.931338
+[0.004428] sorting bipartition profile
+[0.001155] computed / updated events
+[0.019254] combined events
+[0.004773] calculated per dropset improvement
+[0.005329] executed the merging events 
+>470	TNN04345.1_hypothetical_protein_fugu_001374_Takifugu_bimaculatus	0.003000	0.931342
+[0.004115] sorting bipartition profile
+[0.002573] computed / updated events
+[0.018207] combined events
+[0.004350] calculated per dropset improvement
+[0.004847] executed the merging events 
+>0	KYO28515.1_melatonin_receptor_type_1B_Alligator_mississippiensis	0.003000	0.931345
+[0.003737] sorting bipartition profile
+[0.000943] computed / updated events
+[0.017509] combined events
+[0.004409] calculated per dropset improvement
+total time elapsed: 2.000103

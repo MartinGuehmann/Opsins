@@ -1,0 +1,7 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.966702
+1	505	QBL02591.1_biogenic_amine-like_GPCR_Tripedalia_cystophora	2.000000	0.968851
+2	375,370	XP_012879229.1_PREDICTED_visual_pigment-like_receptor_peropsin_Dipodomys_ordii,EPY78064.1_hypothetical_protein_CB1_001130008_Camelus_ferus	2.000000	0.970999
+3	679	ALU57736.1_long_wavelength_rhodopsin_partial_Aphaenogaster_picea	1.000000	0.972073
+4	717	ACB70933.1_long_wavelength_rhodopsin_partial_Pseudomethoca_propinqua	1.000000	0.973147
+5	123	GCB76592.1_hypothetical_protein_scyTo_0019163_partial_Scyliorhinus_torazame	1.000000	0.974221

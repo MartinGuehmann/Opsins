@@ -1,0 +1,6 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.985792
+1	335	tr|W4Y3N3|W4Y3N3_STRPU_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Strongylocentrotus_purpuratus_OX_7668_PE_4_SV_1	1.000000	0.986885
+2	20	XP_010016932.1_PREDICTED_LOW_QUALITY_PROTEIN_opsin-5-like_partial_Nestor_notabilis	1.000000	0.987978
+3	877	XP_034090756.1_LOW_QUALITY_PROTEIN_melanopsin-A-like_Gymnodraco_acuticeps	1.000000	0.989071
+4	350	XP_022335214.1_opsin-3-like_isoform_X2_Crassostrea_virginica	1.000000	0.990164

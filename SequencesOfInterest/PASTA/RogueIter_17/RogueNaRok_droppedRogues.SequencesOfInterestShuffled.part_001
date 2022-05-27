@@ -1,0 +1,11 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.928728
+1	346	AJD38836.1_short-wavelength_sensitive_opsin_2B_partial_Monocentris_japonicus	0.946000	0.929761
+2	834	tr|A0A369S600|A0A369S600_9METZ_Substance-K_receptor_OS_Trichoplax_sp._H2_OX_287889_GN_TrispH2_007338_PE_4_SV_1	0.747000	0.930576
+3	168	BAQ54925.1_opsin_long-wavelength_sensitive_type_Mnais_costalis	0.392000	0.931004
+4	713	tr|G3PHV6|G3PHV6_GASAC_Opsin_7_group_member_a_OS_Gasterosteus_aculeatus_OX_69293_PE_3_SV_1	0.201000	0.931224
+5	349	AMB42901.1_Short_wavelength_sensitive_2B_Chlorurus_sordidus	0.050000	0.931278
+6	469	XP_028993347.1_opsin-3-like_Betta_splendens	0.044000	0.931326
+7	206	JAG40794.1_Opsin-1_partial_Lygus_hesperus	0.011000	0.931338
+8	470	TNN04345.1_hypothetical_protein_fugu_001374_Takifugu_bimaculatus	0.003000	0.931342
+9	0	KYO28515.1_melatonin_receptor_type_1B_Alligator_mississippiensis	0.003000	0.931345

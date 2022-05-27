@@ -1,0 +1,14 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.936590
+1	909	XP_018655262.1_Rhodopsin_Schistosoma_mansoni	1.356000	0.938046
+2	681	KAE8284198.1_Melanopsin-A_Mammalian-like_melanopsin_Melanopsin-M_Opsin-4-A_Opsin-4M_Larimichthys_crocea	0.233000	0.938296
+3	456	XP_033636718.1_opsin-5-like_Asterias_rubens	0.194000	0.938505
+4	567	GCC35160.1_hypothetical_protein_chiPu_0013642_Chiloscyllium_punctatum	0.177000	0.938695
+5	591	XP_032855985.1_succinate_receptor_1_Tyto_alba_alba	0.165000	0.938872
+6	329	DAC74057.1_TPA_exp_peropsin_Branchiostoma_floridae	0.149000	0.939032
+7	844	APY20636.1_ultraviolet_sensitive_opsin_1_partial_Octodonta_nipae	0.094000	0.939133
+8	448	tr|A0A3B3RU42|A0A3B3RU42_9TELE_Opsin_7_group_member_d_OS_Paramormyrops_kingsleyae_OX_1676925_PE_3_SV_1	0.070000	0.939208
+9	845	ACH56537.1_putative_ultraviolet_I_opsin_Thermonectus_marmoratus	0.049000	0.939261
+10	838	tr|K7IN22|K7IN22_NASVI_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Nasonia_vitripennis_OX_7425_PE_3_SV_1	0.033000	0.939296
+11	855	XP_021938909.1_opsin_ultraviolet-sensitive-like_isoform_X1_Zootermopsis_nevadensis	0.017000	0.939315
+12	267	tr|A0A3Q2Z2G8|A0A3Q2Z2G8_HIPCM_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Hippocampus_comes_OX_109280_PE_3_SV_1	0.013000	0.939329

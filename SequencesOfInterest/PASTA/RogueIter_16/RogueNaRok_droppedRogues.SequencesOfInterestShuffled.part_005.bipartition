@@ -1,0 +1,6 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.976369
+1	240	NIG61556.1_long-wave-sensitive_opsin_1_Pontoporia_blainvillei	2.000000	0.978518
+2	541	BAQ54699.1_opsin_long-wavelength_sensitive_type_Sympetrum_frequens	1.000000	0.979592
+3	509	APY20531.1_long_wavelength_sensitive_opsin_2_Leptopilina_clavipes	1.000000	0.980666
+4	825	XP_010126749.1_PREDICTED_D1_dopamine_receptor-like_Chlamydotis_macqueenii	1.000000	0.981740

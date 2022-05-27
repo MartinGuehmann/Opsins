@@ -1,0 +1,4 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.980066
+1	328	XP_001628276.2_melatonin_receptor_type_1A_Nematostella_vectensis	2.000000	0.982281
+2	135	tr|A0A3Q3VLH4|A0A3Q3VLH4_MOLML_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Mola_mola_OX_94237_PE_4_SV_1	1.000000	0.983389

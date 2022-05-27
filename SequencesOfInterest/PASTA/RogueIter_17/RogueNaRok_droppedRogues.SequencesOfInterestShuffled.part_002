@@ -1,0 +1,9 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.931107
+1	487	tr|G3N968|G3N968_GASAC_Rhodopsin_OS_Gasterosteus_aculeatus_OX_69293_PE_3_SV_1	1.212000	0.932430
+2	216	JAT33497.1_hypothetical_protein_g.52697_partial_Graphocephala_atropunctata	0.682000	0.933175
+3	854	XP_031553074.1_neuropeptide_Y_receptor_type_6-like_Actinia_tenebrosa	0.625000	0.933857
+4	133	ANY60687.1_long_wavelength_rhodopsin_partial_Anochetus_boltoni	0.310000	0.934195
+5	46	AWP15277.1_putative_PDZ_and_LIM_domain_protein_5-like_Scophthalmus_maximus	0.272000	0.934492
+6	127	AKL81002.1_long-wavelength_rhodopsin_partial_Ischnomelissa_zonata	0.005000	0.934498
+7	43	XP_035182132.1_melanopsin-like_isoform_X2_Oxyura_jamaicensis	0.002000	0.934500

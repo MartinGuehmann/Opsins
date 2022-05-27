@@ -1,0 +1,9 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.935019
+1	343	tr|A0A1B0AVS2|A0A1B0AVS2_9MUSC_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Glossina_palpalis_gambiensis_OX_67801_PE_3_SV_1	0.967000	0.935969
+2	407	BAD17958.1_red_sensitive_opsin_Lethenteron_camtschaticum	0.328000	0.936291
+3	835	XP_018358161.1_PREDICTED_5-hydroxytryptamine_receptor-like_Trachymyrmex_cornetzi	0.204000	0.936491
+4	40	GCB70296.1_hypothetical_protein_scyTo_0010744_Scyliorhinus_torazame	0.184000	0.936672
+5	578	PIO25693.1_hypothetical_protein_AB205_0048840_partial_Lithobates_catesbeianus	0.125000	0.936795
+6	571	Acromegalomma_vesiculosumII_SOAP_k35_C878764|ORF2	0.057000	0.936851
+7	996	Paradialychone_ambigua_TRINITY_DN45862_c0_g1_i1|ORF1	0.007000	0.936858
