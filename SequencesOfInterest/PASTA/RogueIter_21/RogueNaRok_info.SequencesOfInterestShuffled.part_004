@@ -1,0 +1,40 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.272980] initialisation done (initScore = 0.934745, numBip=2585)
+[0.012974] sorting bipartition profile
+[0.073060] computed / updated events
+[0.015910] combined events
+[0.003278] calculated per dropset improvement
+[0.002982] executed the merging events 
+>325	AIT99332.1_melanopsin_2_partial_Brachionus_koreanus	0.875000	0.935630
+[0.003264] sorting bipartition profile
+[0.000876] computed / updated events
+[0.016261] combined events
+[0.003064] calculated per dropset improvement
+[0.002965] executed the merging events 
+>449	AAT91645.1_long_wavelength-sensitive_rhodopsin_Apodemia_mormo	0.168000	0.935800
+[0.003990] sorting bipartition profile
+[0.001389] computed / updated events
+[0.015998] combined events
+[0.002944] calculated per dropset improvement
+[0.002806] executed the merging events 
+>702	XP_020904157.1_D1C_dopamine_receptor-like_Exaiptasia_diaphana	0.123000	0.935924
+[0.003520] sorting bipartition profile
+[0.001179] computed / updated events
+[0.015950] combined events
+[0.002992] calculated per dropset improvement
+[0.002876] executed the merging events 
+>568	tr|A0A0F8AM67|A0A0F8AM67_LARCR_Melanopsin-A_OS_Larimichthys_crocea_OX_215358_GN_EH28_06591_PE_3_SV_1	0.109000	0.936034
+[0.003584] sorting bipartition profile
+[0.001301] computed / updated events
+[0.016050] combined events
+[0.003135] calculated per dropset improvement
+[0.002847] executed the merging events 
+>903	tr|A0A3B4U127|A0A3B4U127_SERDU_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Seriola_dumerili_OX_41447_PE_3_SV_1	0.004000	0.936038
+[0.003596] sorting bipartition profile
+[0.001117] computed / updated events
+[0.016252] combined events
+[0.003036] calculated per dropset improvement
+total time elapsed: 1.512978

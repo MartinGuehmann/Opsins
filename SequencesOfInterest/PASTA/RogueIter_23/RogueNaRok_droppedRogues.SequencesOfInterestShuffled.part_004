@@ -1,0 +1,4 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.942857
+1	472	BAC98810.1_Red-sensitive_opsin_Plecoglossus_altivelis	0.025000	0.942883
+2	667	tr|A0A182N8A3|A0A182N8A3_9DIPT_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Anopheles_dirus_OX_7168_PE_3_SV_1	0.020000	0.942904

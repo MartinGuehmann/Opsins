@@ -1,0 +1,40 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.276906] initialisation done (initScore = 0.970619, numBip=2439)
+[0.014038] sorting bipartition profile
+[0.066959] computed / updated events
+[0.015462] combined events
+[0.004195] calculated per dropset improvement
+[0.004070] executed the merging events 
+>871,864	XP_012671912.1_green-sensitive_opsin-3_Clupea_harengus,ANR02347.1_RH2_opsin_Aristostomias_scintillans	4.000000	0.974816
+[0.011791] sorting bipartition profile
+[0.004643] computed / updated events
+[0.016401] combined events
+[0.003709] calculated per dropset improvement
+[0.005560] executed the merging events 
+>301	ARM53504.1_long-wavelength_rhodopsin_partial_Monoeca_mourei	2.000000	0.976915
+[0.006301] sorting bipartition profile
+[0.001540] computed / updated events
+[0.015723] combined events
+[0.003617] calculated per dropset improvement
+[0.004126] executed the merging events 
+>817	XP_009941186.1_PREDICTED_ultraviolet-sensitive_opsin-like_partial_Opisthocomus_hoazin	1.000000	0.977964
+[0.004475] sorting bipartition profile
+[0.001889] computed / updated events
+[0.016143] combined events
+[0.005550] calculated per dropset improvement
+[0.003870] executed the merging events 
+>457	XP_017290986.1_melanopsin-A-like_Kryptolebias_marmoratus	1.000000	0.979014
+[0.010926] sorting bipartition profile
+[0.002431] computed / updated events
+[0.015742] combined events
+[0.006137] calculated per dropset improvement
+[0.004347] executed the merging events 
+>605,604	RDD36700.1_Sphingosine_1-phosphate_receptor_1_Trichoplax_sp._H2,XP_002112966.1_hypothetical_protein_TRIADDRAFT_56625_Trichoplax_adhaerens	1.000000	0.980063
+[0.012165] sorting bipartition profile
+[0.001392] computed / updated events
+[0.016145] combined events
+[0.003576] calculated per dropset improvement
+total time elapsed: 1.560743

@@ -1,0 +1,9 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.929828
+1	275	ADZ48251.1_green_cone_photoreceptor_opsin_Rh2-1_partial_Rhinomuraena_quaesita	1.506000	0.931371
+2	594	AAZ94233.1_long-wavelength_rhodopsin_partial_Oxybelus_abdominalis	0.761000	0.932151
+3	372	AAD19664.1_orphan_G_protein-coupled_receptor_GPR54_Rattus_norvegicus	0.518000	0.932681
+4	109	XP_029113883.1_pinopsin-like_Scleropages_formosus	0.240000	0.932927
+5	278	tr|A0A3B4CJE5|A0A3B4CJE5_PYGNA_Rhodopsin_N_domain-containing_protein_OS_Pygocentrus_nattereri_OX_42514_PE_4_SV_1	0.127000	0.933057
+6	890	tr|A0A3Q0SKQ6|A0A3Q0SKQ6_AMPCI_Opsin_7_group_member_a_OS_Amphilophus_citrinellus_OX_61819_PE_3_SV_1	0.046000	0.933105
+7	944	PVD28621.1_hypothetical_protein_C0Q70_11214_Pomacea_canaliculata	0.005000	0.933110

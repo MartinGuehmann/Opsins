@@ -1,0 +1,13 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.920576
+1	79	tr|A0A3B4X9E8|A0A3B4X9E8_SERLL_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Seriola_lalandi_dorsalis_OX_1841481_PE_4_SV_1	1.576000	0.922230
+2	529	AFD04921.1_long-wavelength_rhodopsin_partial_Leptogenys_crassicornis	1.336000	0.923632
+3	907	XP_029008217.1_D1_dopamine_receptor-like_Betta_splendens	1.082000	0.924767
+4	204	QCB20336.1_long-wavelength_sensitive_opsin_partial_Ostorhinchus_compressus	0.416000	0.925204
+5	507	tr|A0A494C1B2|A0A494C1B2_HUMAN_Visual_pigment-like_receptor_peropsin_Fragment_OS_Homo_sapiens_OX_9606_GN_RRH_PE_1_SV_1	0.322000	0.925541
+6	576,575	ROT69155.1_rhodopsin_Penaeus_vannamei,ROT69152.1_rhodopsin_Penaeus_vannamei	0.438000	0.926001
+7	922	GCB60205.1_hypothetical_protein_scyTo_0006839_Scyliorhinus_torazame	0.130000	0.926137
+8	652	JAM04265.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop2_Daphnia_magna	0.077000	0.926218
+9	289	JAL58043.1_Gpcr_rhodopsin_family_Daphnia_magna	0.043000	0.926263
+10	253	XP_022246356.1_rhodopsin-like_partial_Limulus_polyphemus	0.014000	0.926278
+11	768	XP_010875318.1_opsin_4xb_isoform_X1_Esox_lucius	0.003000	0.926281

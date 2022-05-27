@@ -1,0 +1,10 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.933457
+1	953	tr|A0A3B3XYH7|A0A3B3XYH7_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Poecilia_mexicana_OX_48701_GN_GPR119_PE_3_SV_1	1.617000	0.935135
+2	298	MBW03315.1_Long-wave-sensitive_opsin_1_partial_Eschrichtius_robustus	1.445000	0.936634
+3	633	CAB0005615.1_unnamed_protein_product_Nesidiocoris_tenuis	0.784000	0.937447
+4	751	VDN40900.1_unnamed_protein_product_partial_Dibothriocephalus_latus	0.216000	0.937671
+5	683	ANN11807.1_long_wavelength_sensitive_opsin_1_Acmaeodera_diffusa	0.128000	0.937804
+6	678	APY20638.1_long_wavelength_sensitive_opsin_Octodonta_nipae	0.047000	0.937853
+7	117	TNM98009.1_hypothetical_protein_fugu_014255_partial_Takifugu_bimaculatus	0.021000	0.937874
+8	380	XP_029013198.1_opsin-5-like_isoform_X1_Betta_splendens	0.018000	0.937893

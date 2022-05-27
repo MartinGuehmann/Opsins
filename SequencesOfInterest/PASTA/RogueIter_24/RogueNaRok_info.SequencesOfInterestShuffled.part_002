@@ -1,0 +1,76 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.348879] initialisation done (initScore = 0.920576, numBip=2307)
+[0.015094] sorting bipartition profile
+[0.066277] computed / updated events
+[0.015663] combined events
+[0.003765] calculated per dropset improvement
+[0.003137] executed the merging events 
+>79	tr|A0A3B4X9E8|A0A3B4X9E8_SERLL_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Seriola_lalandi_dorsalis_OX_1841481_PE_4_SV_1	1.576000	0.922230
+[0.003646] sorting bipartition profile
+[0.003908] computed / updated events
+[0.013062] combined events
+[0.003125] calculated per dropset improvement
+[0.005305] executed the merging events 
+>529	AFD04921.1_long-wavelength_rhodopsin_partial_Leptogenys_crassicornis	1.336000	0.923632
+[0.006657] sorting bipartition profile
+[0.001249] computed / updated events
+[0.013045] combined events
+[0.005209] calculated per dropset improvement
+[0.003683] executed the merging events 
+>907	XP_029008217.1_D1_dopamine_receptor-like_Betta_splendens	1.082000	0.924767
+[0.006188] sorting bipartition profile
+[0.001690] computed / updated events
+[0.012959] combined events
+[0.003112] calculated per dropset improvement
+[0.003521] executed the merging events 
+>204	QCB20336.1_long-wavelength_sensitive_opsin_partial_Ostorhinchus_compressus	0.416000	0.925204
+[0.003999] sorting bipartition profile
+[0.001075] computed / updated events
+[0.013654] combined events
+[0.003070] calculated per dropset improvement
+[0.003603] executed the merging events 
+>507	tr|A0A494C1B2|A0A494C1B2_HUMAN_Visual_pigment-like_receptor_peropsin_Fragment_OS_Homo_sapiens_OX_9606_GN_RRH_PE_1_SV_1	0.322000	0.925541
+[0.008512] sorting bipartition profile
+[0.002139] computed / updated events
+[0.013654] combined events
+[0.003362] calculated per dropset improvement
+[0.004694] executed the merging events 
+>576,575	ROT69155.1_rhodopsin_Penaeus_vannamei,ROT69152.1_rhodopsin_Penaeus_vannamei	0.438000	0.926001
+[0.017532] sorting bipartition profile
+[0.003472] computed / updated events
+[0.014547] combined events
+[0.003607] calculated per dropset improvement
+[0.003788] executed the merging events 
+>922	GCB60205.1_hypothetical_protein_scyTo_0006839_Scyliorhinus_torazame	0.130000	0.926137
+[0.007624] sorting bipartition profile
+[0.001581] computed / updated events
+[0.015372] combined events
+[0.006218] calculated per dropset improvement
+[0.003601] executed the merging events 
+>652	JAM04265.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop2_Daphnia_magna	0.077000	0.926218
+[0.005038] sorting bipartition profile
+[0.001042] computed / updated events
+[0.013770] combined events
+[0.003184] calculated per dropset improvement
+[0.003480] executed the merging events 
+>289	JAL58043.1_Gpcr_rhodopsin_family_Daphnia_magna	0.043000	0.926263
+[0.009549] sorting bipartition profile
+[0.001694] computed / updated events
+[0.013750] combined events
+[0.003591] calculated per dropset improvement
+[0.003683] executed the merging events 
+>253	XP_022246356.1_rhodopsin-like_partial_Limulus_polyphemus	0.014000	0.926278
+[0.004601] sorting bipartition profile
+[0.000707] computed / updated events
+[0.012995] combined events
+[0.003235] calculated per dropset improvement
+[0.003363] executed the merging events 
+>768	XP_010875318.1_opsin_4xb_isoform_X1_Esox_lucius	0.003000	0.926281
+[0.007518] sorting bipartition profile
+[0.001139] computed / updated events
+[0.016977] combined events
+[0.003601] calculated per dropset improvement
+total time elapsed: 1.788043

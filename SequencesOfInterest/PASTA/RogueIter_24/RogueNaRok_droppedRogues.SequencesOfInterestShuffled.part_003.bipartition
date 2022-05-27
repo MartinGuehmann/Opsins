@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.979014
+1	143	XP_022781140.1_melanopsin-B-like_Stylophora_pistillata	2.000000	0.981112
+2	367	tr|A0A1B0CKQ1|A0A1B0CKQ1_LUTLO_Rhodopsin_receptor_GPRop2_UV-sensitive_OS_Lutzomyia_longipalpis_OX_7200_PE_3_SV_1	1.000000	0.982162
+3	618,617	XP_018425975.1_PREDICTED_thromboxane_A2_receptor_Nanorana_parkeri,XP_029425715.1_prostaglandin_E2_receptor_EP3_subtype_isoform_X2_Nannospalax_galili	1.000000	0.983211

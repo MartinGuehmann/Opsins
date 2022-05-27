@@ -1,0 +1,6 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.973767
+1	54	AXN75759.1_opsin_partial_Renilla_koellikeri	1.000000	0.974816
+2	802,801	XP_001651997.1_opsin-1_Aedes_aegypti,XP_001862201.1_rhodopsin_Culex_quinquefasciatus	2.000000	0.976915
+3	406	KAF3849626.1_hypothetical_protein_F7725_019345_Dissostichus_mawsoni	1.000000	0.977964
+4	158	BAR88298.1_blue_opsin_2A_Euthynnus_affinis	1.000000	0.979014

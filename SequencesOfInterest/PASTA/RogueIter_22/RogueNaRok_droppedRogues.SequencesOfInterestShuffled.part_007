@@ -1,0 +1,15 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.920856
+1	829	ACB70908.1_long_wavelength_rhodopsin_partial_Chyphotes_melaniceps	1.716000	0.922614
+2	411	XP_030201085.1_opsin-5-like_Gadus_morhua	0.724000	0.923356
+3	108	tr|A0A3B3RP32|A0A3B3RP32_9TELE_Uncharacterized_protein_OS_Paramormyrops_kingsleyae_OX_1676925_PE_4_SV_1	0.506000	0.923874
+4	99	XP_016326378.1_PREDICTED_opsin-3-like_Sinocyclocheilus_anshuiensis	0.457000	0.924342
+5	777	XP_001993385.1_opsin_Rh5_Drosophila_grimshawi	0.337000	0.924687
+6	513	XP_026131481.1_probable_G-protein_coupled_receptor_25_Carassius_auratus	0.167000	0.924859
+7	312	XP_784266.3_visual_pigment-like_receptor_peropsin_Strongylocentrotus_purpuratus	0.157000	0.925019
+8	634	XP_029166573.1_5-hydroxytryptamine_receptor_2B_isoform_X2_Nylanderia_fulva	0.086000	0.925108
+9	706	tr|A0A673ATP8|A0A673ATP8_9TELE_Opsin_4b_OS_Sphaeramia_orbicularis_OX_375764_PE_4_SV_1	0.064000	0.925173
+10	302	XP_032874758.1_visual_pigment-like_receptor_peropsin_Amblyraja_radiata	0.047000	0.925221
+11	594	RDD37978.1_Neuropeptide_FF_receptor_2_Trichoplax_sp._H2	0.014000	0.925236
+12	240	ACA61508.1_rhodopsin_partial_Callionymus_reticulatus	0.012000	0.925248
+13	711	tr|A0A3Q3GXV1|A0A3Q3GXV1_9LABR_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Labrus_bergylta_OX_56723_PE_3_SV_1	0.003000	0.925251

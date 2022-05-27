@@ -1,0 +1,6 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.976434
+1	473	TKS73629.1_Parapinopsin_Collichthys_lucidus	1.000000	0.977459
+2	416	tr|A0A3Q3NF99|A0A3Q3NF99_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Mastacembelus_armatus_OX_205130_PE_3_SV_1	1.000000	0.978484
+3	768	XP_013889912.1_PREDICTED_RPE-retinal_G_protein-coupled_receptor-like_Austrofundulus_limnaeus	1.000000	0.979508
+4	907	PFX29876.1_Tachykinin-like_peptides_receptor_99D_Stylophora_pistillata	1.000000	0.980533

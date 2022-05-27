@@ -1,0 +1,88 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.194752] initialisation done (initScore = 0.920856, numBip=2385)
+[0.013714] sorting bipartition profile
+[0.073224] computed / updated events
+[0.013344] combined events
+[0.004167] calculated per dropset improvement
+[0.003681] executed the merging events 
+>829	ACB70908.1_long_wavelength_rhodopsin_partial_Chyphotes_melaniceps	1.716000	0.922614
+[0.004052] sorting bipartition profile
+[0.001095] computed / updated events
+[0.014441] combined events
+[0.003767] calculated per dropset improvement
+[0.004004] executed the merging events 
+>411	XP_030201085.1_opsin-5-like_Gadus_morhua	0.724000	0.923356
+[0.003689] sorting bipartition profile
+[0.001359] computed / updated events
+[0.014325] combined events
+[0.003765] calculated per dropset improvement
+[0.003829] executed the merging events 
+>108	tr|A0A3B3RP32|A0A3B3RP32_9TELE_Uncharacterized_protein_OS_Paramormyrops_kingsleyae_OX_1676925_PE_4_SV_1	0.506000	0.923874
+[0.004040] sorting bipartition profile
+[0.001178] computed / updated events
+[0.014016] combined events
+[0.003554] calculated per dropset improvement
+[0.004170] executed the merging events 
+>99	XP_016326378.1_PREDICTED_opsin-3-like_Sinocyclocheilus_anshuiensis	0.457000	0.924342
+[0.003823] sorting bipartition profile
+[0.001131] computed / updated events
+[0.014471] combined events
+[0.003917] calculated per dropset improvement
+[0.003717] executed the merging events 
+>777	XP_001993385.1_opsin_Rh5_Drosophila_grimshawi	0.337000	0.924687
+[0.003697] sorting bipartition profile
+[0.001382] computed / updated events
+[0.014792] combined events
+[0.003751] calculated per dropset improvement
+[0.003683] executed the merging events 
+>513	XP_026131481.1_probable_G-protein_coupled_receptor_25_Carassius_auratus	0.167000	0.924859
+[0.003975] sorting bipartition profile
+[0.001475] computed / updated events
+[0.014881] combined events
+[0.003748] calculated per dropset improvement
+[0.004269] executed the merging events 
+>312	XP_784266.3_visual_pigment-like_receptor_peropsin_Strongylocentrotus_purpuratus	0.157000	0.925019
+[0.003616] sorting bipartition profile
+[0.001140] computed / updated events
+[0.014999] combined events
+[0.003865] calculated per dropset improvement
+[0.003510] executed the merging events 
+>634	XP_029166573.1_5-hydroxytryptamine_receptor_2B_isoform_X2_Nylanderia_fulva	0.086000	0.925108
+[0.003427] sorting bipartition profile
+[0.001128] computed / updated events
+[0.014262] combined events
+[0.003785] calculated per dropset improvement
+[0.003617] executed the merging events 
+>706	tr|A0A673ATP8|A0A673ATP8_9TELE_Opsin_4b_OS_Sphaeramia_orbicularis_OX_375764_PE_4_SV_1	0.064000	0.925173
+[0.003764] sorting bipartition profile
+[0.001387] computed / updated events
+[0.014158] combined events
+[0.003658] calculated per dropset improvement
+[0.003455] executed the merging events 
+>302	XP_032874758.1_visual_pigment-like_receptor_peropsin_Amblyraja_radiata	0.047000	0.925221
+[0.003798] sorting bipartition profile
+[0.001089] computed / updated events
+[0.014257] combined events
+[0.003583] calculated per dropset improvement
+[0.003760] executed the merging events 
+>594	RDD37978.1_Neuropeptide_FF_receptor_2_Trichoplax_sp._H2	0.014000	0.925236
+[0.003683] sorting bipartition profile
+[0.001413] computed / updated events
+[0.014077] combined events
+[0.003679] calculated per dropset improvement
+[0.003428] executed the merging events 
+>240	ACA61508.1_rhodopsin_partial_Callionymus_reticulatus	0.012000	0.925248
+[0.003504] sorting bipartition profile
+[0.001336] computed / updated events
+[0.013789] combined events
+[0.003749] calculated per dropset improvement
+[0.003739] executed the merging events 
+>711	tr|A0A3Q3GXV1|A0A3Q3GXV1_9LABR_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Labrus_bergylta_OX_56723_PE_3_SV_1	0.003000	0.925251
+[0.003777] sorting bipartition profile
+[0.001254] computed / updated events
+[0.014227] combined events
+[0.003491] calculated per dropset improvement
+total time elapsed: 1.649210

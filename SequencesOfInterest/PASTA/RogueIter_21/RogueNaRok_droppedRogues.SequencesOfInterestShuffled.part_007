@@ -1,0 +1,10 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.937853
+1	991	XP_015758840.1_PREDICTED_octopamine_receptor_1-like_Acropora_digitifera	0.996000	0.938860
+2	479	VDO76747.1_unnamed_protein_product_Heligmosomoides_polygyrus	0.987000	0.939858
+3	199	KAF0314799.1_hypothetical_protein_GQ607_017969_Colletotrichum_asianum	0.851000	0.940719
+4	847	XP_004698425.1_relaxin-3_receptor_1_Echinops_telfairi	0.471000	0.941195
+5	945	tr|A0A4W5JI75|A0A4W5JI75_9TELE_Dopamine_receptor_D4a_OS_Hucho_hucho_OX_62062_PE_3_SV_1	0.264000	0.941462
+6	385	tr|A0A3B4ZBS0|A0A3B4ZBS0_9TELE_Opsin_7_group_member_a_OS_Stegastes_partitus_OX_144197_PE_3_SV_1	0.248000	0.941713
+7	507	Notalux_sp1_TRINITY_DN24909_c0_g1_i1|ORF1	0.226000	0.941941
+8	106	TPP55856.1_Gq-coupled_opsin_Fasciola_gigantica	0.088000	0.942030

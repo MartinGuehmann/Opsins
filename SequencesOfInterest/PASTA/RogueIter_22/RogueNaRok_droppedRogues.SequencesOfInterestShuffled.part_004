@@ -1,0 +1,10 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.936694
+1	571	CAI47588.1_rhodopsin_3_Calliphora_vicina	0.845000	0.937559
+2	569	ANN11809.1_ultraviolet_wavelength_sensitive_opsin_1_Acmaeodera_diffusa	0.513000	0.938085
+3	496	TGZ73942.1_hypothetical_protein_CRM22_001222_Opisthorchis_felineus	0.460000	0.938556
+4	68	XP_027247154.1_short-wave-sensitive_opsin_1_isoform_X1_Cricetulus_griseus	0.426000	0.938993
+5	681	AFM43712.1_onychopsin_Ooperipatus_hispidus	0.139000	0.939135
+6	53	XP_025001979.1_red-sensitive_opsin_isoform_X1_Gallus_gallus	0.054000	0.939191
+7	293	XP_035127843.1_opsin-3-like_Callithrix_jacchus	0.035000	0.939226
+8	149	XP_028261437.1_blue-sensitive_opsin-like_Parambassis_ranga	0.001000	0.939227

@@ -1,0 +1,12 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.932231
+1	201	XP_029007413.1_red-sensitive_opsin-like_Betta_splendens	1.093000	0.933364
+2	491	tr|A0A671FXY5|A0A671FXY5_RHIFE_Retinal_G_protein_coupled_receptor_OS_Rhinolophus_ferrumequinum_OX_59479_GN_RGR_PE_4_SV_1	0.993000	0.934393
+3	20	AGB67504.1_c-like_opsin_Tripedalia_cystophora	0.903000	0.935328
+4	584	tr|A0A3B4AC65|A0A3B4AC65_9GOBI_Opsin_4xa_OS_Periophthalmus_magnuspinnatus_OX_409849_PE_3_SV_1	0.704000	0.936058
+5	951,950	RDD42745.1_Melanopsin_Trichoplax_sp._H2,RDD38318.1_Melatonin_receptor_type_1B_Trichoplax_sp._H2	0.474000	0.936549
+6	960	XP_021355900.1_visual_pigment-like_receptor_peropsin_Mizuhopecten_yessoensis	0.225000	0.936782
+7	660	AIA23660.1_long_wavelength_rhodopsin_partial_Labidus_praedator	0.186000	0.936975
+8	890	XP_033829582.1_melatonin_receptor_type_1A-like_Periophthalmus_magnuspinnatus	0.132000	0.937112
+9	566	TMS04626.1_hypothetical_protein_E3U43_009783_Larimichthys_crocea	0.123000	0.937239
+10	410,409	XP_014731552.1_PREDICTED_LOW_QUALITY_PROTEIN_uncharacterized_protein_LOC106853031_Sturnus_vulgaris,XP_014140206.2_opsin-5-like_Falco_cherrug	0.205000	0.937452

@@ -1,0 +1,17 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.981448
+1	1446	XP_035039851.1_opsin_4xa_isoform_X1_Hippoglossus_stenolepis	3.000000	0.981945
+2	3236	AOG12992.1_octopamine_receptor_alpha-R_partial_Homarus_americanus	3.000000	0.982442
+3	2494	JAJ56559.1_putative_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_partial_Daphnia_magna	3.000000	0.982939
+4	2416	XP_015175615.1_PREDICTED_LOW_QUALITY_PROTEIN_rhodopsin-like_Polistes_dominula	2.000000	0.983270
+5	1460	XP_022070784.1_melanopsin-B-like_isoform_X1_Acanthochromis_polyacanthus	2.000000	0.983601
+6	2433	XP_011150408.1_rhodopsin_isoform_X1_Harpegnathos_saltator	2.000000	0.983932
+7	44,37	AJD14564.1_long_wavelength_sensitive_1_opsin_partial_Poecilia_reticulata,AFH96931.1_long_wave-sensitive_opsin_partial_Poecilia_reticulata	2.000000	0.984264
+8	2157	ACB70913.1_long_wavelength_rhodopsin_partial_Diamma_bicolor	1.000000	0.984429
+9	1514	XP_029296068.1_melanopsin-A-like_Cottoperca_gobio	1.000000	0.984595
+10	616	XP_020785765.1_opsin-5-like_Boleophthalmus_pectinirostris	1.000000	0.984761
+11	1382	JAN40335.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop2_Daphnia_magna	1.000000	0.984926
+12	2387	BAQ54853.1_opsin_long-wavelength_sensitive_type_Anax_parthenope	1.000000	0.985092
+13	2523	JAN04839.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna	1.000000	0.985258
+14	5094,5093	XP_018536593.1_PREDICTED_opsin-3_isoform_X1_Lates_calcarifer,tr|A0A3Q3GL20|A0A3Q3GL20_9LABR_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Labrus_bergylta_OX_56723_PE_3_SV_1	1.000000	0.985423
+15	3627,3626	Stylomma_palmatum_TRINITY_DN30840_c0_g1_i1|ORF4,XP_015918808.1_FMRFamide_receptor_Parasteatoda_tepidariorum	1.000000	0.985589

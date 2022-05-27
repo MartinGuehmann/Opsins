@@ -1,0 +1,10 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.928739
+1	477	XP_002115317.1_hypothetical_protein_TRIADDRAFT_59370_Trichoplax_adhaerens	1.347000	0.930135
+2	24	XP_004680742.1_PREDICTED_RPE-retinal_G_protein-coupled_receptor_Condylura_cristata	0.636000	0.930794
+3	501	XP_003769272.1_olfactory_receptor_14A2-like_Sarcophilus_harrisii	0.378000	0.931185
+4	2	tr|U3IWV3|U3IWV3_ANAPP_Retinal_G_protein_coupled_receptor_OS_Anas_platyrhynchos_platyrhynchos_OX_8840_GN_RGR_PE_4_SV_1	0.041000	0.931228
+5	403	XP_019730147.1_PREDICTED_D1-like_dopamine_receptor_Hippocampus_comes	0.013000	0.931241
+6	21	XP_016048353.1_PREDICTED_RPE-retinal_G_protein-coupled_receptor_isoform_X3_Erinaceus_europaeus	0.005000	0.931247
+7	280	KPP69563.1_hypothetical_protein_Z043_111671_partial_Scleropages_formosus	0.005000	0.931252
+8	932	XP_009051533.1_hypothetical_protein_LOTGIDRAFT_152765_Lottia_gigantea	0.003000	0.931255

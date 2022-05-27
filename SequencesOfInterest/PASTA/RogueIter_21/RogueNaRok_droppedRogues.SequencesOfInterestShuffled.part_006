@@ -1,0 +1,16 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.933796
+1	588	RDD42145.1_Neuropeptide_FF_receptor_1_Trichoplax_sp._H2	1.162000	0.934971
+2	697	ABD18375.1_long-wavelength_rhodopsin_partial_Carebara_sp._Pheidologeton_CSM-2006	1.128000	0.936111
+3	661	RDD43039.1_Beta-2_adrenergic_receptor_Trichoplax_sp._H2	0.531000	0.936648
+4	13	AIT99328.1_blue-sensitive_opsin-like_protein_partial_Brachionus_koreanus	0.487000	0.937141
+5	642	XP_013776779.1_D1-like_dopamine_receptor_Limulus_polyphemus	0.224000	0.937367
+6	871	JAC04214.1_Opsin_Rh3_Ceratitis_capitata	0.204000	0.937573
+7	319	XP_013990128.1_PREDICTED_parapinopsin-like_Salmo_salar	0.136000	0.937711
+8	144	ERE73301.1_rab_protein_geranylgeranyltransferase_component_A_2-like_protein_Cricetulus_griseus	0.114000	0.937826
+9	83	XP_019961266.1_PREDICTED_pineal_opsin-like_Paralichthys_olivaceus	0.098000	0.937925
+10	338	CAG03922.1_unnamed_protein_product_Tetraodon_nigroviridis	0.060000	0.937986
+11	37	AKC01677.1_ciliary-type_opsin_partial_Allodessus_bistrigatus	0.007000	0.937993
+12	293	XP_033927774.1_blue-sensitive_opsin-like_Melopsittacus_undulatus	0.002000	0.937995
+13	333	XP_019720586.1_PREDICTED_opsin-5-like_isoform_X1_Hippocampus_comes	0.001000	0.937996
+14	698	AJE31479.1_long-wavelength_rhodopsin_partial_Polyrhachis_calypso	0.001000	0.937997

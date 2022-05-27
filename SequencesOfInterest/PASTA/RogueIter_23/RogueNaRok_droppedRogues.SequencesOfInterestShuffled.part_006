@@ -1,0 +1,8 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.935723
+1	654	XP_031722080.1_opsin-5-like_Anarrhichthys_ocellatus	1.108000	0.936872
+2	494	XP_002114830.1_hypothetical_protein_TRIADDRAFT_58712_Trichoplax_adhaerens	0.370000	0.937256
+3	486	XP_006135765.2_olfactory_receptor_14A16-like_Pelodiscus_sinensis	0.338000	0.937607
+4	470	XP_022828196.1_tyramine_octopamine_receptor-like_Spodoptera_litura	0.243000	0.937859
+5	45	XP_012681766.2_vertebrate_ancient_opsin-like_Clupea_harengus	0.101000	0.937964
+6	901	XP_006039462.1_LOW_QUALITY_PROTEIN_rhodopsin_Alligator_sinensis	0.001000	0.937965

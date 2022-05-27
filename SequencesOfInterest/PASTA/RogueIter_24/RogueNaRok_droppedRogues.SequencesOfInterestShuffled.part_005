@@ -1,0 +1,14 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.919527
+1	871	XP_012671912.1_green-sensitive_opsin-3_Clupea_harengus	1.525000	0.921127
+2	864	ANR02347.1_RH2_opsin_Aristostomias_scintillans	1.208000	0.922395
+3	301	ARM53504.1_long-wavelength_rhodopsin_partial_Monoeca_mourei	1.192000	0.923645
+4	457	XP_017290986.1_melanopsin-A-like_Kryptolebias_marmoratus	0.615000	0.924291
+5	266	BAG14332.1_kumopsin3_Hasarius_adansoni	0.588000	0.924908
+6	817	XP_009941186.1_PREDICTED_ultraviolet-sensitive_opsin-like_partial_Opisthocomus_hoazin	0.572000	0.925508
+7	597	XP_022522846.1_leukotriene_B4_receptor_1-like_Astyanax_mexicanus	0.500000	0.926033
+8	605,604	RDD36700.1_Sphingosine_1-phosphate_receptor_1_Trichoplax_sp._H2,XP_002112966.1_hypothetical_protein_TRIADDRAFT_56625_Trichoplax_adhaerens	0.757000	0.926827
+9	917	QIH97390.1_rhodopsin_partial_Agkistrodon_contortrix	0.330000	0.927173
+10	298	AKO70513.1_long_wavelength_rhodopsin_partial_Prionopelta_sp._MG01	0.153000	0.927334
+11	303	AAK28988.2_long-wavelength_rhodopsin_partial_Hesperapis_larreae	0.095000	0.927433
+12	468	NP_001279357.1_melanopsin-A-like_Callorhinchus_milii	0.004000	0.927438

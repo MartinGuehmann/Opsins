@@ -1,0 +1,88 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.272043] initialisation done (initScore = 0.918458, numBip=2458)
+[0.015161] sorting bipartition profile
+[0.071226] computed / updated events
+[0.013910] combined events
+[0.005093] calculated per dropset improvement
+[0.006258] executed the merging events 
+>582	tr|A0A182SBE7|A0A182SBE7_9DIPT_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Anopheles_maculatus_OX_74869_PE_3_SV_1	2.102000	0.920663
+[0.004392] sorting bipartition profile
+[0.001394] computed / updated events
+[0.017994] combined events
+[0.004061] calculated per dropset improvement
+[0.004805] executed the merging events 
+>170	ACI00485.1_rhodopsin_partial_Alepocephalus_antipodianus	1.034000	0.921748
+[0.013244] sorting bipartition profile
+[0.001177] computed / updated events
+[0.015828] combined events
+[0.004576] calculated per dropset improvement
+[0.004100] executed the merging events 
+>255	XP_010020783.1_PREDICTED_LOW_QUALITY_PROTEIN_pinopsin-like_Nestor_notabilis	0.857000	0.922647
+[0.006191] sorting bipartition profile
+[0.001332] computed / updated events
+[0.015508] combined events
+[0.003830] calculated per dropset improvement
+[0.003871] executed the merging events 
+>688	tr|A0A3B4B442|A0A3B4B442_9GOBI_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Periophthalmus_magnuspinnatus_OX_409849_PE_3_SV_1	0.846000	0.923535
+[0.007318] sorting bipartition profile
+[0.002122] computed / updated events
+[0.015715] combined events
+[0.003640] calculated per dropset improvement
+[0.004003] executed the merging events 
+>840,830	RDD39076.1_Alpha-1A_adrenergic_receptor_Trichoplax_sp._H2,XP_027059768.1_dopamine_receptor_2-like_Pocillopora_damicornis	1.296000	0.924895
+[0.009668] sorting bipartition profile
+[0.001636] computed / updated events
+[0.015214] combined events
+[0.006612] calculated per dropset improvement
+[0.004050] executed the merging events 
+>647,645	JAN36675.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna,JAL41889.1_putative_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna	0.805000	0.925740
+[0.008108] sorting bipartition profile
+[0.001558] computed / updated events
+[0.014847] combined events
+[0.003263] calculated per dropset improvement
+[0.003910] executed the merging events 
+>643	JAJ13456.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_putative_partial_Daphnia_magna	0.278000	0.926031
+[0.005454] sorting bipartition profile
+[0.001949] computed / updated events
+[0.019650] combined events
+[0.003422] calculated per dropset improvement
+[0.004309] executed the merging events 
+>732	XP_017601753.1_PREDICTED_melanopsin_isoform_X2_Corvus_brachyrhynchos	0.240000	0.926283
+[0.004982] sorting bipartition profile
+[0.001193] computed / updated events
+[0.015994] combined events
+[0.003448] calculated per dropset improvement
+[0.003996] executed the merging events 
+>14	AIT99327.1_ciliary_opsin_1_partial_Brachionus_koreanus	0.202000	0.926495
+[0.004962] sorting bipartition profile
+[0.001015] computed / updated events
+[0.014210] combined events
+[0.003278] calculated per dropset improvement
+[0.004080] executed the merging events 
+>845	CAB1312698.1_unnamed_protein_product_partial_Coregonus_sp._balchen	0.014000	0.926510
+[0.003392] sorting bipartition profile
+[0.000979] computed / updated events
+[0.016114] combined events
+[0.003424] calculated per dropset improvement
+[0.003893] executed the merging events 
+>203	ABU84866.1_medium_wavelength_sensitive_opsin_Callorhinchus_milii	0.006000	0.926516
+[0.005207] sorting bipartition profile
+[0.006873] computed / updated events
+[0.014451] combined events
+[0.005381] calculated per dropset improvement
+[0.004033] executed the merging events 
+>264	tr|A0A3Q3NN53|A0A3Q3NN53_9TELE_Parapinopsin_b_OS_Mastacembelus_armatus_OX_205130_PE_4_SV_1	0.005000	0.926522
+[0.013474] sorting bipartition profile
+[0.001854] computed / updated events
+[0.014577] combined events
+[0.004959] calculated per dropset improvement
+[0.004390] executed the merging events 
+>759	XP_033881641.1_melanopsin-A_isoform_X1_Acipenser_ruthenus	0.001000	0.926523
+[0.006370] sorting bipartition profile
+[0.000946] computed / updated events
+[0.014474] combined events
+[0.003284] calculated per dropset improvement
+total time elapsed: 1.808540

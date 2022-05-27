@@ -1,0 +1,58 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.261549] initialisation done (initScore = 0.927855, numBip=2335)
+[0.013973] sorting bipartition profile
+[0.072542] computed / updated events
+[0.013131] combined events
+[0.003653] calculated per dropset improvement
+[0.003388] executed the merging events 
+>438	PIK53973.1_putative_visual_pigment-like_receptor_peropsin_Apostichopus_japonicus	0.801000	0.928675
+[0.003662] sorting bipartition profile
+[0.001266] computed / updated events
+[0.014287] combined events
+[0.003461] calculated per dropset improvement
+[0.003648] executed the merging events 
+>883	AUC64078.1_MWS_opsin_Neogonodactylus_oerstedii	0.458000	0.929144
+[0.003807] sorting bipartition profile
+[0.000887] computed / updated events
+[0.013767] combined events
+[0.003633] calculated per dropset improvement
+[0.003639] executed the merging events 
+>944	APY20618.1_ultraviolet_sensitive_opsin_1_Leptinotarsa_decemlineata	0.439000	0.929594
+[0.003780] sorting bipartition profile
+[0.001126] computed / updated events
+[0.013794] combined events
+[0.003422] calculated per dropset improvement
+[0.003552] executed the merging events 
+>26	AIE45490.1_melanopsin_Oryzias_latipes	0.139000	0.929737
+[0.003784] sorting bipartition profile
+[0.000810] computed / updated events
+[0.013577] combined events
+[0.003469] calculated per dropset improvement
+[0.003687] executed the merging events 
+>489	XP_026549878.1_ultraviolet-sensitive_opsin-like_partial_Notechis_scutatus	0.030000	0.929767
+[0.003671] sorting bipartition profile
+[0.000815] computed / updated events
+[0.013739] combined events
+[0.003445] calculated per dropset improvement
+[0.003766] executed the merging events 
+>301,300	tr|H3C2I1|H3C2I1_TETNG_Opsin_8_group_member_c_OS_Tetraodon_nigroviridis_OX_99883_PE_4_SV_1,XP_034436314.1_opsin_8_group_member_c_Hippoglossus_hippoglossus	0.055000	0.929824
+[0.004698] sorting bipartition profile
+[0.001107] computed / updated events
+[0.013675] combined events
+[0.003411] calculated per dropset improvement
+[0.003664] executed the merging events 
+>726	XP_019740297.1_PREDICTED_pinopsin-like_Hippocampus_comes	0.002000	0.929826
+[0.003639] sorting bipartition profile
+[0.001271] computed / updated events
+[0.013684] combined events
+[0.003306] calculated per dropset improvement
+[0.003861] executed the merging events 
+>406	XP_028599879.1_visual_pigment-like_receptor_peropsin_isoform_X2_Podarcis_muralis	0.001000	0.929827
+[0.003799] sorting bipartition profile
+[0.001097] computed / updated events
+[0.016989] combined events
+[0.003777] calculated per dropset improvement
+total time elapsed: 1.575688

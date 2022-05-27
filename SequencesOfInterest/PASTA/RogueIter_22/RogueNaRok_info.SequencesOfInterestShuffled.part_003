@@ -1,0 +1,52 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.233353] initialisation done (initScore = 0.929828, numBip=2388)
+[0.013613] sorting bipartition profile
+[0.076148] computed / updated events
+[0.016038] combined events
+[0.004347] calculated per dropset improvement
+[0.004149] executed the merging events 
+>275	ADZ48251.1_green_cone_photoreceptor_opsin_Rh2-1_partial_Rhinomuraena_quaesita	1.506000	0.931371
+[0.003756] sorting bipartition profile
+[0.001051] computed / updated events
+[0.015892] combined events
+[0.003554] calculated per dropset improvement
+[0.003385] executed the merging events 
+>594	AAZ94233.1_long-wavelength_rhodopsin_partial_Oxybelus_abdominalis	0.761000	0.932151
+[0.003710] sorting bipartition profile
+[0.001500] computed / updated events
+[0.014392] combined events
+[0.003415] calculated per dropset improvement
+[0.003408] executed the merging events 
+>372	AAD19664.1_orphan_G_protein-coupled_receptor_GPR54_Rattus_norvegicus	0.518000	0.932681
+[0.003553] sorting bipartition profile
+[0.000953] computed / updated events
+[0.014797] combined events
+[0.003369] calculated per dropset improvement
+[0.003819] executed the merging events 
+>109	XP_029113883.1_pinopsin-like_Scleropages_formosus	0.240000	0.932927
+[0.003584] sorting bipartition profile
+[0.001041] computed / updated events
+[0.015401] combined events
+[0.004621] calculated per dropset improvement
+[0.006777] executed the merging events 
+>278	tr|A0A3B4CJE5|A0A3B4CJE5_PYGNA_Rhodopsin_N_domain-containing_protein_OS_Pygocentrus_nattereri_OX_42514_PE_4_SV_1	0.127000	0.933057
+[0.004712] sorting bipartition profile
+[0.001392] computed / updated events
+[0.017089] combined events
+[0.004065] calculated per dropset improvement
+[0.004573] executed the merging events 
+>890	tr|A0A3Q0SKQ6|A0A3Q0SKQ6_AMPCI_Opsin_7_group_member_a_OS_Amphilophus_citrinellus_OX_61819_PE_3_SV_1	0.046000	0.933105
+[0.004053] sorting bipartition profile
+[0.001755] computed / updated events
+[0.015709] combined events
+[0.003804] calculated per dropset improvement
+[0.004214] executed the merging events 
+>944	PVD28621.1_hypothetical_protein_C0Q70_11214_Pomacea_canaliculata	0.005000	0.933110
+[0.004201] sorting bipartition profile
+[0.001448] computed / updated events
+[0.015484] combined events
+[0.003507] calculated per dropset improvement
+total time elapsed: 1.546341

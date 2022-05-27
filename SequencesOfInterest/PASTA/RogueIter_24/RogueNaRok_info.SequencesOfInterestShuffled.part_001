@@ -1,0 +1,52 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.262453] initialisation done (initScore = 0.943295, numBip=2108)
+[0.013346] sorting bipartition profile
+[0.060501] computed / updated events
+[0.012108] combined events
+[0.003429] calculated per dropset improvement
+[0.006801] executed the merging events 
+>269	GAU95013.1_hypothetical_protein_RvY_06702_Ramazzottius_varieornatus	1.393000	0.944755
+[0.008556] sorting bipartition profile
+[0.001558] computed / updated events
+[0.013108] combined events
+[0.004783] calculated per dropset improvement
+[0.004337] executed the merging events 
+>185	CAB3259629.1_unnamed_protein_product_Arctia_plantaginis	0.659000	0.945445
+[0.006980] sorting bipartition profile
+[0.001179] computed / updated events
+[0.013047] combined events
+[0.003163] calculated per dropset improvement
+[0.003116] executed the merging events 
+>608	AGB67497.1_c-like_opsin_partial_Tripedalia_cystophora	0.612000	0.946087
+[0.011489] sorting bipartition profile
+[0.001137] computed / updated events
+[0.012606] combined events
+[0.003011] calculated per dropset improvement
+[0.002837] executed the merging events 
+>5	DAC74061.1_TPA_exp_Amphiop6_Branchiostoma_floridae	0.253000	0.946352
+[0.005543] sorting bipartition profile
+[0.001454] computed / updated events
+[0.012102] combined events
+[0.003064] calculated per dropset improvement
+[0.003121] executed the merging events 
+>229	ODM91335.1_Opsin-2_partial_Orchesella_cincta	0.172000	0.946532
+[0.011460] sorting bipartition profile
+[0.001099] computed / updated events
+[0.012883] combined events
+[0.003271] calculated per dropset improvement
+[0.003850] executed the merging events 
+>315	tr|A0A665WTN5|A0A665WTN5_ECHNA_Relaxin_family_peptide_receptor_3.2b_OS_Echeneis_naucrates_OX_173247_PE_4_SV_1	0.018000	0.946551
+[0.009090] sorting bipartition profile
+[0.001078] computed / updated events
+[0.014959] combined events
+[0.003721] calculated per dropset improvement
+[0.003357] executed the merging events 
+>646	QCB20412.1_medium-wavelength_sensitive_opsin_partial_Ostorhinchus_compressus	0.006000	0.946558
+[0.008141] sorting bipartition profile
+[0.001684] computed / updated events
+[0.013162] combined events
+[0.003276] calculated per dropset improvement
+total time elapsed: 1.566642

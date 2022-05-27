@@ -1,0 +1,58 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.280079] initialisation done (initScore = 0.928739, numBip=2499)
+[0.013595] sorting bipartition profile
+[0.087251] computed / updated events
+[0.016482] combined events
+[0.004521] calculated per dropset improvement
+[0.004019] executed the merging events 
+>477	XP_002115317.1_hypothetical_protein_TRIADDRAFT_59370_Trichoplax_adhaerens	1.347000	0.930135
+[0.004740] sorting bipartition profile
+[0.003664] computed / updated events
+[0.018788] combined events
+[0.006512] calculated per dropset improvement
+[0.003991] executed the merging events 
+>24	XP_004680742.1_PREDICTED_RPE-retinal_G_protein-coupled_receptor_Condylura_cristata	0.636000	0.930794
+[0.006567] sorting bipartition profile
+[0.002726] computed / updated events
+[0.018220] combined events
+[0.003702] calculated per dropset improvement
+[0.004151] executed the merging events 
+>501	XP_003769272.1_olfactory_receptor_14A2-like_Sarcophilus_harrisii	0.378000	0.931185
+[0.008898] sorting bipartition profile
+[0.001375] computed / updated events
+[0.017733] combined events
+[0.005834] calculated per dropset improvement
+[0.003811] executed the merging events 
+>2	tr|U3IWV3|U3IWV3_ANAPP_Retinal_G_protein_coupled_receptor_OS_Anas_platyrhynchos_platyrhynchos_OX_8840_GN_RGR_PE_4_SV_1	0.041000	0.931228
+[0.011070] sorting bipartition profile
+[0.000954] computed / updated events
+[0.017632] combined events
+[0.003685] calculated per dropset improvement
+[0.004097] executed the merging events 
+>403	XP_019730147.1_PREDICTED_D1-like_dopamine_receptor_Hippocampus_comes	0.013000	0.931241
+[0.008241] sorting bipartition profile
+[0.001103] computed / updated events
+[0.017120] combined events
+[0.003993] calculated per dropset improvement
+[0.006947] executed the merging events 
+>21	XP_016048353.1_PREDICTED_RPE-retinal_G_protein-coupled_receptor_isoform_X3_Erinaceus_europaeus	0.005000	0.931247
+[0.008197] sorting bipartition profile
+[0.002388] computed / updated events
+[0.017592] combined events
+[0.003535] calculated per dropset improvement
+[0.005306] executed the merging events 
+>280	KPP69563.1_hypothetical_protein_Z043_111671_partial_Scleropages_formosus	0.005000	0.931252
+[0.007034] sorting bipartition profile
+[0.001096] computed / updated events
+[0.017764] combined events
+[0.006105] calculated per dropset improvement
+[0.004068] executed the merging events 
+>932	XP_009051533.1_hypothetical_protein_LOTGIDRAFT_152765_Lottia_gigantea	0.003000	0.931255
+[0.004596] sorting bipartition profile
+[0.001353] computed / updated events
+[0.019506] combined events
+[0.003843] calculated per dropset improvement
+total time elapsed: 1.694880

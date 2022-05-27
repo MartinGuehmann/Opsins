@@ -1,0 +1,6 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.977964
+1	907	XP_029008217.1_D1_dopamine_receptor-like_Betta_splendens	2.000000	0.980063
+2	529	AFD04921.1_long-wavelength_rhodopsin_partial_Leptogenys_crassicornis	1.000000	0.981112
+3	79	tr|A0A3B4X9E8|A0A3B4X9E8_SERLL_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Seriola_lalandi_dorsalis_OX_1841481_PE_4_SV_1	1.000000	0.982162
+4	576,575	ROT69155.1_rhodopsin_Penaeus_vannamei,ROT69152.1_rhodopsin_Penaeus_vannamei	1.000000	0.983211

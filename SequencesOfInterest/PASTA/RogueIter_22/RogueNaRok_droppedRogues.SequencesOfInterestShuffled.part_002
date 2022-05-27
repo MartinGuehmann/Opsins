@@ -1,0 +1,9 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.927681
+1	102	XP_023441323.1_olfactory_receptor_4C12-like_partial_Dasypus_novemcinctus	3.160000	0.930919
+2	79	XP_012566343.1_PREDICTED_parapinopsin-like_partial_Hydra_vulgaris	2.131000	0.933102
+3	442	tr|A0A443SGE3|A0A443SGE3_9ACAR_G-protein_coupled_receptor-like_protein_OS_Leptotrombidium_deliense_OX_299467_GN_B4U80_04349_PE_3_SV_1	1.903000	0.935052
+4	509	ACB70942.1_long_wavelength_rhodopsin_partial_Tiphia_sayi	0.491000	0.935555
+5	354	tr|W5NNE1|W5NNE1_LEPOC_Cysteinyl_leukotriene_receptor_2_OS_Lepisosteus_oculatus_OX_7918_GN_CYSLTR2_PE_4_SV_1	0.086000	0.935643
+6	415	tr|A0A0K0EZQ2|A0A0K0EZQ2_STRVS_Melanopsin_inferred_by_orthology_to_a_human_protein_OS_Strongyloides_venezuelensis_OX_75913_PE_4_SV_1	0.056000	0.935701
+7	923	TKS79768.1_G-protein_coupled_receptor_136_Collichthys_lucidus	0.001000	0.935702

@@ -1,0 +1,5 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.989754
+1	964	XP_002112437.1_hypothetical_protein_TRIADDRAFT_26009_Trichoplax_adhaerens	1.000000	0.990779
+2	525	XP_032365109.1_opsin-5-like_partial_Etheostoma_spectabile	1.000000	0.991803
+3	414	XP_032931110.1_LOW_QUALITY_PROTEIN_opsin-5-like_Catharus_ustulatus	1.000000	0.992828

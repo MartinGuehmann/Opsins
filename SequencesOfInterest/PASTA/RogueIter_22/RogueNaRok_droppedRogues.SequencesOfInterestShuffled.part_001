@@ -1,0 +1,11 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.924980
+1	475	XP_029953174.1_vertebrate_ancient_opsin-like_Salarias_fasciatus	1.438000	0.926453
+2	416	tr|A0A3Q3NF99|A0A3Q3NF99_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Mastacembelus_armatus_OX_205130_PE_3_SV_1	1.121000	0.927601
+3	118	VDK86506.1_unnamed_protein_product_Dibothriocephalus_latus	0.824000	0.928446
+4	907	PFX29876.1_Tachykinin-like_peptides_receptor_99D_Stylophora_pistillata	0.706000	0.929169
+5	267	MPC93249.1_Opsin_ultraviolet-sensitive_Portunus_trituberculatus	0.404000	0.929583
+6	768	XP_013889912.1_PREDICTED_RPE-retinal_G_protein-coupled_receptor-like_Austrofundulus_limnaeus	0.340000	0.929931
+7	293	DAniello2015_ops4_Holothuria_forskali	0.100000	0.930034
+8	211,210	JAK66206.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna,JAJ13458.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_putative_partial_Daphnia_magna	0.053000	0.930088
+9	77	XP_029608843.1_melanopsin-A-like_Salmo_trutta	0.003000	0.930091

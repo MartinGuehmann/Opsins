@@ -1,0 +1,14 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.929031
+1	143	XP_022781140.1_melanopsin-B-like_Stylophora_pistillata	1.738000	0.930855
+2	367	tr|A0A1B0CKQ1|A0A1B0CKQ1_LUTLO_Rhodopsin_receptor_GPRop2_UV-sensitive_OS_Lutzomyia_longipalpis_OX_7200_PE_3_SV_1	0.959000	0.931861
+3	426	ALQ26926.1_long_wavelength_rhodopsin_partial_Tetraponera_anthracina	0.363000	0.932242
+4	433	tr|A0A336MD80|A0A336MD80_CULSO_CSON009885_protein_OS_Culicoides_sonorensis_OX_179676_GN_CSON009885_PE_3_SV_1	0.358000	0.932618
+5	453	CAB0019511.1_unnamed_protein_product_Nesidiocoris_tenuis	0.310000	0.932943
+6	618,617	XP_018425975.1_PREDICTED_thromboxane_A2_receptor_Nanorana_parkeri,XP_029425715.1_prostaglandin_E2_receptor_EP3_subtype_isoform_X2_Nannospalax_galili	0.262000	0.933218
+7	580	XP_033828783.1_melanopsin-A-like_Periophthalmus_magnuspinnatus	0.096000	0.933319
+8	428	AIM42981.1_long-wavelength_rhodopsin_partial_Carebarella_sp._PA01	0.010000	0.933329
+9	431	ANS53806.1_long_wavelength_rhodopsin_partial_Camponotus_sp._AIPD	0.005000	0.933335
+10	50	XP_034539465.1_pinopsin-like_Notolabrus_celidotus	0.003000	0.933338
+11	217	XP_034412084.1_opsin_7_group_member_a_Cyclopterus_lumpus	0.002000	0.933340
+12	158	JAM65504.1_putative_Opsin-5_sw_partial_Daphnia_magna	0.002000	0.933342

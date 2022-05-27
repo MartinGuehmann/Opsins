@@ -1,0 +1,76 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.219288] initialisation done (initScore = 0.919811, numBip=2534)
+[0.013356] sorting bipartition profile
+[0.071652] computed / updated events
+[0.015462] combined events
+[0.003327] calculated per dropset improvement
+[0.002835] executed the merging events 
+>172	ABB52730.1_rhodopsin_partial_Serranus_atricauda	2.709000	0.922550
+[0.003619] sorting bipartition profile
+[0.001522] computed / updated events
+[0.017323] combined events
+[0.003165] calculated per dropset improvement
+[0.002931] executed the merging events 
+>159	XP_028849372.1_rhodopsin_Denticeps_clupeoides	2.537000	0.925115
+[0.003643] sorting bipartition profile
+[0.000925] computed / updated events
+[0.016278] combined events
+[0.003268] calculated per dropset improvement
+[0.003056] executed the merging events 
+>881	XP_016872444.1_melanopsin_isoform_X1_Homo_sapiens	0.564000	0.925686
+[0.003816] sorting bipartition profile
+[0.001083] computed / updated events
+[0.016284] combined events
+[0.003240] calculated per dropset improvement
+[0.003220] executed the merging events 
+>848,846	tr|A0A3Q1C4T5|A0A3Q1C4T5_AMPOC_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Amphiprion_ocellaris_OX_80972_PE_3_SV_1,XP_030603586.1_melanopsin_isoform_X2_Archocentrus_centrarchus	0.602000	0.926294
+[0.005004] sorting bipartition profile
+[0.001130] computed / updated events
+[0.016356] combined events
+[0.003269] calculated per dropset improvement
+[0.003139] executed the merging events 
+>525	TKS93154.1_Leukotriene_B4_receptor_1_Collichthys_lucidus	0.292000	0.926589
+[0.003720] sorting bipartition profile
+[0.000912] computed / updated events
+[0.016103] combined events
+[0.003273] calculated per dropset improvement
+[0.003006] executed the merging events 
+>143	tr|A0A3Q2XY85|A0A3Q2XY85_HIPCM_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Hippocampus_comes_OX_109280_PE_3_SV_1	0.189000	0.926781
+[0.003605] sorting bipartition profile
+[0.000892] computed / updated events
+[0.015631] combined events
+[0.003275] calculated per dropset improvement
+[0.002984] executed the merging events 
+>727	VEN42712.1_unnamed_protein_product_Callosobruchus_maculatus	0.044000	0.926825
+[0.003566] sorting bipartition profile
+[0.001298] computed / updated events
+[0.015705] combined events
+[0.002996] calculated per dropset improvement
+[0.002790] executed the merging events 
+>202	tr|A0A3Q3XCB6|A0A3Q3XCB6_MOLML_Rhodopsin_OS_Mola_mola_OX_94237_PE_3_SV_1	0.037000	0.926862
+[0.003399] sorting bipartition profile
+[0.000934] computed / updated events
+[0.015784] combined events
+[0.002884] calculated per dropset improvement
+[0.002769] executed the merging events 
+>870	KTF81694.1_hypothetical_protein_cypCar_00024877_partial_Cyprinus_carpio	0.024000	0.926887
+[0.003481] sorting bipartition profile
+[0.000844] computed / updated events
+[0.015757] combined events
+[0.003155] calculated per dropset improvement
+[0.002859] executed the merging events 
+>924	XP_014774037.1_PREDICTED_melanopsin-A-like_partial_Octopus_bimaculoides	0.012000	0.926899
+[0.003870] sorting bipartition profile
+[0.001237] computed / updated events
+[0.015899] combined events
+[0.003050] calculated per dropset improvement
+[0.003009] executed the merging events 
+>139	BAL15673.1_red_opsin_Champsocephalus_gunnari	0.010000	0.926909
+[0.006226] sorting bipartition profile
+[0.002672] computed / updated events
+[0.016416] combined events
+[0.004034] calculated per dropset improvement
+total time elapsed: 1.627036

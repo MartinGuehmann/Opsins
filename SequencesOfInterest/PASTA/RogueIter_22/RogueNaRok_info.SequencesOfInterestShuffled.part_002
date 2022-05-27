@@ -1,0 +1,52 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.296882] initialisation done (initScore = 0.927681, numBip=2693)
+[0.013981] sorting bipartition profile
+[0.084826] computed / updated events
+[0.019903] combined events
+[0.004864] calculated per dropset improvement
+[0.004625] executed the merging events 
+>102	XP_023441323.1_olfactory_receptor_4C12-like_partial_Dasypus_novemcinctus	3.160000	0.930919
+[0.003676] sorting bipartition profile
+[0.001388] computed / updated events
+[0.020396] combined events
+[0.004454] calculated per dropset improvement
+[0.004698] executed the merging events 
+>79	XP_012566343.1_PREDICTED_parapinopsin-like_partial_Hydra_vulgaris	2.131000	0.933102
+[0.004025] sorting bipartition profile
+[0.001881] computed / updated events
+[0.019440] combined events
+[0.004221] calculated per dropset improvement
+[0.004716] executed the merging events 
+>442	tr|A0A443SGE3|A0A443SGE3_9ACAR_G-protein_coupled_receptor-like_protein_OS_Leptotrombidium_deliense_OX_299467_GN_B4U80_04349_PE_3_SV_1	1.903000	0.935052
+[0.003807] sorting bipartition profile
+[0.001549] computed / updated events
+[0.019532] combined events
+[0.004088] calculated per dropset improvement
+[0.004751] executed the merging events 
+>509	ACB70942.1_long_wavelength_rhodopsin_partial_Tiphia_sayi	0.491000	0.935555
+[0.003908] sorting bipartition profile
+[0.001441] computed / updated events
+[0.019037] combined events
+[0.004090] calculated per dropset improvement
+[0.004711] executed the merging events 
+>354	tr|W5NNE1|W5NNE1_LEPOC_Cysteinyl_leukotriene_receptor_2_OS_Lepisosteus_oculatus_OX_7918_GN_CYSLTR2_PE_4_SV_1	0.086000	0.935643
+[0.004040] sorting bipartition profile
+[0.002485] computed / updated events
+[0.019172] combined events
+[0.004084] calculated per dropset improvement
+[0.004678] executed the merging events 
+>415	tr|A0A0K0EZQ2|A0A0K0EZQ2_STRVS_Melanopsin_inferred_by_orthology_to_a_human_protein_OS_Strongyloides_venezuelensis_OX_75913_PE_4_SV_1	0.056000	0.935701
+[0.003724] sorting bipartition profile
+[0.002322] computed / updated events
+[0.018155] combined events
+[0.004266] calculated per dropset improvement
+[0.004638] executed the merging events 
+>923	TKS79768.1_G-protein_coupled_receptor_136_Collichthys_lucidus	0.001000	0.935702
+[0.003707] sorting bipartition profile
+[0.001611] computed / updated events
+[0.018272] combined events
+[0.004058] calculated per dropset improvement
+total time elapsed: 1.656905

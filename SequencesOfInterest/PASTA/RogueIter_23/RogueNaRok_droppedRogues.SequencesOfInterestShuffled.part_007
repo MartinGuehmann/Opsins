@@ -1,0 +1,12 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.932137
+1	13	XP_032831141.1_cysteinyl_leukotriene_receptor_2-like_Petromyzon_marinus	0.581000	0.932740
+2	526	XP_020648730.1_blue-sensitive_opsin-like_isoform_X2_Pogona_vitticeps	0.324000	0.933076
+3	420	JAK35019.1_putative_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna	0.239000	0.933324
+4	646	CAG05457.1_unnamed_protein_product_Tetraodon_nigroviridis	0.188000	0.933519
+5	383	ABK59122.1_long-wavelength_rhodopsin_partial_Ptiloglossidia_fallax	0.163000	0.933688
+6	751	TRY79393.1_hypothetical_protein_TCAL_16063_partial_Tigriopus_californicus	0.084000	0.933775
+7	534	AJD38717.1_short-wavelength_sensitive_opsin_2B_Lophius_vaillanti	0.030000	0.933806
+8	907	APB88015.1_Go_coupled_opsin_2_Argopecten_irradians	0.029000	0.933836
+9	436	tr|A0A667Y0T3|A0A667Y0T3_9TELE_Uncharacterized_protein_OS_Myripristis_murdjan_OX_586833_GN_LOC115358735_PE_4_SV_1	0.001000	0.933837
+10	17	KAF4073419.1_hypothetical_protein_AMELA_G00258600_Ameiurus_melas	0.001000	0.933838

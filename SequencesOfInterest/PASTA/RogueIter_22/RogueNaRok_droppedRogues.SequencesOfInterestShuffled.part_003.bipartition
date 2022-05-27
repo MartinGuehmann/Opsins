@@ -1,0 +1,4 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.987705
+1	594	AAZ94233.1_long-wavelength_rhodopsin_partial_Oxybelus_abdominalis	1.000000	0.988730
+2	372	AAD19664.1_orphan_G_protein-coupled_receptor_GPR54_Rattus_norvegicus	1.000000	0.989754

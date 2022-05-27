@@ -1,0 +1,15 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.927932
+1	372	ACB45449.1_rhodopsin_Lepidopus_fitchi	1.647000	0.929598
+2	401	tr|A0A287DCV5|A0A287DCV5_ICTTR_Rhodopsin_OS_Ictidomys_tridecemlineatus_OX_43179_GN_RHO_PE_3_SV_1	0.629000	0.930234
+3	463	TRY66550.1_hypothetical_protein_DNTS_015926_Danionella_translucida	0.555000	0.930795
+4	825	XP_007946034.1_PREDICTED_D3_dopamine_receptor_isoform_X2_Orycteropus_afer_afer	0.321000	0.931119
+5	182	VDN09051.1_unnamed_protein_product_Dibothriocephalus_latus	0.263000	0.931385
+6	22	AAZ95188.1_long-wavelength_rhodopsin_partial_Bicyrtes_ventralis	0.258000	0.931646
+7	61	BAQ54850.1_opsin_long-wavelength_sensitive_type_Anax_parthenope	0.175000	0.931823
+8	524	KAA8587415.1_hypothetical_protein_FQN60_016277_partial_Etheostoma_spectabile	0.095000	0.931919
+9	798	JAN47732.1_Opsin-5_Daphnia_magna	0.071000	0.931991
+10	379	ABB52675.1_rhodopsin_partial_Dicentrarchus_punctatus	0.065000	0.932057
+11	177	AFM43711.1_onychopsin_Eoperipatus_sp._LH-2012	0.056000	0.932113
+12	16	ADY69533.1_long-wavelength_rhodopsin_partial_Leptomyrmex_rufipes	0.017000	0.932130
+13	169	XP_014244895.1_opsin_ultraviolet-sensitive-like_isoform_X2_Cimex_lectularius	0.003000	0.932133

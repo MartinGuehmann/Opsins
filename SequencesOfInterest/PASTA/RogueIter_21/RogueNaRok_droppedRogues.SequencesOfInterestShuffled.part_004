@@ -1,0 +1,7 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.934745
+1	325	AIT99332.1_melanopsin_2_partial_Brachionus_koreanus	0.875000	0.935630
+2	449	AAT91645.1_long_wavelength-sensitive_rhodopsin_Apodemia_mormo	0.168000	0.935800
+3	702	XP_020904157.1_D1C_dopamine_receptor-like_Exaiptasia_diaphana	0.123000	0.935924
+4	568	tr|A0A0F8AM67|A0A0F8AM67_LARCR_Melanopsin-A_OS_Larimichthys_crocea_OX_215358_GN_EH28_06591_PE_3_SV_1	0.109000	0.936034
+5	903	tr|A0A3B4U127|A0A3B4U127_SERDU_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Seriola_dumerili_OX_41447_PE_3_SV_1	0.004000	0.936038

@@ -1,0 +1,52 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.338009] initialisation done (initScore = 0.933702, numBip=2547)
+[0.014001] sorting bipartition profile
+[0.080264] computed / updated events
+[0.015699] combined events
+[0.004327] calculated per dropset improvement
+[0.004163] executed the merging events 
+>525	XP_032365109.1_opsin-5-like_partial_Etheostoma_spectabile	1.025000	0.934752
+[0.003695] sorting bipartition profile
+[0.001148] computed / updated events
+[0.017362] combined events
+[0.004114] calculated per dropset improvement
+[0.004363] executed the merging events 
+>964	XP_002112437.1_hypothetical_protein_TRIADDRAFT_26009_Trichoplax_adhaerens	0.790000	0.935561
+[0.003852] sorting bipartition profile
+[0.001279] computed / updated events
+[0.016369] combined events
+[0.004154] calculated per dropset improvement
+[0.004450] executed the merging events 
+>414	XP_032931110.1_LOW_QUALITY_PROTEIN_opsin-5-like_Catharus_ustulatus	0.701000	0.936280
+[0.003726] sorting bipartition profile
+[0.001138] computed / updated events
+[0.016658] combined events
+[0.004208] calculated per dropset improvement
+[0.004263] executed the merging events 
+>837	tr|A0A369RYF2|A0A369RYF2_9METZ_5-hydroxytryptamine_receptor_1D_OS_Trichoplax_sp._H2_OX_287889_GN_TrispH2_010326_PE_3_SV_1	0.235000	0.936520
+[0.003717] sorting bipartition profile
+[0.001216] computed / updated events
+[0.017013] combined events
+[0.003972] calculated per dropset improvement
+[0.004125] executed the merging events 
+>940	XP_013918020.1_PREDICTED_beta-1_adrenergic_receptor_Thamnophis_sirtalis	0.145000	0.936669
+[0.003985] sorting bipartition profile
+[0.001110] computed / updated events
+[0.016835] combined events
+[0.004076] calculated per dropset improvement
+[0.004604] executed the merging events 
+>483	tr|A0A4W5Q9R1|A0A4W5Q9R1_9TELE_Uncharacterized_protein_OS_Hucho_hucho_OX_62062_PE_4_SV_1	0.098000	0.936769
+[0.004119] sorting bipartition profile
+[0.001123] computed / updated events
+[0.017366] combined events
+[0.004324] calculated per dropset improvement
+[0.004359] executed the merging events 
+>303	TNM86918.1_hypothetical_protein_fugu_007148_Takifugu_bimaculatus	0.005000	0.936775
+[0.003742] sorting bipartition profile
+[0.001170] computed / updated events
+[0.017617] combined events
+[0.003951] calculated per dropset improvement
+total time elapsed: 1.666446

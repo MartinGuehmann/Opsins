@@ -1,0 +1,13 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.919811
+1	172	ABB52730.1_rhodopsin_partial_Serranus_atricauda	2.709000	0.922550
+2	159	XP_028849372.1_rhodopsin_Denticeps_clupeoides	2.537000	0.925115
+3	881	XP_016872444.1_melanopsin_isoform_X1_Homo_sapiens	0.564000	0.925686
+4	848,846	tr|A0A3Q1C4T5|A0A3Q1C4T5_AMPOC_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Amphiprion_ocellaris_OX_80972_PE_3_SV_1,XP_030603586.1_melanopsin_isoform_X2_Archocentrus_centrarchus	0.602000	0.926294
+5	525	TKS93154.1_Leukotriene_B4_receptor_1_Collichthys_lucidus	0.292000	0.926589
+6	143	tr|A0A3Q2XY85|A0A3Q2XY85_HIPCM_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Hippocampus_comes_OX_109280_PE_3_SV_1	0.189000	0.926781
+7	727	VEN42712.1_unnamed_protein_product_Callosobruchus_maculatus	0.044000	0.926825
+8	202	tr|A0A3Q3XCB6|A0A3Q3XCB6_MOLML_Rhodopsin_OS_Mola_mola_OX_94237_PE_3_SV_1	0.037000	0.926862
+9	870	KTF81694.1_hypothetical_protein_cypCar_00024877_partial_Cyprinus_carpio	0.024000	0.926887
+10	924	XP_014774037.1_PREDICTED_melanopsin-A-like_partial_Octopus_bimaculoides	0.012000	0.926899
+11	139	BAL15673.1_red_opsin_Champsocephalus_gunnari	0.010000	0.926909

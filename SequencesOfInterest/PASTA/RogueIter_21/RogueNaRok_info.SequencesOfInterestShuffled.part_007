@@ -1,0 +1,58 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.217049] initialisation done (initScore = 0.937853, numBip=2532)
+[0.013233] sorting bipartition profile
+[0.070880] computed / updated events
+[0.013837] combined events
+[0.003622] calculated per dropset improvement
+[0.003237] executed the merging events 
+>991	XP_015758840.1_PREDICTED_octopamine_receptor_1-like_Acropora_digitifera	0.996000	0.938860
+[0.003699] sorting bipartition profile
+[0.001197] computed / updated events
+[0.014700] combined events
+[0.003916] calculated per dropset improvement
+[0.003241] executed the merging events 
+>479	VDO76747.1_unnamed_protein_product_Heligmosomoides_polygyrus	0.987000	0.939858
+[0.005584] sorting bipartition profile
+[0.001462] computed / updated events
+[0.014580] combined events
+[0.003169] calculated per dropset improvement
+[0.003135] executed the merging events 
+>199	KAF0314799.1_hypothetical_protein_GQ607_017969_Colletotrichum_asianum	0.851000	0.940719
+[0.003568] sorting bipartition profile
+[0.001291] computed / updated events
+[0.013919] combined events
+[0.003026] calculated per dropset improvement
+[0.003096] executed the merging events 
+>847	XP_004698425.1_relaxin-3_receptor_1_Echinops_telfairi	0.471000	0.941195
+[0.003727] sorting bipartition profile
+[0.000895] computed / updated events
+[0.014065] combined events
+[0.002973] calculated per dropset improvement
+[0.003031] executed the merging events 
+>945	tr|A0A4W5JI75|A0A4W5JI75_9TELE_Dopamine_receptor_D4a_OS_Hucho_hucho_OX_62062_PE_3_SV_1	0.264000	0.941462
+[0.004936] sorting bipartition profile
+[0.001802] computed / updated events
+[0.014120] combined events
+[0.003381] calculated per dropset improvement
+[0.003062] executed the merging events 
+>385	tr|A0A3B4ZBS0|A0A3B4ZBS0_9TELE_Opsin_7_group_member_a_OS_Stegastes_partitus_OX_144197_PE_3_SV_1	0.248000	0.941713
+[0.003499] sorting bipartition profile
+[0.001452] computed / updated events
+[0.013950] combined events
+[0.003364] calculated per dropset improvement
+[0.003127] executed the merging events 
+>507	Notalux_sp1_TRINITY_DN24909_c0_g1_i1|ORF1	0.226000	0.941941
+[0.003651] sorting bipartition profile
+[0.001067] computed / updated events
+[0.013775] combined events
+[0.003248] calculated per dropset improvement
+[0.003060] executed the merging events 
+>106	TPP55856.1_Gq-coupled_opsin_Fasciola_gigantica	0.088000	0.942030
+[0.003498] sorting bipartition profile
+[0.001015] computed / updated events
+[0.014007] combined events
+[0.003159] calculated per dropset improvement
+total time elapsed: 1.525917

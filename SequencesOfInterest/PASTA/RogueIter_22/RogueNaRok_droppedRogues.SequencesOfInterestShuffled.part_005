@@ -1,0 +1,9 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.933702
+1	525	XP_032365109.1_opsin-5-like_partial_Etheostoma_spectabile	1.025000	0.934752
+2	964	XP_002112437.1_hypothetical_protein_TRIADDRAFT_26009_Trichoplax_adhaerens	0.790000	0.935561
+3	414	XP_032931110.1_LOW_QUALITY_PROTEIN_opsin-5-like_Catharus_ustulatus	0.701000	0.936280
+4	837	tr|A0A369RYF2|A0A369RYF2_9METZ_5-hydroxytryptamine_receptor_1D_OS_Trichoplax_sp._H2_OX_287889_GN_TrispH2_010326_PE_3_SV_1	0.235000	0.936520
+5	940	XP_013918020.1_PREDICTED_beta-1_adrenergic_receptor_Thamnophis_sirtalis	0.145000	0.936669
+6	483	tr|A0A4W5Q9R1|A0A4W5Q9R1_9TELE_Uncharacterized_protein_OS_Hucho_hucho_OX_62062_PE_4_SV_1	0.098000	0.936769
+7	303	TNM86918.1_hypothetical_protein_fugu_007148_Takifugu_bimaculatus	0.005000	0.936775

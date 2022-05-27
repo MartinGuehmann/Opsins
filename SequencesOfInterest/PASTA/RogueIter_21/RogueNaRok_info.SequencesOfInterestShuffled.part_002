@@ -1,0 +1,88 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.230161] initialisation done (initScore = 0.927932, numBip=2451)
+[0.013455] sorting bipartition profile
+[0.072817] computed / updated events
+[0.015434] combined events
+[0.003457] calculated per dropset improvement
+[0.003718] executed the merging events 
+>372	ACB45449.1_rhodopsin_Lepidopus_fitchi	1.647000	0.929598
+[0.004209] sorting bipartition profile
+[0.001295] computed / updated events
+[0.014986] combined events
+[0.002969] calculated per dropset improvement
+[0.002694] executed the merging events 
+>401	tr|A0A287DCV5|A0A287DCV5_ICTTR_Rhodopsin_OS_Ictidomys_tridecemlineatus_OX_43179_GN_RHO_PE_3_SV_1	0.629000	0.930234
+[0.003757] sorting bipartition profile
+[0.000945] computed / updated events
+[0.014196] combined events
+[0.002910] calculated per dropset improvement
+[0.002893] executed the merging events 
+>463	TRY66550.1_hypothetical_protein_DNTS_015926_Danionella_translucida	0.555000	0.930795
+[0.003770] sorting bipartition profile
+[0.001341] computed / updated events
+[0.014650] combined events
+[0.002781] calculated per dropset improvement
+[0.002619] executed the merging events 
+>825	XP_007946034.1_PREDICTED_D3_dopamine_receptor_isoform_X2_Orycteropus_afer_afer	0.321000	0.931119
+[0.003688] sorting bipartition profile
+[0.001063] computed / updated events
+[0.014014] combined events
+[0.002765] calculated per dropset improvement
+[0.002862] executed the merging events 
+>182	VDN09051.1_unnamed_protein_product_Dibothriocephalus_latus	0.263000	0.931385
+[0.003911] sorting bipartition profile
+[0.000995] computed / updated events
+[0.015282] combined events
+[0.003275] calculated per dropset improvement
+[0.002842] executed the merging events 
+>22	AAZ95188.1_long-wavelength_rhodopsin_partial_Bicyrtes_ventralis	0.258000	0.931646
+[0.003623] sorting bipartition profile
+[0.000949] computed / updated events
+[0.014135] combined events
+[0.003076] calculated per dropset improvement
+[0.002658] executed the merging events 
+>61	BAQ54850.1_opsin_long-wavelength_sensitive_type_Anax_parthenope	0.175000	0.931823
+[0.003355] sorting bipartition profile
+[0.000742] computed / updated events
+[0.013887] combined events
+[0.002803] calculated per dropset improvement
+[0.002645] executed the merging events 
+>524	KAA8587415.1_hypothetical_protein_FQN60_016277_partial_Etheostoma_spectabile	0.095000	0.931919
+[0.003409] sorting bipartition profile
+[0.001076] computed / updated events
+[0.014163] combined events
+[0.002782] calculated per dropset improvement
+[0.002668] executed the merging events 
+>798	JAN47732.1_Opsin-5_Daphnia_magna	0.071000	0.931991
+[0.004392] sorting bipartition profile
+[0.001452] computed / updated events
+[0.013828] combined events
+[0.003193] calculated per dropset improvement
+[0.002684] executed the merging events 
+>379	ABB52675.1_rhodopsin_partial_Dicentrarchus_punctatus	0.065000	0.932057
+[0.003492] sorting bipartition profile
+[0.001256] computed / updated events
+[0.013714] combined events
+[0.002851] calculated per dropset improvement
+[0.002796] executed the merging events 
+>177	AFM43711.1_onychopsin_Eoperipatus_sp._LH-2012	0.056000	0.932113
+[0.003748] sorting bipartition profile
+[0.000767] computed / updated events
+[0.013474] combined events
+[0.002860] calculated per dropset improvement
+[0.002774] executed the merging events 
+>16	ADY69533.1_long-wavelength_rhodopsin_partial_Leptomyrmex_rufipes	0.017000	0.932130
+[0.003561] sorting bipartition profile
+[0.000941] computed / updated events
+[0.013422] combined events
+[0.002876] calculated per dropset improvement
+[0.002799] executed the merging events 
+>169	XP_014244895.1_opsin_ultraviolet-sensitive-like_isoform_X2_Cimex_lectularius	0.003000	0.932133
+[0.003870] sorting bipartition profile
+[0.000843] computed / updated events
+[0.013705] combined events
+[0.002884] calculated per dropset improvement
+total time elapsed: 1.656566

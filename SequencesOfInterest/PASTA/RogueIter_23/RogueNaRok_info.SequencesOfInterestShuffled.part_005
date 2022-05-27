@@ -1,0 +1,58 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.310302] initialisation done (initScore = 0.933457, numBip=2400)
+[0.013684] sorting bipartition profile
+[0.078512] computed / updated events
+[0.016151] combined events
+[0.003699] calculated per dropset improvement
+[0.003691] executed the merging events 
+>953	tr|A0A3B3XYH7|A0A3B3XYH7_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Poecilia_mexicana_OX_48701_GN_GPR119_PE_3_SV_1	1.617000	0.935135
+[0.003733] sorting bipartition profile
+[0.001256] computed / updated events
+[0.015767] combined events
+[0.003662] calculated per dropset improvement
+[0.003885] executed the merging events 
+>298	MBW03315.1_Long-wave-sensitive_opsin_1_partial_Eschrichtius_robustus	1.445000	0.936634
+[0.004955] sorting bipartition profile
+[0.001247] computed / updated events
+[0.017061] combined events
+[0.003708] calculated per dropset improvement
+[0.003963] executed the merging events 
+>633	CAB0005615.1_unnamed_protein_product_Nesidiocoris_tenuis	0.784000	0.937447
+[0.004771] sorting bipartition profile
+[0.001086] computed / updated events
+[0.015582] combined events
+[0.003669] calculated per dropset improvement
+[0.003756] executed the merging events 
+>751	VDN40900.1_unnamed_protein_product_partial_Dibothriocephalus_latus	0.216000	0.937671
+[0.004561] sorting bipartition profile
+[0.004087] computed / updated events
+[0.016544] combined events
+[0.003695] calculated per dropset improvement
+[0.003755] executed the merging events 
+>683	ANN11807.1_long_wavelength_sensitive_opsin_1_Acmaeodera_diffusa	0.128000	0.937804
+[0.005180] sorting bipartition profile
+[0.001089] computed / updated events
+[0.015889] combined events
+[0.003688] calculated per dropset improvement
+[0.004152] executed the merging events 
+>678	APY20638.1_long_wavelength_sensitive_opsin_Octodonta_nipae	0.047000	0.937853
+[0.004454] sorting bipartition profile
+[0.003558] computed / updated events
+[0.016009] combined events
+[0.003763] calculated per dropset improvement
+[0.003942] executed the merging events 
+>117	TNM98009.1_hypothetical_protein_fugu_014255_partial_Takifugu_bimaculatus	0.021000	0.937874
+[0.014155] sorting bipartition profile
+[0.001068] computed / updated events
+[0.016583] combined events
+[0.005288] calculated per dropset improvement
+[0.004078] executed the merging events 
+>380	XP_029013198.1_opsin-5-like_isoform_X1_Betta_splendens	0.018000	0.937893
+[0.008147] sorting bipartition profile
+[0.001401] computed / updated events
+[0.017093] combined events
+[0.003627] calculated per dropset improvement
+total time elapsed: 1.680841

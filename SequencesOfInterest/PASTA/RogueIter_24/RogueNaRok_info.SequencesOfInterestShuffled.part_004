@@ -1,0 +1,58 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.355326] initialisation done (initScore = 0.937398, numBip=2351)
+[0.019090] sorting bipartition profile
+[0.066595] computed / updated events
+[0.013010] combined events
+[0.003333] calculated per dropset improvement
+[0.003259] executed the merging events 
+>578	XP_019722612.1_PREDICTED_melanopsin-A-like_Hippocampus_comes	0.387000	0.937804
+[0.007158] sorting bipartition profile
+[0.002709] computed / updated events
+[0.016411] combined events
+[0.004990] calculated per dropset improvement
+[0.003125] executed the merging events 
+>900	XP_007952426.1_PREDICTED_RPE-retinal_G_protein-coupled_receptor_Orycteropus_afer_afer	0.304000	0.938123
+[0.008318] sorting bipartition profile
+[0.002312] computed / updated events
+[0.013970] combined events
+[0.003011] calculated per dropset improvement
+[0.008195] executed the merging events 
+>148	XP_018412996.1_PREDICTED_opsin-3-like_Nanorana_parkeri	0.266000	0.938402
+[0.006215] sorting bipartition profile
+[0.001124] computed / updated events
+[0.013992] combined events
+[0.003188] calculated per dropset improvement
+[0.003136] executed the merging events 
+>854	JAQ76281.1_Melanopsin_partial_Fundulus_heteroclitus	0.170000	0.938580
+[0.005179] sorting bipartition profile
+[0.001256] computed / updated events
+[0.014348] combined events
+[0.003018] calculated per dropset improvement
+[0.003054] executed the merging events 
+>669	tr|A0A369RQR5|A0A369RQR5_9METZ_Neuropeptide_Y_receptor_type_1_OS_Trichoplax_sp._H2_OX_287889_GN_TrispH2_011629_PE_4_SV_1	0.130000	0.938717
+[0.008197] sorting bipartition profile
+[0.006185] computed / updated events
+[0.013783] combined events
+[0.004248] calculated per dropset improvement
+[0.006410] executed the merging events 
+>897	XP_032241912.1_rhodopsin_G0-coupled_Nematostella_vectensis	0.053000	0.938772
+[0.006983] sorting bipartition profile
+[0.001101] computed / updated events
+[0.016211] combined events
+[0.004144] calculated per dropset improvement
+[0.009438] executed the merging events 
+>65	AFQ55895.1_c-like_opsin_2_Branchiostoma_floridae	0.028000	0.938802
+[0.010706] sorting bipartition profile
+[0.001099] computed / updated events
+[0.015026] combined events
+[0.004358] calculated per dropset improvement
+[0.006247] executed the merging events 
+>934	EHA99336.1_Visual_pigment-like_receptor_peropsin_Heterocephalus_glaber	0.011000	0.938813
+[0.004769] sorting bipartition profile
+[0.001697] computed / updated events
+[0.015325] combined events
+[0.003796] calculated per dropset improvement
+total time elapsed: 1.728672

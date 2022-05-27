@@ -1,0 +1,10 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.927855
+1	438	PIK53973.1_putative_visual_pigment-like_receptor_peropsin_Apostichopus_japonicus	0.801000	0.928675
+2	883	AUC64078.1_MWS_opsin_Neogonodactylus_oerstedii	0.458000	0.929144
+3	944	APY20618.1_ultraviolet_sensitive_opsin_1_Leptinotarsa_decemlineata	0.439000	0.929594
+4	26	AIE45490.1_melanopsin_Oryzias_latipes	0.139000	0.929737
+5	489	XP_026549878.1_ultraviolet-sensitive_opsin-like_partial_Notechis_scutatus	0.030000	0.929767
+6	301,300	tr|H3C2I1|H3C2I1_TETNG_Opsin_8_group_member_c_OS_Tetraodon_nigroviridis_OX_99883_PE_4_SV_1,XP_034436314.1_opsin_8_group_member_c_Hippoglossus_hippoglossus	0.055000	0.929824
+7	726	XP_019740297.1_PREDICTED_pinopsin-like_Hippocampus_comes	0.002000	0.929826
+8	406	XP_028599879.1_visual_pigment-like_receptor_peropsin_isoform_X2_Podarcis_muralis	0.001000	0.929827

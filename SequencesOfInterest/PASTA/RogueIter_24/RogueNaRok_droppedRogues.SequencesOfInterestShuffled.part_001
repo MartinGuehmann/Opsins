@@ -1,0 +1,9 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.943295
+1	269	GAU95013.1_hypothetical_protein_RvY_06702_Ramazzottius_varieornatus	1.393000	0.944755
+2	185	CAB3259629.1_unnamed_protein_product_Arctia_plantaginis	0.659000	0.945445
+3	608	AGB67497.1_c-like_opsin_partial_Tripedalia_cystophora	0.612000	0.946087
+4	5	DAC74061.1_TPA_exp_Amphiop6_Branchiostoma_floridae	0.253000	0.946352
+5	229	ODM91335.1_Opsin-2_partial_Orchesella_cincta	0.172000	0.946532
+6	315	tr|A0A665WTN5|A0A665WTN5_ECHNA_Relaxin_family_peptide_receptor_3.2b_OS_Echeneis_naucrates_OX_173247_PE_4_SV_1	0.018000	0.946551
+7	646	QCB20412.1_medium-wavelength_sensitive_opsin_partial_Ostorhinchus_compressus	0.006000	0.946558

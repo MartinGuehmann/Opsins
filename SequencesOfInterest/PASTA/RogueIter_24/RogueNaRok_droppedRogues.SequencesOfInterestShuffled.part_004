@@ -1,0 +1,10 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.937398
+1	578	XP_019722612.1_PREDICTED_melanopsin-A-like_Hippocampus_comes	0.387000	0.937804
+2	900	XP_007952426.1_PREDICTED_RPE-retinal_G_protein-coupled_receptor_Orycteropus_afer_afer	0.304000	0.938123
+3	148	XP_018412996.1_PREDICTED_opsin-3-like_Nanorana_parkeri	0.266000	0.938402
+4	854	JAQ76281.1_Melanopsin_partial_Fundulus_heteroclitus	0.170000	0.938580
+5	669	tr|A0A369RQR5|A0A369RQR5_9METZ_Neuropeptide_Y_receptor_type_1_OS_Trichoplax_sp._H2_OX_287889_GN_TrispH2_011629_PE_4_SV_1	0.130000	0.938717
+6	897	XP_032241912.1_rhodopsin_G0-coupled_Nematostella_vectensis	0.053000	0.938772
+7	65	AFQ55895.1_c-like_opsin_2_Branchiostoma_floridae	0.028000	0.938802
+8	934	EHA99336.1_Visual_pigment-like_receptor_peropsin_Heterocephalus_glaber	0.011000	0.938813

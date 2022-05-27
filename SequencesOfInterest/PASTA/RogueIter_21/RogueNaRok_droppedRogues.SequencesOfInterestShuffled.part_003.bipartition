@@ -1,0 +1,7 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.977755
+1	86	XP_014772081.1_PREDICTED_orexin_receptor_type_2-like_Octopus_bimaculoides	2.000000	0.979778
+2	550	PBC29422.1_Rhodopsin_long-wavelength_Apis_cerana_cerana	1.000000	0.980789
+3	860	XP_028305003.1_short-wave-sensitive_opsin_1_Gouania_willdenowi	1.000000	0.981800
+4	27	XP_026293371.1_beta-1_adrenergic_receptor-like_Frankliniella_occidentalis	1.000000	0.982811
+5	537	OXU26325.1_hypothetical_protein_TSAR_000725_Trichomalopsis_sarcophagae	1.000000	0.983822

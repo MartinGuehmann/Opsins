@@ -1,0 +1,64 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.228642] initialisation done (initScore = 0.924980, numBip=2384)
+[0.013855] sorting bipartition profile
+[0.069124] computed / updated events
+[0.012375] combined events
+[0.003605] calculated per dropset improvement
+[0.002974] executed the merging events 
+>475	XP_029953174.1_vertebrate_ancient_opsin-like_Salarias_fasciatus	1.438000	0.926453
+[0.003493] sorting bipartition profile
+[0.001203] computed / updated events
+[0.013088] combined events
+[0.003416] calculated per dropset improvement
+[0.003277] executed the merging events 
+>416	tr|A0A3Q3NF99|A0A3Q3NF99_9TELE_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Mastacembelus_armatus_OX_205130_PE_3_SV_1	1.121000	0.927601
+[0.003466] sorting bipartition profile
+[0.001000] computed / updated events
+[0.013012] combined events
+[0.003136] calculated per dropset improvement
+[0.003100] executed the merging events 
+>118	VDK86506.1_unnamed_protein_product_Dibothriocephalus_latus	0.824000	0.928446
+[0.003342] sorting bipartition profile
+[0.000978] computed / updated events
+[0.013057] combined events
+[0.003165] calculated per dropset improvement
+[0.002983] executed the merging events 
+>907	PFX29876.1_Tachykinin-like_peptides_receptor_99D_Stylophora_pistillata	0.706000	0.929169
+[0.003653] sorting bipartition profile
+[0.000969] computed / updated events
+[0.012938] combined events
+[0.003266] calculated per dropset improvement
+[0.003528] executed the merging events 
+>267	MPC93249.1_Opsin_ultraviolet-sensitive_Portunus_trituberculatus	0.404000	0.929583
+[0.003451] sorting bipartition profile
+[0.001133] computed / updated events
+[0.012930] combined events
+[0.003285] calculated per dropset improvement
+[0.002880] executed the merging events 
+>768	XP_013889912.1_PREDICTED_RPE-retinal_G_protein-coupled_receptor-like_Austrofundulus_limnaeus	0.340000	0.929931
+[0.003517] sorting bipartition profile
+[0.001240] computed / updated events
+[0.013071] combined events
+[0.003129] calculated per dropset improvement
+[0.003421] executed the merging events 
+>293	DAniello2015_ops4_Holothuria_forskali	0.100000	0.930034
+[0.003565] sorting bipartition profile
+[0.000854] computed / updated events
+[0.012859] combined events
+[0.003133] calculated per dropset improvement
+[0.003468] executed the merging events 
+>211,210	JAK66206.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_Daphnia_magna,JAJ13458.1_Class_a_rhodopsin_g-protein_coupled_receptor_gprop1_putative_partial_Daphnia_magna	0.053000	0.930088
+[0.004762] sorting bipartition profile
+[0.001260] computed / updated events
+[0.012907] combined events
+[0.003007] calculated per dropset improvement
+[0.003141] executed the merging events 
+>77	XP_029608843.1_melanopsin-A-like_Salmo_trutta	0.003000	0.930091
+[0.003307] sorting bipartition profile
+[0.000734] computed / updated events
+[0.012590] combined events
+[0.003006] calculated per dropset improvement
+total time elapsed: 1.544130

@@ -1,0 +1,70 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.363151] initialisation done (initScore = 0.932231, numBip=2464)
+[0.013839] sorting bipartition profile
+[0.067622] computed / updated events
+[0.017685] combined events
+[0.004668] calculated per dropset improvement
+[0.005658] executed the merging events 
+>201	XP_029007413.1_red-sensitive_opsin-like_Betta_splendens	1.093000	0.933364
+[0.004426] sorting bipartition profile
+[0.002793] computed / updated events
+[0.016690] combined events
+[0.003542] calculated per dropset improvement
+[0.003681] executed the merging events 
+>491	tr|A0A671FXY5|A0A671FXY5_RHIFE_Retinal_G_protein_coupled_receptor_OS_Rhinolophus_ferrumequinum_OX_59479_GN_RGR_PE_4_SV_1	0.993000	0.934393
+[0.005552] sorting bipartition profile
+[0.001051] computed / updated events
+[0.017549] combined events
+[0.004373] calculated per dropset improvement
+[0.004990] executed the merging events 
+>20	AGB67504.1_c-like_opsin_Tripedalia_cystophora	0.903000	0.935328
+[0.006591] sorting bipartition profile
+[0.001487] computed / updated events
+[0.016933] combined events
+[0.003808] calculated per dropset improvement
+[0.005285] executed the merging events 
+>584	tr|A0A3B4AC65|A0A3B4AC65_9GOBI_Opsin_4xa_OS_Periophthalmus_magnuspinnatus_OX_409849_PE_3_SV_1	0.704000	0.936058
+[0.005831] sorting bipartition profile
+[0.002491] computed / updated events
+[0.017009] combined events
+[0.006252] calculated per dropset improvement
+[0.006164] executed the merging events 
+>951,950	RDD42745.1_Melanopsin_Trichoplax_sp._H2,RDD38318.1_Melatonin_receptor_type_1B_Trichoplax_sp._H2	0.474000	0.936549
+[0.010050] sorting bipartition profile
+[0.001194] computed / updated events
+[0.017051] combined events
+[0.005934] calculated per dropset improvement
+[0.003615] executed the merging events 
+>960	XP_021355900.1_visual_pigment-like_receptor_peropsin_Mizuhopecten_yessoensis	0.225000	0.936782
+[0.008264] sorting bipartition profile
+[0.003783] computed / updated events
+[0.017551] combined events
+[0.004216] calculated per dropset improvement
+[0.004022] executed the merging events 
+>660	AIA23660.1_long_wavelength_rhodopsin_partial_Labidus_praedator	0.186000	0.936975
+[0.008819] sorting bipartition profile
+[0.006330] computed / updated events
+[0.015251] combined events
+[0.003875] calculated per dropset improvement
+[0.003687] executed the merging events 
+>890	XP_033829582.1_melatonin_receptor_type_1A-like_Periophthalmus_magnuspinnatus	0.132000	0.937112
+[0.005208] sorting bipartition profile
+[0.002807] computed / updated events
+[0.014894] combined events
+[0.004125] calculated per dropset improvement
+[0.006489] executed the merging events 
+>566	TMS04626.1_hypothetical_protein_E3U43_009783_Larimichthys_crocea	0.123000	0.937239
+[0.009412] sorting bipartition profile
+[0.002501] computed / updated events
+[0.018085] combined events
+[0.007994] calculated per dropset improvement
+[0.004243] executed the merging events 
+>410,409	XP_014731552.1_PREDICTED_LOW_QUALITY_PROTEIN_uncharacterized_protein_LOC106853031_Sturnus_vulgaris,XP_014140206.2_opsin-5-like_Falco_cherrug	0.205000	0.937452
+[0.008509] sorting bipartition profile
+[0.004006] computed / updated events
+[0.016586] combined events
+[0.003759] calculated per dropset improvement
+total time elapsed: 1.832329

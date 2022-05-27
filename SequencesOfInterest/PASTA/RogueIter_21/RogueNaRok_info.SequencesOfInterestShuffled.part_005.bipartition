@@ -1,0 +1,34 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.176614] initialisation done (initScore = 0.976744, numBip=2534)
+[0.013239] sorting bipartition profile
+[0.073603] computed / updated events
+[0.015717] combined events
+[0.003405] calculated per dropset improvement
+[0.002829] executed the merging events 
+>159	XP_028849372.1_rhodopsin_Denticeps_clupeoides	3.000000	0.979778
+[0.003629] sorting bipartition profile
+[0.000910] computed / updated events
+[0.016666] combined events
+[0.003356] calculated per dropset improvement
+[0.003459] executed the merging events 
+>172	ABB52730.1_rhodopsin_partial_Serranus_atricauda	2.000000	0.981800
+[0.005689] sorting bipartition profile
+[0.001571] computed / updated events
+[0.016658] combined events
+[0.003142] calculated per dropset improvement
+[0.003096] executed the merging events 
+>881	XP_016872444.1_melanopsin_isoform_X1_Homo_sapiens	1.000000	0.982811
+[0.003465] sorting bipartition profile
+[0.001069] computed / updated events
+[0.016711] combined events
+[0.003236] calculated per dropset improvement
+[0.002910] executed the merging events 
+>848,846	tr|A0A3Q1C4T5|A0A3Q1C4T5_AMPOC_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Amphiprion_ocellaris_OX_80972_PE_3_SV_1,XP_030603586.1_melanopsin_isoform_X2_Archocentrus_centrarchus	1.000000	0.983822
+[0.004375] sorting bipartition profile
+[0.001147] computed / updated events
+[0.016883] combined events
+[0.003224] calculated per dropset improvement
+total time elapsed: 1.397175

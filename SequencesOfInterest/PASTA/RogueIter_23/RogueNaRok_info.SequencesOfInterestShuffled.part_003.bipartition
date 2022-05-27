@@ -1,0 +1,40 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.347946] initialisation done (initScore = 0.980311, numBip=2453)
+[0.016916] sorting bipartition profile
+[0.072620] computed / updated events
+[0.014326] combined events
+[0.003970] calculated per dropset improvement
+[0.004115] executed the merging events 
+>907	XP_028287254.1_RPE-retinal_G_protein-coupled_receptor-like_Parambassis_ranga	1.000000	0.981347
+[0.006105] sorting bipartition profile
+[0.001825] computed / updated events
+[0.016728] combined events
+[0.003609] calculated per dropset improvement
+[0.004227] executed the merging events 
+>111	KAF3838600.1_hypothetical_protein_F7725_010368_Dissostichus_mawsoni	1.000000	0.982383
+[0.003744] sorting bipartition profile
+[0.001116] computed / updated events
+[0.017079] combined events
+[0.003500] calculated per dropset improvement
+[0.006532] executed the merging events 
+>930	XP_016064948.1_PREDICTED_visual_pigment-like_receptor_peropsin_Miniopterus_natalensis	1.000000	0.983420
+[0.007730] sorting bipartition profile
+[0.001746] computed / updated events
+[0.016426] combined events
+[0.003307] calculated per dropset improvement
+[0.003995] executed the merging events 
+>136	tr|A0A3Q1B633|A0A3Q1B633_AMPOC_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Amphiprion_ocellaris_OX_80972_PE_3_SV_1	1.000000	0.984456
+[0.007657] sorting bipartition profile
+[0.001043] computed / updated events
+[0.018641] combined events
+[0.003570] calculated per dropset improvement
+[0.009239] executed the merging events 
+>615	ANN11832.1_long_wavelength_sensitive_opsin_1_Chrysochroa_saundersii_tonkinensis	1.000000	0.985492
+[0.010183] sorting bipartition profile
+[0.001760] computed / updated events
+[0.016914] combined events
+[0.003662] calculated per dropset improvement
+total time elapsed: 1.631077

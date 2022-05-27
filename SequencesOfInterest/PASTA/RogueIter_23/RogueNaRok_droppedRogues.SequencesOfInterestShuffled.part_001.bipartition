@@ -1,0 +1,4 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.987565
+1	477	XP_002115317.1_hypothetical_protein_TRIADDRAFT_59370_Trichoplax_adhaerens	1.000000	0.988601
+2	24	XP_004680742.1_PREDICTED_RPE-retinal_G_protein-coupled_receptor_Condylura_cristata	1.000000	0.989637

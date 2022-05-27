@@ -1,0 +1,6 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.976744
+1	159	XP_028849372.1_rhodopsin_Denticeps_clupeoides	3.000000	0.979778
+2	172	ABB52730.1_rhodopsin_partial_Serranus_atricauda	2.000000	0.981800
+3	881	XP_016872444.1_melanopsin_isoform_X1_Homo_sapiens	1.000000	0.982811
+4	848,846	tr|A0A3Q1C4T5|A0A3Q1C4T5_AMPOC_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Amphiprion_ocellaris_OX_80972_PE_3_SV_1,XP_030603586.1_melanopsin_isoform_X2_Archocentrus_centrarchus	1.000000	0.983822

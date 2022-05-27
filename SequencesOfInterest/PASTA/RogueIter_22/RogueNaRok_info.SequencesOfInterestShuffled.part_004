@@ -1,0 +1,58 @@
+
+This is RogueNaRok version 1.0 released by Andre J. Aberer in 2011-10-25.
+
+mode: optimization on consensus tree. Bipartition is part of consensus, if it occurs in more than 500 trees
+[1.245298] initialisation done (initScore = 0.936694, numBip=2345)
+[0.013922] sorting bipartition profile
+[0.072283] computed / updated events
+[0.013084] combined events
+[0.003723] calculated per dropset improvement
+[0.003306] executed the merging events 
+>571	CAI47588.1_rhodopsin_3_Calliphora_vicina	0.845000	0.937559
+[0.003680] sorting bipartition profile
+[0.000869] computed / updated events
+[0.013774] combined events
+[0.003486] calculated per dropset improvement
+[0.003860] executed the merging events 
+>569	ANN11809.1_ultraviolet_wavelength_sensitive_opsin_1_Acmaeodera_diffusa	0.513000	0.938085
+[0.003637] sorting bipartition profile
+[0.001046] computed / updated events
+[0.013344] combined events
+[0.003445] calculated per dropset improvement
+[0.003544] executed the merging events 
+>496	TGZ73942.1_hypothetical_protein_CRM22_001222_Opisthorchis_felineus	0.460000	0.938556
+[0.003750] sorting bipartition profile
+[0.000904] computed / updated events
+[0.013816] combined events
+[0.003630] calculated per dropset improvement
+[0.003684] executed the merging events 
+>68	XP_027247154.1_short-wave-sensitive_opsin_1_isoform_X1_Cricetulus_griseus	0.426000	0.938993
+[0.003710] sorting bipartition profile
+[0.001239] computed / updated events
+[0.013889] combined events
+[0.003482] calculated per dropset improvement
+[0.003888] executed the merging events 
+>681	AFM43712.1_onychopsin_Ooperipatus_hispidus	0.139000	0.939135
+[0.003761] sorting bipartition profile
+[0.000815] computed / updated events
+[0.013900] combined events
+[0.003438] calculated per dropset improvement
+[0.003500] executed the merging events 
+>53	XP_025001979.1_red-sensitive_opsin_isoform_X1_Gallus_gallus	0.054000	0.939191
+[0.003725] sorting bipartition profile
+[0.001122] computed / updated events
+[0.013835] combined events
+[0.003603] calculated per dropset improvement
+[0.003831] executed the merging events 
+>293	XP_035127843.1_opsin-3-like_Callithrix_jacchus	0.035000	0.939226
+[0.003688] sorting bipartition profile
+[0.001101] computed / updated events
+[0.013987] combined events
+[0.003397] calculated per dropset improvement
+[0.003521] executed the merging events 
+>149	XP_028261437.1_blue-sensitive_opsin-like_Parambassis_ranga	0.001000	0.939227
+[0.003855] sorting bipartition profile
+[0.001001] computed / updated events
+[0.014019] combined events
+[0.003292] calculated per dropset improvement
+total time elapsed: 1.554582

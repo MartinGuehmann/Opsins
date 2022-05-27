@@ -1,0 +1,13 @@
+num	taxNum	taxon	rawImprovement	RBIC
+0	NA	NA	0	0.928413
+1	615	ANN11832.1_long_wavelength_sensitive_opsin_1_Chrysochroa_saundersii_tonkinensis	0.869000	0.929314
+2	907	XP_028287254.1_RPE-retinal_G_protein-coupled_receptor-like_Parambassis_ranga	0.802000	0.930145
+3	930	XP_016064948.1_PREDICTED_visual_pigment-like_receptor_peropsin_Miniopterus_natalensis	0.585000	0.930751
+4	136	tr|A0A3Q1B633|A0A3Q1B633_AMPOC_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Amphiprion_ocellaris_OX_80972_PE_3_SV_1	0.531000	0.931302
+5	111	KAF3838600.1_hypothetical_protein_F7725_010368_Dissostichus_mawsoni	0.503000	0.931823
+6	196	ACA65980.1_rhodopsin_partial_Brevibora_dorsiocellata	0.357000	0.932193
+7	364	tr|X1XJN7|X1XJN7_ACYPI_G_PROTEIN_RECEP_F1_2_domain-containing_protein_OS_Acyrthosiphon_pisum_OX_7029_PE_4_SV_1	0.299000	0.932503
+8	187	ATY71622.1_green_opsin_2-1_Maurolicus_muelleri	0.255000	0.932767
+9	246	XP_010007373.1_PREDICTED_pinopsin-like_Chaetura_pelagica	0.212000	0.932987
+10	713	APY20670.1_ultraviolet_sensitive_opsin_Stylops_melittae	0.049000	0.933037
+11	110	XP_008305231.1_PREDICTED_pinopsin-like_Stegastes_partitus	0.001000	0.933038
