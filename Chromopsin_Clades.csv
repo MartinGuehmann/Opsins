@@ -5,6 +5,7 @@ tr|A0A494C1B2|A0A494C1B2_HUMAN_Visual_pigment-like_receptor_peropsin_Fragment_OS
 BAQ54923.1_opsin_RGR-like_Mnais_costalis	Gluopsins	Purple	Plum
 XP_022670895.1_visual_pigment-like_receptor_peropsin_Varroa_destructor	Varropsins	Fuchsia	Lavender
 XP_784266.3_visual_pigment-like_receptor_peropsin_Strongylocentrotus_purpuratus	Astropsins	Crimson	Salmon
+KJH43103.1_hypothetical_protein_DICVIV_10905_Dictyocaulus_viviparus	Nemopsins	DarkKhaki	Khaki
 
 # Use the last entry as outgroup for rooting the tree
 NP_001081388.1_melatonin_receptor_type_1C_Xenopus_laevis	Outgroup	Black	White
