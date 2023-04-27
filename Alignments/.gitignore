@@ -1,3 +1,5 @@
 *.mldist
 *.ufboot
-*.alignment*.fasta
+*.png
+*.alignment.*.fasta
+!*.alignment.*treeSorted.fasta
