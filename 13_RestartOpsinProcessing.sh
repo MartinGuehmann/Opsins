@@ -11,6 +11,7 @@ DIR="$( cd -P "$( dirname "$SOURCE" )" && pwd )"
 thisScript="$(basename "$(test -L "$0" && readlink "$0" || echo "$0")")"
 
 gene=$(basename "$DIR")
+gene="../$gene"
 bigTreeIteration="10"       # Actually this is the default
 bigNumRoundsLeft="10"       # Actually this is the default
 aligner="PASTA"             # Is the default
