@@ -4,7 +4,10 @@ This repository holds the gene-specific data and configuration for running
 [PhylogenyPipeline](https://github.com/MartinGuehmann/PhylogenyPipeline) on
 opsin genes. It is not runnable on its own; it supplies the bait sequences,
 clade definitions, and the scripts that orchestrate the pipeline for this
-particular gene family.
+particular gene family. See
+[GeneFamilyTemplate](https://github.com/MartinGuehmann/GeneFamilyTemplate)
+for a template to set up a repository like this one for a different gene
+family.
 
 ## Layout
 
