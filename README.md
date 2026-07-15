@@ -31,6 +31,8 @@ repository instead of into `PhylogenyPipeline`.
 	  automatically continuing into sequence processing.
 	- 01_StartOpsinProcessing.sh / 01_StartOpsinProcessing-NoContinue.sh
 	  Kick off sequence processing (Scheduler-01-PrepareSequences.sh).
+	  The "-NoContinue" variant stops after sequence processing instead
+	  of automatically continuing into sequence-of-interest preparation.
 	- 04_RestartOpsinProcessing.sh
 	  Restart building the big combined sequence file
 	  (Scheduler-04-ContinueMakeBigSequenceFile.sh).
