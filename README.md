@@ -34,7 +34,16 @@ repository instead of into `PhylogenyPipeline`.
 	  Kick off sequence processing (steps 1 to 4;
 	  Scheduler-01-PrepareSequences.sh). The "-NoContinue" variant stops
 	  after step 4 instead of automatically continuing into
-	  sequence-of-interest preparation (step 13).
+	  sequence-of-interest preparation (step 13). This break is
+	  deliberate: continuing straight on risks handing the aligner and
+	  tree builder in the final tree-building step a sequence set too
+	  large to fit in memory. Before continuing, inspect the resulting
+	  non-redundant sequence count, e.g.
+	  `seqkit stats Sequences/NonRedundantSequences90.fasta`, then decide
+	  whether to set `useFullDataset` (skips the pruning-guide-tree step
+	  and hands the aligner the whole set — fine if it's small enough)
+	  or leave it unset (prunes the set down with a guide tree first,
+	  for a set too large to align and build a tree from directly).
 	- 04_RestartOpsinProcessing.sh
 	  Restart building the big combined sequence file (step 4;
 	  Scheduler-04-ContinueMakeBigSequenceFile.sh), then automatically
