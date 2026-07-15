@@ -26,24 +26,39 @@ repository instead of into `PhylogenyPipeline`.
 ## Running
 
 	- 00_StartOpsinExtraction.sh / 00_StartOpsinExtraction-NoContinue.sh
-	  Kick off gene-hit extraction (calls Scheduler-00-ExtractSequences.sh).
-	  The "-NoContinue" variant stops after extraction instead of
-	  automatically continuing into sequence processing.
+	  Kick off gene-hit extraction (step 0; calls
+	  Scheduler-00-ExtractSequences.sh). The "-NoContinue" variant stops
+	  after step 0 instead of automatically continuing into sequence
+	  processing (step 1).
 	- 01_StartOpsinProcessing.sh / 01_StartOpsinProcessing-NoContinue.sh
-	  Kick off sequence processing (Scheduler-01-PrepareSequences.sh).
-	  The "-NoContinue" variant stops after sequence processing instead
-	  of automatically continuing into sequence-of-interest preparation.
+	  Kick off sequence processing (steps 1 to 4;
+	  Scheduler-01-PrepareSequences.sh). The "-NoContinue" variant stops
+	  after step 4 instead of automatically continuing into
+	  sequence-of-interest preparation (step 13).
 	- 04_RestartOpsinProcessing.sh
-	  Restart building the big combined sequence file
-	  (Scheduler-04-ContinueMakeBigSequenceFile.sh).
+	  Restart building the big combined sequence file (step 4;
+	  Scheduler-04-ContinueMakeBigSequenceFile.sh), then automatically
+	  continues into sequence-of-interest preparation (step 13;
+	  13_RestartOpsinProcessing.sh's
+	  Scheduler-13-ExtractSequencePreparation.sh) — there is no
+	  "-NoContinue" variant of this script to stop that.
 	- 13_RestartOpsinProcessing.sh
-	  Restart preparing sequences of interest for extraction
-	  (Scheduler-13-ExtractSequencePreparation.sh).
+	  Restart preparing sequences of interest for extraction (step 13;
+	  Scheduler-13-ExtractSequencePreparation.sh), then automatically
+	  continues into extracting sequences of interest with PASTA
+	  (Scheduler-14-ExtractSequencesOfInterestWithPASTA.sh) regardless of
+	  any "continue" setting — again with no "-NoContinue" variant.
 	- 15_RestartOpsinProcessing.sh
-	  Restart tree building for sequence-of-interest extraction
-	  (Scheduler-15-ExtractSequencesOfInterestWithIQ-Tree.sh).
+	  Restart tree building for sequence-of-interest extraction (step
+	  15; Scheduler-15-ExtractSequencesOfInterestWithIQ-Tree.sh), then
+	  automatically continues into tree building
+	  (16_TreeBuildOpsinScheduler.sh's Scheduler-16-TreeBuildScheduler.sh)
+	  — again with no "-NoContinue" variant.
 	- 16_TreeBuildOpsinScheduler.sh
-	  Restart tree building (Scheduler-16-TreeBuildScheduler.sh).
+	  Restart tree building (Scheduler-16-TreeBuildScheduler.sh):
+	  repeatedly runs the alignment/rogue-removal step (step 9) across
+	  aligners to build the final trees. The final step; nothing to
+	  continue into.
 
 Each of these picks the gene name up from its own directory name, so they
 only work correctly when run from within this checkout.
