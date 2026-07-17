@@ -29,10 +29,17 @@ repository instead of into `PhylogenyPipeline`.
 	  Kick off gene-hit extraction (step 0; calls
 	  Scheduler-00-ExtractSequences.sh). The "-NoContinue" variant stops
 	  after step 0 instead of automatically continuing into sequence
-	  processing (step 1).
+	  processing (step 1). This break is deliberate too: step 0's
+	  per-database searches (especially the remote NCBI ones — nr,
+	  refseq_protein, swissprot, tsa_nr) can fail partway through from
+	  network or NCBI-side issues, so it's worth checking `Hits/` (file
+	  counts, no unexpectedly empty files) before trusting the extraction
+	  and moving on.
 	- 01_StartOpsinProcessing.sh / 01_StartOpsinProcessing-NoContinue.sh
-	  Kick off sequence processing (steps 1 to 4;
-	  Scheduler-01-PrepareSequences.sh). The "-NoContinue" variant stops
+	  Once step 0's output has been checked, this resumes the pipeline
+	  from step 1 without repeating step 0. Kick off sequence processing
+	  (steps 1 to 4; Scheduler-01-PrepareSequences.sh). The "-NoContinue"
+	  variant stops
 	  after step 4 instead of automatically continuing into
 	  sequence-of-interest preparation (step 13). This break is
 	  deliberate: continuing straight on risks handing the aligner and
