@@ -102,6 +102,16 @@ only work correctly when run from within this checkout.
 	  to their correct name in the NCBI taxon database.
 	- InterestingTaxa.csv
 	  Taxa to highlight with specific colors in the output trees.
+	- SpeciesForSeqReps.csv
+	  Optional, and not present for this gene family. Tab-separated,
+	  with the species' scientific name (as it appears in the FASTA
+	  sequence descriptions) in column 2 — row order is priority order,
+	  highest first. Used by step 4's `PickSequenceRepresentatives.py`
+	  to override cd-hit's own representative choice for a cluster with
+	  a member matching the highest-priority listed species found in
+	  that cluster, falling back to cd-hit's own choice for any cluster
+	  with no matching member - has no effect at all here since this
+	  gene family has no such file.
 	- NamesOfInterests.txt
 	  Substrings (species/genus names) used to flag sequences of
 	  interest.
@@ -130,7 +140,10 @@ Inputs:
 	- MustKeepSequences/
 	  Reference sequences that must survive non-redundancy filtering
 	  regardless of similarity to other sequences, e.g. the bovine
-	  rhodopsin sequence SpecialAminoAcid.sh uses to number Lys296.
+	  rhodopsin sequence SpecialAminoAcid.sh uses to number Lys296. This
+	  guarantees inclusion only - it does not make a sequence cd-hit's
+	  chosen representative for its cluster (see SpeciesForSeqReps.csv
+	  above for that).
 	- OutgroupSequences/
 	  Outgroup sequences added to the pruning-guide tree and used for
 	  rooting.
