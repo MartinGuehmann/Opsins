@@ -1,8 +1,8 @@
-bigTreeIteration="10"       # Actually this is the default
-bigNumRoundsLeft="10"       # Actually this is the default
-aligner="PASTA"             # Is the default
-continue="--continue"      # No default
-numRoundsLeft="20"          # Is the default
-shuffleSeqs="--shuffleSeqs" # Shuffle the sequences between iterations of Rogue removal, this should be done
-extension="contree"         # Extension of tree files to extract the sequences of interests from
-trimAl="Default"            # Value for trimAl use Default value, values are between 0.0 and 1.0, default is 0.1.
+bigTreeIteration="10"       # Iteration number (within step 11's rogue-removal loop) at which processing switches from the regular per-round loop into the "big tree" branch, which rebuilds using the full sequence set (--allSeqs) for up to bigNumRoundsLeft more rounds. Default: 10.
+bigNumRoundsLeft="10"       # Max number of rounds to run once the "big tree" branch above starts. Default: 10.
+aligner="PASTA"             # Alignment program used to build/refine sequence alignments - see PhylogenyPipeline/GetDefaultAligner.sh and 09_AlignWith*.sh for the full list of options (MAGUS, PASTA, MAFFT, MUSCLE5, etc.). Default: PASTA.
+continue="--continue"       # Whether each script automatically continues into the pipeline's next stage after finishing its own step(s), instead of stopping so output can be checked first. Default: --continue (use "" to stop instead, as the -NoContinue scripts do).
+numRoundsLeft="20"          # Max number of align/build-tree/remove-rogues rounds to run (steps 9 to 11's loop) before stopping. Default: 20.
+shuffleSeqs="--shuffleSeqs" # Shuffle sequence order between rogue-removal rounds, to avoid a deterministic processing-order bias - this should be left on. Default: --shuffleSeqs.
+extension="contree"         # Tree file extension (IQ-TREE's consensus tree output) used to pick which tree files to extract sequences of interest from. Default: contree.
+trimAl="Default"            # trimAl trimming threshold: "Default" uses trimAl's own default heuristic (around 0.1), or a specific value between 0.0 and 1.0. Default: Default.
