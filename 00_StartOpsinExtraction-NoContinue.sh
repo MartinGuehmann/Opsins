@@ -15,4 +15,4 @@ gene="../$gene"
 source "$DIR/Config.sh"
 continue=""
 
-"$DIR/../PhylogenyPipeline/Scheduler/Scheduler-00-ExtractSequences.sh" -g $gene -b $bigTreeIteration -a $aligner $continue -n $numRoundsLeft -N $bigNumRoundsLeft $shuffleSeqs -e $extension -t $trimAl
+"$DIR/../PhylogenyPipeline/Scheduler/Scheduler-00-ExtractSequences.sh" -g $gene -b $bigTreeIteration -a $aligner $continue -n $numRoundsLeft -N $bigNumRoundsLeft $shuffleSeqs -e $extension -t $trimAl $localNr

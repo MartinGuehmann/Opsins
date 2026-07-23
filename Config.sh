@@ -6,3 +6,4 @@ numRoundsLeft="20"          # Max number of align/build-tree/remove-rogues round
 shuffleSeqs="--shuffleSeqs" # Shuffle sequence order between rogue-removal rounds, to avoid a deterministic processing-order bias - this should be left on. Default: --shuffleSeqs.
 extension="contree"         # Tree file extension (IQ-TREE's consensus tree output) used to pick which tree files to extract sequences of interest from. Default: contree.
 trimAl="Default"            # trimAl trimming threshold: "Default" uses trimAl's own default heuristic (around 0.1), or a specific value between 0.0 and 1.0. Default: Default.
+localNr=""                  # Search/extract NCBI's nr database from a local BLAST copy instead of over the network - see PhylogenyPipeline/ProteinDatabase/get_nr_database.sh (built automatically once needed) and the README's "Databases" section. Default: "" (remote); use --localNr to enable.
