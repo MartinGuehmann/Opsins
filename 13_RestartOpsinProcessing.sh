@@ -12,14 +12,6 @@ thisScript="$(basename "$(test -L "$0" && readlink "$0" || echo "$0")")"
 
 gene=$(basename "$DIR")
 gene="../$gene"
-bigTreeIteration="10"       # Actually this is the default
-bigNumRoundsLeft="10"       # Actually this is the default
-aligner="PASTA"             # Is the default
-#continue=""                # No default
-continue="--continue"       # No default
-numRoundsLeft="20"          # Is the default
-shuffleSeqs="--shuffleSeqs" # Shuffle the sequences between iterations of Rogue removal, this should be done
-extension="contree"         # Extension of tree files to extract the sequences of interests from
-trimAl="Default"            # Value for trimAl use Default value, values are between 0.0 and 1.0, default is 0.1.
+source "$DIR/Config.sh"
 
 "$DIR/../PhylogenyPipeline/Scheduler/Scheduler-13-ExtractSequencePreparation.sh" -g $gene -b $bigTreeIteration -a $aligner $continue -n $numRoundsLeft -N $bigNumRoundsLeft $shuffleSeqs -e $extension -t $trimAl
