@@ -1,0 +1,22 @@
+# Accessions confirmed to be permanently unfetchable from NCBI - not a
+# transient network/server issue. Confirmed by querying NCBI's
+# efetch.fcgi directly via curl (bypassing nquire's -f flag, which
+# suppresses the response body on non-2xx status): NCBI's own backend
+# explicitly returns "Failed to retrieve sequence: <ID>" for these
+# (withdrawn/suppressed/superseded records), not a timeout/connection
+# error. 03_ExtractSequences.sh treats a failure here as expected and
+# does not fail the step over it - anything failing that ISN'T in this
+# list still fails the step normally.
+#
+# 03_ExtractSequences.sh now appends to this file itself: once an ID
+# survives the full retry loop, it runs this same curl check (via
+# isConfirmedDead) and only auto-adds an ID here if NCBI's backend gives
+# that exact "Failed to retrieve sequence" response - never just because
+# retries ran out. Entries added by hand should hold to the same bar.
+# Retries exhausted after a bad network stretch is NOT the same thing -
+# treating that as permanent would silently treat genuinely fetchable
+# IDs as dead forever. When in doubt, leave it out; a real failure still
+# gets retried and reported the normal way.
+#
+# One accession per line. Blank lines and lines starting with # are
+# ignored.
