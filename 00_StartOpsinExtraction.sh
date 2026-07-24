@@ -14,4 +14,4 @@ gene=$(basename "$DIR")
 gene="../$gene"
 source "$DIR/Config.sh"
 
-"$DIR/../PhylogenyPipeline/Scheduler/Scheduler-00-ExtractSequences.sh" -g $gene -b $bigTreeIteration -a $aligner $continue -n $numRoundsLeft -N $bigNumRoundsLeft $shuffleSeqs -e $extension -t $trimAl $localNr
+"$DIR/../PhylogenyPipeline/Scheduler/Scheduler-00-ExtractSequences.sh" -g $gene -b $bigTreeIteration -a $aligner $continue -n $numRoundsLeft -N $bigNumRoundsLeft $shuffleSeqs -e $extension -t $trimAl $localNr $localRefseqProtein $localTsaNr
