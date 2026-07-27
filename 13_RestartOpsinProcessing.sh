@@ -14,4 +14,14 @@ gene=$(basename "$DIR")
 gene="../$gene"
 source "$DIR/Config.sh"
 
-"$DIR/../PhylogenyPipeline/Scheduler/Scheduler-13-ExtractSequencePreparation.sh" -g $gene -b $bigTreeIteration -a $aligner $continue -n $numRoundsLeft -N $bigNumRoundsLeft $shuffleSeqs -e $extension -t $trimAl
+# Reshuffling SequencesOfInterest (step 17 further down this chain, or
+# the split in step 13) silently breaks anything already aligned/
+# tree-built from the current files - confirmed 2026-07-26. Those steps
+# now skip instead of clobbering unless told otherwise here.
+overwrite=""
+if [ "$1" == "--overwrite" ]
+then
+	overwrite="--overwrite"
+fi
+
+"$DIR/../PhylogenyPipeline/Scheduler/Scheduler-13-ExtractSequencePreparation.sh" -g $gene -b $bigTreeIteration -a $aligner $continue -n $numRoundsLeft -N $bigNumRoundsLeft $shuffleSeqs -e $extension -t $trimAl $overwrite

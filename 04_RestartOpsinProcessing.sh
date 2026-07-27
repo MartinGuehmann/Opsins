@@ -14,4 +14,15 @@ gene=$(basename "$DIR")
 gene="../$gene"
 source "$DIR/Config.sh"
 
-"$DIR/../PhylogenyPipeline/Scheduler/Scheduler-04-ContinueMakeBigSequenceFile.sh" -g $gene -b $bigTreeIteration -a $aligner $continue -n $numRoundsLeft -N $bigNumRoundsLeft $shuffleSeqs -e $extension -t $trimAl
+# Rebuilding NonRedundantSequences90.fasta/reshuffling SequencesOfInterest
+# (steps 4/17 further down this chain) silently breaks anything already
+# aligned/tree-built from the current files - confirmed 2026-07-26 when
+# this script got run by mistake instead of 13_RestartProcessing.sh.
+# Those steps now skip instead of clobbering unless told otherwise here.
+overwrite=""
+if [ "$1" == "--overwrite" ]
+then
+	overwrite="--overwrite"
+fi
+
+"$DIR/../PhylogenyPipeline/Scheduler/Scheduler-04-ContinueMakeBigSequenceFile.sh" -g $gene -b $bigTreeIteration -a $aligner $continue -n $numRoundsLeft -N $bigNumRoundsLeft $shuffleSeqs -e $extension -t $trimAl $overwrite
