@@ -14,6 +14,19 @@ round's working sequence set, one `RogueIter_N/` subdirectory per round
   (~900 sequences each by default) that get aligned/tree-built
   individually.
 
+## The `<GeneName>/RogueIter_N/` subdirectory
+
+Step 16 (`16_ExtractSequencesOfInterest.sh`) also writes a second copy
+of the sequences of interest into a `<GeneName>/RogueIter_N/`
+subdirectory here (the gene's own name, e.g. `PeptideReceptors/
+RogueIter_0/` inside `PeptideReceptors/SequencesOfInterest/`) - not a
+stray duplicate, but a *gene-only* variant, copied before any outgroup
+sequences get appended to the main `RogueIter_N/SequencesOfInterest.fasta`
+above. `Scheduler-16-TreeBuildScheduler.sh` checks whether this
+subdirectory exists and, if so, additionally builds a big tree from it
+without an outgroup, alongside the normal with-outgroup builds from the
+main `RogueIter_N/` directory.
+
 ## Where `.dropped.fasta`/`.old.fasta` come from
 
 Right after a round of rogue removal finishes, `RogueIter_(N+1)/` has
